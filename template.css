@@ -73,3 +73,6 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 @media (prefers-color-scheme:dark){.krbtn{background:#2f6db3}.krbtn:hover{background:#3a7cc6}}
 
 .op{font-size:13px;color:var(--mut);margin-top:2px}
+
+.counter{margin-top:12px;display:flex;align-items:center;gap:8px;font-size:13px;color:var(--mut)}
+.counter img{height:18px}

@@ -105,7 +105,31 @@ page = f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name
 
 <div class="notice">본 페이지는 사우디 내 우리 국민과 기업인의 이동 판단에 도움을 드리고자, Claude와 GitHub을 활용해 공개된 항공사 공지·언론 보도·항공편 추적 정보를 1시간마다 다시 확인해 정리하는 참고용 모니터링 자료입니다. 일시적인 오류나 반영 지연이 있을 수 있고 운항 상황은 수시로 바뀌므로, 예약·변경과 출발 여부는 반드시 해당 항공사(<a href="https://fs.qatarairways.com/" target="_blank" rel="noopener">카타르항공 항공편 현황</a>, <a href="https://www.saudia.com/" target="_blank" rel="noopener">사우디아</a>, <a href="https://www.flynas.com/" target="_blank" rel="noopener">플라이나스</a>) 공식 채널에서 최종 확인해 주시기 바랍니다.</div>
 <div class="issuer"><span>작성(클로드 기반): 주카타르대사관·도하무역관</span><span>긴급 시 외교부 영사콜센터 +82-2-3210-0404 (24시간)</span></div>
-</div></body></html>"""
+<div class="counter"><span>누적 방문:</span><img id="hitsBadge" alt="visitor count"></div>
+</div>
+<script>
+(function () {{
+  var img = document.getElementById("hitsBadge");
+  if (!img) return;
+  var base = "https://hits.sh/" + location.hostname +
+    location.pathname.replace(/index\\.html$/, "") + ".svg?label=visits&color=2a78d6";
+  var tries = 0, ok = false;
+  img.onload = function () {{ ok = true; }};
+  function attempt() {{
+    if (ok) return;
+    tries++;
+    img.src = base + (tries > 1 ? "&_=" + Date.now() : "");
+    if (tries < 5) {{
+      setTimeout(function () {{ if (!ok && !img.complete) attempt(); }}, 1200 * tries);
+    }} else if (!ok) {{
+      img.parentElement.style.display = "none";
+    }}
+  }}
+  img.onerror = function () {{ if (!ok && tries < 5) setTimeout(attempt, 500); }};
+  attempt();
+}})();
+</script>
+</body></html>"""
 
 with open("docs/index.html", "w", encoding="utf-8") as f:
     f.write(page)

@@ -230,8 +230,8 @@ def render(lang):
 <p class="sub">{U["sources_sub"]}</p>
 <ol class="srcs">{srcs}</ol>
 <div class="how"><h3>{U["how_h"]}</h3><ul>{how}</ul></div>
-<div class="notice">{U["notice"].format(links=links)}</div>
-<div class="issuer"><span>{U["issuer"]}</span><span>{U["consul"]}</span></div>
+<div class="notice">{U["notice"].format(links=links)}<div class="notice-sign">{U["issuer"]}</div></div>
+<div class="consul">{U["consul"]}</div>
 <div class="counter"><span>{U["visits"]}</span><img class="hitsBadge" alt="visitor count"></div>
 </div>"""
 

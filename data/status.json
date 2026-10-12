@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-12T18:45:00+03:00",
+ "updated_at": "2026-10-12T20:47:00+03:00",
  "window_start": "2026-10-12",
  "pills": [
   {
@@ -57,13 +57,18 @@
   },
   {
    "html": {
-    "ko": "<span class='amb'>담맘은 일부 편만 운항합니다.</span> 항공편 추적 사이트 기준으로 10/13은 22:30 출발편 1편, 10/14는 2편만 운항 예정으로 표시됩니다(항공사 공식 발표 아님). 공항이 10/11 피격돼 변동 위험이 큽니다.",
-    "en": "<span class='amb'>Only some flights operate from Dammam.</span> Flight-tracking sites show only one flight (departing 22:30) scheduled on 13 Oct and two on 14 Oct (this is not an official airline announcement). The airport was attacked on 11 Oct, so there is a high risk of schedule changes.",
-    "ar": "<span class='amb'>تُسيَّر بعض الرحلات فقط من الدمام.</span> تُظهر مواقع تتبّع الرحلات رحلة واحدة فقط مجدولة يوم 13 أكتوبر (المغادرة 22:30) ورحلتين يوم 14 أكتوبر (وهذا ليس إعلانًا رسميًا من شركة الطيران). وقد تعرّض المطار لهجوم يوم 11 أكتوبر، لذا فإن احتمال تغيّر المواعيد كبير."
+    "ko": "<span class='amb'>담맘은 일부 편만 운항합니다.</span> 항공편 추적 사이트 기준으로 10/12는 10:55 출발편이 실제 운항했고(약 4시간 지연 출발) 05:00편은 결항입니다. 10/13은 3편 모두 결항으로 표시되고(사이트 간 표시 엇갈림), 10/14는 10:55·22:30편만 운항 예정으로 표시됩니다(항공사 공식 발표 아님). 공항이 10/11 피격됐고, 알자지라는 10/12 담맘 공항이 폐쇄 상태라고 보도해 보도가 엇갈립니다.",
+    "en": "<span class='amb'>Only some flights operate from Dammam.</span> According to flight-tracking sites, on 12 Oct the 10:55 departure actually operated (departing about 4 hours late) and the 05:00 flight was cancelled. On 13 Oct all three flights are shown as cancelled (the sites' listings conflict), and on 14 Oct only the 10:55 and 22:30 flights are shown as scheduled (this is not an official airline announcement). The airport was attacked on 11 Oct, and Al Jazeera reported on 12 Oct that Dammam airport remained closed, so reports conflict.",
+    "ar": "<span class='amb'>تُسيَّر بعض الرحلات فقط من الدمام.</span> وفقًا لمواقع تتبّع الرحلات، سُيِّرت فعليًا يوم 12 أكتوبر رحلة المغادرة 10:55 (إذ أقلعت متأخرة نحو أربع ساعات)، وأُلغيت رحلة 05:00. ويوم 13 أكتوبر تظهر الرحلات الثلاث جميعها ملغاة (مع تضارب بين المواقع)، ويوم 14 أكتوبر تظهر رحلتا 10:55 و22:30 فقط مجدولتين (وهذا ليس إعلانًا رسميًا من شركة الطيران). وقد تعرّض المطار لهجوم يوم 11 أكتوبر، وأفادت الجزيرة يوم 12 أكتوبر بأن مطار الدمام لا يزال مغلقًا، لذا فإن التقارير متضاربة."
    },
    "refs": [
     9,
-    10
+    10,
+    21,
+    22,
+    23,
+    24,
+    25
    ]
   },
   {
@@ -172,18 +177,23 @@
     "ar": "الخطوط الجوية القطرية: بعض رحلاتها الثلاث اليومية"
    },
    "times": {
-    "ko": "담맘 출발 05:00 · 10:55 · 22:30 — 10/13은 22:30편만 예정, 10/14는 10:55·22:30편 예정",
-    "en": "Departs Dammam 05:00 · 10:55 · 22:30 — on 13 Oct only the 22:30 flight is scheduled; on 14 Oct the 10:55 and 22:30 flights",
-    "ar": "المغادرة من الدمام 05:00 · 10:55 · 22:30 — يوم 13 أكتوبر رحلة 22:30 فقط مجدولة، ويوم 14 أكتوبر رحلتا 10:55 و22:30"
+    "ko": "담맘 출발 05:00 · 10:55 · 22:30 — 10/12 10:55편 실제 운항, 10/13은 3편 모두 결항 표시(사이트 간 엇갈림), 10/14는 10:55·22:30편 예정",
+    "en": "Departs Dammam 05:00 · 10:55 · 22:30 — on 12 Oct the 10:55 flight actually operated; on 13 Oct all three flights are shown as cancelled (the sites' listings conflict); on 14 Oct the 10:55 and 22:30 flights are scheduled",
+    "ar": "المغادرة من الدمام 05:00 · 10:55 · 22:30 — يوم 12 أكتوبر سُيِّرت رحلة 10:55 فعليًا، ويوم 13 أكتوبر تظهر الرحلات الثلاث جميعها ملغاة (مع تضارب بين المواقع)، ويوم 14 أكتوبر رحلتا 10:55 و22:30 مجدولتان"
    },
    "note": {
-    "ko": "10/11 공항 피격. 10/15부터는 결항 공지 없음",
-    "en": "Airport attacked on 11 Oct. No cancellations announced for flights from 15 Oct onwards.",
-    "ar": "تعرّض المطار لهجوم يوم 11 أكتوبر. ولم يُعلَن عن إلغاء أي رحلة من الرحلات المجدولة اعتبارًا من 15 أكتوبر."
+    "ko": "항공편 추적 사이트 기준(항공사 공식 발표 아님). 10/11 공항 피격. 알자지라는 10/12 공항 폐쇄 상태라고 보도해 보도 엇갈림. 10/15부터는 결항 공지 없음",
+    "en": "Based on flight-tracking sites (not an official airline announcement). Airport attacked on 11 Oct. Al Jazeera reported on 12 Oct that the airport remained closed, so reports conflict. No cancellations announced for flights from 15 Oct onwards.",
+    "ar": "وفقًا لمواقع تتبّع الرحلات (وليس إعلانًا رسميًا من شركة الطيران). تعرّض المطار لهجوم يوم 11 أكتوبر. وأفادت الجزيرة يوم 12 أكتوبر بأن المطار لا يزال مغلقًا، لذا فإن التقارير متضاربة. ولم يُعلَن عن إلغاء أي رحلة من الرحلات المجدولة اعتبارًا من 15 أكتوبر."
    },
    "refs": [
     9,
-    10
+    10,
+    21,
+    22,
+    23,
+    24,
+    25
    ]
   },
   {
@@ -515,7 +525,7 @@
    },
    "status": [
     "일부결항",
-    "일부결항",
+    "미정",
     "일부결항",
     "예정",
     "예정",
@@ -528,7 +538,12 @@
    ],
    "refs": [
     9,
-    10
+    10,
+    21,
+    22,
+    23,
+    24,
+    25
    ]
   },
   {
@@ -1075,6 +1090,86 @@
     "ar": "إشعار بتعديل جدول رحلات الرياض (دون ذكر التواريخ أو أرقام الرحلات)"
    },
    "url": "https://www.qatarairways.com/en-us/travel-alerts.html"
+  },
+  {
+   "n": 21,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1155)",
+    "en": "Trip.com flight status (QR1155)",
+    "ar": "حالة الرحلات على Trip.com (QR1155)"
+   },
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘 22:30 출발편 10/13 결항, 10/14 예정 표시 (항공사 공지 아님)",
+    "en": "Dammam 22:30 departure shown as cancelled on 13 Oct and scheduled on 14 Oct (not an airline notice)",
+    "ar": "رحلة المغادرة من الدمام 22:30 تظهر ملغاة يوم 13 أكتوبر ومجدولة يوم 14 أكتوبر (ليست إشعارًا من شركة الطيران)"
+   },
+   "url": "https://ph.trip.com/flights/status-qr1155/"
+  },
+  {
+   "n": 22,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1151)",
+    "en": "Trip.com flight status (QR1151)",
+    "ar": "حالة الرحلات على Trip.com (QR1151)"
+   },
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘 10:55 출발편 10/12 실제 운항(지연), 10/13 결항, 10/14 예정 표시 (항공사 공지 아님)",
+    "en": "Dammam 10:55 departure actually operated on 12 Oct (delayed); shown as cancelled on 13 Oct and scheduled on 14 Oct (not an airline notice)",
+    "ar": "رحلة المغادرة من الدمام 10:55 سُيِّرت فعليًا يوم 12 أكتوبر (متأخرة)، وتظهر ملغاة يوم 13 أكتوبر ومجدولة يوم 14 أكتوبر (ليست إشعارًا من شركة الطيران)"
+   },
+   "url": "https://www.trip.com/flights/status-qr1151/"
+  },
+  {
+   "n": 23,
+   "name": {
+    "ko": "Flightradar24 (QR1151)",
+    "en": "Flightradar24 (QR1151)",
+    "ar": "Flightradar24 (QR1151)"
+   },
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘 10:55 출발편 10/13 예정 표시 — Trip.com 결항 표시와 엇갈림",
+    "en": "Dammam 10:55 departure shown as scheduled on 13 Oct — conflicts with Trip.com's cancellation listing",
+    "ar": "رحلة المغادرة من الدمام 10:55 تظهر مجدولة يوم 13 أكتوبر — بما يتعارض مع ظهورها ملغاة على Trip.com"
+   },
+   "url": "https://www.flightradar24.com/data/flights/qr1151"
+  },
+  {
+   "n": 24,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1157)",
+    "en": "Trip.com flight status (QR1157)",
+    "ar": "حالة الرحلات على Trip.com (QR1157)"
+   },
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘 05:00 출발편 10/12~14 결항 표시 (항공사 공지 아님)",
+    "en": "Dammam 05:00 departure shown as cancelled 12–14 Oct (not an airline notice)",
+    "ar": "رحلة المغادرة من الدمام 05:00 تظهر ملغاة من 12 إلى 14 أكتوبر (ليست إشعارًا من شركة الطيران)"
+   },
+   "url": "https://uk.trip.com/flights/status-qr1157"
+  },
+  {
+   "n": 25,
+   "name": {
+    "ko": "Al Jazeera",
+    "en": "Al Jazeera",
+    "ar": "الجزيرة"
+   },
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "담맘 킹파흐드 국제공항도 폐쇄 상태라고 보도 (10/12)",
+    "en": "Reported that Dammam's King Fahd International Airport also remained closed (12 Oct)",
+    "ar": "أفادت بأن مطار الملك فهد الدولي في الدمام لا يزال مغلقًا أيضًا (12 أكتوبر)"
+   },
+   "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks"
   }
  ]
 }

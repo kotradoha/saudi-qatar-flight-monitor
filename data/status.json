@@ -1,0 +1,600 @@
+{
+ "updated_at": "2026-10-12T18:45:00+03:00",
+ "window_start": "2026-10-12",
+ "pills": [
+  {
+   "text": "외교부 여행경보 <b>3단계 출국권고</b> (사우디 전역, 10/11~)",
+   "refs": [
+    17
+   ]
+  },
+  {
+   "text": "사우디 전체 결항률 <b>46.4%</b> (10/12)",
+   "refs": [
+    18
+   ]
+  },
+  {
+   "text": "사우디·도하 같은 시간대 (UTC+3)",
+   "refs": []
+  }
+ ],
+ "key_points": [
+  {
+   "html": "<span class='red'>리야드 출발 불가.</span> 공항이 <b>10/18 00:00(도하 시각)까지 폐쇄</b>되어 모든 항공사 운항이 중단됐습니다. 폐쇄는 이미 두 차례 연장됐고, 재개 일정도 없습니다.",
+   "refs": [
+    1,
+    3
+   ]
+  },
+  {
+   "html": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/12 실제 운항이 확인됐고 결항 공지가 없습니다. 메디나는 후티가 공격 대상에서 제외한 공항입니다.",
+   "refs": [
+    6,
+    8,
+    15
+   ]
+  },
+  {
+   "html": "<span class='amb'>담맘은 일부 편만 운항합니다.</span> 10/13은 22:30 출발편 1편만 예정이고, 10/14는 2편이 예정입니다. 공항이 10/11 피격돼 변동 위험이 큽니다.",
+   "refs": [
+    9,
+    10
+   ]
+  },
+  {
+   "html": "<b>리야드 체류자</b>는 육로(도하까지 약 574km, 약 6.5시간)나 국내선으로 제다를 거쳐 오는 방법을 검토해야 합니다. 살와 국경의 현재 상황은 확인되지 않았습니다.",
+   "refs": [
+    19
+   ]
+  },
+  {
+   "html": "표의 <b>‘예정’은 결항 공지가 없다는 뜻</b>이지 운항이 보장된 것은 아닙니다. 출발 24시간 안에 항공사 앱에서 꼭 다시 확인하세요.",
+   "refs": []
+  }
+ ],
+ "cards": [
+  {
+   "cls": "ok",
+   "city": "제다",
+   "iata": "JED",
+   "verdict": "탈 수 있음",
+   "carriers": "카타르항공 하루 약 7회 · 사우디아 하루 1회",
+   "times": "제다 출발 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · 22:00경 (카타르항공) / 사우디아 일~수 09:30, 목~토 12:35",
+   "note": "10/12 실제 운항 확인, 결항 공지 없음. 공항 결항률 약 20%로 지연 잦음",
+   "refs": [
+    6,
+    7,
+    15
+   ]
+  },
+  {
+   "cls": "ok",
+   "city": "메디나",
+   "iata": "MED",
+   "verdict": "탈 수 있음",
+   "carriers": "카타르항공 하루 2회",
+   "times": "메디나 출발 04:45 · 08:25",
+   "note": "10/12 실제 운항 확인. 후티가 공격 대상에서 제외한 공항",
+   "refs": [
+    8,
+    15
+   ]
+  },
+  {
+   "cls": "part",
+   "city": "담맘",
+   "iata": "DMM",
+   "verdict": "일부만 운항",
+   "carriers": "카타르항공 하루 3회 중 일부",
+   "times": "담맘 출발 05:00 · 10:55 · 22:30 — 10/13은 22:30편만 예정, 10/14는 10:55·22:30편 예정",
+   "note": "10/11 공항 피격. 10/15부터는 결항 공지 없음",
+   "refs": [
+    9,
+    10
+   ]
+  },
+  {
+   "cls": "ok",
+   "city": "하일",
+   "iata": "HAS",
+   "verdict": "탈 수 있음 (주 3회)",
+   "carriers": "카타르항공 월·목·토",
+   "times": "하일 출발 17:30 → 도하 19:25 · 다음 편 10/15(목), 10/17(토)",
+   "note": "정상 운항 중",
+   "refs": [
+    11
+   ]
+  },
+  {
+   "cls": "ok",
+   "city": "알울라",
+   "iata": "ULH",
+   "verdict": "탈 수 있음 (주 2~3회)",
+   "carriers": "카타르항공 금·일 (10/21 수 추가)",
+   "times": "알울라 출발 08:10 → 도하 10:30 · 다음 편 10/16(금), 10/18(일)",
+   "note": "10/11 실제 운항 확인",
+   "refs": [
+    12
+   ]
+  },
+  {
+   "cls": "closed",
+   "city": "리야드",
+   "iata": "RUH",
+   "verdict": "불가 — 공항 폐쇄",
+   "carriers": "카타르항공·사우디아·플라이나스 모두 중단",
+   "times": "10/18 00:00(도하)까지 폐쇄, 이후 재개 미정",
+   "note": "이미 두 차례 연장. 대안: 육로 또는 국내선으로 제다 이동",
+   "refs": [
+    1,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "cls": "cx",
+   "city": "아브하",
+   "iata": "AHB",
+   "verdict": "사실상 불가",
+   "carriers": "카타르항공 주 2회 노선이나 9월 중순 이후 결항 지속",
+   "times": "10/17 결항, 10/15·10/22 미정",
+   "note": "공항 10/15까지 야간 폐쇄",
+   "refs": [
+    13,
+    14
+   ]
+  }
+ ],
+ "grid": [
+  {
+   "id": "ruh-qr",
+   "city": "리야드",
+   "airline": "카타르항공",
+   "status": [
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정"
+   ],
+   "refs": [
+    1,
+    2,
+    3,
+    20
+   ]
+  },
+  {
+   "id": "ruh-sv",
+   "city": "리야드",
+   "airline": "사우디아",
+   "status": [
+    "결항",
+    "결항",
+    "결항",
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정"
+   ],
+   "refs": [
+    1,
+    4
+   ]
+  },
+  {
+   "id": "ruh-xy",
+   "city": "리야드",
+   "airline": "플라이나스",
+   "status": [
+    "결항",
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "폐쇄",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정"
+   ],
+   "refs": [
+    1,
+    5
+   ]
+  },
+  {
+   "id": "jed-qr",
+   "city": "제다",
+   "airline": "카타르항공",
+   "status": [
+    "운항",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정"
+   ],
+   "refs": [
+    6,
+    15
+   ]
+  },
+  {
+   "id": "jed-sv",
+   "city": "제다",
+   "airline": "사우디아",
+   "status": [
+    "운항",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정"
+   ],
+   "refs": [
+    7
+   ]
+  },
+  {
+   "id": "med-qr",
+   "city": "메디나",
+   "airline": "카타르항공",
+   "status": [
+    "운항",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정"
+   ],
+   "refs": [
+    8,
+    15
+   ]
+  },
+  {
+   "id": "dmm-qr",
+   "city": "담맘",
+   "airline": "카타르항공",
+   "status": [
+    "일부결항",
+    "일부결항",
+    "일부결항",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정"
+   ],
+   "refs": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "has-qr",
+   "city": "하일",
+   "airline": "카타르항공",
+   "status": [
+    "운항",
+    "–",
+    "–",
+    "예정",
+    "–",
+    "예정",
+    "–",
+    "예정",
+    "–",
+    "–",
+    "예정"
+   ],
+   "refs": [
+    11
+   ]
+  },
+  {
+   "id": "ulh-qr",
+   "city": "알울라",
+   "airline": "카타르항공",
+   "status": [
+    "–",
+    "–",
+    "–",
+    "–",
+    "예정",
+    "–",
+    "예정",
+    "–",
+    "–",
+    "예정",
+    "–"
+   ],
+   "refs": [
+    12
+   ]
+  },
+  {
+   "id": "ahb-qr",
+   "city": "아브하",
+   "airline": "카타르항공",
+   "status": [
+    "–",
+    "–",
+    "–",
+    "미정",
+    "–",
+    "결항",
+    "–",
+    "–",
+    "–",
+    "–",
+    "미정"
+   ],
+   "refs": [
+    13,
+    14
+   ]
+  }
+ ],
+ "no_direct": [
+  {
+   "city": "카심(부라이다)",
+   "note": "10/25 재개 예정",
+   "refs": [
+    16
+   ]
+  },
+  {
+   "city": "타이프",
+   "note": "10/31 재개 예정",
+   "refs": [
+    16
+   ]
+  },
+  {
+   "city": "얀부",
+   "note": "2027-01-02 재개 예정",
+   "refs": [
+    16
+   ]
+  },
+  {
+   "city": "타북",
+   "note": "2027-01-03 재개 예정",
+   "refs": [
+    16
+   ]
+  },
+  {
+   "city": "지잔",
+   "note": "노선 없음 · 공항 10/15까지 폐쇄",
+   "refs": [
+    14
+   ]
+  },
+  {
+   "city": "나즈란",
+   "note": "노선 없음 · 공항 10/15까지 폐쇄",
+   "refs": [
+    14
+   ]
+  },
+  {
+   "city": "알아흐사(호푸프)",
+   "note": "노선 없음",
+   "refs": []
+  }
+ ],
+ "road": [
+  {
+   "html": "<b>리야드 → 도하</b> 약 574km, 약 6.5시간",
+   "refs": [
+    19
+   ]
+  },
+  {
+   "html": "<b>담맘 → 도하</b> 약 333km, 약 3.4시간",
+   "refs": [
+    19
+   ]
+  },
+  {
+   "html": "국경 대기 시간은 제외한 수치입니다. 살와/아부삼라 국경의 현재 운영 상황은 확인되지 않았습니다.",
+   "refs": []
+  }
+ ],
+ "sources": [
+  {
+   "n": 1,
+   "name": "Reuters 보도 (ThePrint 게재)",
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": "리야드 공항 NOTAM: 10/17 21:00 GMT까지 폐쇄",
+   "url": "https://theprint.in/world/saudi-capitals-airport-to-remain-shut-this-week-as-airlines-cancel-services/3069673/"
+  },
+  {
+   "n": 2,
+   "name": "The Peninsula",
+   "date": "2026-10-09",
+   "kind": "언론 보도",
+   "what": "카타르항공 10/9·10/10 도하–리야드 다수 결항",
+   "url": "https://thepeninsulaqatar.com/article/09/10/2026/qatar-airways-cancels-several-doha-riyadh-flights-on-october-9-and-10"
+  },
+  {
+   "n": 3,
+   "name": "Travel Extra",
+   "date": "2026-10-11",
+   "kind": "언론 보도",
+   "what": "10/11 도하–리야드 전편 결항",
+   "url": "https://www.travelextra.ie/twelve-fatalities-and-massive-flight-cancellations-after-latest-attack-on-riyadh-airport/"
+  },
+  {
+   "n": 4,
+   "name": "Flightradar24 (SV541)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "사우디아 리야드편 10/12~14 결항 표시",
+   "url": "https://www.flightradar24.com/data/flights/sv541"
+  },
+  {
+   "n": 5,
+   "name": "Flightradar24 (XY224)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "플라이나스 리야드편 10/12 결항 표시",
+   "url": "https://www.flightradar24.com/data/flights/xy224"
+  },
+  {
+   "n": 6,
+   "name": "Planefinder (QR1183)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "카타르항공 제다→도하 10/12 실제 운항",
+   "url": "https://planefinder.net/data/flight/QR1183"
+  },
+  {
+   "n": 7,
+   "name": "Aviability (SV543)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "사우디아 제다편 10/12 실제 운항",
+   "url": "https://aviability.com/en/flight/sv543-saudia/doh-jed"
+  },
+  {
+   "n": 8,
+   "name": "Planefinder (QR1175)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "카타르항공 메디나→도하 10/12 실제 운항",
+   "url": "https://planefinder.net/data/flight/QR1175"
+  },
+  {
+   "n": 9,
+   "name": "Trip.com 항공편 현황 (QR1150 등)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "담맘편 10/12~14 편별 결항·운항 (항공사 공지 아님)",
+   "url": "https://sa.trip.com/flights/status-qr1150/"
+  },
+  {
+   "n": 10,
+   "name": "Gulf Business",
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": "담맘 공항 10/11 피격·안전점검, 10/12 오전 결항 27%",
+   "url": "https://gulfbusiness.com/en/2026/saudi-arabia/saudi-arabia-flight-cancellations-riyadh-jeddah-dammam-umrah/"
+  },
+  {
+   "n": 11,
+   "name": "Trip.com 항공편 현황 (QR1228)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "하일편 10/12 실제 운항",
+   "url": "https://sa.trip.com/flights/status-qr1228/"
+  },
+  {
+   "n": 12,
+   "name": "Flightradar24 (QR1203)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "알울라편 10/11 실제 운항",
+   "url": "https://www.flightradar24.com/data/flights/qr1203"
+  },
+  {
+   "n": 13,
+   "name": "Trip.com 항공편 현황 (QR1213)",
+   "date": "2026-10-12",
+   "kind": "항공편 추적",
+   "what": "아브하편 9월 중순 이후 결항 지속, 10/17 결항",
+   "url": "https://sa.trip.com/flights/status-qr1213/"
+  },
+  {
+   "n": 14,
+   "name": "ch-aviation",
+   "date": "2026-10-08",
+   "kind": "항공 전문지",
+   "what": "아브하 야간 폐쇄, 지잔·나즈란 10/15까지 폐쇄",
+   "url": "https://www.ch-aviation.com/news/172663"
+  },
+  {
+   "n": 15,
+   "name": "Middle East Eye",
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": "후티, 메카·메디나 공항은 공격 대상 제외 / 제다 결항 약 20%",
+   "url": "https://www.middleeasteye.net/news/except-mecca-and-medina-chaos-across-saudi-airports-houthis-claim-riyadh-strike-threaten-more"
+  },
+  {
+   "n": 16,
+   "name": "Qatar Tribune",
+   "date": "2026-09-02",
+   "kind": "언론 보도",
+   "what": "카타르항공 타이프·카심·얀부·타북 재개 일정",
+   "url": "https://www.qatar-tribune.com/article/251647/front/qatar-airways-to-resume-flights-to-four-saudi-gateways-during-winter"
+  },
+  {
+   "n": 17,
+   "name": "쿠키뉴스",
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": "외교부, 사우디 전역 여행경보 3단계(출국권고)",
+   "url": "https://www.kukinews.com/article/view/kuk202610120002"
+  },
+  {
+   "n": 18,
+   "name": "The National",
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": "사우디 전체 결항률 46.4% (Cirium 집계)",
+   "url": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/"
+  },
+  {
+   "n": 19,
+   "name": "Rome2rio",
+   "date": "2026-10-12",
+   "kind": "경로 안내",
+   "what": "리야드·담맘→도하 육로 거리·시간",
+   "url": "https://www.rome2rio.com/s/Riyadh/Doha"
+  },
+  {
+   "n": 20,
+   "name": "카타르항공 여행 공지",
+   "date": "2026-10-09",
+   "kind": "항공사 공지",
+   "what": "리야드 스케줄 조정 공지 (날짜·편명 미기재)",
+   "url": "https://www.qatarairways.com/en-us/travel-alerts.html"
+  }
+ ]
+}

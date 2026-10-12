@@ -71,3 +71,5 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 .krbtn-t{font-size:16px;font-weight:700}
 .krbtn-s{font-size:12px;opacity:.85}
 @media (prefers-color-scheme:dark){.krbtn{background:#2f6db3}.krbtn:hover{background:#3a7cc6}}
+
+.op{font-size:13px;color:var(--mut);margin-top:2px}

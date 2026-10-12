@@ -81,12 +81,12 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 .counter img{height:18px}
 
 /* language switcher (same look as the Doha–Incheon board) */
-.langrow{display:flex;justify-content:flex-end;margin-bottom:12px}
+.langrow{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:nowrap;margin-bottom:14px}
 .lang{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;border:1px solid var(--line);border-radius:8px;padding:2px;background:var(--panel)}
 .lang button{font:inherit;font-size:12.5px;font-weight:600;padding:5px 12px;border:0;border-radius:6px;background:transparent;color:var(--mut);cursor:pointer;white-space:nowrap}
 .lang button.on{background:#1d4e89;color:#fff}
 @media (prefers-color-scheme:dark){.lang button.on{background:#2f6db3}}
-@media (max-width:520px){.langrow{justify-content:stretch}.lang{width:100%;gap:6px}.lang button{padding:10px 8px;font-size:14px}}
+@media (max-width:520px){.lang{gap:6px}.lang button{padding:10px 8px;font-size:14px}}
 [hidden]{display:none!important}
 
 /* right-to-left (Arabic) */
@@ -102,14 +102,17 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 [dir=rtl] .qcity small,[dir=rtl] .ref,[dir=rtl] .sn{unicode-bidi:isolate}
 [dir=rtl] .c{min-width:44px;padding:0 4px}
 [dir=rtl] thead th.d span{font-size:10px}
+
+.sitelink{display:inline-flex;align-items:center;gap:4px;font-size:11.5px;font-weight:700;color:#1d4e89;text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:5px 11px;background:var(--panel);white-space:nowrap;flex:0 0 auto}
+.sitelink:hover{border-color:#1d4e89}
+@media (prefers-color-scheme:dark){.sitelink{color:#7fb0ea}.sitelink:hover{border-color:#7fb0ea}}
 </style></head><body><div class="w">
 <div class="langrow"><div class="lang">
 <button id="langKo" class="on" onclick="setLang('ko')">한국어</button>
 <button id="langEn" onclick="setLang('en')">English</button>
 <button id="langAr" onclick="setLang('ar')">العربية</button>
-</div></div>
+</div><a class="sitelink" id="krLink" href="https://kotradoha.github.io/qatar-korea-flight-monitor/" target="_blank" rel="noopener">도하–인천 항공편 현황 ↗</a></div>
 <div class="L" id="L-ko" lang="ko">
-<a class="krbtn" href="https://kotradoha.github.io/qatar-korea-flight-monitor/" target="_blank" rel="noopener"><span class="krbtn-t">도하 → 한국 항공편 현황 보기</span><span class="krbtn-s">카타르항공 도하↔인천 운항·지연·결항 현황판 ↗</span></a>
 <header><div><h1>사우디 → 도하 항공편 현황</h1><div class="op">주카타르한국대사관·도하무역관 운영</div></div></header>
 <p class="intro">사우디아라비아에 체류 중인 우리 국민과 기업인의 도하 이동(대피) 판단을 돕기 위해, 사우디 각 도시와 도하를 잇는 직항의 운항·결항 여부와 사우디 공항 상황을 <b>1시간 단위로 업데이트</b>하여 보여주는 현황판입니다. 도시별로 지금 이용할 수 있는지를 먼저 보여드리고, 향후 약 열흘간의 날짜별 운항 전망과 근거 자료를 함께 제공합니다.</p>
 <div class="ts" style="margin-top:8px">업데이트 시점 <b>2026-10-12 (월) 18:45</b> 도하 시각</div>
@@ -135,7 +138,6 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 <div class="counter"><span>누적 방문:</span><img class="hitsBadge" alt="visitor count"></div>
 </div>
 <div class="L" id="L-en" lang="en" hidden>
-<a class="krbtn" href="https://kotradoha.github.io/qatar-korea-flight-monitor/" target="_blank" rel="noopener"><span class="krbtn-t">Doha → Korea Flight Status</span><span class="krbtn-s">Qatar Airways Doha ↔ Incheon operations, delays and cancellations ↗</span></a>
 <header><div><h1>Saudi Arabia → Doha Flight Status</h1><div class="op">Operated by the Embassy of the Republic of Korea in Qatar · KOTRA Doha</div></div></header>
 <p class="intro">This board helps Korean nationals and business travellers in Saudi Arabia decide how to travel (or evacuate) to Doha. It shows whether direct flights between Saudi cities and Doha are operating or cancelled, along with the status of Saudi airports, and is <b>updated every hour</b>. It first shows whether flights are available from each city now, then the outlook for the next ten days or so, with the sources behind each item.</p>
 <div class="ts" style="margin-top:8px">Updated <b>Mon 12 Oct 2026, 18:45</b> Doha time</div>
@@ -161,7 +163,6 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 <div class="counter"><span>Total visits:</span><img class="hitsBadge" alt="visitor count"></div>
 </div>
 <div class="L" id="L-ar" lang="ar" dir="rtl" hidden>
-<a class="krbtn" href="https://kotradoha.github.io/qatar-korea-flight-monitor/" target="_blank" rel="noopener"><span class="krbtn-t">حالة الرحلات من الدوحة إلى كوريا</span><span class="krbtn-s">تشغيل رحلات الخطوط الجوية القطرية بين الدوحة وإنتشون وتأخيرها وإلغاؤها ↗</span></a>
 <header><div><h1>حالة الرحلات من السعودية إلى الدوحة</h1><div class="op">تديرها سفارة جمهورية كوريا لدى قطر · كوترا الدوحة</div></div></header>
 <p class="intro">تساعد هذه اللوحة المواطنين الكوريين ورجال الأعمال الكوريين الموجودين في المملكة العربية السعودية على اتخاذ قرار السفر (أو الإجلاء) إلى الدوحة. وتعرض حالة الرحلات المباشرة بين المدن السعودية والدوحة من حيث التسيير أو الإلغاء، إلى جانب أوضاع المطارات السعودية، <b>وتُحدَّث كل ساعة</b>. وتبيّن أولًا مدى توفر الرحلات حاليًا من كل مدينة، ثم توقعات تسيير الرحلات خلال الأيام العشرة المقبلة تقريبًا، مع المصادر المعتمدة لكل معلومة.</p>
 <div class="ts" style="margin-top:8px">آخر تحديث <b>الإثنين 12 أكتوبر 2026، الساعة 18:45</b> بتوقيت الدوحة</div>
@@ -187,7 +188,7 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 <div class="counter"><span>إجمالي الزيارات:</span><img class="hitsBadge" alt="visitor count"></div>
 </div>
 </div>
-<script>
+<script>var KR_LINK = {"ko": "도하–인천 항공편 현황 ↗", "en": "Doha–Incheon flights ↗", "ar": "رحلات الدوحة–إنتشون ↗"};
 function ls_get(k){ try { return window.localStorage ? localStorage.getItem(k) : null; } catch(e){ return null; } }
 function ls_set(k,v){ try { if (window.localStorage) localStorage.setItem(k,v); } catch(e){} }
 function detectLang() {
@@ -203,6 +204,7 @@ function setLang(l) {
     document.getElementById("L-" + x).hidden = (x !== l);
     document.getElementById("lang" + x.charAt(0).toUpperCase() + x.slice(1)).className = (x === l) ? "on" : "";
   });
+  document.getElementById("krLink").textContent = KR_LINK[l];
   document.documentElement.lang = l;
   document.documentElement.dir = (l === "ar") ? "rtl" : "ltr";
   ls_set("sqmon_lang", l);

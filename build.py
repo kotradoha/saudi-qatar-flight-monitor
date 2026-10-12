@@ -23,6 +23,7 @@ UI = {
  "ko": {
   "title": "사우디 → 도하 항공편 현황",
   "op": "주카타르한국대사관·도하무역관 운영",
+  "kr_link": "도하–인천 항공편 현황 ↗",
   "kr_btn": "도하 → 한국 항공편 현황 보기",
   "kr_btn_sub": "카타르항공 도하↔인천 운항·지연·결항 현황판 ↗",
   "intro": "사우디아라비아에 체류 중인 우리 국민과 기업인의 도하 이동(대피) 판단을 돕기 위해, 사우디 각 도시와 도하를 잇는 직항의 운항·결항 여부와 사우디 공항 상황을 <b>1시간 단위로 업데이트</b>하여 보여주는 현황판입니다. 도시별로 지금 이용할 수 있는지를 먼저 보여드리고, 향후 약 열흘간의 날짜별 운항 전망과 근거 자료를 함께 제공합니다.",
@@ -59,6 +60,7 @@ UI = {
  "en": {
   "title": "Saudi Arabia → Doha Flight Status",
   "op": "Operated by the Embassy of the Republic of Korea in Qatar · KOTRA Doha",
+  "kr_link": "Doha–Incheon flights ↗",
   "kr_btn": "Doha → Korea Flight Status",
   "kr_btn_sub": "Qatar Airways Doha ↔ Incheon operations, delays and cancellations ↗",
   "intro": "This board helps Korean nationals and business travellers in Saudi Arabia decide how to travel (or evacuate) to Doha. It shows whether direct flights between Saudi cities and Doha are operating or cancelled, along with the status of Saudi airports, and is <b>updated every hour</b>. It first shows whether flights are available from each city now, then the outlook for the next ten days or so, with the sources behind each item.",
@@ -95,6 +97,7 @@ UI = {
  "ar": {
   "title": "حالة الرحلات من السعودية إلى الدوحة",
   "op": "تديرها سفارة جمهورية كوريا لدى قطر · كوترا الدوحة",
+  "kr_link": "رحلات الدوحة–إنتشون ↗",
   "kr_btn": "حالة الرحلات من الدوحة إلى كوريا",
   "kr_btn_sub": "تشغيل رحلات الخطوط الجوية القطرية بين الدوحة وإنتشون وتأخيرها وإلغاؤها ↗",
   "intro": "تساعد هذه اللوحة المواطنين الكوريين ورجال الأعمال الكوريين الموجودين في المملكة العربية السعودية على اتخاذ قرار السفر (أو الإجلاء) إلى الدوحة. وتعرض حالة الرحلات المباشرة بين المدن السعودية والدوحة من حيث التسيير أو الإلغاء، إلى جانب أوضاع المطارات السعودية، <b>وتُحدَّث كل ساعة</b>. وتبيّن أولًا مدى توفر الرحلات حاليًا من كل مدينة، ثم توقعات تسيير الرحلات خلال الأيام العشرة المقبلة تقريبًا، مع المصادر المعتمدة لكل معلومة.",
@@ -207,7 +210,6 @@ def render(lang):
     links = ", ".join(f'<a href="{u}" target="_blank" rel="noopener">{E(n)}</a>' for n, u in zip(U["air_links"], AIR_URLS))
     attrs = f' id="L-{lang}" lang="{lang}"' + (' dir="rtl"' if lang == "ar" else "") + ("" if lang == "ko" else " hidden")
     return f"""<div class="L"{attrs}>
-<a class="krbtn" href="{SITE_KR}" target="_blank" rel="noopener"><span class="krbtn-t">{U["kr_btn"]}</span><span class="krbtn-s">{U["kr_btn_sub"]}</span></a>
 <header><div><h1>{U["title"]}</h1><div class="op">{U["op"]}</div></div></header>
 <p class="intro">{U["intro"]}</p>
 <div class="ts" style="margin-top:8px">{U["updated"].format(t=upd_txt)}</div>
@@ -252,6 +254,7 @@ function setLang(l) {
     document.getElementById("L-" + x).hidden = (x !== l);
     document.getElementById("lang" + x.charAt(0).toUpperCase() + x.slice(1)).className = (x === l) ? "on" : "";
   });
+  document.getElementById("krLink").textContent = KR_LINK[l];
   document.documentElement.lang = l;
   document.documentElement.dir = (l === "ar") ? "rtl" : "ltr";
   ls_set("sqmon_lang", l);
@@ -287,10 +290,10 @@ page = f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name
 <button id="langKo" class="on" onclick="setLang('ko')">한국어</button>
 <button id="langEn" onclick="setLang('en')">English</button>
 <button id="langAr" onclick="setLang('ar')">العربية</button>
-</div></div>
+</div><a class="sitelink" id="krLink" href="{SITE_KR}" target="_blank" rel="noopener">{UI["ko"]["kr_link"]}</a></div>
 {sections}
 </div>
-<script>{SCRIPT}</script>
+<script>var KR_LINK = {json.dumps({l: UI[l]["kr_link"] for l in LANGS}, ensure_ascii=False)};{SCRIPT}</script>
 </body></html>"""
 
 with open("docs/index.html", "w", encoding="utf-8") as f:

@@ -78,12 +78,12 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 .counter img{height:18px}
 
 /* language switcher (same look as the Doha–Incheon board) */
-.langrow{display:flex;justify-content:flex-end;margin-bottom:12px}
+.langrow{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:nowrap;margin-bottom:14px}
 .lang{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;border:1px solid var(--line);border-radius:8px;padding:2px;background:var(--panel)}
 .lang button{font:inherit;font-size:12.5px;font-weight:600;padding:5px 12px;border:0;border-radius:6px;background:transparent;color:var(--mut);cursor:pointer;white-space:nowrap}
 .lang button.on{background:#1d4e89;color:#fff}
 @media (prefers-color-scheme:dark){.lang button.on{background:#2f6db3}}
-@media (max-width:520px){.langrow{justify-content:stretch}.lang{width:100%;gap:6px}.lang button{padding:10px 8px;font-size:14px}}
+@media (max-width:520px){.lang{gap:6px}.lang button{padding:10px 8px;font-size:14px}}
 [hidden]{display:none!important}
 
 /* right-to-left (Arabic) */
@@ -99,3 +99,7 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 [dir=rtl] .qcity small,[dir=rtl] .ref,[dir=rtl] .sn{unicode-bidi:isolate}
 [dir=rtl] .c{min-width:44px;padding:0 4px}
 [dir=rtl] thead th.d span{font-size:10px}
+
+.sitelink{display:inline-flex;align-items:center;gap:4px;font-size:11.5px;font-weight:700;color:#1d4e89;text-decoration:none;border:1px solid var(--line);border-radius:8px;padding:5px 11px;background:var(--panel);white-space:nowrap;flex:0 0 auto}
+.sitelink:hover{border-color:#1d4e89}
+@media (prefers-color-scheme:dark){.sitelink{color:#7fb0ea}.sitelink:hover{border-color:#7fb0ea}}

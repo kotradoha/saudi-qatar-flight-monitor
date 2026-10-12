@@ -76,3 +76,26 @@ h2.sec{break-after:avoid}.two{grid-template-columns:1fr 1fr}.srcs{grid-template-
 
 .counter{margin-top:12px;display:flex;align-items:center;gap:8px;font-size:13px;color:var(--mut)}
 .counter img{height:18px}
+
+/* language switcher (same look as the Doha–Incheon board) */
+.langrow{display:flex;justify-content:flex-end;margin-bottom:12px}
+.lang{display:grid;grid-template-columns:repeat(3,1fr);gap:4px;border:1px solid var(--line);border-radius:8px;padding:2px;background:var(--panel)}
+.lang button{font:inherit;font-size:12.5px;font-weight:600;padding:5px 12px;border:0;border-radius:6px;background:transparent;color:var(--mut);cursor:pointer;white-space:nowrap}
+.lang button.on{background:#1d4e89;color:#fff}
+@media (prefers-color-scheme:dark){.lang button.on{background:#2f6db3}}
+@media (max-width:520px){.langrow{justify-content:stretch}.lang{width:100%;gap:6px}.lang button{padding:10px 8px;font-size:14px}}
+[hidden]{display:none!important}
+
+/* right-to-left (Arabic) */
+[dir=rtl] .sum{border-left:1px solid var(--line);border-right:5px solid var(--fg)}
+[dir=rtl] .sum ol{padding-left:0;padding-right:20px}
+[dir=rtl] .two ul,[dir=rtl] .how ul{padding-left:0;padding-right:18px}
+[dir=rtl] th,[dir=rtl] td{text-align:right}
+[dir=rtl] thead th{text-align:center}
+[dir=rtl] th.city{left:auto;right:0;padding-right:4px;padding-left:8px}
+[dir=rtl] td.air{padding-right:4px;padding-left:8px}
+[dir=rtl] td.rf{padding-left:4px;padding-right:8px}
+[dir=rtl] td.d{text-align:center}
+[dir=rtl] .qcity small,[dir=rtl] .ref,[dir=rtl] .sn{unicode-bidi:isolate}
+[dir=rtl] .c{min-width:44px;padding:0 4px}
+[dir=rtl] thead th.d span{font-size:10px}

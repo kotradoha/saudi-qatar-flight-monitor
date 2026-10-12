@@ -3,32 +3,52 @@
  "window_start": "2026-10-12",
  "pills": [
   {
-   "text": "외교부 여행경보 <b>3단계 출국권고</b> (사우디 전역, 10/11~)",
+   "text": {
+    "ko": "외교부 여행경보 <b>3단계 출국권고</b> (사우디 전역, 10/11~)",
+    "en": "Korean MOFA travel advisory <b>Level 3: Departure Recommended</b> (all of Saudi Arabia, from 11 Oct)",
+    "ar": "تحذير السفر الصادر عن وزارة الخارجية الكورية: <b>المستوى 3 – يُوصى بالمغادرة</b> (جميع أنحاء السعودية، اعتبارًا من 11 أكتوبر)"
+   },
    "refs": [
     17
    ]
   },
   {
-   "text": "사우디 전체 결항률 <b>46.4%</b> (10/12)",
+   "text": {
+    "ko": "사우디 전체 결항률 <b>46.4%</b> (10/12)",
+    "en": "Flight cancellations across Saudi Arabia: <b>46.4%</b> (12 Oct)",
+    "ar": "نسبة الرحلات الملغاة في السعودية: <b>46.4%</b> (12 أكتوبر)"
+   },
    "refs": [
     18
    ]
   },
   {
-   "text": "사우디·도하 같은 시간대 (UTC+3)",
+   "text": {
+    "ko": "사우디·도하 같은 시간대 (UTC+3)",
+    "en": "Saudi Arabia and Doha are in the same time zone (UTC+3)",
+    "ar": "السعودية والدوحة في المنطقة الزمنية نفسها (UTC+3)"
+   },
    "refs": []
   }
  ],
  "key_points": [
   {
-   "html": "<span class='red'>리야드 출발 불가.</span> 공항이 <b>10/18 00:00(도하 시각)까지 폐쇄</b>되어 모든 항공사 운항이 중단됐습니다. 폐쇄는 이미 두 차례 연장됐고, 재개 일정도 없습니다. 구글 항공편 등 예약 사이트에는 이 기간 리야드 출발편이 아직 판매 중으로 보일 수 있지만, 공항 폐쇄가 풀리지 않으면 운항할 수 없습니다. 예약 전에 항공사에 운항 여부를 꼭 확인하세요.",
+   "html": {
+    "ko": "<span class='red'>리야드 출발 불가.</span> 공항이 <b>10/18 00:00(도하 시각)까지 폐쇄</b>되어 모든 항공사 운항이 중단됐습니다. 폐쇄는 이미 두 차례 연장됐고, 재개 일정도 없습니다. 구글 항공편 등 예약 사이트에는 이 기간 리야드 출발편이 아직 판매 중으로 보일 수 있지만, 공항 폐쇄가 풀리지 않으면 운항할 수 없습니다. 예약 전에 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>No departures from Riyadh.</span> The airport is <b>closed until 00:00 on 18 Oct (Doha time)</b>, and all airlines have suspended flights. The closure has already been extended twice, and no reopening date has been announced. Booking sites such as Google Flights may still show Riyadh departures on sale for this period, but they cannot operate unless the airport reopens. Always check with the airline that your flight will operate before booking.",
+    "ar": "<span class='red'>لا رحلات مغادرة من الرياض.</span> المطار <b>مغلق حتى الساعة 00:00 من يوم 18 أكتوبر (بتوقيت الدوحة)</b>، وقد علّقت جميع شركات الطيران رحلاتها. ومُدِّد الإغلاق مرتين حتى الآن، ولم يُعلَن موعد لإعادة فتح المطار. قد تظهر رحلات المغادرة من الرياض خلال هذه الفترة معروضةً للبيع في مواقع الحجز مثل Google Flights، لكن لا يمكن تسييرها ما لم يُعَد فتح المطار. يُرجى التأكد لدى شركة الطيران من تسيير رحلتك قبل الحجز."
+   },
    "refs": [
     1,
     3
    ]
   },
   {
-   "html": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/12 실제 운항이 확인됐고 결항 공지가 없습니다. 메디나는 후티가 공격 대상에서 제외한 공항입니다.",
+   "html": {
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/12 실제 운항이 확인됐고 결항 공지가 없습니다. 메디나는 후티가 공격 대상에서 제외한 공항입니다.",
+    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Jeddah has about 8 flights a day (7 by Qatar Airways, 1 by Saudia) and Madinah has 2 a day. Flights from both cities were confirmed operating on 12 Oct, and no cancellations have been announced. Madinah is one of the airports the Houthis have excluded from their targets.",
+    "ar": "<span class='grn'>جدة والمدينة المنورة هما نقطتا الانطلاق الأكثر موثوقية إلى الدوحة.</span> تُسيَّر من جدة نحو 8 رحلات يوميًا (7 للخطوط الجوية القطرية ورحلة واحدة للخطوط السعودية)، ومن المدينة المنورة رحلتان يوميًا. وقد تأكّد تسيير الرحلات من المدينتين يوم 12 أكتوبر، ولم يُعلَن عن أي إلغاء. ويُعدّ مطار المدينة المنورة من المطارات التي استثناها الحوثيون من قائمة أهدافهم."
+   },
    "refs": [
     6,
     8,
@@ -36,32 +56,64 @@
    ]
   },
   {
-   "html": "<span class='amb'>담맘은 일부 편만 운항합니다.</span> 항공편 추적 사이트 기준으로 10/13은 22:30 출발편 1편, 10/14는 2편만 운항 예정으로 표시됩니다(항공사 공식 발표 아님). 공항이 10/11 피격돼 변동 위험이 큽니다.",
+   "html": {
+    "ko": "<span class='amb'>담맘은 일부 편만 운항합니다.</span> 항공편 추적 사이트 기준으로 10/13은 22:30 출발편 1편, 10/14는 2편만 운항 예정으로 표시됩니다(항공사 공식 발표 아님). 공항이 10/11 피격돼 변동 위험이 큽니다.",
+    "en": "<span class='amb'>Only some flights operate from Dammam.</span> Flight-tracking sites show only one flight (departing 22:30) scheduled on 13 Oct and two on 14 Oct (this is not an official airline announcement). The airport was attacked on 11 Oct, so there is a high risk of schedule changes.",
+    "ar": "<span class='amb'>تُسيَّر بعض الرحلات فقط من الدمام.</span> تُظهر مواقع تتبّع الرحلات رحلة واحدة فقط مجدولة يوم 13 أكتوبر (المغادرة 22:30) ورحلتين يوم 14 أكتوبر (وهذا ليس إعلانًا رسميًا من شركة الطيران). وقد تعرّض المطار لهجوم يوم 11 أكتوبر، لذا فإن احتمال تغيّر المواعيد كبير."
+   },
    "refs": [
     9,
     10
    ]
   },
   {
-   "html": "<b>리야드 체류자</b>는 육로(도하까지 약 574km, 약 6.5시간)나 국내선으로 제다를 거쳐 오는 방법을 검토해야 합니다. 살와 국경의 현재 상황은 확인되지 않았습니다.",
+   "html": {
+    "ko": "<b>리야드 체류자</b>는 육로(도하까지 약 574km, 약 6.5시간)나 국내선으로 제다를 거쳐 오는 방법을 검토해야 합니다. 살와 국경의 현재 상황은 확인되지 않았습니다.",
+    "en": "<b>People in Riyadh</b> should consider travelling by road (about 574 km to Doha, roughly 6.5 hours) or first taking a domestic flight to Jeddah. The current situation at the Salwa border crossing has not been confirmed.",
+    "ar": "<b>على الموجودين في الرياض</b> النظر في السفر برًّا (نحو 574 كم إلى الدوحة، أي قرابة ست ساعات ونصف) أو التوجّه أولًا إلى جدة على متن رحلة داخلية. ولم يتسنَّ التأكد من الوضع الحالي في منفذ سلوى الحدودي."
+   },
    "refs": [
     19
    ]
   },
   {
-   "html": "표의 <b>‘예정’은 결항 공지가 없다는 뜻</b>이지 운항이 보장된 것은 아닙니다. 출발 24시간 안에 항공사 앱에서 꼭 다시 확인하세요.",
+   "html": {
+    "ko": "표의 <b>‘예정’은 결항 공지가 없다는 뜻</b>이지 운항이 보장된 것은 아닙니다. 출발 24시간 안에 항공사 앱에서 꼭 다시 확인하세요.",
+    "en": "<b>“Scheduled” in the table means no cancellation has been announced</b>; it does not guarantee that the flight will operate. Please check again in the airline’s app within 24 hours of departure.",
+    "ar": "<b>تعني كلمة «مجدولة» في الجدول أنه لم يُعلَن عن إلغاء الرحلة</b>، ولا تضمن تسييرها. يُرجى التحقق مجددًا عبر تطبيق شركة الطيران خلال الـ24 ساعة السابقة للإقلاع."
+   },
    "refs": []
   }
  ],
  "cards": [
   {
    "cls": "ok",
-   "city": "제다",
+   "city": {
+    "ko": "제다",
+    "en": "Jeddah",
+    "ar": "جدة"
+   },
    "iata": "JED",
-   "verdict": "탈 수 있음",
-   "carriers": "카타르항공 하루 약 7회 · 사우디아 하루 1회",
-   "times": "제다 출발 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · 22:00경 (카타르항공) / 사우디아 일~수 09:30, 목~토 12:35",
-   "note": "10/12 실제 운항 확인, 결항 공지 없음. 공항 결항률 약 20%로 지연 잦음",
+   "verdict": {
+    "ko": "탈 수 있음",
+    "en": "Flights available",
+    "ar": "الرحلات متاحة"
+   },
+   "carriers": {
+    "ko": "카타르항공 하루 약 7회 · 사우디아 하루 1회",
+    "en": "Qatar Airways about 7 a day · Saudia 1 a day",
+    "ar": "الخطوط الجوية القطرية نحو 7 رحلات يوميًا · الخطوط السعودية رحلة واحدة يوميًا"
+   },
+   "times": {
+    "ko": "제다 출발 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · 22:00경 (카타르항공) / 사우디아 일~수 09:30, 목~토 12:35",
+    "en": "Departs Jeddah 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · around 22:00 (Qatar Airways) / Saudia Sun–Wed 09:30, Thu–Sat 12:35",
+    "ar": "المغادرة من جدة 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · نحو 22:00 (الخطوط الجوية القطرية) / الخطوط السعودية من الأحد إلى الأربعاء 09:30، ومن الخميس إلى السبت 12:35"
+   },
+   "note": {
+    "ko": "10/12 실제 운항 확인, 결항 공지 없음. 공항 결항률 약 20%로 지연 잦음",
+    "en": "Confirmed operating on 12 Oct; no cancellations announced. About 20% of flights at the airport are being cancelled, and delays are frequent.",
+    "ar": "تأكّد تسيير الرحلات يوم 12 أكتوبر، ولم يُعلَن عن أي إلغاء. تبلغ نسبة الرحلات الملغاة في المطار نحو 20%، والتأخيرات متكررة."
+   },
    "refs": [
     6,
     7,
@@ -70,12 +122,32 @@
   },
   {
    "cls": "ok",
-   "city": "메디나",
+   "city": {
+    "ko": "메디나",
+    "en": "Madinah",
+    "ar": "المدينة المنورة"
+   },
    "iata": "MED",
-   "verdict": "탈 수 있음",
-   "carriers": "카타르항공 하루 2회",
-   "times": "메디나 출발 04:45 · 08:25",
-   "note": "10/12 실제 운항 확인. 후티가 공격 대상에서 제외한 공항",
+   "verdict": {
+    "ko": "탈 수 있음",
+    "en": "Flights available",
+    "ar": "الرحلات متاحة"
+   },
+   "carriers": {
+    "ko": "카타르항공 하루 2회",
+    "en": "Qatar Airways 2 a day",
+    "ar": "الخطوط الجوية القطرية رحلتان يوميًا"
+   },
+   "times": {
+    "ko": "메디나 출발 04:45 · 08:25",
+    "en": "Departs Madinah 04:45 · 08:25",
+    "ar": "المغادرة من المدينة المنورة 04:45 · 08:25"
+   },
+   "note": {
+    "ko": "10/12 실제 운항 확인. 후티가 공격 대상에서 제외한 공항",
+    "en": "Confirmed operating on 12 Oct. The Houthis have excluded this airport from their targets.",
+    "ar": "تأكّد تسيير الرحلات يوم 12 أكتوبر. وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم."
+   },
    "refs": [
     8,
     15
@@ -83,12 +155,32 @@
   },
   {
    "cls": "part",
-   "city": "담맘",
+   "city": {
+    "ko": "담맘",
+    "en": "Dammam",
+    "ar": "الدمام"
+   },
    "iata": "DMM",
-   "verdict": "일부만 운항",
-   "carriers": "카타르항공 하루 3회 중 일부",
-   "times": "담맘 출발 05:00 · 10:55 · 22:30 — 10/13은 22:30편만 예정, 10/14는 10:55·22:30편 예정",
-   "note": "10/11 공항 피격. 10/15부터는 결항 공지 없음",
+   "verdict": {
+    "ko": "일부만 운항",
+    "en": "Some flights only",
+    "ar": "بعض الرحلات فقط"
+   },
+   "carriers": {
+    "ko": "카타르항공 하루 3회 중 일부",
+    "en": "Qatar Airways: some of its 3 daily flights",
+    "ar": "الخطوط الجوية القطرية: بعض رحلاتها الثلاث اليومية"
+   },
+   "times": {
+    "ko": "담맘 출발 05:00 · 10:55 · 22:30 — 10/13은 22:30편만 예정, 10/14는 10:55·22:30편 예정",
+    "en": "Departs Dammam 05:00 · 10:55 · 22:30 — on 13 Oct only the 22:30 flight is scheduled; on 14 Oct the 10:55 and 22:30 flights",
+    "ar": "المغادرة من الدمام 05:00 · 10:55 · 22:30 — يوم 13 أكتوبر رحلة 22:30 فقط مجدولة، ويوم 14 أكتوبر رحلتا 10:55 و22:30"
+   },
+   "note": {
+    "ko": "10/11 공항 피격. 10/15부터는 결항 공지 없음",
+    "en": "Airport attacked on 11 Oct. No cancellations announced for flights from 15 Oct onwards.",
+    "ar": "تعرّض المطار لهجوم يوم 11 أكتوبر. ولم يُعلَن عن إلغاء أي رحلة من الرحلات المجدولة اعتبارًا من 15 أكتوبر."
+   },
    "refs": [
     9,
     10
@@ -96,36 +188,96 @@
   },
   {
    "cls": "ok",
-   "city": "하일",
+   "city": {
+    "ko": "하일",
+    "en": "Hail",
+    "ar": "حائل"
+   },
    "iata": "HAS",
-   "verdict": "탈 수 있음 (주 3회)",
-   "carriers": "카타르항공 월·목·토",
-   "times": "하일 출발 17:30 → 도하 19:25 · 다음 편 10/15(목), 10/17(토)",
-   "note": "정상 운항 중",
+   "verdict": {
+    "ko": "탈 수 있음 (주 3회)",
+    "en": "Flights available (3 a week)",
+    "ar": "الرحلات متاحة (3 رحلات أسبوعيًا)"
+   },
+   "carriers": {
+    "ko": "카타르항공 월·목·토",
+    "en": "Qatar Airways Mon · Thu · Sat",
+    "ar": "الخطوط الجوية القطرية الإثنين · الخميس · السبت"
+   },
+   "times": {
+    "ko": "하일 출발 17:30 → 도하 19:25 · 다음 편 10/15(목), 10/17(토)",
+    "en": "Departs Hail 17:30 → arrives Doha 19:25 · next flights 15 Oct (Thu) and 17 Oct (Sat)",
+    "ar": "المغادرة من حائل 17:30 والوصول إلى الدوحة 19:25 · الرحلتان التاليتان 15 أكتوبر (الخميس) و17 أكتوبر (السبت)"
+   },
+   "note": {
+    "ko": "정상 운항 중",
+    "en": "Operating normally",
+    "ar": "تُسيَّر الرحلات بشكل طبيعي"
+   },
    "refs": [
     11
    ]
   },
   {
    "cls": "ok",
-   "city": "알울라",
+   "city": {
+    "ko": "알울라",
+    "en": "AlUla",
+    "ar": "العُلا"
+   },
    "iata": "ULH",
-   "verdict": "탈 수 있음 (주 2~3회)",
-   "carriers": "카타르항공 금·일 (10/21 수 추가)",
-   "times": "알울라 출발 08:10 → 도하 10:30 · 다음 편 10/16(금), 10/18(일)",
-   "note": "10/11 실제 운항 확인",
+   "verdict": {
+    "ko": "탈 수 있음 (주 2~3회)",
+    "en": "Flights available (2–3 a week)",
+    "ar": "الرحلات متاحة (2–3 رحلات أسبوعيًا)"
+   },
+   "carriers": {
+    "ko": "카타르항공 금·일 (10/21 수 추가)",
+    "en": "Qatar Airways Fri · Sun (plus Wed 21 Oct)",
+    "ar": "الخطوط الجوية القطرية الجمعة · الأحد (ورحلة إضافية يوم الأربعاء 21 أكتوبر)"
+   },
+   "times": {
+    "ko": "알울라 출발 08:10 → 도하 10:30 · 다음 편 10/16(금), 10/18(일)",
+    "en": "Departs AlUla 08:10 → arrives Doha 10:30 · next flights 16 Oct (Fri) and 18 Oct (Sun)",
+    "ar": "المغادرة من العُلا 08:10 والوصول إلى الدوحة 10:30 · الرحلتان التاليتان 16 أكتوبر (الجمعة) و18 أكتوبر (الأحد)"
+   },
+   "note": {
+    "ko": "10/11 실제 운항 확인",
+    "en": "Confirmed operating on 11 Oct",
+    "ar": "تأكّد تسيير الرحلة يوم 11 أكتوبر"
+   },
    "refs": [
     12
    ]
   },
   {
    "cls": "closed",
-   "city": "리야드",
+   "city": {
+    "ko": "리야드",
+    "en": "Riyadh",
+    "ar": "الرياض"
+   },
    "iata": "RUH",
-   "verdict": "불가 — 공항 폐쇄",
-   "carriers": "카타르항공·사우디아·플라이나스 모두 중단",
-   "times": "10/18 00:00(도하)까지 폐쇄, 이후 재개 미정",
-   "note": "이미 두 차례 연장. 예약 사이트에 판매 중인 편도 폐쇄 기간엔 운항 불가. 대안: 육로 또는 국내선으로 제다 이동",
+   "verdict": {
+    "ko": "불가 — 공항 폐쇄",
+    "en": "Not possible — airport closed",
+    "ar": "غير متاح — المطار مغلق"
+   },
+   "carriers": {
+    "ko": "카타르항공·사우디아·플라이나스 모두 중단",
+    "en": "Qatar Airways, Saudia and flynas all suspended",
+    "ar": "رحلات الخطوط الجوية القطرية والخطوط السعودية وطيران ناس جميعها متوقفة"
+   },
+   "times": {
+    "ko": "10/18 00:00(도하)까지 폐쇄, 이후 재개 미정",
+    "en": "Closed until 00:00 on 18 Oct (Doha time); reopening not yet confirmed",
+    "ar": "مغلق حتى الساعة 00:00 من يوم 18 أكتوبر (بتوقيت الدوحة)، ولم يتأكّد موعد إعادة فتحه بعد"
+   },
+   "note": {
+    "ko": "이미 두 차례 연장. 예약 사이트에 판매 중인 편도 폐쇄 기간엔 운항 불가. 대안: 육로 또는 국내선으로 제다 이동",
+    "en": "Already extended twice. Flights still on sale on booking sites cannot operate while the airport is closed. Alternatives: travel by road, or take a domestic flight to Jeddah.",
+    "ar": "مُدِّد الإغلاق مرتين حتى الآن. ولا يمكن تسيير الرحلات المعروضة للبيع في مواقع الحجز طوال فترة الإغلاق. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
+   },
    "refs": [
     1,
     3,
@@ -135,12 +287,32 @@
   },
   {
    "cls": "cx",
-   "city": "아브하",
+   "city": {
+    "ko": "아브하",
+    "en": "Abha",
+    "ar": "أبها"
+   },
    "iata": "AHB",
-   "verdict": "사실상 불가",
-   "carriers": "카타르항공 주 2회 노선이나 9월 중순 이후 결항 지속",
-   "times": "10/17 결항, 10/15·10/22 미정",
-   "note": "공항 10/15까지 야간 폐쇄",
+   "verdict": {
+    "ko": "사실상 불가",
+    "en": "Effectively unavailable",
+    "ar": "الرحلات غير متاحة عمليًا"
+   },
+   "carriers": {
+    "ko": "카타르항공 주 2회 노선이나 9월 중순 이후 결항 지속",
+    "en": "Qatar Airways route (2 a week), but flights have been cancelled continuously since mid-September",
+    "ar": "خط للخطوط الجوية القطرية (رحلتان أسبوعيًا)، لكن الرحلات ملغاة باستمرار منذ منتصف سبتمبر"
+   },
+   "times": {
+    "ko": "10/17 결항, 10/15·10/22 미정",
+    "en": "17 Oct cancelled; 15 and 22 Oct unconfirmed",
+    "ar": "رحلة 17 أكتوبر ملغاة، ورحلتا 15 و22 أكتوبر غير مؤكدتين"
+   },
+   "note": {
+    "ko": "공항 10/15까지 야간 폐쇄",
+    "en": "Airport closed at night until 15 Oct",
+    "ar": "المطار مغلق ليلًا حتى 15 أكتوبر"
+   },
    "refs": [
     13,
     14
@@ -150,8 +322,16 @@
  "grid": [
   {
    "id": "ruh-qr",
-   "city": "리야드",
-   "airline": "카타르항공",
+   "city": {
+    "ko": "리야드",
+    "en": "Riyadh",
+    "ar": "الرياض"
+   },
+   "airline": {
+    "ko": "카타르항공",
+    "en": "Qatar Airways",
+    "ar": "الخطوط الجوية القطرية"
+   },
    "status": [
     "폐쇄",
     "폐쇄",
@@ -174,8 +354,16 @@
   },
   {
    "id": "ruh-sv",
-   "city": "리야드",
-   "airline": "사우디아",
+   "city": {
+    "ko": "리야드",
+    "en": "Riyadh",
+    "ar": "الرياض"
+   },
+   "airline": {
+    "ko": "사우디아",
+    "en": "Saudia",
+    "ar": "الخطوط السعودية"
+   },
    "status": [
     "결항",
     "결항",
@@ -196,8 +384,16 @@
   },
   {
    "id": "ruh-xy",
-   "city": "리야드",
-   "airline": "플라이나스",
+   "city": {
+    "ko": "리야드",
+    "en": "Riyadh",
+    "ar": "الرياض"
+   },
+   "airline": {
+    "ko": "플라이나스",
+    "en": "flynas",
+    "ar": "طيران ناس"
+   },
    "status": [
     "결항",
     "폐쇄",
@@ -218,8 +414,16 @@
   },
   {
    "id": "jed-qr",
-   "city": "제다",
-   "airline": "카타르항공",
+   "city": {
+    "ko": "제다",
+    "en": "Jeddah",
+    "ar": "جدة"
+   },
+   "airline": {
+    "ko": "카타르항공",
+    "en": "Qatar Airways",
+    "ar": "الخطوط الجوية القطرية"
+   },
    "status": [
     "운항",
     "예정",
@@ -240,8 +444,16 @@
   },
   {
    "id": "jed-sv",
-   "city": "제다",
-   "airline": "사우디아",
+   "city": {
+    "ko": "제다",
+    "en": "Jeddah",
+    "ar": "جدة"
+   },
+   "airline": {
+    "ko": "사우디아",
+    "en": "Saudia",
+    "ar": "الخطوط السعودية"
+   },
    "status": [
     "운항",
     "예정",
@@ -261,8 +473,16 @@
   },
   {
    "id": "med-qr",
-   "city": "메디나",
-   "airline": "카타르항공",
+   "city": {
+    "ko": "메디나",
+    "en": "Madinah",
+    "ar": "المدينة المنورة"
+   },
+   "airline": {
+    "ko": "카타르항공",
+    "en": "Qatar Airways",
+    "ar": "الخطوط الجوية القطرية"
+   },
    "status": [
     "운항",
     "예정",
@@ -283,8 +503,16 @@
   },
   {
    "id": "dmm-qr",
-   "city": "담맘",
-   "airline": "카타르항공",
+   "city": {
+    "ko": "담맘",
+    "en": "Dammam",
+    "ar": "الدمام"
+   },
+   "airline": {
+    "ko": "카타르항공",
+    "en": "Qatar Airways",
+    "ar": "الخطوط الجوية القطرية"
+   },
    "status": [
     "일부결항",
     "일부결항",
@@ -305,8 +533,16 @@
   },
   {
    "id": "has-qr",
-   "city": "하일",
-   "airline": "카타르항공",
+   "city": {
+    "ko": "하일",
+    "en": "Hail",
+    "ar": "حائل"
+   },
+   "airline": {
+    "ko": "카타르항공",
+    "en": "Qatar Airways",
+    "ar": "الخطوط الجوية القطرية"
+   },
    "status": [
     "운항",
     "–",
@@ -326,8 +562,16 @@
   },
   {
    "id": "ulh-qr",
-   "city": "알울라",
-   "airline": "카타르항공",
+   "city": {
+    "ko": "알울라",
+    "en": "AlUla",
+    "ar": "العُلا"
+   },
+   "airline": {
+    "ko": "카타르항공",
+    "en": "Qatar Airways",
+    "ar": "الخطوط الجوية القطرية"
+   },
    "status": [
     "–",
     "–",
@@ -347,8 +591,16 @@
   },
   {
    "id": "ahb-qr",
-   "city": "아브하",
-   "airline": "카타르항공",
+   "city": {
+    "ko": "아브하",
+    "en": "Abha",
+    "ar": "أبها"
+   },
+   "airline": {
+    "ko": "카타르항공",
+    "en": "Qatar Airways",
+    "ar": "الخطوط الجوية القطرية"
+   },
    "status": [
     "–",
     "–",
@@ -370,230 +622,458 @@
  ],
  "no_direct": [
   {
-   "city": "카심(부라이다)",
-   "note": "10/25 재개 예정",
+   "city": {
+    "ko": "카심(부라이다)",
+    "en": "Qassim (Buraidah)",
+    "ar": "القصيم (بريدة)"
+   },
+   "note": {
+    "ko": "10/25 재개 예정",
+    "en": "Flights due to resume on 25 Oct",
+    "ar": "من المقرر استئناف الرحلات في 25 أكتوبر"
+   },
    "refs": [
     16
    ]
   },
   {
-   "city": "타이프",
-   "note": "10/31 재개 예정",
+   "city": {
+    "ko": "타이프",
+    "en": "Taif",
+    "ar": "الطائف"
+   },
+   "note": {
+    "ko": "10/31 재개 예정",
+    "en": "Flights due to resume on 31 Oct",
+    "ar": "من المقرر استئناف الرحلات في 31 أكتوبر"
+   },
    "refs": [
     16
    ]
   },
   {
-   "city": "얀부",
-   "note": "2027-01-02 재개 예정",
+   "city": {
+    "ko": "얀부",
+    "en": "Yanbu",
+    "ar": "ينبع"
+   },
+   "note": {
+    "ko": "2027-01-02 재개 예정",
+    "en": "Flights due to resume on 2 Jan 2027",
+    "ar": "من المقرر استئناف الرحلات في 2 يناير 2027"
+   },
    "refs": [
     16
    ]
   },
   {
-   "city": "타북",
-   "note": "2027-01-03 재개 예정",
+   "city": {
+    "ko": "타북",
+    "en": "Tabuk",
+    "ar": "تبوك"
+   },
+   "note": {
+    "ko": "2027-01-03 재개 예정",
+    "en": "Flights due to resume on 3 Jan 2027",
+    "ar": "من المقرر استئناف الرحلات في 3 يناير 2027"
+   },
    "refs": [
     16
    ]
   },
   {
-   "city": "지잔",
-   "note": "노선 없음 · 공항 10/15까지 폐쇄",
+   "city": {
+    "ko": "지잔",
+    "en": "Jazan",
+    "ar": "جازان"
+   },
+   "note": {
+    "ko": "노선 없음 · 공항 10/15까지 폐쇄",
+    "en": "No direct route · airport closed until 15 Oct",
+    "ar": "لا يوجد خط مباشر · المطار مغلق حتى 15 أكتوبر"
+   },
    "refs": [
     14
    ]
   },
   {
-   "city": "나즈란",
-   "note": "노선 없음 · 공항 10/15까지 폐쇄",
+   "city": {
+    "ko": "나즈란",
+    "en": "Najran",
+    "ar": "نجران"
+   },
+   "note": {
+    "ko": "노선 없음 · 공항 10/15까지 폐쇄",
+    "en": "No direct route · airport closed until 15 Oct",
+    "ar": "لا يوجد خط مباشر · المطار مغلق حتى 15 أكتوبر"
+   },
    "refs": [
     14
    ]
   },
   {
-   "city": "알아흐사(호푸프)",
-   "note": "노선 없음",
+   "city": {
+    "ko": "알아흐사(호푸프)",
+    "en": "Al-Ahsa (Hofuf)",
+    "ar": "الأحساء (الهفوف)"
+   },
+   "note": {
+    "ko": "노선 없음",
+    "en": "No direct route",
+    "ar": "لا يوجد خط مباشر"
+   },
    "refs": []
   }
  ],
  "road": [
   {
-   "html": "<b>리야드 → 도하</b> 약 574km, 약 6.5시간",
+   "html": {
+    "ko": "<b>리야드 → 도하</b> 약 574km, 약 6.5시간",
+    "en": "<b>Riyadh → Doha</b> about 574 km, about 6.5 hours",
+    "ar": "<b>من الرياض إلى الدوحة</b> نحو 574 كم، قرابة ست ساعات ونصف"
+   },
    "refs": [
     19
    ]
   },
   {
-   "html": "<b>담맘 → 도하</b> 약 333km, 약 3.4시간",
+   "html": {
+    "ko": "<b>담맘 → 도하</b> 약 333km, 약 3.4시간",
+    "en": "<b>Dammam → Doha</b> about 333 km, about 3.4 hours",
+    "ar": "<b>من الدمام إلى الدوحة</b> نحو 333 كم، قرابة 3 ساعات و24 دقيقة"
+   },
    "refs": [
     19
    ]
   },
   {
-   "html": "국경 대기 시간은 제외한 수치입니다. 살와/아부삼라 국경의 현재 운영 상황은 확인되지 않았습니다.",
+   "html": {
+    "ko": "국경 대기 시간은 제외한 수치입니다. 살와/아부삼라 국경의 현재 운영 상황은 확인되지 않았습니다.",
+    "en": "These figures exclude waiting time at the border. The current operating status of the Salwa/Abu Samra border crossing has not been confirmed.",
+    "ar": "لا تشمل هذه الأرقام وقت الانتظار عند الحدود. ولم يتسنَّ التأكد من الوضع التشغيلي الحالي لمنفذ سلوى/أبو سمرة الحدودي."
+   },
    "refs": []
   }
  ],
  "sources": [
   {
    "n": 1,
-   "name": "Reuters 보도 (ThePrint 게재)",
+   "name": {
+    "ko": "Reuters 보도 (ThePrint 게재)",
+    "en": "Reuters report (via ThePrint)",
+    "ar": "تقرير رويترز (عبر ThePrint)"
+   },
    "date": "2026-10-12",
    "kind": "언론 보도",
-   "what": "리야드 공항 NOTAM: 10/17 21:00 GMT까지 폐쇄",
+   "what": {
+    "ko": "리야드 공항 NOTAM: 10/17 21:00 GMT까지 폐쇄",
+    "en": "Riyadh airport NOTAM: closed until 21:00 GMT on 17 Oct",
+    "ar": "إشعار NOTAM لمطار الرياض: مغلق حتى الساعة 21:00 بتوقيت غرينتش يوم 17 أكتوبر"
+   },
    "url": "https://theprint.in/world/saudi-capitals-airport-to-remain-shut-this-week-as-airlines-cancel-services/3069673/"
   },
   {
    "n": 2,
-   "name": "The Peninsula",
+   "name": {
+    "ko": "The Peninsula",
+    "en": "The Peninsula",
+    "ar": "The Peninsula"
+   },
    "date": "2026-10-09",
    "kind": "언론 보도",
-   "what": "카타르항공 10/9·10/10 도하–리야드 다수 결항",
+   "what": {
+    "ko": "카타르항공 10/9·10/10 도하–리야드 다수 결항",
+    "en": "Qatar Airways cancelled many Doha–Riyadh flights on 9 and 10 Oct",
+    "ar": "إلغاء الخطوط الجوية القطرية عددًا من رحلات الدوحة–الرياض يومي 9 و10 أكتوبر"
+   },
    "url": "https://thepeninsulaqatar.com/article/09/10/2026/qatar-airways-cancels-several-doha-riyadh-flights-on-october-9-and-10"
   },
   {
    "n": 3,
-   "name": "Travel Extra",
+   "name": {
+    "ko": "Travel Extra",
+    "en": "Travel Extra",
+    "ar": "Travel Extra"
+   },
    "date": "2026-10-11",
    "kind": "언론 보도",
-   "what": "10/11 도하–리야드 전편 결항",
+   "what": {
+    "ko": "10/11 도하–리야드 전편 결항",
+    "en": "All Doha–Riyadh flights cancelled on 11 Oct",
+    "ar": "إلغاء جميع رحلات الدوحة–الرياض يوم 11 أكتوبر"
+   },
    "url": "https://www.travelextra.ie/twelve-fatalities-and-massive-flight-cancellations-after-latest-attack-on-riyadh-airport/"
   },
   {
    "n": 4,
-   "name": "Flightradar24 (SV541)",
+   "name": {
+    "ko": "Flightradar24 (SV541)",
+    "en": "Flightradar24 (SV541)",
+    "ar": "Flightradar24 (SV541)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "사우디아 리야드편 10/12~14 결항 표시",
+   "what": {
+    "ko": "사우디아 리야드편 10/12~14 결항 표시",
+    "en": "Saudia Doha–Riyadh flights shown as cancelled on 12–14 Oct",
+    "ar": "رحلات الخطوط السعودية بين الدوحة والرياض تظهر ملغاة من 12 إلى 14 أكتوبر"
+   },
    "url": "https://www.flightradar24.com/data/flights/sv541"
   },
   {
    "n": 5,
-   "name": "Flightradar24 (XY224)",
+   "name": {
+    "ko": "Flightradar24 (XY224)",
+    "en": "Flightradar24 (XY224)",
+    "ar": "Flightradar24 (XY224)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "플라이나스 리야드편 10/12 결항 표시",
+   "what": {
+    "ko": "플라이나스 리야드편 10/12 결항 표시",
+    "en": "flynas Doha–Riyadh flight shown as cancelled on 12 Oct",
+    "ar": "رحلة طيران ناس بين الدوحة والرياض تظهر ملغاة يوم 12 أكتوبر"
+   },
    "url": "https://www.flightradar24.com/data/flights/xy224"
   },
   {
    "n": 6,
-   "name": "Planefinder (QR1183)",
+   "name": {
+    "ko": "Planefinder (QR1183)",
+    "en": "Planefinder (QR1183)",
+    "ar": "Planefinder (QR1183)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "카타르항공 제다→도하 10/12 실제 운항",
+   "what": {
+    "ko": "카타르항공 제다→도하 10/12 실제 운항",
+    "en": "Qatar Airways Jeddah → Doha operated on 12 Oct",
+    "ar": "تسيير رحلة الخطوط الجوية القطرية من جدة إلى الدوحة فعليًا يوم 12 أكتوبر"
+   },
    "url": "https://planefinder.net/data/flight/QR1183"
   },
   {
    "n": 7,
-   "name": "Aviability (SV543)",
+   "name": {
+    "ko": "Aviability (SV543)",
+    "en": "Aviability (SV543)",
+    "ar": "Aviability (SV543)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "사우디아 제다편 10/12 실제 운항",
+   "what": {
+    "ko": "사우디아 제다편 10/12 실제 운항",
+    "en": "Saudia Doha–Jeddah flight operated on 12 Oct",
+    "ar": "تسيير رحلة الخطوط السعودية بين الدوحة وجدة فعليًا يوم 12 أكتوبر"
+   },
    "url": "https://aviability.com/en/flight/sv543-saudia/doh-jed"
   },
   {
    "n": 8,
-   "name": "Planefinder (QR1175)",
+   "name": {
+    "ko": "Planefinder (QR1175)",
+    "en": "Planefinder (QR1175)",
+    "ar": "Planefinder (QR1175)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "카타르항공 메디나→도하 10/12 실제 운항",
+   "what": {
+    "ko": "카타르항공 메디나→도하 10/12 실제 운항",
+    "en": "Qatar Airways Madinah → Doha operated on 12 Oct",
+    "ar": "تسيير رحلة الخطوط الجوية القطرية من المدينة المنورة إلى الدوحة فعليًا يوم 12 أكتوبر"
+   },
    "url": "https://planefinder.net/data/flight/QR1175"
   },
   {
    "n": 9,
-   "name": "Trip.com 항공편 현황 (QR1150 등)",
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1150 등)",
+    "en": "Trip.com flight status (QR1150 and others)",
+    "ar": "حالة الرحلات على Trip.com (QR1150 وغيرها)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "담맘편 10/12~14 편별 결항·운항 (항공사 공지 아님)",
+   "what": {
+    "ko": "담맘편 10/12~14 편별 결항·운항 (항공사 공지 아님)",
+    "en": "Flight-by-flight status (cancelled/operating) for Dammam flights, 12–14 Oct (not an airline notice)",
+    "ar": "حالة إلغاء وتسيير رحلات الدمام لكل رحلة من 12 إلى 14 أكتوبر (ليست إشعارًا من شركة الطيران)"
+   },
    "url": "https://sa.trip.com/flights/status-qr1150/"
   },
   {
    "n": 10,
-   "name": "Gulf Business",
+   "name": {
+    "ko": "Gulf Business",
+    "en": "Gulf Business",
+    "ar": "Gulf Business"
+   },
    "date": "2026-10-12",
    "kind": "언론 보도",
-   "what": "담맘 공항 10/11 피격·안전점검, 10/12 오전 결항 27%",
+   "what": {
+    "ko": "담맘 공항 10/11 피격·안전점검, 10/12 오전 결항 27%",
+    "en": "Dammam airport attacked on 11 Oct and under safety checks; 27% of flights cancelled on the morning of 12 Oct",
+    "ar": "تعرّض مطار الدمام لهجوم يوم 11 أكتوبر وخضوعه لفحوص السلامة؛ إلغاء 27% من الرحلات صباح 12 أكتوبر"
+   },
    "url": "https://gulfbusiness.com/en/2026/saudi-arabia/saudi-arabia-flight-cancellations-riyadh-jeddah-dammam-umrah/"
   },
   {
    "n": 11,
-   "name": "Trip.com 항공편 현황 (QR1228)",
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1228)",
+    "en": "Trip.com flight status (QR1228)",
+    "ar": "حالة الرحلات على Trip.com (QR1228)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "하일편 10/12 실제 운항",
+   "what": {
+    "ko": "하일편 10/12 실제 운항",
+    "en": "Hail flight operated on 12 Oct",
+    "ar": "تسيير رحلة حائل فعليًا يوم 12 أكتوبر"
+   },
    "url": "https://sa.trip.com/flights/status-qr1228/"
   },
   {
    "n": 12,
-   "name": "Flightradar24 (QR1203)",
+   "name": {
+    "ko": "Flightradar24 (QR1203)",
+    "en": "Flightradar24 (QR1203)",
+    "ar": "Flightradar24 (QR1203)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "알울라편 10/11 실제 운항",
+   "what": {
+    "ko": "알울라편 10/11 실제 운항",
+    "en": "AlUla flight operated on 11 Oct",
+    "ar": "تسيير رحلة العُلا فعليًا يوم 11 أكتوبر"
+   },
    "url": "https://www.flightradar24.com/data/flights/qr1203"
   },
   {
    "n": 13,
-   "name": "Trip.com 항공편 현황 (QR1213)",
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1213)",
+    "en": "Trip.com flight status (QR1213)",
+    "ar": "حالة الرحلات على Trip.com (QR1213)"
+   },
    "date": "2026-10-12",
    "kind": "항공편 추적",
-   "what": "아브하편 9월 중순 이후 결항 지속, 10/17 결항",
+   "what": {
+    "ko": "아브하편 9월 중순 이후 결항 지속, 10/17 결항",
+    "en": "Abha flights cancelled continuously since mid-September; 17 Oct cancelled",
+    "ar": "إلغاء رحلات أبها باستمرار منذ منتصف سبتمبر؛ ورحلة 17 أكتوبر ملغاة"
+   },
    "url": "https://sa.trip.com/flights/status-qr1213/"
   },
   {
    "n": 14,
-   "name": "ch-aviation",
+   "name": {
+    "ko": "ch-aviation",
+    "en": "ch-aviation",
+    "ar": "ch-aviation"
+   },
    "date": "2026-10-08",
    "kind": "항공 전문지",
-   "what": "아브하 야간 폐쇄, 지잔·나즈란 10/15까지 폐쇄",
+   "what": {
+    "ko": "아브하 야간 폐쇄, 지잔·나즈란 10/15까지 폐쇄",
+    "en": "Abha closed at night; Jazan and Najran closed until 15 Oct",
+    "ar": "إغلاق مطار أبها ليلًا، وإغلاق مطاري جازان ونجران حتى 15 أكتوبر"
+   },
    "url": "https://www.ch-aviation.com/news/172663"
   },
   {
    "n": 15,
-   "name": "Middle East Eye",
+   "name": {
+    "ko": "Middle East Eye",
+    "en": "Middle East Eye",
+    "ar": "Middle East Eye"
+   },
    "date": "2026-10-12",
    "kind": "언론 보도",
-   "what": "후티, 메카·메디나 공항은 공격 대상 제외 / 제다 결항 약 20%",
+   "what": {
+    "ko": "후티, 메카·메디나 공항은 공격 대상 제외 / 제다 결항 약 20%",
+    "en": "Houthis exclude Makkah and Madinah airports from their targets; about 20% of Jeddah flights cancelled",
+    "ar": "استثناء الحوثيين مطارَي مكة المكرمة والمدينة المنورة من قائمة أهدافهم؛ إلغاء نحو 20% من رحلات جدة"
+   },
    "url": "https://www.middleeasteye.net/news/except-mecca-and-medina-chaos-across-saudi-airports-houthis-claim-riyadh-strike-threaten-more"
   },
   {
    "n": 16,
-   "name": "Qatar Tribune",
+   "name": {
+    "ko": "Qatar Tribune",
+    "en": "Qatar Tribune",
+    "ar": "Qatar Tribune"
+   },
    "date": "2026-09-02",
    "kind": "언론 보도",
-   "what": "카타르항공 타이프·카심·얀부·타북 재개 일정",
+   "what": {
+    "ko": "카타르항공 타이프·카심·얀부·타북 재개 일정",
+    "en": "Qatar Airways resumption dates for Taif, Qassim, Yanbu and Tabuk",
+    "ar": "مواعيد استئناف الخطوط الجوية القطرية رحلاتها إلى الطائف والقصيم وينبع وتبوك"
+   },
    "url": "https://www.qatar-tribune.com/article/251647/front/qatar-airways-to-resume-flights-to-four-saudi-gateways-during-winter"
   },
   {
    "n": 17,
-   "name": "쿠키뉴스",
+   "name": {
+    "ko": "쿠키뉴스",
+    "en": "Kukinews (Korea)",
+    "ar": "Kukinews (كوريا)"
+   },
    "date": "2026-10-12",
    "kind": "언론 보도",
-   "what": "외교부, 사우디 전역 여행경보 3단계(출국권고)",
+   "what": {
+    "ko": "외교부, 사우디 전역 여행경보 3단계(출국권고)",
+    "en": "Korean MOFA travel advisory for all of Saudi Arabia: Level 3 (Departure Recommended)",
+    "ar": "تحذير السفر الصادر عن وزارة الخارجية الكورية لجميع أنحاء السعودية: المستوى 3 (يُوصى بالمغادرة)"
+   },
    "url": "https://www.kukinews.com/article/view/kuk202610120002"
   },
   {
    "n": 18,
-   "name": "The National",
+   "name": {
+    "ko": "The National",
+    "en": "The National",
+    "ar": "The National"
+   },
    "date": "2026-10-12",
    "kind": "언론 보도",
-   "what": "사우디 전체 결항률 46.4% (Cirium 집계)",
+   "what": {
+    "ko": "사우디 전체 결항률 46.4% (Cirium 집계)",
+    "en": "46.4% of flights across Saudi Arabia cancelled (Cirium data)",
+    "ar": "إلغاء 46.4% من الرحلات في السعودية (بيانات Cirium)"
+   },
    "url": "https://www.thenationalnews.com/travel/2026/10/12/riyadh-airport-closure-emirates-etihad-flights/"
   },
   {
    "n": 19,
-   "name": "Rome2rio",
+   "name": {
+    "ko": "Rome2rio",
+    "en": "Rome2rio",
+    "ar": "Rome2rio"
+   },
    "date": "2026-10-12",
    "kind": "경로 안내",
-   "what": "리야드·담맘→도하 육로 거리·시간",
+   "what": {
+    "ko": "리야드·담맘→도하 육로 거리·시간",
+    "en": "Road distance and travel time from Riyadh and Dammam to Doha",
+    "ar": "المسافة البرية ومدة السفر من الرياض والدمام إلى الدوحة"
+   },
    "url": "https://www.rome2rio.com/s/Riyadh/Doha"
   },
   {
    "n": 20,
-   "name": "카타르항공 여행 공지",
+   "name": {
+    "ko": "카타르항공 여행 공지",
+    "en": "Qatar Airways travel alerts",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية"
+   },
    "date": "2026-10-09",
    "kind": "항공사 공지",
-   "what": "리야드 스케줄 조정 공지 (날짜·편명 미기재)",
+   "what": {
+    "ko": "리야드 스케줄 조정 공지 (날짜·편명 미기재)",
+    "en": "Notice of Riyadh schedule changes (no dates or flight numbers given)",
+    "ar": "إشعار بتعديل جدول رحلات الرياض (دون ذكر التواريخ أو أرقام الرحلات)"
+   },
    "url": "https://www.qatarairways.com/en-us/travel-alerts.html"
   }
  ]

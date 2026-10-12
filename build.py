@@ -68,7 +68,8 @@ page = f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name
 <title>사우디→도하 항공편 현황판 | Saudi Arabia → Doha Flight Status</title>
 <meta name="description" content="사우디아라비아 각 도시에서 도하로 가는 직항의 운항·결항 여부와 공항 상황을 1시간 단위로 업데이트하는 참고용 현황판">
 <style>{CSS}</style></head><body><div class="w">
-<header><div><h1>사우디 → 도하 항공편 현황</h1></div><a class="sitelink" href="{SITE_KR}" target="_blank" rel="noopener">도하 ↔ 서울 현황판 ↗</a></header>
+<a class="krbtn" href="{SITE_KR}" target="_blank" rel="noopener"><span class="krbtn-t">도하 → 한국 항공편 현황 보기</span><span class="krbtn-s">카타르항공 도하↔인천 운항·지연·결항 현황판 ↗</span></a>
+<header><div><h1>사우디 → 도하 항공편 현황</h1></div></header>
 <p class="intro">사우디아라비아에 체류 중인 우리 국민과 기업인의 도하 이동(대피) 판단을 돕기 위해, 사우디 각 도시와 도하를 잇는 직항의 운항·결항 여부와 사우디 공항 상황을 <b>1시간 단위로 업데이트</b>하여 보여주는 현황판입니다. 도시별로 지금 이용할 수 있는지를 먼저 보여드리고, 향후 약 열흘간의 날짜별 운항 전망과 근거 자료를 함께 제공합니다.</p>
 <div class="ts" style="margin-top:8px">업데이트 시점 <b>{upd_txt}</b> 도하 시각</div>
 <div class="meta">{pills}</div>

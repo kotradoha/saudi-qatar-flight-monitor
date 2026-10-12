@@ -95,7 +95,7 @@
    },
    "iata": "JED",
    "verdict": {
-    "ko": "탈 수 있음",
+    "ko": "이용 가능",
     "en": "Flights available",
     "ar": "الرحلات متاحة"
    },
@@ -129,7 +129,7 @@
    },
    "iata": "MED",
    "verdict": {
-    "ko": "탈 수 있음",
+    "ko": "이용 가능",
     "en": "Flights available",
     "ar": "الرحلات متاحة"
    },
@@ -162,7 +162,7 @@
    },
    "iata": "DMM",
    "verdict": {
-    "ko": "일부만 운항",
+    "ko": "일부 편만 운항",
     "en": "Some flights only",
     "ar": "بعض الرحلات فقط"
    },
@@ -195,7 +195,7 @@
    },
    "iata": "HAS",
    "verdict": {
-    "ko": "탈 수 있음 (주 3회)",
+    "ko": "이용 가능 (주 3회)",
     "en": "Flights available (3 a week)",
     "ar": "الرحلات متاحة (3 رحلات أسبوعيًا)"
    },
@@ -227,7 +227,7 @@
    },
    "iata": "ULH",
    "verdict": {
-    "ko": "탈 수 있음 (주 2~3회)",
+    "ko": "이용 가능 (주 2~3회)",
     "en": "Flights available (2–3 a week)",
     "ar": "الرحلات متاحة (2–3 رحلات أسبوعيًا)"
    },
@@ -259,7 +259,7 @@
    },
    "iata": "RUH",
    "verdict": {
-    "ko": "불가 — 공항 폐쇄",
+    "ko": "이용 불가 — 공항 폐쇄",
     "en": "Not possible — airport closed",
     "ar": "غير متاح — المطار مغلق"
    },
@@ -294,7 +294,7 @@
    },
    "iata": "AHB",
    "verdict": {
-    "ko": "사실상 불가",
+    "ko": "사실상 이용 불가",
     "en": "Effectively unavailable",
     "ar": "الرحلات غير متاحة عمليًا"
    },

@@ -81,14 +81,6 @@
    "refs": [
     19
    ]
-  },
-  {
-   "html": {
-    "ko": "표의 <b>‘예정’은 결항 공지가 없다는 뜻</b>이지 운항이 보장된 것은 아닙니다. 출발 24시간 안에 항공사 앱에서 꼭 다시 확인하세요.",
-    "en": "<b>“Scheduled” in the table means no cancellation has been announced</b>; it does not guarantee that the flight will operate. Please check again in the airline’s app within 24 hours of departure.",
-    "ar": "<b>تعني كلمة «مجدولة» في الجدول أنه لم يُعلَن عن إلغاء الرحلة</b>، ولا تضمن تسييرها. يُرجى التحقق مجددًا عبر تطبيق شركة الطيران خلال الـ24 ساعة السابقة للإقلاع."
-   },
-   "refs": []
   }
  ],
  "cards": [

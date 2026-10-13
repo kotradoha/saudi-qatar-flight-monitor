@@ -36,6 +36,7 @@ UI = {
   "th_city": "도시", "th_air": "항공사", "th_ref": "근거",
   "st": {"운항": "운항", "예정": "예정", "일부결항": "일부결항", "결항": "결항", "폐쇄": "폐쇄", "미정": "미정"},
   "lg": {"운항": "실제 운항 확인", "예정": "결항 공지 없음", "일부결항": "일부 편 결항", "결항": "결항 확인", "폐쇄": "공항 폐쇄", "미정": "재개 불확실"},
+  "plan_note": "※ ‘예정’은 결항 공지가 없다는 뜻이지 운항이 보장된 것은 아닙니다. 출발 24시간 안에 항공사 앱에서 꼭 다시 확인하세요.",
   "lg_blank": "빈칸 = 운항 요일 아님",
   "nodirect": "도하 직항이 없는 도시",
   "nodirect_sub": "육로로 이동하거나 국내선으로 제다·메디나를 거쳐야 합니다.",
@@ -73,6 +74,7 @@ UI = {
   "th_city": "City", "th_air": "Airline", "th_ref": "Sources",
   "st": {"운항": "Operated", "예정": "Scheduled", "일부결항": "Partial", "결항": "Cancelled", "폐쇄": "Closed", "미정": "TBC"},
   "lg": {"운항": "Operation confirmed", "예정": "No cancellation announced", "일부결항": "Some flights cancelled", "결항": "Cancellation confirmed", "폐쇄": "Airport closed", "미정": "Resumption uncertain"},
+  "plan_note": "※ “Scheduled” means no cancellation has been announced; it does not guarantee that the flight will operate. Please check again in the airline’s app within 24 hours of departure.",
   "lg_blank": "Blank = no flight that day",
   "nodirect": "Cities without direct flights to Doha",
   "nodirect_sub": "Travel by road, or take a domestic flight to Jeddah or Madinah first.",
@@ -110,6 +112,7 @@ UI = {
   "th_city": "المدينة", "th_air": "شركة الطيران", "th_ref": "المصادر",
   "st": {"운항": "سُيِّرت", "예정": "مجدولة", "일부결항": "إلغاء جزئي", "결항": "ملغاة", "폐쇄": "مغلق", "미정": "غير مؤكدة"},
   "lg": {"운항": "تأكّد تسييرها فعليًا", "예정": "لم يُعلَن إلغاؤها", "일부결항": "إلغاء بعض الرحلات", "결항": "تأكّد إلغاؤها", "폐쇄": "المطار مغلق", "미정": "استئنافها غير مؤكد"},
+  "plan_note": "※ تعني كلمة «مجدولة» أنه لم يُعلَن عن إلغاء الرحلة، ولا تضمن تسييرها. يُرجى التحقق مجددًا عبر تطبيق شركة الطيران خلال الـ24 ساعة السابقة للإقلاع.",
   "lg_blank": "الخانة الفارغة = لا رحلة في ذلك اليوم",
   "nodirect": "مدن لا توجد منها رحلات مباشرة إلى الدوحة",
   "nodirect_sub": "يجب السفر برًّا، أو التوجّه أولًا إلى جدة أو المدينة المنورة على متن رحلة داخلية.",
@@ -221,6 +224,7 @@ def render(lang):
 <h2 class="sec">{U["daily"].format(span=span)}</h2>
 <p class="sub">{U["daily_sub"]}</p>
 <div class="card"><div class="legend">{legend}<span>{U["lg_blank"]}</span></div>
+<p class="plannote">{U["plan_note"]}</p>
 <div class="scroll"><table><thead><tr><th class="city">{U["th_city"]}</th><th class="airh">{U["th_air"]}</th>{ths}<th>{U["th_ref"]}</th></tr></thead><tbody>{rows}</tbody></table></div></div>
 <div class="two" style="margin-top:12px">
 <div class="card"><h3>{U["nodirect"]}</h3><p class="sub">{U["nodirect_sub"]}</p><ul>{nf}</ul></div>

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T07:44:00+03:00",
+ "updated_at": "2026-10-13T09:44:00+03:00",
  "window_start": "2026-10-13",
  "pills": [
   {
@@ -34,13 +34,15 @@
  "key_points": [
   {
    "html": {
-    "ko": "<span class='red'>리야드 출발 불가.</span> 공항이 <b>10/18 00:00(도하 시각)까지 폐쇄</b>되어 모든 항공사 운항이 중단됐습니다. 폐쇄는 이미 두 차례 연장됐고, 재개 일정도 없습니다. 구글 항공편 등 예약 사이트에는 이 기간 리야드 출발편이 아직 판매 중으로 보일 수 있지만, 공항 폐쇄가 풀리지 않으면 운항할 수 없습니다. 예약 전에 항공사에 운항 여부를 꼭 확인하세요.",
-    "en": "<span class='red'>No departures from Riyadh.</span> The airport is <b>closed until 00:00 on 18 Oct (Doha time)</b>, and all airlines have suspended flights. The closure has already been extended twice, and no reopening date has been announced. Booking sites such as Google Flights may still show Riyadh departures on sale for this period, but they cannot operate unless the airport reopens. Always check with the airline that your flight will operate before booking.",
-    "ar": "<span class='red'>لا رحلات مغادرة من الرياض.</span> المطار <b>مغلق حتى الساعة 00:00 من يوم 18 أكتوبر (بتوقيت الدوحة)</b>، وقد علّقت جميع شركات الطيران رحلاتها. ومُدِّد الإغلاق مرتين حتى الآن، ولم يُعلَن موعد لإعادة فتح المطار. قد تظهر رحلات المغادرة من الرياض خلال هذه الفترة معروضةً للبيع في مواقع الحجز مثل Google Flights، لكن لا يمكن تسييرها ما لم يُعَد فتح المطار. يُرجى التأكد لدى شركة الطيران من تسيير رحلتك قبل الحجز."
+    "ko": "<span class='red'>리야드 출발 불가.</span> 공항이 <b>10/18 00:00(도하 시각)까지 폐쇄</b>되어 모든 항공사 운항이 중단됐습니다. 폐쇄는 이미 두 차례 연장됐고, 재개 일정도 없습니다. 10/12 밤에도 리야드를 향한 후티 탄도미사일이 요격됐습니다. 구글 항공편 등 예약 사이트에는 이 기간 리야드 출발편이 아직 판매 중으로 보일 수 있지만, 공항 폐쇄가 풀리지 않으면 운항할 수 없습니다. 예약 전에 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>No departures from Riyadh.</span> The airport is <b>closed until 00:00 on 18 Oct (Doha time)</b>, and all airlines have suspended flights. The closure has already been extended twice, and no reopening date has been announced. On the night of 12 Oct, a Houthi ballistic missile aimed at Riyadh was also intercepted. Booking sites such as Google Flights may still show Riyadh departures on sale for this period, but they cannot operate unless the airport reopens. Always check with the airline that your flight will operate before booking.",
+    "ar": "<span class='red'>لا رحلات مغادرة من الرياض.</span> المطار <b>مغلق حتى الساعة 00:00 من يوم 18 أكتوبر (بتوقيت الدوحة)</b>، وقد علّقت جميع شركات الطيران رحلاتها. ومُدِّد الإغلاق مرتين حتى الآن، ولم يُعلَن موعد لإعادة فتح المطار. وفي ليلة 12 أكتوبر، اعتُرض أيضًا صاروخ باليستي حوثي أُطلق باتجاه الرياض. قد تظهر رحلات المغادرة من الرياض خلال هذه الفترة معروضةً للبيع في مواقع الحجز مثل Google Flights، لكن لا يمكن تسييرها ما لم يُعَد فتح المطار. يُرجى التأكد لدى شركة الطيران من تسيير رحلتك قبل الحجز."
    },
    "refs": [
     1,
-    3
+    3,
+    28,
+    29
    ]
   },
   {
@@ -1197,6 +1199,38 @@
     "ar": "نقلًا عن الخطوط الجوية القطرية: «نظرًا للوضع الراهن، عُلِّقت الرحلات من الرياض والدمام وإليهما مؤقتًا»"
    },
    "url": "https://english.news.cn/20261013/7068974a772141cda8ec64a856a74d7b/c.html"
+  },
+  {
+   "n": 28,
+   "name": {
+    "ko": "Al Jazeera",
+    "en": "Al Jazeera",
+    "ar": "الجزيرة"
+   },
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/12 리야드 향한 후티 탄도미사일 요격 (연합군 발표)",
+    "en": "Houthi ballistic missile aimed at Riyadh intercepted on 12 Oct (coalition statement)",
+    "ar": "اعتراض صاروخ باليستي حوثي أُطلق باتجاه الرياض يوم 12 أكتوبر (بيان التحالف)"
+   },
+   "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row"
+  },
+  {
+   "n": 29,
+   "name": {
+    "ko": "ABC News (AP·로이터 인용)",
+    "en": "ABC News (citing AP/Reuters)",
+    "ar": "ABC News (نقلًا عن أسوشيتد برس ورويترز)"
+   },
+   "date": "2026-10-12",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "리야드 향한 후티 탄도미사일 요격, 리야드 공항 10/17까지 폐쇄",
+    "en": "Houthi ballistic missile aimed at Riyadh intercepted; Riyadh airport closed until 17 Oct",
+    "ar": "اعتراض صاروخ باليستي حوثي أُطلق باتجاه الرياض، وإغلاق مطار الرياض حتى 17 أكتوبر"
+   },
+   "url": "https://www.abc.net.au/news/2026-10-13/saudis-probe-houthi-attack-on-riyadh-airport-amid-ongoing-attack/107258142"
   }
  ]
 }

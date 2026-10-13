@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T19:45:00+03:00",
+ "updated_at": "2026-10-13T20:55:00+03:00",
  "window_start": "2026-10-13",
  "pills": [
   {
@@ -177,9 +177,9 @@
     "ar": "خط للخطوط الجوية القطرية (3 رحلات يوميًا) — أُعلِن تعليقه مؤقتًا يوم 12 أكتوبر"
    },
    "times": {
-    "ko": "담맘 출발 05:00 · 10:55 · 22:30 — 10/12 10:55편 실제 운항(지연), 10/13 결항, 이후 재개일 미발표",
-    "en": "Departs Dammam 05:00 · 10:55 · 22:30 — on 12 Oct the 10:55 flight actually operated (delayed); 13 Oct cancelled; no resumption date announced",
-    "ar": "المغادرة من الدمام 05:00 · 10:55 · 22:30 — يوم 12 أكتوبر سُيِّرت رحلة 10:55 فعليًا (متأخرة)، وأُلغيت الرحلات يوم 13 أكتوبر، ولم يُعلَن موعد الاستئناف"
+    "ko": "담맘 출발 05:00 · 10:55 · 22:30 — 10/12 10:55편 실제 운항(지연), 10/13 결항, 10/14 05:00·22:30편도 결항 표시(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 이후 재개일 미발표",
+    "en": "Departs Dammam 05:00 · 10:55 · 22:30 — on 12 Oct the 10:55 flight actually operated (delayed); 13 Oct cancelled; the 05:00 and 22:30 flights on 14 Oct are also shown as cancelled (per flight-tracking sites, not an official airline announcement); no resumption date announced",
+    "ar": "المغادرة من الدمام 05:00 · 10:55 · 22:30 — يوم 12 أكتوبر سُيِّرت رحلة 10:55 فعليًا (متأخرة)، وأُلغيت الرحلات يوم 13 أكتوبر، كما تظهر رحلتا 05:00 و22:30 يوم 14 أكتوبر ملغاتين (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولم يُعلَن موعد الاستئناف"
    },
    "note": {
     "ko": "카타르항공 여행 공지로 리야드·담맘 운항 일시 중단(The Peninsula·신화통신 보도, 기간 미발표). 일부 추적 사이트에는 10/14 이후 편이 아직 ‘예정’으로 표시돼 항공사 발표와 어긋남. 10/11 공항 피격",
@@ -194,7 +194,8 @@
     22,
     24,
     26,
-    27
+    27,
+    35
    ]
   },
   {
@@ -530,7 +531,7 @@
    },
    "status": [
     "결항",
-    "미정",
+    "결항",
     "미정",
     "미정",
     "미정",
@@ -549,7 +550,8 @@
     22,
     24,
     26,
-    27
+    27,
+    35
    ]
   },
   {
@@ -1104,12 +1106,12 @@
     "en": "Trip.com flight status (QR1155)",
     "ar": "حالة الرحلات على Trip.com (QR1155)"
    },
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "kind": "항공편 추적",
    "what": {
-    "ko": "담맘 22:30 출발편 10/13 결항, 10/14 예정 표시 (항공사 공지 아님)",
-    "en": "Dammam 22:30 departure shown as cancelled on 13 Oct and scheduled on 14 Oct (not an airline notice)",
-    "ar": "رحلة المغادرة من الدمام 22:30 تظهر ملغاة يوم 13 أكتوبر ومجدولة يوم 14 أكتوبر (ليست إشعارًا من شركة الطيران)"
+    "ko": "담맘 22:30 출발편 10/13~16 결항 표시 (항공사 공지 아님)",
+    "en": "Dammam 22:30 departure shown as cancelled 13–16 Oct (not an airline notice)",
+    "ar": "رحلة المغادرة من الدمام 22:30 تظهر ملغاة من 13 إلى 16 أكتوبر (ليست إشعارًا من شركة الطيران)"
    },
    "url": "https://ph.trip.com/flights/status-qr1155/"
   },
@@ -1152,7 +1154,7 @@
     "en": "Trip.com flight status (QR1157)",
     "ar": "حالة الرحلات على Trip.com (QR1157)"
    },
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "kind": "항공편 추적",
    "what": {
     "ko": "담맘 05:00 출발편 10/12~14 결항 표시 (항공사 공지 아님)",
@@ -1320,6 +1322,22 @@
     "ar": "تسيير رحلة الخطوط الجوية القطرية من المدينة المنورة إلى الدوحة فعليًا يوم 13 أكتوبر"
    },
    "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
+  },
+  {
+   "n": 35,
+   "name": {
+    "ko": "Flightradar24 (QR1155)",
+    "en": "Flightradar24 (QR1155)",
+    "ar": "Flightradar24 (QR1155)"
+   },
+   "date": "2026-10-13",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘 22:30 출발편 10/13·14 결항, 10/15 이후 예정 표시 — Trip.com 결항 표시와 엇갈림",
+    "en": "Dammam 22:30 departure shown as cancelled on 13 and 14 Oct and scheduled from 15 Oct — conflicts with Trip.com's cancellation listing",
+    "ar": "رحلة المغادرة من الدمام 22:30 تظهر ملغاة يومَي 13 و14 أكتوبر ومجدولة اعتبارًا من 15 أكتوبر — يتعارض ذلك مع ما يعرضه Trip.com من إلغاء"
+   },
+   "url": "https://www.flightradar24.com/data/flights/qr1155"
   }
  ]
 }

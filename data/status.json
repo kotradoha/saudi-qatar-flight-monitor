@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T17:49:00+03:00",
+ "updated_at": "2026-10-13T19:45:00+03:00",
  "window_start": "2026-10-13",
  "pills": [
   {
@@ -49,13 +49,14 @@
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/12 실제 운항이 확인됐고 결항 공지가 없습니다. 메디나는 후티가 공격 대상에서 제외한 공항입니다.",
-    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Jeddah has about 8 flights a day (7 by Qatar Airways, 1 by Saudia) and Madinah has 2 a day. Flights from both cities were confirmed operating on 12 Oct, and no cancellations have been announced. Madinah is one of the airports the Houthis have excluded from their targets.",
-    "ar": "<span class='grn'>جدة والمدينة المنورة هما نقطتا الانطلاق الأكثر موثوقية إلى الدوحة.</span> تُسيَّر من جدة نحو 8 رحلات يوميًا (7 للخطوط الجوية القطرية ورحلة واحدة للخطوط السعودية)، ومن المدينة المنورة رحلتان يوميًا. وقد تأكّد تسيير الرحلات من المدينتين يوم 12 أكتوبر، ولم يُعلَن عن أي إلغاء. ويُعدّ مطار المدينة المنورة من المطارات التي استثناها الحوثيون من قائمة أهدافهم."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/13 실제 운항이 확인됐고 결항 공지가 없습니다. 메디나는 후티가 공격 대상에서 제외한 공항입니다.",
+    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Jeddah has about 8 flights a day (7 by Qatar Airways, 1 by Saudia) and Madinah has 2 a day. Flights from both cities were confirmed operating on 13 Oct, and no cancellations have been announced. Madinah is one of the airports the Houthis have excluded from their targets.",
+    "ar": "<span class='grn'>جدة والمدينة المنورة هما نقطتا الانطلاق الأكثر موثوقية إلى الدوحة.</span> تُسيَّر من جدة نحو 8 رحلات يوميًا (7 للخطوط الجوية القطرية ورحلة واحدة للخطوط السعودية)، ومن المدينة المنورة رحلتان يوميًا. وقد تأكّد تسيير الرحلات من المدينتين يوم 13 أكتوبر، ولم يُعلَن عن أي إلغاء. ويُعدّ مطار المدينة المنورة من المطارات التي استثناها الحوثيون من قائمة أهدافهم."
    },
    "refs": [
     6,
     8,
+    34,
     15
    ]
   },
@@ -113,9 +114,9 @@
     "ar": "المغادرة من جدة 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · نحو 22:00 (الخطوط الجوية القطرية) / الخطوط السعودية من الأحد إلى الأربعاء 09:30، ومن الخميس إلى السبت 12:35"
    },
    "note": {
-    "ko": "10/12 실제 운항 확인, 결항 공지 없음. 공항 결항률 약 20%로 지연 잦음",
-    "en": "Confirmed operating on 12 Oct; no cancellations announced. About 20% of flights at the airport are being cancelled, and delays are frequent.",
-    "ar": "تأكّد تسيير الرحلات يوم 12 أكتوبر، ولم يُعلَن عن أي إلغاء. تبلغ نسبة الرحلات الملغاة في المطار نحو 20%، والتأخيرات متكررة."
+    "ko": "10/13 실제 운항 확인, 결항 공지 없음. 공항 결항률 약 20%로 지연 잦음",
+    "en": "Confirmed operating on 13 Oct; no cancellations announced. About 20% of flights at the airport are being cancelled, and delays are frequent.",
+    "ar": "تأكّد تسيير الرحلات يوم 13 أكتوبر، ولم يُعلَن عن أي إلغاء. تبلغ نسبة الرحلات الملغاة في المطار نحو 20%، والتأخيرات متكررة."
    },
    "refs": [
     6,
@@ -147,11 +148,12 @@
     "ar": "المغادرة من المدينة المنورة 04:45 · 08:25"
    },
    "note": {
-    "ko": "10/12 실제 운항 확인. 후티가 공격 대상에서 제외한 공항",
-    "en": "Confirmed operating on 12 Oct. The Houthis have excluded this airport from their targets.",
-    "ar": "تأكّد تسيير الرحلات يوم 12 أكتوبر. وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم."
+    "ko": "10/13 실제 운항 확인. 후티가 공격 대상에서 제외한 공항",
+    "en": "Confirmed operating on 13 Oct. The Houthis have excluded this airport from their targets.",
+    "ar": "تأكّد تسيير الرحلات يوم 13 أكتوبر. وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم."
    },
    "refs": [
+    34,
     8,
     15
    ]
@@ -862,12 +864,12 @@
     "en": "Planefinder (QR1183)",
     "ar": "Planefinder (QR1183)"
    },
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 제다→도하 10/12 실제 운항",
-    "en": "Qatar Airways Jeddah → Doha operated on 12 Oct",
-    "ar": "تسيير رحلة الخطوط الجوية القطرية من جدة إلى الدوحة فعليًا يوم 12 أكتوبر"
+    "ko": "카타르항공 제다→도하 10/13 실제 운항",
+    "en": "Qatar Airways Jeddah → Doha operated on 13 Oct",
+    "ar": "تسيير رحلة الخطوط الجوية القطرية من جدة إلى الدوحة فعليًا يوم 13 أكتوبر"
    },
    "url": "https://planefinder.net/data/flight/QR1183"
   },
@@ -1302,6 +1304,22 @@
     "ar": "التحالف يعلن اعتراض ثلاث طائرات مسيّرة شمال الرياض وتدميرها يوم 13 أكتوبر (دون ذكر أضرار)"
    },
    "url": "https://www.bernama.com/en/world/news.php?id=2619835"
+  },
+  {
+   "n": 34,
+   "name": {
+    "ko": "Aviability (QR1175)",
+    "en": "Aviability (QR1175)",
+    "ar": "Aviability (QR1175)"
+   },
+   "date": "2026-10-13",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 메디나→도하 10/13 실제 운항",
+    "en": "Qatar Airways Madinah → Doha operated on 13 Oct",
+    "ar": "تسيير رحلة الخطوط الجوية القطرية من المدينة المنورة إلى الدوحة فعليًا يوم 13 أكتوبر"
+   },
+   "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
   }
  ]
 }

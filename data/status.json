@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T09:44:00+03:00",
+ "updated_at": "2026-10-13T10:44:00+03:00",
  "window_start": "2026-10-13",
  "pills": [
   {
@@ -314,13 +314,15 @@
     "ar": "رحلة 17 أكتوبر ملغاة، ورحلتا 15 و22 أكتوبر غير مؤكدتين"
    },
    "note": {
-    "ko": "공항 10/15까지 야간 폐쇄",
-    "en": "Airport closed at night until 15 Oct",
-    "ar": "المطار مغلق ليلًا حتى 15 أكتوبر"
+    "ko": "공항 10/15까지 야간 폐쇄. 10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격(연합군 발표)",
+    "en": "Airport closed at night until 15 Oct. Early on 13 Oct, two Houthi ballistic missiles fired toward Khamis Mushait were intercepted (coalition statement)",
+    "ar": "المطار مغلق ليلًا حتى 15 أكتوبر. في وقت مبكر من يوم 13 أكتوبر، اعتُرض صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف)"
    },
    "refs": [
     13,
-    14
+    14,
+    30,
+    31
    ]
   }
  ],
@@ -1231,6 +1233,38 @@
     "ar": "اعتراض صاروخ باليستي حوثي أُطلق باتجاه الرياض، وإغلاق مطار الرياض حتى 17 أكتوبر"
    },
    "url": "https://www.abc.net.au/news/2026-10-13/saudis-probe-houthi-attack-on-riyadh-airport-amid-ongoing-attack/107258142"
+  },
+  {
+   "n": 30,
+   "name": {
+    "ko": "The National",
+    "en": "The National",
+    "ar": "The National"
+   },
+   "date": "2026-10-13",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격 (연합군 발표)",
+    "en": "Two Houthi ballistic missiles fired toward Khamis Mushait intercepted early on 13 Oct (coalition statement)",
+    "ar": "اعتراض صاروخين باليستيين حوثيين أُطلقا باتجاه خميس مشيط في وقت مبكر من يوم 13 أكتوبر (بيان التحالف)"
+   },
+   "url": "https://www.thenationalnews.com/news/mena/2026/10/13/saudi-arabia-vows-to-remain-strong-after-deadly-houthi-attacks/"
+  },
+  {
+   "n": 31,
+   "name": {
+    "ko": "타스통신 (TASS)",
+    "en": "TASS",
+    "ar": "وكالة تاس"
+   },
+   "date": "2026-10-13",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군 대변인: 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격·파괴",
+    "en": "Coalition spokesman: two Houthi ballistic missiles fired toward Khamis Mushait intercepted and destroyed",
+    "ar": "المتحدث باسم التحالف: اعتراض صاروخين باليستيين حوثيين أُطلقا باتجاه خميس مشيط وتدميرهما"
+   },
+   "url": "https://tass.com/world/2201169"
   }
  ]
 }

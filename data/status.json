@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T15:48:00+03:00",
+ "updated_at": "2026-10-13T16:37:00+03:00",
  "window_start": "2026-10-13",
  "pills": [
   {
@@ -34,15 +34,17 @@
  "key_points": [
   {
    "html": {
-    "ko": "<span class='red'>리야드 출발 불가.</span> 공항이 <b>10/18 00:00(도하 시각)까지 폐쇄</b>되어 모든 항공사 운항이 중단됐습니다. 폐쇄는 이미 두 차례 연장됐고, 재개 일정도 없습니다. 10/12 밤에도 리야드를 향한 후티 탄도미사일이 요격됐습니다. 구글 항공편 등 예약 사이트에는 이 기간 리야드 출발편이 아직 판매 중으로 보일 수 있지만, 공항 폐쇄가 풀리지 않으면 운항할 수 없습니다. 예약 전에 항공사에 운항 여부를 꼭 확인하세요.",
-    "en": "<span class='red'>No departures from Riyadh.</span> The airport is <b>closed until 00:00 on 18 Oct (Doha time)</b>, and all airlines have suspended flights. The closure has already been extended twice, and no reopening date has been announced. On the night of 12 Oct, a Houthi ballistic missile aimed at Riyadh was also intercepted. Booking sites such as Google Flights may still show Riyadh departures on sale for this period, but they cannot operate unless the airport reopens. Always check with the airline that your flight will operate before booking.",
-    "ar": "<span class='red'>لا رحلات مغادرة من الرياض.</span> المطار <b>مغلق حتى الساعة 00:00 من يوم 18 أكتوبر (بتوقيت الدوحة)</b>، وقد علّقت جميع شركات الطيران رحلاتها. ومُدِّد الإغلاق مرتين حتى الآن، ولم يُعلَن موعد لإعادة فتح المطار. وفي ليلة 12 أكتوبر، اعتُرض أيضًا صاروخ باليستي حوثي أُطلق باتجاه الرياض. قد تظهر رحلات المغادرة من الرياض خلال هذه الفترة معروضةً للبيع في مواقع الحجز مثل Google Flights، لكن لا يمكن تسييرها ما لم يُعَد فتح المطار. يُرجى التأكد لدى شركة الطيران من تسيير رحلتك قبل الحجز."
+    "ko": "<span class='red'>리야드 출발 불가.</span> 공항이 <b>10/18 00:00(도하 시각)까지 폐쇄</b>되어 모든 항공사 운항이 중단됐습니다. 폐쇄는 이미 두 차례 연장됐고, 재개 일정도 없습니다. 10/12 밤 리야드를 향한 후티 탄도미사일이 요격됐고, 10/13에는 리야드 북쪽에서 드론 3기가 요격됐습니다(연합군 발표). 구글 항공편 등 예약 사이트에는 이 기간 리야드 출발편이 아직 판매 중으로 보일 수 있지만, 공항 폐쇄가 풀리지 않으면 운항할 수 없습니다. 예약 전에 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>No departures from Riyadh.</span> The airport is <b>closed until 00:00 on 18 Oct (Doha time)</b>, and all airlines have suspended flights. The closure has already been extended twice, and no reopening date has been announced. On the night of 12 Oct, a Houthi ballistic missile aimed at Riyadh was intercepted, and on 13 Oct three drones were intercepted north of Riyadh (coalition statement). Booking sites such as Google Flights may still show Riyadh departures on sale for this period, but they cannot operate unless the airport reopens. Always check with the airline that your flight will operate before booking.",
+    "ar": "<span class='red'>لا رحلات مغادرة من الرياض.</span> المطار <b>مغلق حتى الساعة 00:00 من يوم 18 أكتوبر (بتوقيت الدوحة)</b>، وقد علّقت جميع شركات الطيران رحلاتها. ومُدِّد الإغلاق مرتين حتى الآن، ولم يُعلَن موعد لإعادة فتح المطار. وفي ليلة 12 أكتوبر، اعتُرض صاروخ باليستي حوثي أُطلق باتجاه الرياض، كما اعتُرضت يوم 13 أكتوبر ثلاث طائرات مسيّرة شمال الرياض (بحسب بيان التحالف). قد تظهر رحلات المغادرة من الرياض خلال هذه الفترة معروضةً للبيع في مواقع الحجز مثل Google Flights، لكن لا يمكن تسييرها ما لم يُعَد فتح المطار. يُرجى التأكد لدى شركة الطيران من تسيير رحلتك قبل الحجز."
    },
    "refs": [
     1,
     3,
     28,
-    29
+    29,
+    32,
+    33
    ]
   },
   {
@@ -1268,6 +1270,38 @@
     "ar": "المتحدث باسم التحالف: اعتراض صاروخين باليستيين حوثيين أُطلقا باتجاه خميس مشيط وتدميرهما"
    },
    "url": "https://tass.com/world/2201169"
+  },
+  {
+   "n": 32,
+   "name": {
+    "ko": "Naharnet (AFP 인용)",
+    "en": "Naharnet (citing AFP)",
+    "ar": "Naharnet (نقلًا عن وكالة فرانس برس)"
+   },
+   "date": "2026-10-13",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군 대변인: 10/13 리야드 북쪽에서 드론 3기 요격·파괴",
+    "en": "Coalition spokesman: three drones intercepted and destroyed north of Riyadh on 13 Oct",
+    "ar": "المتحدث باسم التحالف: اعتراض ثلاث طائرات مسيّرة شمال الرياض وتدميرها يوم 13 أكتوبر"
+   },
+   "url": "https://www.naharnet.com/stories/en/323081-saudi-led-coalition-says-intercepted-three-drones-north-of-riyadh"
+  },
+  {
+   "n": 33,
+   "name": {
+    "ko": "Bernama (아나돌루통신 인용)",
+    "en": "Bernama (citing Anadolu Agency)",
+    "ar": "Bernama (نقلًا عن وكالة الأناضول)"
+   },
+   "date": "2026-10-13",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군, 10/13 리야드 북쪽에서 드론 3기 요격·파괴 발표 (피해 언급 없음)",
+    "en": "Coalition says three drones intercepted and destroyed north of Riyadh on 13 Oct (no damage mentioned)",
+    "ar": "التحالف يعلن اعتراض ثلاث طائرات مسيّرة شمال الرياض وتدميرها يوم 13 أكتوبر (دون ذكر أضرار)"
+   },
+   "url": "https://www.bernama.com/en/world/news.php?id=2619835"
   }
  ]
 }

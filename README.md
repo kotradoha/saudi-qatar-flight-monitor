@@ -4,4 +4,4 @@
 
 - 사이트: https://kotradoha.github.io/saudi-qatar-flight-monitor/
 - 내용: `data/status.json` · 화면 생성: `python3 build.py` → `docs/index.html`
-- 작성(클로드 기반): 주카타르대사관·도하무역관
+- 작성(클로드 기반): 주카타르 대한민국 대사관·도하무역관

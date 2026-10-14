@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T14:50:00+03:00",
+ "updated_at": "2026-10-14T15:40:00+03:00",
  "window_start": "2026-10-14",
  "pills": [
   {
@@ -14,12 +14,13 @@
   },
   {
    "text": {
-    "ko": "사우디 전체 결항률 <b>46.4%</b> (10/12)",
-    "en": "Flight cancellations across Saudi Arabia: <b>46.4%</b> (12 Oct)",
-    "ar": "نسبة الرحلات الملغاة في السعودية: <b>46.4%</b> (12 أكتوبر)"
+    "ko": "사우디 전체 결항·운항불가 비율 <b>52.55%</b> (10/13 20:00 기준)",
+    "en": "Flights cancelled or marked no-fly across Saudi Arabia: <b>52.55%</b> (13 Oct, as of 20:00)",
+    "ar": "نسبة الرحلات الملغاة أو المصنَّفة «لن تُسيَّر» في عموم السعودية: <b>52.55%</b> (13 أكتوبر، حتى الساعة 20:00)"
    },
    "refs": [
-    18
+    57,
+    58
    ]
   },
   {
@@ -1702,6 +1703,38 @@
     "ar": "أسوشيتد برس: سكان الرياض يقولون إنهم سمعوا انفجارات جديدة يوم 14 أكتوبر (لم يتضح مصدرها على الفور)"
    },
    "url": "https://www.timesofisrael.com/liveblog-october-14-2026/"
+  },
+  {
+   "n": 57,
+   "name": {
+    "ko": "Khaleej Times",
+    "en": "Khaleej Times",
+    "ar": "خليج تايمز"
+   },
+   "date": "2026-10-13",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "Cirium 집계: 10/13 사우디 출발 예정편 1,058편 중 약 556편(52.55%)이 결항 또는 운항불가(no-fly)로 표시",
+    "en": "Cirium data: about 556 of 1,058 scheduled departures from Saudi Arabia (52.55%) cancelled or marked no-fly on 13 Oct",
+    "ar": "بيانات «سيريوم»: إلغاء نحو 556 من أصل 1,058 رحلة مغادرة مجدولة من السعودية (52.55%) أو تصنيفها «لن تُسيَّر» يوم 13 أكتوبر"
+   },
+   "url": "https://www.khaleejtimes.com/business/over-3000-saudi-flights-cancelled-in-a-week-as-houthi-attacks-shut-riyadh-airport"
+  },
+  {
+   "n": 58,
+   "name": {
+    "ko": "Gulf News",
+    "en": "Gulf News",
+    "ar": "غلف نيوز"
+   },
+   "date": "2026-10-14",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "Cirium 집계(10/13 20:00 리야드 기준): 사우디 출발 예정편 1,058편 중 556편(52.55%)이 영향받음(결항 또는 운항불가 표시)",
+    "en": "Cirium data (as of 20:00 Riyadh time, 13 Oct): 556 of 1,058 scheduled departures from Saudi Arabia (52.55%) affected (cancelled or marked no-fly)",
+    "ar": "بيانات «سيريوم» (حتى الساعة 20:00 بتوقيت الرياض يوم 13 أكتوبر): تأثّر 556 من أصل 1,058 رحلة مغادرة مجدولة من السعودية (52.55%) (إلغاء أو تصنيف «لن تُسيَّر»)"
+   },
+   "url": "https://gulfnews.com/business/aviation/uae-saudi-flight-cancellations-emirates-etihad-flydubai-and-air-arabia-issue-fresh-updates-after-riyadh-attack-1.500709892"
   }
  ]
 }

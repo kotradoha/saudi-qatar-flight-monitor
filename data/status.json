@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T12:44:00+03:00",
+ "updated_at": "2026-10-14T13:51:00+03:00",
  "window_start": "2026-10-14",
  "pills": [
   {
@@ -134,9 +134,9 @@
     "ar": "المغادرة من جدة 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · نحو 22:00 (الخطوط الجوية القطرية) / الخطوط السعودية من الأحد إلى الأربعاء 09:30، ومن الخميس إلى السبت 12:35"
    },
    "note": {
-    "ko": "10/14 실제 운항 확인(04:50편), 결항 공지 없음. 03:10편(QR1183)은 10/14 결항 표시, 10/15는 사이트별 표시 엇갈림(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 공항 결항률 약 20%로 지연 잦음",
-    "en": "Confirmed operating on 14 Oct (04:50 flight); no cancellations announced. The 03:10 flight (QR1183) is shown as cancelled on 14 Oct, and sites differ on 15 Oct (according to flight-tracking sites, not an official airline announcement). About 20% of flights at the airport are being cancelled, and delays are frequent.",
-    "ar": "تأكّد تسيير الرحلات يوم 14 أكتوبر (رحلة 04:50)، ولم يُعلَن عن أي إلغاء. تظهر رحلة 03:10 (QR1183) ملغاةً يوم 14 أكتوبر، وتتباين المواقع في عرض حالتها يوم 15 أكتوبر (وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). تبلغ نسبة الرحلات الملغاة في المطار نحو 20%، والتأخيرات متكررة."
+    "ko": "10/14 실제 운항 확인(04:50편), 결항 공지 없음. 03:10편(QR1183)은 10/14 결항 표시, 10/15·10/17은 일부 사이트에서 결항 표시(사이트별 엇갈림, 항공편 추적 사이트 기준, 항공사 공식 발표 아님). 공항 결항률 약 20%로 지연 잦음",
+    "en": "Confirmed operating on 14 Oct (04:50 flight); no cancellations announced. The 03:10 flight (QR1183) is shown as cancelled on 14 Oct, and it is also shown as cancelled on 15 and 17 Oct by some sites (sites differ; according to flight-tracking sites, not an official airline announcement). About 20% of flights at the airport are being cancelled, and delays are frequent.",
+    "ar": "تأكّد تسيير الرحلات يوم 14 أكتوبر (رحلة 04:50)، ولم يُعلَن عن أي إلغاء. تظهر رحلة 03:10 (QR1183) ملغاةً يوم 14 أكتوبر، كما تظهر ملغاةً يومَي 15 و17 أكتوبر في بعض المواقع (مع تباين بين المواقع، وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). تبلغ نسبة الرحلات الملغاة في المطار نحو 20%، والتأخيرات متكررة."
    },
    "refs": [
     52,
@@ -468,7 +468,7 @@
     "일부결항",
     "일부결항",
     "예정",
-    "예정",
+    "일부결항",
     "예정",
     "예정",
     "예정",
@@ -1601,9 +1601,9 @@
    "date": "2026-10-14",
    "kind": "항공편 추적",
    "what": {
-    "ko": "제다 03:10 출발편 10/13 실제 운항(지연), 10/14·10/15 결항 표시 (항공사 공지 아님)",
-    "en": "Jeddah 03:10 departure operated (late) on 13 Oct; shown as cancelled on 14 and 15 Oct (not an airline announcement)",
-    "ar": "رحلة المغادرة من جدة 03:10 سُيِّرت (متأخرةً) يوم 13 أكتوبر، وتظهر ملغاةً يومَي 14 و15 أكتوبر (ليس إعلانًا من شركة الطيران)"
+    "ko": "제다 03:10 출발편 10/13 실제 운항(지연), 10/14·10/15·10/17 결항 표시 (항공사 공지 아님)",
+    "en": "Jeddah 03:10 departure operated (late) on 13 Oct; shown as cancelled on 14, 15 and 17 Oct (not an airline announcement)",
+    "ar": "رحلة المغادرة من جدة 03:10 سُيِّرت (متأخرةً) يوم 13 أكتوبر، وتظهر ملغاةً أيام 14 و15 و17 أكتوبر (ليس إعلانًا من شركة الطيران)"
    },
    "url": "https://us.trip.com/flights/status-qr1183"
   },
@@ -1617,9 +1617,9 @@
    "date": "2026-10-14",
    "kind": "항공편 추적",
    "what": {
-    "ko": "제다 03:10 출발편 10/14 이륙 기록 없음, 10/15 예정 표시 — Trip.com 결항 표시와 엇갈림",
-    "en": "No departure record for the Jeddah 03:10 flight on 14 Oct; 15 Oct shown as scheduled — differs from Trip.com’s cancelled status",
-    "ar": "لا يوجد سجل إقلاع لرحلة جدة 03:10 يوم 14 أكتوبر، وتظهر رحلة 15 أكتوبر مجدولةً — بخلاف ما يعرضه Trip.com من إلغاء"
+    "ko": "제다 03:10 출발편 10/14 이륙 기록 없음, 10/15·10/17 예정 표시 — Trip.com 결항 표시와 엇갈림",
+    "en": "No departure record for the Jeddah 03:10 flight on 14 Oct; 15 and 17 Oct shown as scheduled — differs from Trip.com’s cancelled status",
+    "ar": "لا يوجد سجل إقلاع لرحلة جدة 03:10 يوم 14 أكتوبر، وتظهر رحلتا 15 و17 أكتوبر مجدولتين — بخلاف ما يعرضه Trip.com من إلغاء"
    },
    "url": "https://planefinder.net/data/flight/QR1183"
   },

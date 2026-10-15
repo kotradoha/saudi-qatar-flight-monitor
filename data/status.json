@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T20:44:00+03:00",
+ "updated_at": "2026-10-15T21:44:00+03:00",
  "window_start": "2026-10-15",
  "pills": [
   {
@@ -262,9 +262,9 @@
     "ar": "الخطوط الجوية القطرية الإثنين · الخميس · السبت"
    },
    "times": {
-    "ko": "하일 출발 17:30 → 도하 19:25 · 다음 편 10/15(목), 10/17(토)",
-    "en": "Departs Hail 17:30 → arrives Doha 19:25 · next flights 15 Oct (Thu) and 17 Oct (Sat)",
-    "ar": "المغادرة من حائل 17:30 والوصول إلى الدوحة 19:25 · الرحلتان التاليتان 15 أكتوبر (الخميس) و17 أكتوبر (السبت)"
+    "ko": "하일 출발 17:30 → 도하 19:25 · 다음 편 10/17(토), 10/19(월)",
+    "en": "Departs Hail 17:30 → arrives Doha 19:25 · next flights 17 Oct (Sat) and 19 Oct (Mon)",
+    "ar": "المغادرة من حائل 17:30 والوصول إلى الدوحة 19:25 · الرحلتان التاليتان 17 أكتوبر (السبت) و19 أكتوبر (الإثنين)"
    },
    "note": {
     "ko": "정상 운항 중",
@@ -366,15 +366,17 @@
     "ar": "رحلة 17 أكتوبر ملغاة، ورحلتا 15 و22 أكتوبر غير مؤكدتين"
    },
    "note": {
-    "ko": "공항 10/15까지 야간 폐쇄. 10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격(연합군 발표)",
-    "en": "Airport closed at night until 15 Oct. Early on 13 Oct, two Houthi ballistic missiles fired toward Khamis Mushait were intercepted (coalition statement)",
-    "ar": "المطار مغلق ليلًا حتى 15 أكتوبر. في وقت مبكر من يوم 13 أكتوبر، اعتُرض صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف)"
+    "ko": "공항 10/15까지 야간 폐쇄. 10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격(연합군 발표). 10/15에도 카미스 무샤이트를 겨냥한 드론 1기 요격(연합군 발표, 피해 언급 없음)",
+    "en": "Airport closed at night until 15 Oct. Early on 13 Oct, two Houthi ballistic missiles fired toward Khamis Mushait were intercepted (coalition statement). On 15 Oct, a drone targeting Khamis Mushait was also intercepted (coalition statement; no damage mentioned)",
+    "ar": "المطار مغلق ليلًا حتى 15 أكتوبر. في وقت مبكر من يوم 13 أكتوبر، اعتُرض صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف). وفي 15 أكتوبر، اعتُرضت أيضًا طائرة مسيّرة كانت تستهدف خميس مشيط (بحسب بيان التحالف، دون ذكر أي أضرار)"
    },
    "refs": [
     13,
     14,
     30,
-    31
+    31,
+    77,
+    78
    ]
   }
  ],
@@ -2045,6 +2047,38 @@
     "ar": "يوم الخميس 15 أكتوبر، أُلغيت أو لم تُسيَّر أكثر من 550 رحلة من أصل 1,178 رحلة مغادرة مجدولة من السعودية (تأثرت نحو 47% من رحلات المغادرة)، وتأثرت في جدة 87 رحلة مغادرة من أصل 385 (22.60%). وتستند الحصيلة الإجمالية لثمانية أيام (8–15 أكتوبر) إلى بيانات «سيريوم»"
    },
    "url": "https://www.khaleejtimes.com/business/saudi-flight-cancellations-over-4000-flights-cancelled-in-a-week-riyadh-airport-stays-shut"
+  },
+  {
+   "n": 77,
+   "name": {
+    "ko": "The Peninsula (카타르 국영통신 QNA 인용)",
+    "en": "The Peninsula (citing QNA)",
+    "ar": "The Peninsula (نقلًا عن وكالة الأنباء القطرية «قنا»)"
+   },
+   "date": "2026-10-15",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군 대변인(사우디 국영통신 SPA 게재 성명): 10/15(목) 카미스 무샤이트 상공에서 드론 1기 요격·파괴",
+    "en": "Coalition spokesman (statement carried by SPA): a drone intercepted and destroyed over Khamis Mushait on Thu 15 Oct",
+    "ar": "المتحدث باسم التحالف (في بيان نقلته وكالة الأنباء السعودية «واس»): اعتراض طائرة مسيّرة وتدميرها في أجواء خميس مشيط يوم الخميس 15 أكتوبر"
+   },
+   "url": "https://thepeninsulaqatar.com/article/15/10/2026/coalition-intercepts-drone-over-saudi-arabias-khamis-mushait"
+  },
+  {
+   "n": 78,
+   "name": {
+    "ko": "Middle East Eye 라이브 블로그",
+    "en": "Middle East Eye live blog",
+    "ar": "المدونة المباشرة لموقع ميدل إيست آي"
+   },
+   "date": "2026-10-15",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군 대변인: 10/15 카미스 무샤이트를 겨냥한 적대적 드론 1기 요격·파괴 (피해 언급 없음)",
+    "en": "Coalition spokesman: a hostile drone targeting Khamis Mushait intercepted and destroyed on 15 Oct (no damage mentioned)",
+    "ar": "المتحدث باسم التحالف: اعتراض طائرة مسيّرة معادية كانت تستهدف خميس مشيط وتدميرها في 15 أكتوبر (دون ذكر أي أضرار)"
+   },
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-drone-khamis-mushait"
   }
  ]
 }

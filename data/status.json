@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T19:48:00+03:00",
+ "updated_at": "2026-10-15T20:44:00+03:00",
  "window_start": "2026-10-15",
  "pills": [
   {
@@ -14,13 +14,12 @@
   },
   {
    "text": {
-    "ko": "사우디 전체 결항·운항불가 비율 <b>52.55%</b> (10/13 20:00 기준)",
-    "en": "Flights cancelled or marked no-fly across Saudi Arabia: <b>52.55%</b> (13 Oct, as of 20:00)",
-    "ar": "نسبة الرحلات الملغاة أو المصنَّفة «لن تُسيَّر» في عموم السعودية: <b>52.55%</b> (13 أكتوبر، حتى الساعة 20:00)"
+    "ko": "사우디 전체 결항·운항불가 비율 <b>약 47%</b> (10/15 당일 잠정 집계, 출발 예정 1,178편 중 550편 이상)",
+    "en": "Flights cancelled or grounded across Saudi Arabia: <b>about 47%</b> (15 Oct, provisional same-day figures; more than 550 of 1,178 scheduled departures)",
+    "ar": "نسبة الرحلات الملغاة أو التي لم تُسيَّر في عموم السعودية: <b>نحو 47%</b> (15 أكتوبر، أرقام أولية لليوم نفسه؛ أكثر من 550 رحلة من أصل 1,178 رحلة مغادرة مجدولة)"
    },
    "refs": [
-    57,
-    58
+    76
    ]
   },
   {
@@ -148,9 +147,9 @@
     "ar": "المغادرة من جدة 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · نحو 22:00 (الخطوط الجوية القطرية) / الخطوط السعودية من الأحد إلى الأربعاء 09:30، ومن الخميس إلى السبت 12:35"
    },
    "note": {
-    "ko": "10/15 실제 운항 확인(04:50편), 결항 공지 없음. 03:10편(QR1183)은 10/14 결항 표시, 10/15~10/18은 일부 사이트에서 결항 표시(사이트별 엇갈림, 항공편 추적 사이트 기준, 항공사 공식 발표 아님). 공항 결항률 약 20%로 지연 잦음",
-    "en": "Confirmed operating on 15 Oct (04:50 flight); no cancellations announced. The 03:10 flight (QR1183) is shown as cancelled on 14 Oct, and it is also shown as cancelled on 15–18 Oct by some sites (sites differ; according to flight-tracking sites, not an official airline announcement). About 20% of flights at the airport are being cancelled, and delays are frequent.",
-    "ar": "تأكّد تسيير الرحلات يوم 15 أكتوبر (رحلة 04:50)، ولم يُعلَن عن أي إلغاء. تظهر رحلة 03:10 (QR1183) ملغاةً يوم 14 أكتوبر، كما تظهر ملغاةً من 15 إلى 18 أكتوبر في بعض المواقع (مع تباين بين المواقع، وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). تبلغ نسبة الرحلات الملغاة في المطار نحو 20%، والتأخيرات متكررة."
+    "ko": "10/15 실제 운항 확인(04:50편), 결항 공지 없음. 03:10편(QR1183)은 10/14 결항 표시, 10/15~10/18은 일부 사이트에서 결항 표시(사이트별 엇갈림, 항공편 추적 사이트 기준, 항공사 공식 발표 아님). 10/15 제다 출발편 385편 중 87편(22.60%) 차질(결항 여부 구분 없음, Khaleej Times 보도), 지연 잦음",
+    "en": "Confirmed operating on 15 Oct (04:50 flight); no cancellations announced. The 03:10 flight (QR1183) is shown as cancelled on 14 Oct, and it is also shown as cancelled on 15–18 Oct by some sites (sites differ; according to flight-tracking sites, not an official airline announcement). On 15 Oct, 87 of 385 departures from Jeddah (22.60%) were affected (the report does not say how many were cancelled; Khaleej Times), and delays are frequent.",
+    "ar": "تأكّد تسيير الرحلات يوم 15 أكتوبر (رحلة 04:50)، ولم يُعلَن عن أي إلغاء. تظهر رحلة 03:10 (QR1183) ملغاةً يوم 14 أكتوبر، كما تظهر ملغاةً من 15 إلى 18 أكتوبر في بعض المواقع (مع تباين بين المواقع، وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). وفي 15 أكتوبر، تأثرت 87 رحلة مغادرة من جدة من أصل 385 (22.60%) (لم يحدّد التقرير عدد الملغاة منها؛ وفقًا لصحيفة «خليج تايمز»)، والتأخيرات متكررة."
    },
    "refs": [
     67,
@@ -159,7 +158,8 @@
     7,
     15,
     59,
-    66
+    66,
+    76
    ]
   },
   {
@@ -2029,6 +2029,22 @@
     "ar": "المتحدث باسم التحالف في مؤتمر صحفي يوم 15 أكتوبر: هاجم الحوثيون مطار الرياض 20 مرة منذ 1 أكتوبر، وأسفرت الهجمات بين 7 و11 أكتوبر وحدها عن مقتل 17 شخصًا وإصابة 333 آخرين"
    },
    "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-this-evening-october-15-2026-1.500712124"
+  },
+  {
+   "n": 76,
+   "name": {
+    "ko": "Khaleej Times",
+    "en": "Khaleej Times",
+    "ar": "خليج تايمز"
+   },
+   "date": "2026-10-15",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/15(목) 사우디 출발 예정 1,178편 중 550편 이상 결항 또는 운항불가(출발편 약 47%가 차질), 제다 출발 385편 중 87편(22.60%) 차질. 8일간(10/8~15) 합계는 Cirium 데이터 인용",
+    "en": "On Thu 15 Oct, more than 550 of 1,178 scheduled departures from Saudi Arabia were cancelled or grounded (about 47% of departures affected); at Jeddah, 87 of 385 departures (22.60%) were affected. Eight-day totals (8–15 Oct) cite Cirium data",
+    "ar": "يوم الخميس 15 أكتوبر، أُلغيت أو لم تُسيَّر أكثر من 550 رحلة من أصل 1,178 رحلة مغادرة مجدولة من السعودية (تأثرت نحو 47% من رحلات المغادرة)، وتأثرت في جدة 87 رحلة مغادرة من أصل 385 (22.60%). وتستند الحصيلة الإجمالية لثمانية أيام (8–15 أكتوبر) إلى بيانات «سيريوم»"
+   },
+   "url": "https://www.khaleejtimes.com/business/saudi-flight-cancellations-over-4000-flights-cancelled-in-a-week-riyadh-airport-stays-shut"
   }
  ]
 }

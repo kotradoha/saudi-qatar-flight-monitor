@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-15T11:58:00+03:00",
+ "updated_at": "2026-10-15T12:43:00+03:00",
  "window_start": "2026-10-15",
  "pills": [
   {
@@ -63,9 +63,9 @@
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/15 실제 운항이 확인됐고 결항 공지가 없습니다. 다만 제다 03:10 출발 카타르항공편(QR1183)은 10/14 결항으로 표시되고, 10/15 편은 사이트마다 표시가 엇갈립니다(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 메디나는 후티가 공격 대상에서 제외한 공항입니다.",
-    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Jeddah has about 8 flights a day (7 by Qatar Airways, 1 by Saudia) and Madinah has 2 a day. Flights from both cities were confirmed operating on 15 Oct, and no cancellations have been announced. However, the 03:10 Qatar Airways departure from Jeddah (QR1183) is shown as cancelled on 14 Oct, and sites differ on the 15 Oct flight (according to flight-tracking sites, not an official airline announcement). Madinah is one of the airports the Houthis have excluded from their targets.",
-    "ar": "<span class='grn'>جدة والمدينة المنورة هما نقطتا الانطلاق الأكثر موثوقية إلى الدوحة.</span> تُسيَّر من جدة نحو 8 رحلات يوميًا (7 للخطوط الجوية القطرية ورحلة واحدة للخطوط السعودية)، ومن المدينة المنورة رحلتان يوميًا. وقد تأكّد تسيير الرحلات من المدينتين يوم 15 أكتوبر، ولم يُعلَن عن أي إلغاء. غير أن رحلة الخطوط الجوية القطرية المغادرة من جدة الساعة 03:10 (QR1183) تظهر ملغاةً يوم 14 أكتوبر، وتتباين المواقع في عرض حالة رحلة 15 أكتوبر (وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ويُعدّ مطار المدينة المنورة من المطارات التي استثناها الحوثيون من قائمة أهدافهم."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/15 실제 운항이 확인됐고 결항 공지가 없습니다. 다만 제다 03:10 출발 카타르항공편(QR1183)은 10/14 결항으로 표시되고, 10/15 편은 사이트마다 표시가 엇갈립니다(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 메디나는 후티가 공격 대상에서 제외한 공항이지만, 10/15 메디나 지역에서 순항미사일 1발이 요격·파괴됐습니다(연합군 발표, 발사 주체·목표·피해는 발표되지 않음).",
+    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Jeddah has about 8 flights a day (7 by Qatar Airways, 1 by Saudia) and Madinah has 2 a day. Flights from both cities were confirmed operating on 15 Oct, and no cancellations have been announced. However, the 03:10 Qatar Airways departure from Jeddah (QR1183) is shown as cancelled on 14 Oct, and sites differ on the 15 Oct flight (according to flight-tracking sites, not an official airline announcement). Madinah is one of the airports the Houthis have excluded from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced).",
+    "ar": "<span class='grn'>جدة والمدينة المنورة هما نقطتا الانطلاق الأكثر موثوقية إلى الدوحة.</span> تُسيَّر من جدة نحو 8 رحلات يوميًا (7 للخطوط الجوية القطرية ورحلة واحدة للخطوط السعودية)، ومن المدينة المنورة رحلتان يوميًا. وقد تأكّد تسيير الرحلات من المدينتين يوم 15 أكتوبر، ولم يُعلَن عن أي إلغاء. غير أن رحلة الخطوط الجوية القطرية المغادرة من جدة الساعة 03:10 (QR1183) تظهر ملغاةً يوم 14 أكتوبر، وتتباين المواقع في عرض حالة رحلة 15 أكتوبر (وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ويُعدّ مطار المدينة المنورة من المطارات التي استثناها الحوثيون من قائمة أهدافهم، إلا أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار)."
    },
    "refs": [
     67,
@@ -74,7 +74,10 @@
     34,
     15,
     50,
-    51
+    51,
+    69,
+    70,
+    71
    ]
   },
   {
@@ -179,14 +182,17 @@
     "ar": "المغادرة من المدينة المنورة 04:45 · 08:25"
    },
    "note": {
-    "ko": "10/15 실제 운항 확인. 후티가 공격 대상에서 제외한 공항",
-    "en": "Confirmed operating on 15 Oct. The Houthis have excluded this airport from their targets.",
-    "ar": "تأكّد تسيير الرحلات يوم 15 أكتوبر. وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم."
+    "ko": "10/15 실제 운항 확인. 후티가 공격 대상에서 제외한 공항이나, 10/15 메디나 지역에서 순항미사일 1발 요격·파괴(연합군 발표, 발사 주체·목표·피해 미발표)",
+    "en": "Confirmed operating on 15 Oct. The Houthis have excluded this airport from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced).",
+    "ar": "تأكّد تسيير الرحلات يوم 15 أكتوبر. وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم، غير أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار)."
    },
    "refs": [
     68,
     8,
-    15
+    15,
+    69,
+    70,
+    71
    ]
   },
   {
@@ -1905,6 +1911,54 @@
     "ar": "رحلة الخطوط الجوية القطرية من المدينة المنورة إلى الدوحة الساعة 04:45 أقلعت الساعة 04:38 يوم 15 أكتوبر، وتظهر في الجو"
    },
    "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
+  },
+  {
+   "n": 69,
+   "name": {
+    "ko": "아나돌루통신 (Anadolu Agency)",
+    "en": "Anadolu Agency",
+    "ar": "وكالة الأناضول"
+   },
+   "date": "2026-10-15",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군 대변인(X 게시): 10/15(목) 메디나 지역 상공에서 순항미사일 1발 요격·파괴, 발사 주체·목표·피해 언급 없음",
+    "en": "Coalition spokesman (on X): a cruise missile was intercepted and destroyed over the Madinah region on Thursday 15 Oct; no mention of who launched it, its target or any damage",
+    "ar": "المتحدث باسم التحالف (عبر منصة X): اعتراض صاروخ كروز وتدميره في أجواء منطقة المدينة المنورة يوم الخميس 15 أكتوبر، دون الإشارة إلى الجهة التي أطلقته أو هدفه أو أي أضرار"
+   },
+   "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-cruise-missile-over-medina-region/4089485"
+  },
+  {
+   "n": 70,
+   "name": {
+    "ko": "Times of Israel 라이브 (AFP 인용)",
+    "en": "Times of Israel live blog (citing AFP)",
+    "ar": "Times of Israel – تغطية مباشرة (نقلًا عن وكالة فرانس برس)"
+   },
+   "date": "2026-10-15",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "AFP: 연합군, 10/15 메디나 지역에서 순항미사일 1발 요격·파괴 발표 (피해 보도 없음)",
+    "en": "AFP: the coalition announced that a cruise missile was intercepted and destroyed in the Madinah region on 15 Oct (no damage reported)",
+    "ar": "وكالة فرانس برس: أعلن التحالف اعتراض صاروخ كروز وتدميره في منطقة المدينة المنورة يوم 15 أكتوبر (دون الإبلاغ عن أضرار)"
+   },
+   "url": "https://www.timesofisrael.com/liveblog_entry/saudi-coalition-says-missile-intercepted-in-medina-region-after-houthis-promised-not-to-target-islams-holy-city"
+  },
+  {
+   "n": 71,
+   "name": {
+    "ko": "Arab News",
+    "en": "Arab News",
+    "ar": "Arab News"
+   },
+   "date": "2026-10-15",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군 대변인: 10/15(목) 메디나 지역에서 순항미사일 1발 요격·파괴 (피해 언급 없음)",
+    "en": "Coalition spokesman: a cruise missile was intercepted and destroyed in the Madinah region on Thursday 15 Oct (no damage mentioned)",
+    "ar": "المتحدث باسم التحالف: اعتراض صاروخ كروز وتدميره في منطقة المدينة المنورة يوم الخميس 15 أكتوبر (دون الإشارة إلى أضرار)"
+   },
+   "url": "https://www.arabnews.com/saudi-arabia/coalition-cruise-missile-targeting-madinah-region-intercepted-destroyed-3006463"
   }
  ]
 }

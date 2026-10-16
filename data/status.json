@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T10:49:00+03:00",
+ "updated_at": "2026-10-16T13:50:00+03:00",
  "window_start": "2026-10-16",
  "pills": [
   {
@@ -14,12 +14,12 @@
   },
   {
    "text": {
-    "ko": "사우디 전체 결항·운항불가 비율 <b>약 47%</b> (10/15 당일 잠정 집계, 출발 예정 1,178편 중 550편 이상)",
-    "en": "Flights cancelled or grounded across Saudi Arabia: <b>about 47%</b> (15 Oct, provisional same-day figures; more than 550 of 1,178 scheduled departures)",
-    "ar": "نسبة الرحلات الملغاة أو التي لم تُسيَّر في عموم السعودية: <b>نحو 47%</b> (15 أكتوبر، أرقام أولية لليوم نفسه؛ أكثر من 550 رحلة من أصل 1,178 رحلة مغادرة مجدولة)"
+    "ko": "사우디 전체 결항·운항불가 비율 <b>46.9%</b> (10/15, 출발 예정 1,178편 중 552편, Cirium 집계)",
+    "en": "Flights cancelled or not operating across Saudi Arabia: <b>46.9%</b> (15 Oct; 552 of 1,178 scheduled departures, Cirium data)",
+    "ar": "نسبة الرحلات الملغاة أو التي لم تُسيَّر في عموم السعودية: <b>46.9%</b> (15 أكتوبر؛ 552 رحلة من أصل 1,178 رحلة مغادرة مجدولة، وفق بيانات Cirium)"
    },
    "refs": [
-    76
+    83
    ]
   },
   {
@@ -64,9 +64,9 @@
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/15 실제 운항이 확인됐고 결항 공지가 없습니다. 다만 제다 03:10 출발 카타르항공편(QR1183)은 10/14 결항으로 표시되고, 10/15 편은 사이트마다 표시가 엇갈립니다(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 메디나는 후티가 공격 대상에서 제외한 공항이지만, 10/15 메디나 지역에서 순항미사일 1발이 요격·파괴됐습니다(연합군 발표, 발사 주체·목표·피해는 발표되지 않음). 후티 군사 대변인은 이날 사우디 영토를 겨냥한 작전을 하지 않았다며 메디나 공격 주장을 부인했습니다(AFP·타스 보도).",
-    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Jeddah has about 8 flights a day (7 by Qatar Airways, 1 by Saudia) and Madinah has 2 a day. Flights from both cities were confirmed operating on 15 Oct, and no cancellations have been announced. However, the 03:10 Qatar Airways departure from Jeddah (QR1183) is shown as cancelled on 14 Oct, and sites differ on the 15 Oct flight (according to flight-tracking sites, not an official airline announcement). Madinah is one of the airports the Houthis have excluded from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced). The Houthi military spokesman denied the claim of an attack on Madinah, saying the group had carried out no operation targeting Saudi territory that day (AFP and TASS reports).",
-    "ar": "<span class='grn'>جدة والمدينة المنورة هما نقطتا الانطلاق الأكثر موثوقية إلى الدوحة.</span> تُسيَّر من جدة نحو 8 رحلات يوميًا (7 للخطوط الجوية القطرية ورحلة واحدة للخطوط السعودية)، ومن المدينة المنورة رحلتان يوميًا. وقد تأكّد تسيير الرحلات من المدينتين يوم 15 أكتوبر، ولم يُعلَن عن أي إلغاء. غير أن رحلة الخطوط الجوية القطرية المغادرة من جدة الساعة 03:10 (QR1183) تظهر ملغاةً يوم 14 أكتوبر، وتتباين المواقع في عرض حالة رحلة 15 أكتوبر (وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ويُعدّ مطار المدينة المنورة من المطارات التي استثناها الحوثيون من قائمة أهدافهم، إلا أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار). ونفى المتحدث العسكري باسم الحوثيين الادعاء بوقوع هجوم على المدينة المنورة، قائلًا إن الجماعة لم تنفّذ أي عملية تستهدف الأراضي السعودية في ذلك اليوم (بحسب وكالتَي فرانس برس وتاس)."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다는 하루 약 8회(카타르항공 7회, 사우디아 1회), 메디나는 하루 2회 운항합니다. 두 곳 모두 10/16 실제 운항이 확인됐고 결항 공지가 없습니다. 다만 제다 03:10 출발 카타르항공편(QR1183)은 10/14 결항으로 표시되고, 10/15 이후 편은 사이트마다 표시가 엇갈립니다(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 메디나는 후티가 공격 대상에서 제외한 공항이지만, 10/15 메디나 지역에서 순항미사일 1발이 요격·파괴됐습니다(연합군 발표, 발사 주체·목표·피해는 발표되지 않음). 후티 군사 대변인은 이날 사우디 영토를 겨냥한 작전을 하지 않았다며 메디나 공격 주장을 부인했습니다(AFP·타스 보도).",
+    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Jeddah has about 8 flights a day (7 by Qatar Airways, 1 by Saudia) and Madinah has 2 a day. Flights from both cities were confirmed operating on 16 Oct, and no cancellations have been announced. However, the 03:10 Qatar Airways departure from Jeddah (QR1183) is shown as cancelled on 14 Oct, and sites differ on the flights from 15 Oct onwards (according to flight-tracking sites, not an official airline announcement). Madinah is one of the airports the Houthis have excluded from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced). The Houthi military spokesman denied the claim of an attack on Madinah, saying the group had carried out no operation targeting Saudi territory that day (AFP and TASS reports).",
+    "ar": "<span class='grn'>جدة والمدينة المنورة هما نقطتا الانطلاق الأكثر موثوقية إلى الدوحة.</span> تُسيَّر من جدة نحو 8 رحلات يوميًا (7 للخطوط الجوية القطرية ورحلة واحدة للخطوط السعودية)، ومن المدينة المنورة رحلتان يوميًا. وقد تأكّد تسيير الرحلات من المدينتين يوم 16 أكتوبر، ولم يُعلَن عن أي إلغاء. غير أن رحلة الخطوط الجوية القطرية المغادرة من جدة الساعة 03:10 (QR1183) تظهر ملغاةً يوم 14 أكتوبر، وتتباين المواقع في عرض حالة رحلات 15 أكتوبر وما بعده (وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ويُعدّ مطار المدينة المنورة من المطارات التي استثناها الحوثيون من قائمة أهدافهم، إلا أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار). ونفى المتحدث العسكري باسم الحوثيين الادعاء بوقوع هجوم على المدينة المنورة، قائلًا إن الجماعة لم تنفّذ أي عملية تستهدف الأراضي السعودية في ذلك اليوم (بحسب وكالتَي فرانس برس وتاس)."
    },
    "refs": [
     67,
@@ -80,7 +80,10 @@
     70,
     71,
     72,
-    73
+    73,
+    84,
+    85,
+    80
    ]
   },
   {
@@ -149,9 +152,9 @@
     "ar": "المغادرة من جدة 03:10 · 04:50 · 11:40 · 16:40 · 19:35 · 19:50 · نحو 22:00 (الخطوط الجوية القطرية) / الخطوط السعودية من الأحد إلى الأربعاء 09:30، ومن الخميس إلى السبت 12:35"
    },
    "note": {
-    "ko": "10/15 실제 운항 확인(04:50편), 결항 공지 없음. 03:10편(QR1183)은 10/14 결항 표시, 10/15~10/18은 일부 사이트에서 결항 표시(사이트별 엇갈림, 항공편 추적 사이트 기준, 항공사 공식 발표 아님). 10/15 제다 출발편 385편 중 87편(22.60%) 차질(결항 여부 구분 없음, Khaleej Times 보도), 지연 잦음",
-    "en": "Confirmed operating on 15 Oct (04:50 flight); no cancellations announced. The 03:10 flight (QR1183) is shown as cancelled on 14 Oct, and it is also shown as cancelled on 15–18 Oct by some sites (sites differ; according to flight-tracking sites, not an official airline announcement). On 15 Oct, 87 of 385 departures from Jeddah (22.60%) were affected (the report does not say how many were cancelled; Khaleej Times), and delays are frequent.",
-    "ar": "تأكّد تسيير الرحلات يوم 15 أكتوبر (رحلة 04:50)، ولم يُعلَن عن أي إلغاء. تظهر رحلة 03:10 (QR1183) ملغاةً يوم 14 أكتوبر، كما تظهر ملغاةً من 15 إلى 18 أكتوبر في بعض المواقع (مع تباين بين المواقع، وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). وفي 15 أكتوبر، تأثرت 87 رحلة مغادرة من جدة من أصل 385 (22.60%) (لم يحدّد التقرير عدد الملغاة منها؛ وفقًا لصحيفة «خليج تايمز»)، والتأخيرات متكررة."
+    "ko": "10/15·10/16 실제 운항 확인(04:50편), 결항 공지 없음. 03:10편(QR1183)은 10/14 결항 표시, 10/15~10/19는 일부 사이트에서 결항 표시(사이트별 엇갈림, 항공편 추적 사이트 기준, 항공사 공식 발표 아님). 10/15 제다 출발편 385편 중 87편(22.60%) 차질(결항 여부 구분 없음, Khaleej Times 보도), 지연 잦음",
+    "en": "Confirmed operating on 15 and 16 Oct (04:50 flight); no cancellations announced. The 03:10 flight (QR1183) is shown as cancelled on 14 Oct, and it is also shown as cancelled on 15–19 Oct by some sites (sites differ; according to flight-tracking sites, not an official airline announcement). On 15 Oct, 87 of 385 departures from Jeddah (22.60%) were affected (the report does not say how many were cancelled; Khaleej Times), and delays are frequent.",
+    "ar": "تأكّد تسيير الرحلات يومَي 15 و16 أكتوبر (رحلة 04:50)، ولم يُعلَن عن أي إلغاء. تظهر رحلة 03:10 (QR1183) ملغاةً يوم 14 أكتوبر، كما تظهر ملغاةً من 15 إلى 19 أكتوبر في بعض المواقع (مع تباين بين المواقع، وفقًا لمواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). وفي 15 أكتوبر، تأثرت 87 رحلة مغادرة من جدة من أصل 385 (22.60%) (لم يحدّد التقرير عدد الملغاة منها؛ وفقًا لصحيفة «خليج تايمز»)، والتأخيرات متكررة."
    },
    "refs": [
     67,
@@ -161,7 +164,9 @@
     15,
     59,
     66,
-    76
+    76,
+    84,
+    85
    ]
   },
   {
@@ -495,7 +500,7 @@
     "일부결항",
     "일부결항",
     "일부결항",
-    "예정",
+    "일부결항",
     "예정",
     "예정",
     "예정",
@@ -511,7 +516,8 @@
     51,
     67,
     59,
-    66
+    66,
+    85
    ]
   },
   {
@@ -2149,6 +2155,54 @@
     "ar": "المتحدث باسم التحالف: اعتراض طائرة مسيّرة أُطلقت نحو المنطقة الشرقية وتدميرها (نُشر في 16 أكتوبر، دون الإشارة إلى أضرار)"
    },
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-destroys-drone-headed-towards-eastern-province"
+  },
+  {
+   "n": 83,
+   "name": {
+    "ko": "Gulf News",
+    "en": "Gulf News",
+    "ar": "غلف نيوز"
+   },
+   "date": "2026-10-16",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "Cirium 집계: 10/15 사우디 출발 예정 1,178편 중 552편(46.9%) 결항 또는 운항불가, 제다 22.6%",
+    "en": "Cirium data: 552 of 1,178 scheduled departures from Saudi Arabia (46.9%) cancelled or not operating on 15 Oct; Jeddah 22.6%",
+    "ar": "بيانات Cirium: إلغاء 552 رحلة مغادرة مجدولة من السعودية أو عدم تسييرها، من أصل 1,178 رحلة (46.9%)، يوم 15 أكتوبر؛ جدة 22.6%"
+   },
+   "url": "https://gulfnews.com/business/aviation/uae-flight-status-today-saudi-flights-disruptions-drag-on-as-emirates-etihad-flydubai-air-arabia-cancel-services-1.500712680"
+  },
+  {
+   "n": 84,
+   "name": {
+    "ko": "Planefinder (QR1185)",
+    "en": "Planefinder (QR1185)",
+    "ar": "Planefinder (QR1185)"
+   },
+   "date": "2026-10-16",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 제다→도하 04:50편 10/16 실제 운항(04:54 출발, 07:02 도착)",
+    "en": "Qatar Airways Jeddah→Doha 04:50 flight operated on 16 Oct (departed 04:54, arrived 07:02)",
+    "ar": "رحلة الخطوط الجوية القطرية من جدة إلى الدوحة الساعة 04:50 سُيِّرت يوم 16 أكتوبر (أقلعت 04:54 ووصلت 07:02)"
+   },
+   "url": "https://planefinder.net/data/flight/QR1185"
+  },
+  {
+   "n": 85,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1183, 미국판)",
+    "en": "Trip.com flight status (QR1183, US site)",
+    "ar": "Trip.com – حالة الرحلات (QR1183، الموقع الأمريكي)"
+   },
+   "date": "2026-10-16",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "제다 03:10 출발편 10/14~10/19 결항 표시 (항공사 공지 아님)",
+    "en": "Jeddah 03:10 departure shown as cancelled from 14 to 19 Oct (not an airline announcement)",
+    "ar": "تظهر رحلة المغادرة من جدة 03:10 ملغاةً من 14 إلى 19 أكتوبر (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://us.trip.com/flights/status-qr1183"
   }
  ]
 }

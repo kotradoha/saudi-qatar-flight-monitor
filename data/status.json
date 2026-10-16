@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T04:54:00+03:00",
+ "updated_at": "2026-10-16T05:55:00+03:00",
  "window_start": "2026-10-16",
  "pills": [
   {
@@ -366,9 +366,9 @@
     "ar": "رحلة 17 أكتوبر ملغاة، ورحلتا 22 و24 أكتوبر غير مؤكدتين"
    },
    "note": {
-    "ko": "공항은 10/15까지 야간 폐쇄로 공지됐으며, 이후 운영 여부는 확인되지 않음. 10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격(연합군 발표). 10/15에도 카미스 무샤이트를 겨냥한 드론 1기 요격(연합군 발표, 피해 언급 없음)",
-    "en": "The airport was announced to be closed nightly until 15 Oct; its status since then has not been confirmed. Early on 13 Oct, two Houthi ballistic missiles fired toward Khamis Mushait were intercepted (coalition statement). On 15 Oct, a drone targeting Khamis Mushait was also intercepted (coalition statement; no damage mentioned)",
-    "ar": "أُعلن إغلاق المطار إغلاقًا ليليًا حتى 15 أكتوبر، ولم يُتحقَّق من وضعه التشغيلي منذ ذلك الحين. في وقت مبكر من يوم 13 أكتوبر، اعتُرض صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف). وفي 15 أكتوبر، اعتُرضت أيضًا طائرة مسيّرة كانت تستهدف خميس مشيط (بحسب بيان التحالف، دون ذكر أي أضرار)"
+    "ko": "공항은 10/15까지 야간 폐쇄로 공지됐으며, 이후 운영 여부는 확인되지 않음. 10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격(연합군 발표). 10/15에도 카미스 무샤이트를 겨냥한 드론 1기 요격(연합군 발표, 피해 언급 없음). 연합군은 후티의 아브하 공항 공격으로 3명이 숨지고 28명이 다쳤다고 밝힘(공격 시기 미기재, 로이터 보도)",
+    "en": "The airport was announced to be closed nightly until 15 Oct; its status since then has not been confirmed. Early on 13 Oct, two Houthi ballistic missiles fired toward Khamis Mushait were intercepted (coalition statement). On 15 Oct, a drone targeting Khamis Mushait was also intercepted (coalition statement; no damage mentioned). The coalition said Houthi attacks on Abha airport had killed 3 people and wounded 28 (timeframe not stated; Reuters report)",
+    "ar": "أُعلن إغلاق المطار إغلاقًا ليليًا حتى 15 أكتوبر، ولم يُتحقَّق من وضعه التشغيلي منذ ذلك الحين. في وقت مبكر من يوم 13 أكتوبر، اعتُرض صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف). وفي 15 أكتوبر، اعتُرضت أيضًا طائرة مسيّرة كانت تستهدف خميس مشيط (بحسب بيان التحالف، دون ذكر أي أضرار). وأفاد التحالف بأن هجمات الحوثيين على مطار أبها أسفرت عن مقتل 3 أشخاص وإصابة 28 آخرين (دون تحديد الفترة الزمنية؛ بحسب تقرير لرويترز)"
    },
    "refs": [
     13,
@@ -376,7 +376,8 @@
     30,
     31,
     77,
-    78
+    78,
+    79
    ]
   }
  ],
@@ -764,12 +765,13 @@
     "ar": "جازان"
    },
    "note": {
-    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음",
-    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed",
-    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين"
+    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도)",
+    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report)",
+    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز)"
    },
    "refs": [
-    14
+    14,
+    79
    ]
   },
   {
@@ -779,12 +781,13 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음",
-    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed",
-    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين"
+    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도)",
+    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report)",
+    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز)"
    },
    "refs": [
-    14
+    14,
+    79
    ]
   },
   {
@@ -2079,6 +2082,22 @@
     "ar": "المتحدث باسم التحالف: اعتراض طائرة مسيّرة معادية كانت تستهدف خميس مشيط وتدميرها في 15 أكتوبر (دون ذكر أي أضرار)"
    },
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-drone-khamis-mushait"
+  },
+  {
+   "n": 79,
+   "name": {
+    "ko": "Reuters 보도 (The Business Standard 게재)",
+    "en": "Reuters report (published by The Business Standard)",
+    "ar": "تقرير رويترز (منشور في The Business Standard)"
+   },
+   "date": "2026-10-16",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "연합군: 후티의 아브하 공항 공격으로 3명 사망·28명 부상(시기 미기재). 10/15(목) 나즈란·지잔에 민방위 조기경보가 하루 동안 발령됐다가 위험 해제",
+    "en": "Coalition: Houthi attacks on Abha airport killed 3 and wounded 28 (timeframe not stated). On Thursday 15 Oct, civil defence issued early warnings in Najran and Jazan throughout the day, later saying the danger had passed",
+    "ar": "التحالف: أسفرت هجمات الحوثيين على مطار أبها عن مقتل 3 أشخاص وإصابة 28 آخرين (دون تحديد الفترة الزمنية). وفي يوم الخميس 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة في نجران وجازان على مدار اليوم، ثم أعلن لاحقًا زوال الخطر"
+   },
+   "url": "https://www.tbsnews.net/worldbiz/middle-east/yemens-houthis-hit-palace-aden-coalition-details-attacks-saudi-infrastructure"
   }
  ]
 }

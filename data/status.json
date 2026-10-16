@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T05:55:00+03:00",
+ "updated_at": "2026-10-16T07:00:00+03:00",
  "window_start": "2026-10-16",
  "pills": [
   {
@@ -186,11 +186,12 @@
     "ar": "المغادرة من المدينة المنورة 04:45 · 08:25"
    },
    "note": {
-    "ko": "10/15 실제 운항 확인. 후티가 공격 대상에서 제외한 공항이나, 10/15 메디나 지역에서 순항미사일 1발 요격·파괴(연합군 발표, 발사 주체·목표·피해 미발표). 후티는 메디나 공격을 부인(AFP·타스 보도)",
-    "en": "Confirmed operating on 15 Oct. The Houthis have excluded this airport from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced). The Houthis denied attacking Madinah (AFP and TASS reports).",
-    "ar": "تأكّد تسيير الرحلات يوم 15 أكتوبر. وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم، غير أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار). ونفى الحوثيون مهاجمة المدينة المنورة (بحسب وكالتَي فرانس برس وتاس)."
+    "ko": "10/15·10/16 실제 운항 확인(10/16은 항공편 추적 사이트 기준). 후티가 공격 대상에서 제외한 공항이나, 10/15 메디나 지역에서 순항미사일 1발 요격·파괴(연합군 발표, 발사 주체·목표·피해 미발표). 후티는 메디나 공격을 부인(AFP·타스 보도)",
+    "en": "Confirmed operating on 15 and 16 Oct (16 Oct according to a flight-tracking site). The Houthis have excluded this airport from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced). The Houthis denied attacking Madinah (AFP and TASS reports).",
+    "ar": "تأكّد تسيير الرحلات يومَي 15 و16 أكتوبر (يوم 16 أكتوبر بحسب أحد مواقع تتبّع الرحلات). وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم، غير أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار). ونفى الحوثيون مهاجمة المدينة المنورة (بحسب وكالتَي فرانس برس وتاس)."
    },
    "refs": [
+    80,
     68,
     8,
     15,
@@ -2098,6 +2099,22 @@
     "ar": "التحالف: أسفرت هجمات الحوثيين على مطار أبها عن مقتل 3 أشخاص وإصابة 28 آخرين (دون تحديد الفترة الزمنية). وفي يوم الخميس 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة في نجران وجازان على مدار اليوم، ثم أعلن لاحقًا زوال الخطر"
    },
    "url": "https://www.tbsnews.net/worldbiz/middle-east/yemens-houthis-hit-palace-aden-coalition-details-attacks-saudi-infrastructure"
+  },
+  {
+   "n": 80,
+   "name": {
+    "ko": "Aviability (QR1175)",
+    "en": "Aviability (QR1175)",
+    "ar": "Aviability (QR1175)"
+   },
+   "date": "2026-10-16",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 메디나→도하 04:45편 10/16 04:44 출발, 06:47 도착 표시",
+    "en": "Qatar Airways Madinah → Doha 04:45 flight shown as departed at 04:44 and arrived at 06:47 on 16 Oct",
+    "ar": "تُظهر الصفحة أن رحلة الخطوط الجوية القطرية المجدولة الساعة 04:45 من المدينة المنورة إلى الدوحة أقلعت الساعة 04:44 ووصلت الساعة 06:47 يوم 16 أكتوبر"
+   },
+   "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
   }
  ]
 }

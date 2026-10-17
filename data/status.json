@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17T03:49:00+03:00",
+ "updated_at": "2026-10-17T04:58:00+03:00",
  "window_start": "2026-10-17",
  "pills": [
   {
@@ -309,13 +309,13 @@
     "ar": "المغادرة من العُلا 08:10 والوصول إلى الدوحة 10:30 · الرحلتان التاليتان 18 أكتوبر (الأحد) و21 أكتوبر (الأربعاء)"
    },
    "note": {
-    "ko": "10/11 실제 운항 확인. 10/16 편은 실제 운항 여부 확인되지 않음(항공편 추적 사이트에 출발 기록 없음, 항공사 공식 발표 아님)",
-    "en": "Confirmed operating on 11 Oct. Whether the 16 Oct flight operated has not been confirmed (no departure record on flight-tracking sites; not an official airline announcement)",
-    "ar": "تأكّد تسيير الرحلة يوم 11 أكتوبر. لم يتأكّد تسيير رحلة 16 أكتوبر (لا يوجد سجل إقلاع على مواقع تتبّع الرحلات، وهذا ليس إعلانًا رسميًا من شركة الطيران)"
+    "ko": "10/11·10/16 실제 운항 확인(항공편 추적 사이트 기준)",
+    "en": "Confirmed operating on 11 and 16 Oct (per flight-tracking sites)",
+    "ar": "تأكّد تسيير الرحلة يومَي 11 و16 أكتوبر (وفق مواقع تتبّع الرحلات)"
    },
    "refs": [
     12,
-    86
+    89
    ]
   },
   {
@@ -676,7 +676,7 @@
    ],
    "refs": [
     12,
-    86
+    89
    ]
   },
   {
@@ -2255,6 +2255,22 @@
     "ar": "المتحدث باسم التحالف على منصة X: اعتراض ثلاث طائرات مسيّرة (الرياض والجنوب) وصاروخَي كروز (البحر الأحمر) وصاروخ باليستي (ينبع) (أُعلن يوم 16 أكتوبر)"
    },
    "url": "https://nukta.com/saudi-led-coalition-intercepts-missiles-and-drones-over-riyadh-and-red-sea"
+  },
+  {
+   "n": 89,
+   "name": {
+    "ko": "Flightradar24 (QR1203)",
+    "en": "Flightradar24 (QR1203)",
+    "ar": "Flightradar24 (QR1203)"
+   },
+   "date": "2026-10-17",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "알울라 08:10 출발편 10/11(09:03 출발)·10/16(08:51 출발) 실제 운항·도착 기록, 10/18·10/21 예정 표시 (항공사 공지 아님)",
+    "en": "AlUla 08:10 departure: actual flights recorded on 11 Oct (departed 09:03) and 16 Oct (departed 08:51), both landed; 18 and 21 Oct shown as scheduled (not an airline notice)",
+    "ar": "رحلة المغادرة من العُلا 08:10: سُجّل تسيير فعلي يوم 11 أكتوبر (أقلعت 09:03) ويوم 16 أكتوبر (أقلعت 08:51) وهبطت الرحلتان، ورحلتا 18 و21 أكتوبر تظهران مجدولتين (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://www.flightradar24.com/data/flights/qr1203"
   }
  ]
 }

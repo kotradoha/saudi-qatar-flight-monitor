@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T16:55:00+03:00",
+ "updated_at": "2026-10-18T17:52:00+03:00",
  "window_start": "2026-10-18",
  "pills": [
   {
@@ -852,13 +852,14 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도)",
-    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report)",
-    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز)"
+    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도) · 10/18 나즈란시에 민방위 경보 발령 후 해제(아랍뉴스 보도)",
+    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report) · On 18 Oct, civil defence issued an alert for Najran City and later lifted it (Arab News report)",
+    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز) · في 18 أكتوبر، أصدر الدفاع المدني تنبيهًا لمدينة نجران ثم رفعه لاحقًا (بحسب تقرير لعرب نيوز)"
    },
    "refs": [
     14,
-    79
+    79,
+    118
    ]
   },
   {
@@ -2777,6 +2778,22 @@
     "ar": "رحلة المغادرة من العُلا الساعة 08:10 بالتوقيت العالمي المنسّق (11:10 بالتوقيت المحلي) يوم 18 أكتوبر لا تزال تظهر «مجدولة» دون وقت إقلاع فعلي حتى الساعة 13:40 (بتوقيت الدوحة) (ولا تظهر ملغاة)؛ ورحلات 21 و23 و25 أكتوبر مجدولة (ليس إعلانًا من شركة الطيران)"
    },
    "url": "https://www.flightradar24.com/data/flights/qr1203"
+  },
+  {
+   "n": 118,
+   "name": {
+    "ko": "Arab News (10/18, 15:13 갱신)",
+    "en": "Arab News (18 Oct, updated 15:13)",
+    "ar": "عرب نيوز (18 أكتوبر، حُدِّث الساعة 15:13)"
+   },
+   "date": "2026-10-18",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "사우디 민방위청이 10/18 새벽 요격 이후 같은 날 나즈란시·술라일 지역에 경보를 냈다가 해제(시각 미기재)",
+    "en": "Saudi Civil Defense issued alerts for Najran City and As Sulayyil Governorate later on 18 Oct, after the early-morning interceptions, and then lifted them (time not given)",
+    "ar": "أصدر الدفاع المدني السعودي في وقت لاحق من يوم 18 أكتوبر، بعد عمليات الاعتراض فجرًا، تنبيهات لمدينة نجران ومحافظة السليّل ثم رفعها (دون ذكر التوقيت)"
+   },
+   "url": "https://www.arabnews.com/saudi-arabia/coalition-destroy-incoming-houthi-missiles-drones-amid-renewed-attacks-3006940"
   }
  ]
 }

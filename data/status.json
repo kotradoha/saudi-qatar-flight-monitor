@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-18T09:50:00+03:00",
+ "updated_at": "2026-10-18T10:36:00+03:00",
  "window_start": "2026-10-18",
  "pills": [
   {
@@ -325,18 +325,19 @@
     "ar": "الخطوط الجوية القطرية الجمعة · الأحد (ورحلة إضافية يوم الأربعاء 21 أكتوبر)"
    },
    "times": {
-    "ko": "알울라 출발 08:10 → 도하 10:30 · 다음 편 10/18(일), 10/21(수)",
-    "en": "Departs AlUla 08:10 → arrives Doha 10:30 · next flights 18 Oct (Sun) and 21 Oct (Wed)",
-    "ar": "المغادرة من العُلا 08:10 والوصول إلى الدوحة 10:30 · الرحلتان التاليتان 18 أكتوبر (الأحد) و21 أكتوبر (الأربعاء)"
+    "ko": "알울라 출발 08:10 → 도하 10:30 · 다음 편 10/21(수), 10/23(금)",
+    "en": "Departs AlUla 08:10 → arrives Doha 10:30 · next flights 21 Oct (Wed) and 23 Oct (Fri)",
+    "ar": "المغادرة من العُلا 08:10 والوصول إلى الدوحة 10:30 · الرحلتان التاليتان 21 أكتوبر (الأربعاء) و23 أكتوبر (الجمعة)"
    },
    "note": {
-    "ko": "10/11·10/16 실제 운항 확인(항공편 추적 사이트 기준)",
-    "en": "Confirmed operating on 11 and 16 Oct (per flight-tracking sites)",
-    "ar": "تأكّد تسيير الرحلة يومَي 11 و16 أكتوبر (وفق مواقع تتبّع الرحلات)"
+    "ko": "10/11·10/16 실제 운항 확인. 10/18 08:10편은 10:36(도하) 확인 시점까지 실제 출발 기록이 확인되지 않음, 결항 표시도 없음(항공편 추적 사이트 기준, 항공사 공식 발표 아님)",
+    "en": "Confirmed operating on 11 and 16 Oct. For the 08:10 flight on 18 Oct, no actual departure had been recorded as of 10:36 (Doha time), and it is not shown as cancelled either (per flight-tracking sites, not an official airline announcement)",
+    "ar": "تأكّد تسيير الرحلة يومَي 11 و16 أكتوبر. أما رحلة 18 أكتوبر المجدولة الساعة 08:10 فلم يُسجَّل لها إقلاع فعلي حتى وقت التحقق الساعة 10:36 (بتوقيت الدوحة)، ولا تظهر ملغاة أيضًا (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)"
    },
    "refs": [
     12,
-    89
+    89,
+    108
    ]
   },
   {
@@ -2596,6 +2597,22 @@
     "ar": "بند 18 أكتوبر: تنبيه أمني من السفارة الأمريكية في الرياض — لا تزال العمليات في مطار الملك خالد الدولي بالرياض معلّقة، ويعمل مطارا جدة والدمام مع بعض التأخيرات والإلغاءات (دون ذكر تاريخ صدور التنبيه أو موعد انتهائه)"
    },
    "url": "https://gulfnews.com/world/mena/middle-east-conflict-saudi-arabia-intercepts-houthi-drones-missiles-trump-says-iran-war-will-end-soon-1.500714637"
+  },
+  {
+   "n": 108,
+   "name": {
+    "ko": "Flightradar24 (QR1203)",
+    "en": "Flightradar24 (QR1203)",
+    "ar": "Flightradar24 (QR1203)"
+   },
+   "date": "2026-10-18",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "알울라 08:10 출발편 10/18 10:36(도하) 확인 시점에 실제 출발 시각 없이 ‘예정’ 표시(결항 표시 없음), 10/21·10/23 예정 표시 (항공사 공지 아님)",
+    "en": "AlUla 08:10 departure: as of 10:36 (Doha time) on 18 Oct, shown as scheduled with no actual departure time (not shown as cancelled); 21 and 23 Oct shown as scheduled (not an airline notice)",
+    "ar": "رحلة المغادرة من العُلا 08:10: حتى الساعة 10:36 (بتوقيت الدوحة) يوم 18 أكتوبر تظهر مجدولة دون وقت إقلاع فعلي (ولا تظهر ملغاة)، ورحلتا 21 و23 أكتوبر تظهران مجدولتين (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://www.flightradar24.com/data/flights/qr1203"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T12:57:00+03:00",
+ "updated_at": "2026-10-19T13:57:00+03:00",
  "window_start": "2026-10-19",
  "pills": [
   {
@@ -264,14 +264,14 @@
     "ar": "خط للخطوط الجوية القطرية (3 رحلات يوميًا) — أُعلِن تعليقه مؤقتًا يوم 12 أكتوبر"
    },
    "times": {
-    "ko": "담맘 출발 05:00 · 10:55 · 22:30 — 10/12 10:55편 실제 운항(지연), 10/13 결항, 10:55편은 10/14~10/16·10/18 결항 표시, 05:00·22:30편은 10/13~10/18 결항 표시(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 재개일 미발표",
-    "en": "Departs Dammam 05:00 · 10:55 · 22:30 — on 12 Oct the 10:55 flight actually operated (delayed); 13 Oct cancelled; the 10:55 flight is shown as cancelled on 14–16 and 18 Oct; the 05:00 and 22:30 flights are shown as cancelled from 13 to 18 Oct (per flight-tracking sites, not an official airline announcement); no resumption date announced",
-    "ar": "المغادرة من الدمام 05:00 · 10:55 · 22:30 — يوم 12 أكتوبر سُيِّرت رحلة 10:55 فعليًا (متأخرة)، وأُلغيت الرحلات يوم 13 أكتوبر، وتظهر رحلة 10:55 ملغاةً من 14 إلى 16 أكتوبر ويوم 18 أكتوبر، وتظهر رحلتا 05:00 و22:30 ملغاتين من 13 إلى 18 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولم يُعلَن موعد الاستئناف"
+    "ko": "담맘 출발 05:00 · 10:55 · 22:30 — 10/12 10:55편 실제 운항(지연), 10/13 결항, 10:55편은 10/14~10/16·10/18 결항 표시, 05:00·22:30편은 10/13~10/20 결항 표시(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 재개일 미발표",
+    "en": "Departs Dammam 05:00 · 10:55 · 22:30 — on 12 Oct the 10:55 flight actually operated (delayed); 13 Oct cancelled; the 10:55 flight is shown as cancelled on 14–16 and 18 Oct; the 05:00 and 22:30 flights are shown as cancelled from 13 to 20 Oct (per flight-tracking sites, not an official airline announcement); no resumption date announced",
+    "ar": "المغادرة من الدمام 05:00 · 10:55 · 22:30 — يوم 12 أكتوبر سُيِّرت رحلة 10:55 فعليًا (متأخرة)، وأُلغيت الرحلات يوم 13 أكتوبر، وتظهر رحلة 10:55 ملغاةً من 14 إلى 16 أكتوبر ويوم 18 أكتوبر، وتظهر رحلتا 05:00 و22:30 ملغاتين من 13 إلى 20 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولم يُعلَن موعد الاستئناف"
    },
    "note": {
-    "ko": "카타르항공 여행 공지로 리야드·담맘 운항 일시 중단(The Peninsula·신화통신 보도, 기간 미발표). 일부 추적 사이트에는 10/19 편이 ‘예정’으로 표시돼 항공사 발표와 어긋남. 10/11 공항 피격. 10/13 밤 인근 다란을 향한 후티 탄도미사일 요격(연합군 발표)",
-    "en": "Qatar Airways temporarily suspended Riyadh and Dammam flights in a travel alert (reported by The Peninsula and Xinhua; no duration announced). Some flight-tracking sites list the 19 Oct flight as “scheduled”, which contradicts the airline’s announcement. Airport attacked on 11 Oct. On the night of 13 Oct, a Houthi ballistic missile aimed at nearby Dhahran was intercepted (coalition statement).",
-    "ar": "علّقت الخطوط الجوية القطرية رحلات الرياض والدمام مؤقتًا في تنبيه سفر (بحسب ما أوردته The Peninsula ووكالة شينخوا، دون الإعلان عن مدة التعليق). وتُدرج بعض مواقع تتبّع الرحلات رحلة 19 أكتوبر على أنها «مجدولة»، بما يتعارض مع إعلان شركة الطيران. تعرّض المطار لهجوم يوم 11 أكتوبر. وفي ليلة 13 أكتوبر، اعتُرض صاروخ باليستي حوثي أُطلق باتجاه مدينة الظهران المجاورة (بحسب بيان التحالف)."
+    "ko": "카타르항공 여행 공지로 리야드·담맘 운항 일시 중단(The Peninsula·신화통신 보도, 기간 미발표). 일부 추적 사이트에는 10/19 편이 ‘예정’으로 표시돼 항공사 발표와 어긋남. 또 한 추적 사이트(Planefinder)에는 10:55편(QR1151) 편명으로 10/14~10/16·10/18 도착 기록이 표시되나, 다른 추적 사이트는 같은 날들을 결항으로 표시하고 항공사 공지와도 달라 확인되지 않음(추적 사이트 간 엇갈림). 10/11 공항 피격. 10/13 밤 인근 다란을 향한 후티 탄도미사일 요격(연합군 발표)",
+    "en": "Qatar Airways temporarily suspended Riyadh and Dammam flights in a travel alert (reported by The Peninsula and Xinhua; no duration announced). Some flight-tracking sites list the 19 Oct flight as “scheduled”, which contradicts the airline’s announcement. In addition, one flight-tracking site (Planefinder) shows arrival records under the 10:55 flight number (QR1151) on 14–16 and 18 Oct, but another tracking site shows those dates as cancelled and this also differs from the airline’s notice, so it has not been confirmed (tracking sites conflict). Airport attacked on 11 Oct. On the night of 13 Oct, a Houthi ballistic missile aimed at nearby Dhahran was intercepted (coalition statement).",
+    "ar": "علّقت الخطوط الجوية القطرية رحلات الرياض والدمام مؤقتًا في تنبيه سفر (بحسب ما أوردته The Peninsula ووكالة شينخوا، دون الإعلان عن مدة التعليق). وتُدرج بعض مواقع تتبّع الرحلات رحلة 19 أكتوبر على أنها «مجدولة»، بما يتعارض مع إعلان شركة الطيران. كما يُظهر أحد مواقع تتبّع الرحلات (Planefinder) سجلات وصول تحت رقم رحلة 10:55 (QR1151) من 14 إلى 16 أكتوبر ويوم 18 أكتوبر، غير أن موقع تتبّع آخر يُظهر الرحلة في هذه الأيام ملغاةً، كما يختلف ذلك عن تنبيه شركة الطيران، ولذا فهو غير مؤكَّد (تضارب بين مواقع التتبّع). تعرّض المطار لهجوم يوم 11 أكتوبر. وفي ليلة 13 أكتوبر، اعتُرض صاروخ باليستي حوثي أُطلق باتجاه مدينة الظهران المجاورة (بحسب بيان التحالف)."
    },
    "refs": [
     20,
@@ -289,7 +289,10 @@
     102,
     103,
     115,
-    127
+    127,
+    130,
+    131,
+    132
    ]
   },
   {
@@ -687,7 +690,9 @@
     27,
     35,
     115,
-    127
+    127,
+    130,
+    131
    ]
   },
   {
@@ -851,13 +856,15 @@
     "ar": "جازان"
    },
    "note": {
-    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도)",
-    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report)",
-    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز)"
+    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도) · 10/19 새벽 지잔시에 민방위 경보 발령 후 위험 해소 발표(걸프뉴스·미들이스트아이 보도)",
+    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report) · Early on 19 Oct, civil defence issued an alert for Jazan City, later saying the danger had passed (Gulf News and Middle East Eye reports)",
+    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز) · فجر 19 أكتوبر، أصدر الدفاع المدني تنبيهًا لمدينة جازان، ثم أعلن لاحقًا زوال الخطر (بحسب تقريرَي غلف نيوز وميدل إيست آي)"
    },
    "refs": [
     14,
-    79
+    79,
+    128,
+    129
    ]
   },
   {
@@ -2955,6 +2962,86 @@
     "ar": "عند التحقق في الساعة 10:40 (بتوقيت الدوحة) يوم 19 أكتوبر، لا يزال إشعار التعليق المؤقت للرحلات من الرياض والدمام وإليهما قائمًا (آخر تحديث في 12 أكتوبر، 16:54 بتوقيت الدوحة؛ دون ذكر موعد الاستئناف)"
    },
    "url": "https://www.qatarairways.com/en-us/travel-alerts.html"
+  },
+  {
+   "n": 128,
+   "name": {
+    "ko": "Gulf News 라이브 (10/19)",
+    "en": "Gulf News live blog (19 Oct)",
+    "ar": "غلف نيوز – تغطية مباشرة (19 أكتوبر)"
+   },
+   "date": "2026-10-19",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/19 07:01 항목: 사우디 민방위청이 남부 지잔시에 잠재 위협 경보를 낸 지 7분 뒤 위험이 지나갔다고 발표",
+    "en": "19 Oct 07:01 entry: Saudi Civil Defence announced the danger had passed in the southern city of Jizan seven minutes after an alert about a potential threat",
+    "ar": "تدوينة الساعة 07:01 يوم 19 أكتوبر: أعلن الدفاع المدني السعودي زوال الخطر في مدينة جازان الجنوبية بعد سبع دقائق من تنبيه بشأن تهديد محتمل"
+   },
+   "url": "https://gulfnews.com/world/mena/middle-east-live-trump-backs-netanyahu-as-iran-issues-warning-saudi-houthi-strikes-escalate-1.500715444"
+  },
+  {
+   "n": 129,
+   "name": {
+    "ko": "Middle East Eye 라이브 (10/19)",
+    "en": "Middle East Eye live blog (19 Oct)",
+    "ar": "ميدل إيست آي – تغطية مباشرة (19 أكتوبر)"
+   },
+   "date": "2026-10-19",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "사우디 민방위청이 10/19(월) 새벽 지잔시에 경보를 냈으며 이후 해제됨(민방위청 X 게시: 지잔시 위험 해소)",
+    "en": "Saudi Civil Defence issued an alert over Jazan City early on Monday 19 Oct, which has since passed (Civil Defense post on X: danger has passed in Jizan City)",
+    "ar": "أصدر الدفاع المدني السعودي تنبيهًا لمدينة جازان فجر الاثنين 19 أكتوبر، ثم زال الخطر لاحقًا (منشور الدفاع المدني على منصة X: زوال الخطر في مدينة جازان)"
+   },
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/warning-issued-saudis-jazan?topic=War+on+Iran&nid=448087&fid=556137"
+  },
+  {
+   "n": 130,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1157, 영국판)",
+    "en": "Trip.com flight status (QR1157, UK site)",
+    "ar": "حالة الرحلات على Trip.com (QR1157، الموقع البريطاني)"
+   },
+   "date": "2026-10-19",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘 05:00 출발 QR1157 10/15~10/21 결항 표시 (항공사 공지 아님)",
+    "en": "Dammam 05:00 departure QR1157 shown as cancelled 15–21 Oct (not an airline notice)",
+    "ar": "رحلة QR1157 المغادرة من الدمام الساعة 05:00 تظهر ملغاةً من 15 إلى 21 أكتوبر (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://uk.trip.com/flights/status-qr1157"
+  },
+  {
+   "n": 131,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1155, 필리핀판)",
+    "en": "Trip.com flight status (QR1155, Philippines site)",
+    "ar": "حالة الرحلات على Trip.com (QR1155، موقع الفلبين)"
+   },
+   "date": "2026-10-19",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘 22:30 출발 QR1155 10/18~10/20 결항 표시 (항공사 공지 아님)",
+    "en": "Dammam 22:30 departure QR1155 shown as cancelled 18–20 Oct (not an airline notice)",
+    "ar": "رحلة QR1155 المغادرة من الدمام الساعة 22:30 تظهر ملغاةً من 18 إلى 20 أكتوبر (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://ph.trip.com/flights/status-qr1155/"
+  },
+  {
+   "n": 132,
+   "name": {
+    "ko": "Planefinder (QR1151, 10/19)",
+    "en": "Planefinder (QR1151, 19 Oct)",
+    "ar": "Planefinder (QR1151، 19 أكتوبر)"
+   },
+   "date": "2026-10-19",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "담맘→도하 QR1151 편명으로 10/14·10/15·10/16·10/18 출발·도착 시각 기록 표시(10/18 13:50 출발·14:29 도착), 10/19 이후 예정 표시. 같은 기간 도하→담맘 QR1150 기록은 10/12 이후 없음 (항공사 공지 아님)",
+    "en": "Shows departure/arrival times under Dammam–Doha flight number QR1151 on 14, 15, 16 and 18 Oct (18 Oct: departed 13:50, arrived 14:29), with flights from 19 Oct listed as scheduled. No Doha–Dammam QR1150 records after 12 Oct (not an airline notice)",
+    "ar": "يُظهر أوقات مغادرة ووصول تحت رقم الرحلة QR1151 من الدمام إلى الدوحة أيام 14 و15 و16 و18 أكتوبر (18 أكتوبر: المغادرة 13:50 والوصول 14:29)، مع إدراج الرحلات اعتبارًا من 19 أكتوبر على أنها مجدولة. ولا توجد سجلات لرحلة QR1150 من الدوحة إلى الدمام بعد 12 أكتوبر (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://planefinder.net/data/flight/QR1151"
   }
  ]
 }

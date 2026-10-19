@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T09:58:00+03:00",
+ "updated_at": "2026-10-19T10:58:00+03:00",
  "window_start": "2026-10-19",
  "pills": [
   {
@@ -72,7 +72,10 @@
     105,
     106,
     109,
-    110
+    110,
+    125,
+    126,
+    127
    ]
   },
   {
@@ -134,7 +137,8 @@
     64,
     65,
     81,
-    82
+    82,
+    127
    ]
   },
   {
@@ -284,7 +288,8 @@
     101,
     102,
     103,
-    115
+    115,
+    127
    ]
   },
   {
@@ -393,7 +398,10 @@
     99,
     107,
     109,
-    110
+    110,
+    125,
+    126,
+    127
    ]
   },
   {
@@ -472,7 +480,8 @@
     27,
     97,
     98,
-    99
+    99,
+    127
    ]
   },
   {
@@ -677,7 +686,8 @@
     26,
     27,
     35,
-    115
+    115,
+    127
    ]
   },
   {
@@ -2897,6 +2907,54 @@
     "ar": "رحلة QR1203 من العُلا إلى الدوحة مسجّلة بأنها سُيِّرت فعليًا (هبطت) يومَي 16 و18 أكتوبر (يوم 18 أكتوبر: أقلعت 08:43 وهبطت 10:36 بالتوقيت العالمي المنسّق)، وتظهر رحلات 21 و23 و25 أكتوبر مجدولة (الأوقات بالتوقيت العالمي المنسّق؛ ليس إشعارًا من شركة الطيران)"
    },
    "url": "https://www.flightradar24.com/data/flights/qr1203"
+  },
+  {
+   "n": 125,
+   "name": {
+    "ko": "Gulf News (10/19, 미국 여행 경보 보도)",
+    "en": "Gulf News (19 Oct, US travel alert report)",
+    "ar": "غلف نيوز (19 أكتوبر، تقرير عن تنبيه السفر الأمريكي)"
+   },
+   "date": "2026-10-19",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "주사우디 미국대사관의 10/18 경보 보도: 리야드 킹칼리드 국제공항 운영 계속 중단, 제다·담맘 공항은 일부 지연·결항 속 운영 (10/19 07:45 갱신, 시간대 미기재)",
+    "en": "Report on the US Embassy in Saudi Arabia's 18 Oct alert: operations at King Khalid International Airport in Riyadh remain suspended; Jeddah and Dammam airports are operating with some delays and cancellations (updated 19 Oct, 07:45; time zone not stated)",
+    "ar": "تقرير عن تنبيه السفارة الأمريكية في السعودية الصادر في 18 أكتوبر: استمرار تعليق العمليات في مطار الملك خالد الدولي بالرياض، ومطارا جدة والدمام يعملان مع بعض التأخير والإلغاء (حُدِّث في 19 أكتوبر، 07:45، دون ذكر المنطقة الزمنية)"
+   },
+   "url": "https://gulfnews.com/world/gulf/saudi/us-updates-saudi-arabia-travel-advisory-airport-risks-flight-disruption-and-filming-ban-1.500715462"
+  },
+  {
+   "n": 126,
+   "name": {
+    "ko": "ANI 통신 (10/19)",
+    "en": "ANI (19 Oct)",
+    "ar": "وكالة ANI (19 أكتوبر)"
+   },
+   "date": "2026-10-19",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "주사우디 미국대사관이 일요일(10/18, 현지 시각) 낸 경보 인용: ‘리야드 킹칼리드 국제공항 운영은 계속 중단된 상태’, 제다·담맘 공항은 운영 중이나 일부 지연·결항",
+    "en": "Quotes the US Embassy alert issued on Sunday (18 Oct, local time): 'Operations at King Khalid International Airport in Riyadh remain suspended'; Jeddah and Dammam airports are operational but with some delays and cancellations",
+    "ar": "تنقل عن تنبيه السفارة الأمريكية الصادر يوم الأحد (18 أكتوبر بالتوقيت المحلي): «لا تزال العمليات في مطار الملك خالد الدولي بالرياض معلّقة»، وأن مطارَي جدة والدمام يعملان لكن مع بعض التأخير والإلغاء"
+   },
+   "url": "https://aninews.in/news/world/asia/us-issues-saudi-arabia-travel-alert-warns-citizens-against-filming-strike-sites-amid-escalating-tensions20261019065305/"
+  },
+  {
+   "n": 127,
+   "name": {
+    "ko": "카타르항공 여행 공지 (10/19 재확인)",
+    "en": "Qatar Airways travel alerts (rechecked 19 Oct)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (أُعيد التحقق في 19 أكتوبر)"
+   },
+   "date": "2026-10-19",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "10/19 10:40(도하) 확인 시점에도 리야드·담맘 출도착편 일시 중단 공지 유지 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재)",
+    "en": "As checked at 10:40 (Doha) on 19 Oct, the notice that flights to and from Riyadh and Dammam are temporarily suspended remains in place (last updated 12 Oct, 16:54 Doha time; no resumption date given)",
+    "ar": "عند التحقق في الساعة 10:40 (بتوقيت الدوحة) يوم 19 أكتوبر، لا يزال إشعار التعليق المؤقت للرحلات من الرياض والدمام وإليهما قائمًا (آخر تحديث في 12 أكتوبر، 16:54 بتوقيت الدوحة؛ دون ذكر موعد الاستئناف)"
+   },
+   "url": "https://www.qatarairways.com/en-us/travel-alerts.html"
   }
  ]
 }

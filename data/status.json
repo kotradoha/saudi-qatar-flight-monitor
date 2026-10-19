@@ -3219,8 +3219,8 @@
    "date": "2026-10-19",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 메디나→도하 04:45편 10/19 도착 표시(04:45편, 06:41 도착) (항공사 공지 아님)",
-    "en": "Qatar Airways Madinah → Doha 04:45 flight shown as arrived on 19 Oct (04:45 departure, arrived 06:41) (not an airline notice)",
+    "ko": "카타르항공 메디나→도하 04:45편 10/19 도착 표시(06:41 도착) (항공사 공지 아님)",
+    "en": "Qatar Airways Madinah → Doha 04:45 flight shown as arrived on 19 Oct (arrived 06:41) (not an airline notice)",
     "ar": "رحلة الخطوط الجوية القطرية من المدينة المنورة إلى الدوحة المجدولة الساعة 04:45 تظهر واصلةً يوم 19 أكتوبر (وصلت الساعة 06:41) (ليس إشعارًا من شركة الطيران)"
    },
    "url": "https://aviability.com/en/flight/qr1175-qatar-airways"

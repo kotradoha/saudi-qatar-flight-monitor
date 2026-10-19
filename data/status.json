@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T03:55:00+03:00",
+ "updated_at": "2026-10-19T05:55:00+03:00",
  "window_start": "2026-10-19",
  "pills": [
   {
@@ -221,9 +221,9 @@
     "ar": "المغادرة من المدينة المنورة 04:45 · 08:25"
    },
    "note": {
-    "ko": "10/15·10/16·10/17·10/18 실제 운항 확인(10/18은 04:45편, 10/16~10/18은 항공편 추적 사이트 기준). 후티가 공격 대상에서 제외한 공항이나, 10/15 메디나 지역에서 순항미사일 1발 요격·파괴(연합군 발표, 발사 주체·목표·피해 미발표). 후티는 메디나 공격을 부인(AFP·타스 보도)",
-    "en": "Confirmed operating on 15, 16, 17 and 18 Oct (18 Oct: 04:45 flight; 16–18 Oct according to flight-tracking sites). The Houthis have excluded this airport from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced). The Houthis denied attacking Madinah (AFP and TASS reports).",
-    "ar": "تأكّد تسيير الرحلات أيام 15 و16 و17 و18 أكتوبر (يوم 18 أكتوبر: رحلة 04:45؛ ومن 16 إلى 18 أكتوبر بحسب مواقع تتبّع الرحلات). وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم، غير أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار). ونفى الحوثيون مهاجمة المدينة المنورة (بحسب وكالتَي فرانس برس وتاس)."
+    "ko": "10/15·10/16·10/17·10/18 실제 운항 확인, 10/19 04:45편도 실제 출발 확인(10/18·10/19는 04:45편, 10/16~10/19는 항공편 추적 사이트 기준). 후티가 공격 대상에서 제외한 공항이나, 10/15 메디나 지역에서 순항미사일 1발 요격·파괴(연합군 발표, 발사 주체·목표·피해 미발표). 후티는 메디나 공격을 부인(AFP·타스 보도)",
+    "en": "Confirmed operating on 15, 16, 17 and 18 Oct; the 04:45 flight on 19 Oct has also been confirmed as actually departed (18 and 19 Oct: 04:45 flight; 16–19 Oct according to flight-tracking sites). The Houthis have excluded this airport from their targets, but on 15 Oct a cruise missile was intercepted and destroyed in the Madinah region (coalition statement; who launched it, its target and any damage were not announced). The Houthis denied attacking Madinah (AFP and TASS reports).",
+    "ar": "تأكّد تسيير الرحلات أيام 15 و16 و17 و18 أكتوبر، كما تأكّد الإقلاع الفعلي لرحلة 04:45 يوم 19 أكتوبر (يومَي 18 و19 أكتوبر: رحلة 04:45؛ ومن 16 إلى 19 أكتوبر بحسب مواقع تتبّع الرحلات). وقد استثنى الحوثيون هذا المطار من قائمة أهدافهم، غير أن صاروخ كروز اعتُرض ودُمِّر في منطقة المدينة المنورة يوم 15 أكتوبر (بحسب بيان التحالف، ولم يُعلَن عن الجهة التي أطلقته ولا عن هدفه ولا عن أي أضرار). ونفى الحوثيون مهاجمة المدينة المنورة (بحسب وكالتَي فرانس برس وتاس)."
    },
    "refs": [
     100,
@@ -237,7 +237,8 @@
     71,
     72,
     73,
-    113
+    113,
+    123
    ]
   },
   {
@@ -2866,6 +2867,22 @@
     "ar": "منشور الدفاع المدني السعودي على منصة X: سقط مقذوف يوم الأحد 18 أكتوبر على موقع سكني في مدينة نجران، ما أسفر عن إصابة ستة أشخاص وإلحاق أضرار بثلاثة منازل وثلاث مركبات"
    },
    "url": "https://www.timesofisrael.com/liveblog_entry/6-injured-after-houthi-strike-hits-southern-saudi-arabia-civil-defense-says"
+  },
+  {
+   "n": 123,
+   "name": {
+    "ko": "Planefinder (QR1175, 10/19)",
+    "en": "Planefinder (QR1175, 19 Oct)",
+    "ar": "Planefinder (QR1175، 19 أكتوبر)"
+   },
+   "date": "2026-10-19",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 메디나→도하 04:45편 10/18 실제 운항(04:45 출발, 06:52 도착), 10/19 04:45 출발·비행 중 표시 (항공사 공지 아님)",
+    "en": "Qatar Airways Madinah → Doha 04:45 flight actually operated on 18 Oct (departed 04:45, arrived 06:52); on 19 Oct shown as departed at 04:45 and in flight (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية من المدينة المنورة إلى الدوحة المجدولة الساعة 04:45 سُيِّرت فعليًا يوم 18 أكتوبر (أقلعت الساعة 04:45 ووصلت الساعة 06:52)، وتظهر يوم 19 أكتوبر أنها أقلعت الساعة 04:45 وهي في الجو (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://planefinder.net/data/flight/QR1175"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T21:37:00+03:00",
+ "updated_at": "2026-10-22T22:51:00+03:00",
  "window_start": "2026-10-22",
  "pills": [
   {
@@ -1012,16 +1012,18 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도) · 10/18 나즈란시에 민방위 경보 발령 후 해제(아랍뉴스 보도) · 10/18 나즈란시 주거지역에 후티 발사체가 떨어져 시민 6명 부상, 주택 3채·차량 3대 피해(사우디 민방위청 발표, 아랍타임스·타임스오브이스라엘 보도)",
-    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report) · On 18 Oct, civil defence issued an alert for Najran City and later lifted it (Arab News report) · On 18 Oct, a Houthi projectile fell on a residential area in Najran City, injuring six citizens and damaging three houses and three vehicles (Saudi Civil Defense statement; Arab Times and Times of Israel reports)",
-    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز) · في 18 أكتوبر، أصدر الدفاع المدني تنبيهًا لمدينة نجران ثم رفعه لاحقًا (بحسب تقرير لعرب نيوز) · في 18 أكتوبر، سقط مقذوف حوثي على حيّ سكني في مدينة نجران، ما أسفر عن إصابة ستة مواطنين وإلحاق أضرار بثلاثة منازل وثلاث مركبات (بحسب بيان الدفاع المدني السعودي، ووفقًا لتقارير صحيفتَي «عرب تايمز» و«تايمز أوف إسرائيل»)"
+    "ko": "노선 없음 · 공항 10/15까지 폐쇄 공지, 이후 운영 여부 확인되지 않음 · 10/15 민방위 조기경보 발령 후 위험 해소 발표(로이터 보도) · 10/18 나즈란시에 민방위 경보 발령 후 해제(아랍뉴스 보도) · 10/18 나즈란시 주거지역에 후티 발사체가 떨어져 시민 6명 부상, 주택 3채·차량 3대 피해(사우디 민방위청 발표, 아랍타임스·타임스오브이스라엘 보도) · 10/22(목) 밤 나즈란을 향한 후티 탄도미사일 1발 요격·파괴(연합군 발표, 걸프뉴스·뉴스스쿼크 보도, 피해 언급 없음)",
+    "en": "No direct route · airport announced closed until 15 Oct; status since then not confirmed · On 15 Oct, civil defence issued early warnings, later saying the danger had passed (Reuters report) · On 18 Oct, civil defence issued an alert for Najran City and later lifted it (Arab News report) · On 18 Oct, a Houthi projectile fell on a residential area in Najran City, injuring six citizens and damaging three houses and three vehicles (Saudi Civil Defense statement; Arab Times and Times of Israel reports) · On the night of Thu 22 Oct, a Houthi ballistic missile fired towards Najran was intercepted and destroyed (coalition statement; Gulf News and Newsquawk reports; no damage mentioned)",
+    "ar": "لا يوجد خط مباشر · أُعلن إغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · في 15 أكتوبر، أصدر الدفاع المدني إنذارات مبكرة، ثم أعلن لاحقًا زوال الخطر (بحسب تقرير لرويترز) · في 18 أكتوبر، أصدر الدفاع المدني تنبيهًا لمدينة نجران ثم رفعه لاحقًا (بحسب تقرير لعرب نيوز) · في 18 أكتوبر، سقط مقذوف حوثي على حيّ سكني في مدينة نجران، ما أسفر عن إصابة ستة مواطنين وإلحاق أضرار بثلاثة منازل وثلاث مركبات (بحسب بيان الدفاع المدني السعودي، ووفقًا لتقارير صحيفتَي «عرب تايمز» و«تايمز أوف إسرائيل») · مساء الخميس 22 أكتوبر، جرى اعتراض صاروخ باليستي حوثي أُطلق باتجاه نجران وتدميره (بحسب بيان التحالف، ووفقًا لتقارير «غلف نيوز» و«نيوزسكواك»، دون ذكر أضرار)"
    },
    "refs": [
     14,
     79,
     118,
     121,
-    122
+    122,
+    195,
+    196
    ]
   },
   {
@@ -4174,6 +4176,38 @@
     "ar": "نقلًا عن ثلاثة مصادر: أمرت أرامكو بالإخلاء الفوري لمقرها الرئيسي في الظهران، وطُلب من الموظفين الأساسيين المتبقّين العمل من المنزل حتى إشعار آخر. ولم يتضمّن التقرير أي تعليق من أرامكو (حُدِّث في 22 أكتوبر الساعة 17:02، دون ذكر المنطقة الزمنية)"
    },
    "url": "https://gulfnews.com/world/gulf/saudi/saudi-aramco-orders-full-evacuation-of-dhahran-headquarters-amid-houthi-attacks-1.500719958"
+  },
+  {
+   "n": 195,
+   "name": {
+    "ko": "Gulf News (10/22 라이브 블로그)",
+    "en": "Gulf News (22 Oct live blog)",
+    "ar": "غلف نيوز (تغطية مباشرة، 22 أكتوبر)"
+   },
+   "date": "2026-10-22",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/22 오후 10:45 항목(시간대 미기재): 연합군이 나즈란을 향한 후티 탄도미사일 1발을 요격·파괴했다고 밝힘 (피해 언급 없음)",
+    "en": "Entry at 10:45 PM on 22 Oct (time zone not stated): the coalition said a Houthi ballistic missile fired towards Najran was intercepted and destroyed (no damage mentioned)",
+    "ar": "منشور الساعة 10:45 مساءً في 22 أكتوبر (دون ذكر المنطقة الزمنية): أعلن التحالف اعتراض صاروخ باليستي حوثي أُطلق باتجاه نجران وتدميره (دون ذكر أضرار)"
+   },
+   "url": "https://gulfnews.com/world/mena/middle-east-war-saudi-airport-attack-kills-one-as-us-orders-embassy-departures-1.500719174"
+  },
+  {
+   "n": 196,
+   "name": {
+    "ko": "뉴스스쿼크 (Newsquawk, 10/22)",
+    "en": "Newsquawk (22 Oct)",
+    "ar": "نيوزسكواك (22 أكتوبر)"
+   },
+   "date": "2026-10-22",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "헤드라인: 사우디 주도 연합군, 나즈란을 향한 후티 미사일을 파괴했다고 밝힘 (10/22 18:33 UTC 속보)",
+    "en": "Headline: Saudi-led coalition says it destroyed a Houthi missile fired towards Najran (flash at 18:33 UTC on 22 Oct)",
+    "ar": "عنوان: التحالف بقيادة السعودية يعلن تدمير صاروخ حوثي أُطلق باتجاه نجران (خبر عاجل الساعة 18:33 بتوقيت UTC في 22 أكتوبر)"
+   },
+   "url": "https://www.newsquawk.com/headlines/saudi-led-coalition-says-destroyed-houthi-missile-toward-najran"
   }
  ]
 }

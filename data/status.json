@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T19:49:00+03:00",
+ "updated_at": "2026-10-23T20:51:00+03:00",
  "window_start": "2026-10-23",
  "pills": [
   {
@@ -471,14 +471,14 @@
     "ar": "الخطوط الجوية القطرية الجمعة · الأحد (ورحلتان إضافيتان يومَي الأربعاء 21 أكتوبر والأربعاء 28 أكتوبر)"
    },
    "times": {
-    "ko": "알울라 출발 11:10 → 도하 13:30 (10/25·10/28은 11:30 → 13:40) · 다음 편 10/23(금), 10/25(일)",
-    "en": "Departs AlUla 11:10 → arrives Doha 13:30 (25 and 28 Oct: 11:30 → 13:40) · next flights 23 Oct (Fri) and 25 Oct (Sun)",
-    "ar": "المغادرة من العُلا 11:10 والوصول إلى الدوحة 13:30 (يومَي 25 و28 أكتوبر: المغادرة 11:30 والوصول 13:40) · الرحلتان التاليتان 23 أكتوبر (الجمعة) و25 أكتوبر (الأحد)"
+    "ko": "알울라 출발 11:10 → 도하 13:30 (10/25·10/28은 11:30 → 13:40) · 다음 편 10/25(일), 10/28(수)",
+    "en": "Departs AlUla 11:10 → arrives Doha 13:30 (25 and 28 Oct: 11:30 → 13:40) · next flights 25 Oct (Sun) and 28 Oct (Wed)",
+    "ar": "المغادرة من العُلا 11:10 والوصول إلى الدوحة 13:30 (يومَي 25 و28 أكتوبر: المغادرة 11:30 والوصول 13:40) · الرحلتان التاليتان 25 أكتوبر (الأحد) و28 أكتوبر (الأربعاء)"
    },
    "note": {
-    "ko": "10/11·10/16·10/18·10/21 실제 운항 확인(항공편 추적 사이트 기준, 항공사 공식 발표 아님)",
-    "en": "Confirmed operating on 11, 16, 18 and 21 Oct (per flight-tracking sites, not an official airline announcement)",
-    "ar": "تأكّد تسيير الرحلة أيام 11 و16 و18 و21 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)"
+    "ko": "10/11·10/16·10/18·10/21 실제 운항 확인(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 10/23(금) 편은 항공편 추적 사이트 2곳에 실제 출발 기록이 없어 운항 여부가 확인되지 않음(결항 표시도 없음, 항공사 공식 발표 아님)",
+    "en": "Confirmed operating on 11, 16, 18 and 21 Oct (per flight-tracking sites, not an official airline announcement). For the Fri 23 Oct flight, two flight-tracking sites show no actual departure record, so whether it operated has not been confirmed (no cancellation shown either; not an official airline announcement)",
+    "ar": "تأكّد تسيير الرحلة أيام 11 و16 و18 و21 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). أما رحلة الجمعة 23 أكتوبر، فلا يظهر لها سجل مغادرة فعلية على موقعين لتتبّع الرحلات، ولذلك لم يُتأكَّد من تسييرها (ولا يظهر أيضًا أنها أُلغيت، وليس ذلك إعلانًا رسميًا من شركة الطيران)"
    },
    "refs": [
     12,
@@ -486,7 +486,9 @@
     116,
     124,
     151,
-    159
+    159,
+    215,
+    216
    ]
   },
   {
@@ -570,9 +572,9 @@
     "ar": "رحلة 17 أكتوبر ملغاة، ورحلتا 22 و24 أكتوبر غير مؤكدتين"
    },
    "note": {
-    "ko": "공항은 10/15까지 야간 폐쇄로 공지됐으며, 이후 운영 여부는 확인되지 않음. 10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격(연합군 발표). 10/15에도 카미스 무샤이트를 겨냥한 드론 1기 요격(연합군 발표, 피해 언급 없음). 10/18 새벽에도 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격·파괴(연합군 발표, 피해 언급 없음). 연합군은 후티의 아브하 공항 공격으로 3명이 숨지고 28명이 다쳤다고 밝힘(공격 시기 미기재, 로이터 보도). 10/19 후티는 아브하 국제공항 공격을 주장(후티 측 주장, 신화통신·쿠르디스탄24 보도; 신화통신은 사우디·연합군의 즉각적인 논평이 없었다고 전함). 10/22 후티는 최근 48시간 동안 아브하 국제공항을 공격했다고 주장(후티 측 주장, SBS·아제르뉴스 보도). 10/23(금) 사우디 민방위청이 아브하·카미스 무샤이트에 공습 경보 발령(SBS 보도, 피해 언급 없음). 같은 날 카미스 무샤이트를 향한 후티 탄도미사일 1발도 요격·파괴(연합군 발표, 아랍뉴스·아질 보도, 피해 언급 없음)",
-    "en": "The airport was announced to be closed nightly until 15 Oct; its status since then has not been confirmed. Early on 13 Oct, two Houthi ballistic missiles fired toward Khamis Mushait were intercepted (coalition statement). On 15 Oct, a drone targeting Khamis Mushait was also intercepted (coalition statement; no damage mentioned). Early on 18 Oct, two more Houthi ballistic missiles fired toward Khamis Mushait were intercepted and destroyed (coalition statement; no damage mentioned). The coalition said Houthi attacks on Abha airport had killed 3 people and wounded 28 (timeframe not stated; Reuters report). On 19 Oct, the Houthis claimed an attack on Abha International Airport (Houthi claim; Xinhua and Kurdistan24 reports; Xinhua reported no immediate Saudi or coalition comment). On 22 Oct, the Houthis claimed to have attacked Abha International Airport within the past 48 hours (Houthi claim, reported by SBS and AzerNews). On Fri 23 Oct, the Saudi General Directorate of Civil Defense issued air raid alerts for Abha and Khamis Mushait (SBS report; no damage mentioned). On the same day, a Houthi ballistic missile aimed at Khamis Mushait was also intercepted and destroyed (coalition announcement, reported by Arab News and Ajel; no damage mentioned)",
-    "ar": "أُعلن إغلاق المطار إغلاقًا ليليًا حتى 15 أكتوبر، ولم يُتحقَّق من وضعه التشغيلي منذ ذلك الحين. في وقت مبكر من يوم 13 أكتوبر، اعتُرض صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف). وفي 15 أكتوبر، اعتُرضت أيضًا طائرة مسيّرة كانت تستهدف خميس مشيط (بحسب بيان التحالف، دون ذكر أي أضرار). وفي فجر يوم 18 أكتوبر أيضًا، اعتُرض ودُمّر صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف، دون ذكر أضرار). وأفاد التحالف بأن هجمات الحوثيين على مطار أبها أسفرت عن مقتل 3 أشخاص وإصابة 28 آخرين (دون تحديد الفترة الزمنية؛ بحسب تقرير لرويترز). وفي 19 أكتوبر، زعم الحوثيون استهداف مطار أبها الدولي (مزاعم حوثية؛ بحسب تقارير وكالة شينخوا وكردستان 24؛ وأفادت شينخوا بعدم صدور تعليق فوري من السعودية أو التحالف). وفي 22 أكتوبر، ادّعى الحوثيون مهاجمة مطار أبها الدولي خلال الساعات الثماني والأربعين الماضية (ادعاء حوثي، وفق ما أوردته SBS وأزر نيوز). وفي يوم الجمعة 23 أكتوبر، أصدرت المديرية العامة للدفاع المدني السعودي تنبيهات بغارات جوية لأبها وخميس مشيط (وفق ما أوردته SBS، دون ذكر أضرار). وفي اليوم نفسه، اعتُرض أيضًا صاروخ باليستي حوثي أُطلق باتجاه خميس مشيط ودُمِّر (بحسب إعلان التحالف، وفق ما أوردته عرب نيوز وعاجل، دون ذكر أضرار)"
+    "ko": "공항은 10/15까지 야간 폐쇄로 공지됐으며, 이후 운영 여부는 확인되지 않음. 10/13 이른 아침 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격(연합군 발표). 10/15에도 카미스 무샤이트를 겨냥한 드론 1기 요격(연합군 발표, 피해 언급 없음). 10/18 새벽에도 카미스 무샤이트를 향한 후티 탄도미사일 2발 요격·파괴(연합군 발표, 피해 언급 없음). 연합군은 후티의 아브하 공항 공격으로 3명이 숨지고 28명이 다쳤다고 밝힘(공격 시기 미기재, 로이터 보도). 10/23 아랍뉴스는 연합군·사우디 국영통신 집계를 인용해 아브하 공항 피해를 2명 사망·28명 부상으로 전해 사망자 수가 보도마다 엇갈림. 10/19 후티는 아브하 국제공항 공격을 주장(후티 측 주장, 신화통신·쿠르디스탄24 보도; 신화통신은 사우디·연합군의 즉각적인 논평이 없었다고 전함). 10/22 후티는 최근 48시간 동안 아브하 국제공항을 공격했다고 주장(후티 측 주장, SBS·아제르뉴스 보도). 10/23(금) 사우디 민방위청이 아브하·카미스 무샤이트에 공습 경보 발령(SBS 보도, 피해 언급 없음). 같은 날 카미스 무샤이트를 향한 후티 탄도미사일 1발도 요격·파괴(연합군 발표, 아랍뉴스·아질 보도, 피해 언급 없음)",
+    "en": "The airport was announced to be closed nightly until 15 Oct; its status since then has not been confirmed. Early on 13 Oct, two Houthi ballistic missiles fired toward Khamis Mushait were intercepted (coalition statement). On 15 Oct, a drone targeting Khamis Mushait was also intercepted (coalition statement; no damage mentioned). Early on 18 Oct, two more Houthi ballistic missiles fired toward Khamis Mushait were intercepted and destroyed (coalition statement; no damage mentioned). The coalition said Houthi attacks on Abha airport had killed 3 people and wounded 28 (timeframe not stated; Reuters report). On 23 Oct, Arab News, citing coalition and Saudi Press Agency figures, put the toll at Abha airport at 2 killed and 28 wounded, so reported death tolls differ. On 19 Oct, the Houthis claimed an attack on Abha International Airport (Houthi claim; Xinhua and Kurdistan24 reports; Xinhua reported no immediate Saudi or coalition comment). On 22 Oct, the Houthis claimed to have attacked Abha International Airport within the past 48 hours (Houthi claim, reported by SBS and AzerNews). On Fri 23 Oct, the Saudi General Directorate of Civil Defense issued air raid alerts for Abha and Khamis Mushait (SBS report; no damage mentioned). On the same day, a Houthi ballistic missile aimed at Khamis Mushait was also intercepted and destroyed (coalition announcement, reported by Arab News and Ajel; no damage mentioned)",
+    "ar": "أُعلن إغلاق المطار إغلاقًا ليليًا حتى 15 أكتوبر، ولم يُتحقَّق من وضعه التشغيلي منذ ذلك الحين. في وقت مبكر من يوم 13 أكتوبر، اعتُرض صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف). وفي 15 أكتوبر، اعتُرضت أيضًا طائرة مسيّرة كانت تستهدف خميس مشيط (بحسب بيان التحالف، دون ذكر أي أضرار). وفي فجر يوم 18 أكتوبر أيضًا، اعتُرض ودُمّر صاروخان باليستيان أطلقهما الحوثيون باتجاه خميس مشيط (بحسب بيان التحالف، دون ذكر أضرار). وأفاد التحالف بأن هجمات الحوثيين على مطار أبها أسفرت عن مقتل 3 أشخاص وإصابة 28 آخرين (دون تحديد الفترة الزمنية؛ بحسب تقرير لرويترز). وفي 23 أكتوبر، أوردت عرب نيوز، نقلًا عن أرقام التحالف ووكالة الأنباء السعودية، أن الهجمات على مطار أبها أسفرت عن مقتل شخصين وإصابة 28 آخرين، ما يعني تباين أعداد القتلى بين التقارير. وفي 19 أكتوبر، زعم الحوثيون استهداف مطار أبها الدولي (مزاعم حوثية؛ بحسب تقارير وكالة شينخوا وكردستان 24؛ وأفادت شينخوا بعدم صدور تعليق فوري من السعودية أو التحالف). وفي 22 أكتوبر، ادّعى الحوثيون مهاجمة مطار أبها الدولي خلال الساعات الثماني والأربعين الماضية (ادعاء حوثي، وفق ما أوردته SBS وأزر نيوز). وفي يوم الجمعة 23 أكتوبر، أصدرت المديرية العامة للدفاع المدني السعودي تنبيهات بغارات جوية لأبها وخميس مشيط (وفق ما أوردته SBS، دون ذكر أضرار). وفي اليوم نفسه، اعتُرض أيضًا صاروخ باليستي حوثي أُطلق باتجاه خميس مشيط ودُمِّر (بحسب إعلان التحالف، وفق ما أوردته عرب نيوز وعاجل، دون ذكر أضرار)"
    },
    "refs": [
     13,
@@ -900,7 +902,7 @@
     "ar": "الخطوط الجوية القطرية"
    },
    "status": [
-    "예정",
+    "미정",
     "–",
     "예정",
     "–",
@@ -918,7 +920,9 @@
     116,
     124,
     151,
-    159
+    159,
+    215,
+    216
    ]
   },
   {
@@ -4524,6 +4528,38 @@
     "ar": "المتحدث باسم التحالف تركي المالكي: اعتراض صاروخ باليستي حوثي أُطلق باتجاه خميس مشيط وتدميره (نُشر في 23 أكتوبر الساعة 12:03 بالتوقيت العالمي، دون ذكر أضرار)"
    },
    "url": "https://english.ajel.sa/saudi-arabia/nvzanp7ma"
+  },
+  {
+   "n": 215,
+   "name": {
+    "ko": "Flightradar24 (QR1203, 10/23 재확인)",
+    "en": "Flightradar24 (QR1203, rechecked 23 Oct)",
+    "ar": "Flightradar24 (الرحلة QR1203، إعادة تحقق في 23 أكتوبر)"
+   },
+   "date": "2026-10-23",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "알울라→도하 QR1203 10/23 예정 UTC 08:10(현지 11:10)편이 도하 시각 20:40경 확인 시점에도 실제 출발 기록 없이 ‘예정(Scheduled)’ 표시, 결항 표시 없음. 10/21 착륙 기록, 10/25·10/28·10/30 예정 표시 (항공사 공지 아님)",
+    "en": "AlUla→Doha QR1203 flight scheduled for 08:10 UTC (11:10 local) on 23 Oct still shown as 'Scheduled' with no actual departure record when checked around 20:40 Doha time; no cancellation shown. 21 Oct shows a landing record; 25, 28 and 30 Oct shown as scheduled (not an airline notice)",
+    "ar": "رحلة QR1203 من العُلا إلى الدوحة المقررة في 23 أكتوبر الساعة 08:10 بالتوقيت العالمي (11:10 بالتوقيت المحلي) ظلت تظهر بحالة «مجدولة» دون سجل مغادرة فعلية عند التحقق نحو الساعة 20:40 بتوقيت الدوحة، ولا يظهر أنها أُلغيت. وتُظهر رحلة 21 أكتوبر سجل هبوط، ورحلات 25 و28 و30 أكتوبر مجدولة (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://www.flightradar24.com/data/flights/qr1203"
+  },
+  {
+   "n": 216,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1203, 10/23)",
+    "en": "Trip.com flight status (QR1203, 23 Oct)",
+    "ar": "Trip.com لحالة الرحلات (الرحلة QR1203، 23 أكتوبر)"
+   },
+   "date": "2026-10-23",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "알울라→도하 QR1203 운항 기록 목록에 10/23 항목 없음(가장 최근 항목은 10/21 '예정' 표시로 갱신 지연, 최근 '도착' 표시는 10/18) (항공사 공지 아님)",
+    "en": "AlUla→Doha QR1203 flight history list has no entry for 23 Oct (latest entry, 21 Oct, still shows 'Scheduled', indicating delayed updates; latest 'Arrived' entry is 18 Oct) (not an airline notice)",
+    "ar": "لا يتضمن سجل رحلات QR1203 من العُلا إلى الدوحة أي بند ليوم 23 أكتوبر (وآخر بند هو 21 أكتوبر ولا يزال بحالة «مجدولة»، ما يشير إلى تأخر التحديث، وآخر بند بحالة «وصلت» هو 18 أكتوبر) (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://www.trip.com/flights/status-qr1203/"
   }
  ]
 }

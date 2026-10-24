@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T20:50:00+03:00",
+ "updated_at": "2026-10-24T21:45:00+03:00",
  "window_start": "2026-10-24",
  "pills": [
   {
@@ -475,9 +475,9 @@
     "ar": "المغادرة من حائل 17:30 والوصول إلى الدوحة 19:25 · الرحلتان التاليتان 26 أكتوبر (الإثنين) و29 أكتوبر (الخميس)"
    },
    "note": {
-    "ko": "10/17·10/19 실제 운항 확인(항공편 추적 사이트 기준). 10/22 편은 항공편 추적 사이트 1곳에 지연 후 19:15 출발 기록(항공사 공식 발표 아님). 10/24(토) 하일→도하편은 항공편 추적 사이트 1곳에 출발 예정 시각이 지난 도하 시각 20:45경에도 실제 출발 기록 없이 ‘예정’으로 표시돼 운항 여부가 확인되지 않음(결항 표시도 없음). 같은 날 도하→하일편은 항공편 추적 사이트 2곳에 하일 도착 기록(항공사 공식 발표 아님)",
-    "en": "Operated on 17 and 19 Oct (according to flight-tracking sites). The 22 Oct flight is shown on one flight-tracking site as departing at 19:15 after a delay (not an official airline announcement). The 24 Oct (Sat) Hail → Doha flight was still shown on one flight-tracking site as “scheduled”, with no actual departure record, around 20:45 Doha time, after its scheduled departure time, so whether it operated has not been confirmed (no cancellation is shown either). The same day’s Doha → Hail flight shows an arrival record at Hail on two flight-tracking sites (not an official airline announcement)",
-    "ar": "تأكّد تسيير رحلتَي 17 و19 أكتوبر فعليًا (بحسب مواقع تتبّع الرحلات). ويُظهر أحد مواقع تتبّع الرحلات إقلاع رحلة 22 أكتوبر الساعة 19:15 بعد تأخير (ليس إعلانًا رسميًا من شركة الطيران). وظلّت رحلة 24 أكتوبر (السبت) من حائل إلى الدوحة معروضةً على أحد مواقع تتبّع الرحلات بحالة «مجدولة» دون سجلّ إقلاع فعلي نحو الساعة 20:45 بتوقيت الدوحة، أي بعد موعد إقلاعها المقرّر، ولذلك لم يتأكّد تسييرها (ولا يظهر إلغاؤها كذلك). أما رحلة اليوم نفسه من الدوحة إلى حائل فيظهر لها سجلّ وصول إلى حائل على موقعَين لتتبّع الرحلات (ليس إعلانًا رسميًا من شركة الطيران)"
+    "ko": "10/17·10/19 실제 운항 확인(항공편 추적 사이트 기준). 10/22 편은 항공편 추적 사이트 1곳에 지연 후 19:15 출발 기록(항공사 공식 발표 아님). 10/24(토) 하일→도하편은 항공편 추적 사이트 1곳에 18:14 출발(예정 17:35), 19:59 도착 기록이 있으나, 다른 1곳에는 도하 시각 21:40경에도 실제 출발 기록 없이 ‘예정’으로 표시돼 사이트별 표시가 엇갈려 운항 여부가 확인되지 않음(결항 표시는 없음). 같은 날 도하→하일편은 항공편 추적 사이트 2곳에 하일 도착 기록(항공사 공식 발표 아님)",
+    "en": "Operated on 17 and 19 Oct (according to flight-tracking sites). The 22 Oct flight is shown on one flight-tracking site as departing at 19:15 after a delay (not an official airline announcement). For the 24 Oct (Sat) Hail → Doha flight, one flight-tracking site records a departure at 18:14 (scheduled 17:35) and an arrival at 19:59, but another site still showed it as “scheduled”, with no actual departure record, around 21:40 Doha time; because the sites conflict, whether it operated has not been confirmed (no cancellation is shown). The same day’s Doha → Hail flight shows an arrival record at Hail on two flight-tracking sites (not an official airline announcement)",
+    "ar": "تأكّد تسيير رحلتَي 17 و19 أكتوبر فعليًا (بحسب مواقع تتبّع الرحلات). ويُظهر أحد مواقع تتبّع الرحلات إقلاع رحلة 22 أكتوبر الساعة 19:15 بعد تأخير (ليس إعلانًا رسميًا من شركة الطيران). أما رحلة 24 أكتوبر (السبت) من حائل إلى الدوحة، فيُظهر أحد مواقع تتبّع الرحلات سجلَّ إقلاعها الساعة 18:14 (الموعد المقرّر 17:35) ووصولها الساعة 19:59، بينما ظلّت معروضةً على موقع آخر بحالة «مجدولة» دون سجلّ إقلاع فعلي نحو الساعة 21:40 بتوقيت الدوحة؛ ونظرًا إلى تضارب المواقع لم يتأكّد تسييرها (ولا يظهر إلغاؤها). أما رحلة اليوم نفسه من الدوحة إلى حائل فيظهر لها سجلّ وصول إلى حائل على موقعَين لتتبّع الرحلات (ليس إعلانًا رسميًا من شركة الطيران)"
    },
    "refs": [
     11,
@@ -486,7 +486,9 @@
     190,
     236,
     237,
-    238
+    238,
+    239,
+    240
    ]
   },
   {
@@ -927,7 +929,9 @@
     11,
     96,
     190,
-    236
+    236,
+    239,
+    240
    ]
   },
   {
@@ -4964,6 +4968,38 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1228 من الدوحة إلى حائل: تُعرض رحلة 24 أكتوبر بحالة «وصلت» (الوصول إلى حائل الساعة 16:32)، ورحلة 22 أكتوبر بحالة «وصلت» (ليس إشعارًا من شركة الطيران)"
    },
    "url": "https://ph.trip.com/flights/status-qr1228"
+  },
+  {
+   "n": 239,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1229, 10/24 확인)",
+    "en": "Trip.com flight status (QR1229, checked 24 Oct)",
+    "ar": "حالة الرحلات على Trip.com (QR1229، تحقّق في 24 أكتوبر)"
+   },
+   "date": "2026-10-24",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 하일→도하 QR1229 10/24 ‘도착’ 표시, 18:14 출발(예정 17:35), 19:59 도착(예정 19:30) (항공사 공지 아님)",
+    "en": "Qatar Airways Hail → Doha QR1229: 24 Oct shown as “Arrived”, departed 18:14 (scheduled 17:35), arrived 19:59 (scheduled 19:30) (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1229 من حائل إلى الدوحة: تُعرض رحلة 24 أكتوبر بحالة «وصلت»، وأقلعت الساعة 18:14 (الموعد المقرّر 17:35) ووصلت الساعة 19:59 (الموعد المقرّر 19:30) (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://sa.trip.com/flights/status-qr1229/"
+  },
+  {
+   "n": 240,
+   "name": {
+    "ko": "Flightradar24 (QR1229, 10/24 재확인)",
+    "en": "Flightradar24 (QR1229, rechecked 24 Oct)",
+    "ar": "Flightradar24 (QR1229، أُعيد التحقّق في 24 أكتوبر)"
+   },
+   "date": "2026-10-24",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 하일→도하 QR1229 10/24 편(UTC 14:35 출발 예정)이 도하 시각 21:40경 확인 시점에도 실제 출발 기록 없이 ‘예정(Scheduled)’ 표시, 결항 표시 없음 (항공사 공지 아님)",
+    "en": "Qatar Airways Hail → Doha QR1229: the 24 Oct flight (scheduled departure 14:35 UTC) was still shown as “Scheduled” with no actual departure record when checked around 21:40 Doha time; no cancellation shown (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1229 من حائل إلى الدوحة: ظلّت رحلة 24 أكتوبر (موعد الإقلاع المقرّر 14:35 بالتوقيت العالمي) معروضةً بحالة «مجدولة» دون سجلّ إقلاع فعلي عند التحقّق نحو الساعة 21:40 بتوقيت الدوحة، ولا يظهر إلغاؤها (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://www.flightradar24.com/data/flights/qr1229"
   }
  ]
 }

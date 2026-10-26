@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T04:50:00+03:00",
+ "updated_at": "2026-10-26T05:49:00+03:00",
  "window_start": "2026-10-26",
  "pills": [
   {
@@ -595,14 +595,14 @@
     "ar": "الخطوط الجوية القطرية الجمعة · الأحد (ورحلتان إضافيتان يومَي الأربعاء 21 أكتوبر والأربعاء 28 أكتوبر)"
    },
    "times": {
-    "ko": "알울라 출발 11:10 → 도하 13:30 (10/25·10/28은 11:30 → 13:40) · 다음 편 10/25(일), 10/28(수)",
-    "en": "Departs AlUla 11:10 → arrives Doha 13:30 (25 and 28 Oct: 11:30 → 13:40) · next flights 25 Oct (Sun) and 28 Oct (Wed)",
-    "ar": "المغادرة من العُلا 11:10 والوصول إلى الدوحة 13:30 (يومَي 25 و28 أكتوبر: المغادرة 11:30 والوصول 13:40) · الرحلتان التاليتان 25 أكتوبر (الأحد) و28 أكتوبر (الأربعاء)"
+    "ko": "알울라 출발 11:10 → 도하 13:30 (10/28은 11:30 → 13:40) · 다음 편 10/28(수)",
+    "en": "Departs AlUla 11:10 → arrives Doha 13:30 (28 Oct: 11:30 → 13:40) · next flight 28 Oct (Wed)",
+    "ar": "المغادرة من العُلا 11:10 والوصول إلى الدوحة 13:30 (يوم 28 أكتوبر: المغادرة 11:30 والوصول 13:40) · الرحلة التالية 28 أكتوبر (الأربعاء)"
    },
    "note": {
-    "ko": "10/11·10/16·10/18·10/21 실제 운항 확인(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 10/23(금) 편은 항공편 추적 사이트 1곳(Flightradar24)에 11:49 출발, 13:48 도착 기록(현지 시각 환산, 다른 추적 사이트 1곳에는 해당 날짜 기록 없음, 항공사 공식 발표 아님). 10/25(일) 편(예정 11:30 출발)은 항공편 추적 사이트 1곳(Flightradar24)에 도하 시각 21:40경에도 실제 출발 기록 없이 ‘예정’으로 표시되고, 다른 1곳(Trip.com)에는 해당 날짜 기록이 없어 운항 여부가 확인되지 않음(결항 표시는 없음, 항공사 공식 발표 아님)",
-    "en": "Confirmed operating on 11, 16, 18 and 21 Oct (per flight-tracking sites, not an official airline announcement). For the Fri 23 Oct flight, one flight-tracking site (Flightradar24) shows departure at 11:49 and arrival at 13:48 (converted to local time; another flight-tracking site has no entry for that date; not an official airline announcement). For the Sun 25 Oct flight (scheduled 11:30 departure), one flight-tracking site (Flightradar24) still showed it as “scheduled” with no actual departure record at around 21:40 Doha time, and another (Trip.com) has no entry for that date, so whether it operated has not been confirmed (no cancellation shown; not an official airline announcement)",
-    "ar": "تأكّد تسيير الرحلة أيام 11 و16 و18 و21 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). أما رحلة الجمعة 23 أكتوبر، فيُظهر موقع واحد لتتبّع الرحلات (Flightradar24) سجلًّا لمغادرتها الساعة 11:49 ووصولها الساعة 13:48 (بعد التحويل إلى التوقيت المحلي؛ ولا يتضمّن موقع آخر لتتبّع الرحلات أي سجل لذلك اليوم، وليس ذلك إعلانًا رسميًا من شركة الطيران). أما رحلة الأحد 25 أكتوبر (المقرر إقلاعها الساعة 11:30)، فلا يزال موقع واحد لتتبّع الرحلات (Flightradar24) يُظهرها «مجدولة» دون أي سجل لإقلاع فعلي حتى نحو الساعة 21:40 بتوقيت الدوحة، ولا يتضمّن موقع آخر (Trip.com) أي سجل لذلك اليوم، ولذلك لم يتأكّد تسييرها (دون إظهار أي إلغاء، وليس ذلك إعلانًا رسميًا من شركة الطيران)"
+    "ko": "10/11·10/16·10/18·10/21 실제 운항 확인(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 10/23(금) 편은 항공편 추적 사이트 1곳(Flightradar24)에 11:49 출발, 13:48 도착 기록(현지 시각 환산, 다른 추적 사이트 1곳에는 해당 날짜 기록 없음, 항공사 공식 발표 아님). 10/25(일) 편(예정 11:30 출발)은 항공편 추적 사이트 1곳(Flightradar24)에 11:40 출발·13:29 도착 기록(현지 시각 환산, 10/25 21:40경(도하) 확인 때는 실제 출발 기록이 없었음, 다른 1곳(Trip.com)에는 해당 날짜 기록 없음, 항공사 공식 발표 아님)",
+    "en": "Confirmed operating on 11, 16, 18 and 21 Oct (per flight-tracking sites, not an official airline announcement). For the Fri 23 Oct flight, one flight-tracking site (Flightradar24) shows departure at 11:49 and arrival at 13:48 (converted to local time; another flight-tracking site has no entry for that date; not an official airline announcement). For the Sun 25 Oct flight (scheduled 11:30 departure), one flight-tracking site (Flightradar24) shows departure at 11:40 and arrival at 13:29 (converted to local time; when checked at around 21:40 Doha time on 25 Oct it showed no actual departure record; another site (Trip.com) has no entry for that date; not an official airline announcement)",
+    "ar": "تأكّد تسيير الرحلة أيام 11 و16 و18 و21 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). أما رحلة الجمعة 23 أكتوبر، فيُظهر موقع واحد لتتبّع الرحلات (Flightradar24) سجلًّا لمغادرتها الساعة 11:49 ووصولها الساعة 13:48 (بعد التحويل إلى التوقيت المحلي؛ ولا يتضمّن موقع آخر لتتبّع الرحلات أي سجل لذلك اليوم، وليس ذلك إعلانًا رسميًا من شركة الطيران). أما رحلة الأحد 25 أكتوبر (المقرر إقلاعها الساعة 11:30)، فيُظهر موقع واحد لتتبّع الرحلات (Flightradar24) سجلًّا لمغادرتها الساعة 11:40 ووصولها الساعة 13:29 (بعد التحويل إلى التوقيت المحلي؛ ولم يكن الموقع يُظهر أي سجل لإقلاع فعلي عند التحقق نحو الساعة 21:40 بتوقيت الدوحة يوم 25 أكتوبر؛ ولا يتضمّن موقع آخر (Trip.com) أي سجل لذلك اليوم، وليس ذلك إعلانًا رسميًا من شركة الطيران)"
    },
    "refs": [
     12,
@@ -617,7 +617,8 @@
     276,
     278,
     285,
-    292
+    292,
+    305
    ]
   },
   {
@@ -6175,6 +6176,22 @@
     "ar": "عند التحقق نحو الساعة 04:45 بتوقيت الدوحة يوم 26 أكتوبر، ينص الإشعار على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر، 16:54 بتوقيت الدوحة؛ دون تحديد موعد للاستئناف)"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 305,
+   "name": {
+    "ko": "Flightradar24 항공편 현황 (QR1203, 10/26 05:45경 확인)",
+    "en": "Flightradar24 flight status (QR1203, checked around 05:45, 26 Oct)",
+    "ar": "حالة الرحلات على Flightradar24 (QR1203، تم التحقق نحو الساعة 05:45 يوم 26 أكتوبر)"
+   },
+   "date": "2026-10-26",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 알울라→도하 QR1203 10/25 편: 예정 08:30 출발(UTC), 실제 08:40 출발·10:29 착륙(Landed) 기록(UTC). 10/28 편은 ‘예정’ (항공사 공지 아님)",
+    "en": "Qatar Airways AlUla→Doha QR1203, 25 Oct flight: scheduled 08:30 departure (UTC); actual departure 08:40 and “Landed” 10:29 (UTC). The 28 Oct flight is “Scheduled” (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1203 من العُلا إلى الدوحة يوم 25 أكتوبر: الإقلاع المقرر 08:30 (UTC)، مع سجل إقلاع فعلي الساعة 08:40 و«هبوط» الساعة 10:29 (UTC). ورحلة 28 أكتوبر «مجدولة» (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://www.flightradar24.com/data/flights/qr1203"
   }
  ]
 }

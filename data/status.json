@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T12:50:00+03:00",
+ "updated_at": "2026-10-28T13:50:00+03:00",
  "window_start": "2026-10-28",
  "pills": [
   {
@@ -746,9 +746,9 @@
     "ar": "الطائف"
    },
    "note": {
-    "ko": "10/31 재개 예정이었으나(9/2 카타르트리뷴 보도), 카타르항공 공식 공지(영문 글로벌 페이지)는 타이프 출도착편도 일시 중단으로 명시(10/28 확인, 일부 국가별 페이지에는 타이프가 빠져 있음) — 10/31 재개 여부 확인되지 않음 · 10/28 새벽 타이프를 향한 후티 탄도미사일 1발 요격(연합군 발표, 연합군은 사상자·피해를 보고하지 않음)",
-    "en": "Had been due to resume on 31 Oct (Qatar Tribune, 2 Sep), but Qatar Airways’ official notice (English global page) also lists flights to and from Taif as temporarily suspended (checked 28 Oct; Taif is missing from some country pages) — resumption on 31 Oct not confirmed · Early on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted (coalition announcement; the coalition reported no casualties or damage)",
-    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر (وفق قطر تريبيون، 2 سبتمبر)، لكن الإشعار الرسمي للخطوط الجوية القطرية (الصفحة الإنجليزية العالمية) يُدرج الرحلات من الطائف وإليها أيضًا ضمن الرحلات المعلّقة مؤقتًا (تحقّقنا منه في 28 أكتوبر، ولا تظهر الطائف في بعض الصفحات الخاصة بالدول) — لم يتأكّد الاستئناف في 31 أكتوبر · وفي وقت مبكر من يوم 28 أكتوبر، اعتُرض صاروخ باليستي أطلقه الحوثيون نحو الطائف (إعلان التحالف، ولم يُبلغ التحالف عن إصابات أو أضرار)"
+    "ko": "10/31 재개 예정이었으나(9/2 카타르트리뷴 보도), 카타르항공 공식 공지의 타이프 표기가 엇갈림 — 10/28 오전에는 영문 글로벌 페이지에 타이프 출도착편 일시 중단이 명시됐으나 같은 날 오후 확인 시 같은 페이지에서 빠져 있음(재개 발표는 없음) — 10/31 재개 여부 확인되지 않음 · 10/28 새벽 타이프를 향한 후티 탄도미사일 1발 요격(연합군 발표, 연합군은 사상자·피해를 보고하지 않음)",
+    "en": "Had been due to resume on 31 Oct (Qatar Tribune, 2 Sep), but Qatar Airways’ official notice is inconsistent on Taif — on the morning of 28 Oct the English global page listed flights to and from Taif as temporarily suspended, but when checked that afternoon Taif was missing from the same page (no resumption has been announced) — resumption on 31 Oct not confirmed · Early on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted (coalition announcement; the coalition reported no casualties or damage)",
+    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر (وفق قطر تريبيون، 2 سبتمبر)، لكن الإشعار الرسمي للخطوط الجوية القطرية متضارب بشأن الطائف — ففي صباح 28 أكتوبر كانت الصفحة الإنجليزية العالمية تُدرج الرحلات من الطائف وإليها ضمن الرحلات المعلّقة مؤقتًا، لكن الطائف لم تعد تظهر في الصفحة نفسها عند التحقق بعد ظهر اليوم ذاته (ولم يُعلَن أي استئناف) — لم يتأكّد الاستئناف في 31 أكتوبر · وفي وقت مبكر من يوم 28 أكتوبر، اعتُرض صاروخ باليستي أطلقه الحوثيون نحو الطائف (إعلان التحالف، ولم يُبلغ التحالف عن إصابات أو أضرار)"
    },
    "refs": [
     6,
@@ -756,7 +756,8 @@
     72,
     77,
     78,
-    79
+    79,
+    82
    ]
   },
   {
@@ -2163,6 +2164,22 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1203 من العُلا إلى الدوحة يوم 28 أكتوبر: الإقلاع 11:30 والوصول 13:40، وتظهر بحالة «في الجو، تصل خلال 57 دقيقة». ورحلة 30 أكتوبر «مخطط لها» (ليس إشعارًا من شركة الطيران)"
    },
    "url": "https://aviability.com/en/flight/qr1203-qatar-airways"
+  },
+  {
+   "n": 82,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지·카타르판, 10/28 13:40경 확인)",
+    "en": "Qatar Airways travel alerts (English global and Qatar pages, checked around 13:40 on 28 Oct)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة الإنجليزية العالمية وصفحة قطر، تحقّقنا منها نحو الساعة 13:40 يوم 28 أكتوبر)"
+   },
+   "date": "2026-10-28",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "10/28 13:40경(도하) 확인 시점에 두 페이지 모두 “아브하(AHB)·담맘(DMM)·리야드(RUH) 출도착 항공편이 일시 중단됐다”고만 명시하고 타이프는 언급 없음 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 같은 글로벌 페이지는 07:40경 확인 때 타이프(TIF)를 포함하고 있었음(근거 77)",
+    "en": "As checked around 13:40 (Doha time) on 28 Oct, both pages state only that “flights to and from Abha (AHB), Dammam (DMM), and Riyadh (RUH) are temporarily suspended”, with no mention of Taif (last updated 16:54 Doha time on 12 Oct; no resumption date given). The same global page included Taif (TIF) when checked around 07:40 (source 77)",
+    "ar": "عند التحقق نحو الساعة 13:40 (بتوقيت الدوحة) يوم 28 أكتوبر، تنص الصفحتان فقط على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) وإليها معلّقة مؤقتًا» دون ذكر الطائف (آخر تحديث 16:54 بتوقيت الدوحة يوم 12 أكتوبر، دون ذكر موعد للاستئناف). وكانت الصفحة العالمية نفسها تتضمن الطائف (TIF) عند التحقق نحو الساعة 07:40 (المصدر 77)"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }
  ]
 }

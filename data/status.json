@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T09:43:00+03:00",
+ "updated_at": "2026-10-28T10:45:00+03:00",
  "window_start": "2026-10-28",
  "pills": [
   {
@@ -188,9 +188,9 @@
     "ar": "المغادرة من المدينة المنورة 04:50"
    },
    "note": {
-    "ko": "10/25~10/27 매일 실제 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 결항·중단 언급 없음(10/28 확인).",
-    "en": "Recorded as actually operating every day from 25 to 27 Oct (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official notice mentions no cancellation or suspension (checked 28 Oct).",
-    "ar": "سُجِّل تسيير الرحلة فعليًا كل يوم من 25 إلى 27 أكتوبر (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي إلغاء أو تعليق (تحقّقنا منه في 28 أكتوبر)."
+    "ko": "10/25~10/28 매일 실제 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 결항·중단 언급 없음(10/28 확인).",
+    "en": "Recorded as actually operating every day from 25 to 28 Oct (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official notice mentions no cancellation or suspension (checked 28 Oct).",
+    "ar": "سُجِّل تسيير الرحلة فعليًا كل يوم من 25 إلى 28 أكتوبر (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي إلغاء أو تعليق (تحقّقنا منه في 28 أكتوبر)."
    },
    "refs": [
     38,
@@ -198,7 +198,8 @@
     45,
     53,
     60,
-    77
+    77,
+    80
    ]
   },
   {
@@ -591,7 +592,8 @@
     45,
     53,
     60,
-    77
+    77,
+    80
    ]
   },
   {
@@ -2127,6 +2129,22 @@
     "ar": "أعلن التحالف اعتراض صاروخ باليستي أطلقه الحوثيون نحو الطائف وتدميره يوم الأربعاء 28 أكتوبر. وأصدرت السلطات السعودية تحذيرات طوارئ في جدة وينبع رفعها الدفاع المدني السعودي لاحقًا (دون الكشف عن طبيعة التهديد). ولا معلومات عن إصابات أو أضرار. ولم يُذكر أي مطار"
    },
    "url": "https://thechronicle.com.ph/saudi-led-coalition-intercepts-houthi-missile-aimed-at-western-saudi-arabia/"
+  },
+  {
+   "n": 80,
+   "name": {
+    "ko": "aviability 항공편 현황 (QR1175, 10/28 10:40경 확인)",
+    "en": "aviability flight status (QR1175, checked around 10:40, 28 Oct)",
+    "ar": "حالة الرحلة على aviability (QR1175، تم التحقق نحو الساعة 10:40 يوم 28 أكتوبر)"
+   },
+   "date": "2026-10-28",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 메디나→도하 QR1175 10/28 편: 04:50 출발·06:52 도착, ‘게이트 도착(Arrived at gate)’ 표시(출발 시각은 실제·예정 구분 없음). 10/29·10/30 편은 ‘예정(Planned)’ (항공사 공지 아님)",
+    "en": "Qatar Airways Madinah → Doha QR1175, 28 Oct flight: 04:50 departure and 06:52 arrival, shown as “Arrived at gate” (departure time shown without indicating whether actual or scheduled). The 29 and 30 Oct flights are shown as “Planned” (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة ليوم 28 أكتوبر: إقلاع 04:50 ووصول 06:52، معروضة بحالة «وصلت إلى البوابة» (ويظهر وقت الإقلاع دون بيان ما إذا كان فعليًا أم مقررًا). ورحلتا 29 و30 أكتوبر معروضتان بحالة «مخطط لها» (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
   }
  ]
 }

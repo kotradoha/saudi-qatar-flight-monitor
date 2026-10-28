@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T20:53:00+03:00",
+ "updated_at": "2026-10-28T21:37:00+03:00",
  "window_start": "2026-10-28",
  "pills": [
   {
@@ -88,9 +88,9 @@
   },
   {
    "html": {
-    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단.</span> 카타르항공 공식 공지는 담맘 출도착편 일시 중단을 유지하고 있고 재개일은 밝히지 않았습니다(10/28 확인). 항공편 추적 사이트에도 10/25 이후 담맘 출발편이 잇따라 결항으로 표시됩니다(항공사 공식 발표 아님). 담맘 공항은 10/21 공격으로 2명이 숨지고 8명이 다친 뒤 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 10/27 기준 일부 지연·결항 속에 운영 중입니다(주사우디 미국대사관). 10/27에도 동부 지역을 향한 탄도미사일 3발이 요격됐습니다(연합군 발표). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
-    "en": "<span class='red'>Qatar Airways’ Dammam→Doha flights suspended.</span> Qatar Airways’ official notice still lists flights to and from Dammam as temporarily suspended, with no resumption date (checked 28 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). Dammam airport resumed operations on 22 Oct after an attack on 21 Oct killed two people and injured eight (Saudi General Authority of Civil Aviation (GACA)), and as of 27 Oct it was operating with some delays and cancellations (US Embassy in Saudi Arabia). On 27 Oct, three ballistic missiles fired towards the Eastern Region were also intercepted (coalition statement). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
-    "ar": "<span class='red'>تعليق رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة.</span> لا يزال الإشعار الرسمي للخطوط الجوية القطرية يُدرج الرحلات من الدمام وإليها ضمن الرحلات المعلّقة مؤقتًا، دون تحديد موعد للاستئناف (تحقّقنا منه في 28 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف مطار الدمام عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر أسفر عن مقتل شخصين وإصابة ثمانية (وفق الهيئة العامة للطيران المدني (GACA))، وكان يعمل حتى تاريخ 27 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وفي 27 أكتوبر أيضًا، اعتُرضت ثلاثة صواريخ باليستية أُطلقت باتجاه المنطقة الشرقية (وفق بيان التحالف). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، قرابة 3 ساعات و24 دقيقة، دون احتساب وقت الانتظار عند الحدود)."
+    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단.</span> 카타르항공 공식 공지는 담맘 출도착편 일시 중단을 유지하고 있고 재개일은 밝히지 않았습니다(10/28 확인). 항공편 추적 사이트에도 10/25 이후 담맘 출발편이 잇따라 결항으로 표시됩니다(항공사 공식 발표 아님). 담맘 공항은 10/21 공격으로 2명이 숨지고 8명이 다친 뒤 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 10/28 기준 일부 지연·결항 속에 운영 중입니다(주사우디 미국대사관). 10/27에도 동부 지역을 향한 탄도미사일 3발이 요격됐습니다(연합군 발표). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
+    "en": "<span class='red'>Qatar Airways’ Dammam→Doha flights suspended.</span> Qatar Airways’ official notice still lists flights to and from Dammam as temporarily suspended, with no resumption date (checked 28 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). Dammam airport resumed operations on 22 Oct after an attack on 21 Oct killed two people and injured eight (Saudi General Authority of Civil Aviation (GACA)), and as of 28 Oct it was operating with some delays and cancellations (US Embassy in Saudi Arabia). On 27 Oct, three ballistic missiles fired towards the Eastern Region were also intercepted (coalition statement). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
+    "ar": "<span class='red'>تعليق رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة.</span> لا يزال الإشعار الرسمي للخطوط الجوية القطرية يُدرج الرحلات من الدمام وإليها ضمن الرحلات المعلّقة مؤقتًا، دون تحديد موعد للاستئناف (تحقّقنا منه في 28 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف مطار الدمام عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر أسفر عن مقتل شخصين وإصابة ثمانية (وفق الهيئة العامة للطيران المدني (GACA))، وكان يعمل حتى تاريخ 28 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وفي 27 أكتوبر أيضًا، اعتُرضت ثلاثة صواريخ باليستية أُطلقت باتجاه المنطقة الشرقية (وفق بيان التحالف). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، قرابة 3 ساعات و24 دقيقة، دون احتساب وقت الانتظار عند الحدود)."
    },
    "refs": [
     8,
@@ -107,17 +107,19 @@
     66,
     67,
     77,
-    84
+    84,
+    87
    ]
   },
   {
    "html": {
-    "ko": "<b>리야드 체류자</b>는 육로(도하까지 약 574km, 약 6.5시간)나 국내선으로 제다를 거쳐 오는 방법을 검토하세요. 살와 국경의 현재 상황에 관한 별도 발표는 확인되지 않았습니다.",
-    "en": "<b>People in Riyadh</b> should consider travelling by road (about 574 km to Doha, roughly 6.5 hours) or first taking a domestic flight to Jeddah. No announcement specifically on the current situation at the Salwa border crossing has been confirmed.",
-    "ar": "<b>على الموجودين في الرياض</b> النظر في السفر برًّا (نحو 574 كم إلى الدوحة، أي قرابة ست ساعات ونصف) أو التوجّه أولًا إلى جدة على متن رحلة داخلية. ولم يُرصَد أي إعلان يخصّ الوضع الحالي في منفذ سلوى الحدودي تحديدًا."
+    "ko": "<b>리야드 체류자</b>는 육로(도하까지 약 574km, 약 6.5시간)나 국내선으로 제다를 거쳐 오는 방법을 검토하세요. 주사우디 미국대사관은 10/28 보안 경보에서 킹파흐드 코즈웨이(바레인행)를 포함한 모든 육로 국경이 운영 중이라고 밝혔습니다(살와 국경을 따로 지칭하지는 않음). 살와 국경의 현재 운영 상황에 관한 별도 발표는 확인되지 않았습니다.",
+    "en": "<b>People in Riyadh</b> should consider travelling by road (about 574 km to Doha, roughly 6.5 hours) or first taking a domestic flight to Jeddah. The US Embassy in Saudi Arabia stated in a 28 Oct security alert that all land border crossings, including the King Fahd Causeway to Bahrain, remain operational (the Salwa crossing was not named specifically). No announcement specifically on the current operating status of the Salwa border crossing has been confirmed.",
+    "ar": "<b>على الموجودين في الرياض</b> النظر في السفر برًّا (نحو 574 كم إلى الدوحة، أي قرابة ست ساعات ونصف) أو التوجّه أولًا إلى جدة على متن رحلة داخلية. وذكرت السفارة الأمريكية في السعودية، في تنبيه أمني صدر في 28 أكتوبر، أن جميع المنافذ الحدودية البرية، ومنها جسر الملك فهد المؤدي إلى البحرين، لا تزال تعمل (دون ذكر منفذ سلوى بالاسم). ولم يُرصَد أي إعلان يخصّ الوضع التشغيلي الحالي لمنفذ سلوى الحدودي تحديدًا."
    },
    "refs": [
-    8
+    8,
+    87
    ]
   }
  ],
@@ -234,9 +236,9 @@
     "ar": "المغادرة من الدمام 04:40 · 10:50 · 22:30 (معلّقة حاليًا)"
    },
    "note": {
-    "ko": "카타르항공 공식 공지상 중단 유지(10/28 확인). 10/25 이후 담맘 출발편도 항공편 추적 사이트에 잇따라 결항 표시(항공사 공식 발표 아님). 공항은 10/21 공격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 10/27 기준 일부 지연·결항 속 운영(주사우디 미국대사관). 10/27 동부 지역을 향한 탄도미사일 3발 요격(연합군 발표).",
-    "en": "Suspension still in place per Qatar Airways’ official notice (checked 28 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). The airport resumed operations on 22 Oct after an attack on 21 Oct (two killed, eight injured) (GACA statement), and as of 27 Oct was operating with some delays and cancellations (US Embassy in Saudi Arabia). On 27 Oct, three ballistic missiles fired towards the Eastern Region were intercepted (coalition statement).",
-    "ar": "لا يزال التعليق ساريًا وفق الإشعار الرسمي للخطوط الجوية القطرية (تحقّقنا منه في 28 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر (مقتل شخصين وإصابة ثمانية) (وفق بيان الهيئة العامة للطيران المدني)، وكان يعمل حتى تاريخ 27 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وفي 27 أكتوبر، اعتُرضت ثلاثة صواريخ باليستية أُطلقت باتجاه المنطقة الشرقية (وفق بيان التحالف)."
+    "ko": "카타르항공 공식 공지상 중단 유지(10/28 확인). 10/25 이후 담맘 출발편도 항공편 추적 사이트에 잇따라 결항 표시(항공사 공식 발표 아님). 공항은 10/21 공격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 10/28 기준 일부 지연·결항 속 운영(주사우디 미국대사관). 10/27 동부 지역을 향한 탄도미사일 3발 요격(연합군 발표).",
+    "en": "Suspension still in place per Qatar Airways’ official notice (checked 28 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). The airport resumed operations on 22 Oct after an attack on 21 Oct (two killed, eight injured) (GACA statement), and as of 28 Oct was operating with some delays and cancellations (US Embassy in Saudi Arabia). On 27 Oct, three ballistic missiles fired towards the Eastern Region were intercepted (coalition statement).",
+    "ar": "لا يزال التعليق ساريًا وفق الإشعار الرسمي للخطوط الجوية القطرية (تحقّقنا منه في 28 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر (مقتل شخصين وإصابة ثمانية) (وفق بيان الهيئة العامة للطيران المدني)، وكان يعمل حتى تاريخ 28 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وفي 27 أكتوبر، اعتُرضت ثلاثة صواريخ باليستية أُطلقت باتجاه المنطقة الشرقية (وفق بيان التحالف)."
    },
    "refs": [
     9,
@@ -253,7 +255,8 @@
     66,
     67,
     77,
-    84
+    84,
+    87
    ]
   },
   {
@@ -877,12 +880,12 @@
   },
   {
    "html": {
-    "ko": "국경 대기 시간은 제외한 수치입니다. 살와/아부삼라 국경의 현재 운영 상황에 관한 별도 발표는 확인되지 않았습니다. 주사우디 미국대사관은 10/21 보안 경보에서 킹파흐드 코즈웨이(바레인행)를 포함한 육로 국경이 운영 중이라고 밝혔습니다(살와 국경은 따로 언급하지 않음).",
-    "en": "These figures exclude waiting time at the border. No announcement specifically on the current operating status of the Salwa/Abu Samra border crossing has been confirmed. The US Embassy in Saudi Arabia stated in a 21 Oct security alert that land border crossings, including the King Fahd Causeway to Bahrain, remain operational (the Salwa crossing was not mentioned specifically).",
-    "ar": "لا تشمل هذه الأرقام وقت الانتظار عند الحدود. ولم يُرصَد أي إعلان يخصّ الوضع التشغيلي الحالي لمنفذ سلوى/أبو سمرة الحدودي تحديدًا. وذكرت السفارة الأمريكية في السعودية، في تنبيه أمني صدر في 21 أكتوبر، أن المنافذ الحدودية البرية، ومنها جسر الملك فهد المؤدي إلى البحرين، لا تزال تعمل (دون ذكر منفذ سلوى تحديدًا)."
+    "ko": "국경 대기 시간은 제외한 수치입니다. 주사우디 미국대사관은 10/28 보안 경보에서 킹파흐드 코즈웨이(바레인행)를 포함한 모든 육로 국경이 운영 중이라고 밝혔습니다(살와/아부삼라 국경을 따로 지칭하지는 않음). 살와/아부삼라 국경의 현재 운영 상황에 관한 별도 발표는 확인되지 않았습니다.",
+    "en": "These figures exclude waiting time at the border. The US Embassy in Saudi Arabia stated in a 28 Oct security alert that all land border crossings, including the King Fahd Causeway to Bahrain, remain operational (the Salwa/Abu Samra crossing was not named specifically). No announcement specifically on the current operating status of the Salwa/Abu Samra border crossing has been confirmed.",
+    "ar": "لا تشمل هذه الأرقام وقت الانتظار عند الحدود. وذكرت السفارة الأمريكية في السعودية، في تنبيه أمني صدر في 28 أكتوبر، أن جميع المنافذ الحدودية البرية، ومنها جسر الملك فهد المؤدي إلى البحرين، لا تزال تعمل (دون ذكر منفذ سلوى/أبو سمرة بالاسم). ولم يُرصَد أي إعلان يخصّ الوضع التشغيلي الحالي لمنفذ سلوى/أبو سمرة الحدودي تحديدًا."
    },
    "refs": [
-    18
+    87
    ]
   }
  ],
@@ -2262,6 +2265,22 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1183 من جدة إلى الدوحة: تظهر رحلات 27 و29 و30 أكتوبر «ملغاة» (Canceled) (الموعد المقرر: الإقلاع 04:10 والوصول 06:30)، ويُظهر سجل الرحلات أيضًا رحلتَي 26 و31 أكتوبر ملغاتين (ليس إعلانًا من شركة الطيران)"
    },
    "url": "https://nz.trip.com/flights/status-qr1183"
+  },
+  {
+   "n": 87,
+   "name": {
+    "ko": "주사우디 미국대사관 보안 경보 (10/28)",
+    "en": "US Embassy in Saudi Arabia security alert (28 Oct)",
+    "ar": "تنبيه أمني من السفارة الأمريكية في السعودية (28 أكتوبر)"
+   },
+   "date": "2026-10-28",
+   "kind": "정부 발표",
+   "what": {
+    "ko": "10/28 15:15 UTC 게재: 리야드 킹칼리드 국제공항은 10/23부로 국내선·국적 항공사 일부 국제선에 한해 부분 재개를 발표했고, 리야드 기반 일부 항공편은 카심 나이프 빈 압둘아지즈 왕자 국제공항에서 운항. 제다 킹압둘아지즈·담맘 킹파흐드 국제공항은 일부 지연·결항 속 운영 중. 킹파흐드 코즈웨이(바레인행)를 포함한 모든 육로 국경 운영 중(살와 국경 이름은 따로 언급하지 않음). 리야드·제다·다란 일대 모든 고속도로·도로 운영 중",
+    "en": "Published 15:15 UTC on 28 Oct: King Khalid International Airport in Riyadh announced a partial reopening as of 23 Oct for domestic flights and some international flights operated by national carriers; some Riyadh-based flights operating from Prince Naif bin Abdulaziz International Airport in Qassim. King Abdulaziz International Airport in Jeddah and King Fahd International Airport in Dammam operational with some delays and cancellations. All land border crossings, including the King Fahd Causeway to Bahrain, remain operational (the Salwa crossing not named). All highways and roads in and around Riyadh, Jeddah and Dhahran remain operational",
+    "ar": "نُشر في 28 أكتوبر الساعة 15:15 بالتوقيت العالمي: أعلن مطار الملك خالد الدولي في الرياض إعادة فتح جزئية اعتبارًا من 23 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية التي تسيّرها الناقلات الوطنية، وتُسيَّر بعض الرحلات التي تتخذ عادةً من مطار الرياض قاعدةً لها من مطار الأمير نايف بن عبدالعزيز الدولي في القصيم. ومطار الملك عبدالعزيز الدولي في جدة ومطار الملك فهد الدولي في الدمام يعملان مع بعض التأخيرات والإلغاءات. وجميع المنافذ الحدودية البرية، ومنها جسر الملك فهد المؤدي إلى البحرين، لا تزال تعمل (دون ذكر منفذ سلوى بالاسم). وجميع الطرق السريعة والطرق في الرياض وجدة والظهران ومحيطها لا تزال تعمل"
+   },
+   "url": "https://sa.usembassy.gov/security-alert-u-s-mission-to-saudi-arabia-october-28-2026/"
   }
  ]
 }

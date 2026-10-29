@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T13:43:00+03:00",
+ "updated_at": "2026-10-29T14:50:00+03:00",
  "window_start": "2026-10-29",
  "pills": [
   {
@@ -55,7 +55,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -120,7 +121,8 @@
     93,
     94,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -227,7 +229,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -280,7 +283,8 @@
     93,
     94,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -410,7 +414,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -452,7 +457,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   }
  ],
@@ -488,7 +494,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -652,7 +659,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -689,7 +697,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   },
   {
@@ -786,7 +795,8 @@
     89,
     92,
     95,
-    97
+    97,
+    100
    ]
   }
  ],
@@ -832,7 +842,8 @@
     95,
     97,
     98,
-    99
+    99,
+    100
    ]
   },
   {
@@ -2523,10 +2534,26 @@
    "kind": "항공사 공지",
    "what": {
     "ko": "10/29 12:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재)",
-    "en": "At the check around 12:40 (Doha) on 29 Oct, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended” (last updated 12 Oct 16:54 Doha time; no resumption date)",
+    "en": "At the check around 12:40 (Doha) on 29 Oct, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct 16:54 Doha time; no resumption date)",
     "ar": "عند التحقق نحو الساعة 12:40 (بتوقيت الدوحة) يوم 29 أكتوبر، ذكرت الصفحة أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر 16:54 بتوقيت الدوحة، دون موعد للاستئناف)"
    },
    "url": "https://www.qatarairways.com/en-sa/travel-alerts.html"
+  },
+  {
+   "n": 100,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 10/29 14:45경 확인)",
+    "en": "Qatar Airways travel alerts (global English page, checked around 14:45 on 29 Oct)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة الإنجليزية العالمية، جرى التحقق نحو الساعة 14:45 يوم 29 أكتوبر)"
+   },
+   "date": "2026-10-29",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "10/29 14:45경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 제다·메디나·카심 언급 없음",
+    "en": "When checked around 14:45 (Doha) on 29 Oct, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct 16:54 Doha time; no resumption date given). No mention of Jeddah, Madinah or Qassim",
+    "ar": "عند التحقق نحو الساعة 14:45 (بتوقيت الدوحة) يوم 29 أكتوبر، نصّت الصفحة على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد للاستئناف). ولم تَرِد أي إشارة إلى جدة أو المدينة المنورة أو القصيم"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }
  ]
 }

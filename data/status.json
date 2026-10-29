@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T08:50:00+03:00",
+ "updated_at": "2026-10-29T09:45:00+03:00",
  "window_start": "2026-10-29",
  "pills": [
   {
@@ -2481,16 +2481,16 @@
   {
    "n": 97,
    "name": {
-    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 10/29 08:40경 확인)",
-    "en": "Qatar Airways travel alerts (English global page, checked around 08:40 on 29 Oct)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة العالمية باللغة الإنجليزية، تحقّقنا منها نحو الساعة 08:40 يوم 29 أكتوبر)"
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 10/29 09:40경 확인)",
+    "en": "Qatar Airways travel alerts (English global page, checked around 09:40 on 29 Oct)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة العالمية باللغة الإنجليزية، تحقّقنا منها نحو الساعة 09:40 يوم 29 أكتوبر)"
    },
    "date": "2026-10-29",
    "kind": "항공사 공지",
    "what": {
-    "ko": "10/29 08:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 제다·메디나·카심 언급 없음",
-    "en": "When checked around 08:40 (Doha) on 29 Oct, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given). No mention of Jeddah, Madinah or Qassim",
-    "ar": "عند التحقق نحو الساعة 08:40 (بتوقيت الدوحة) يوم 29 أكتوبر، نصّت الصفحة على أن «الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة؛ دون ذكر موعد الاستئناف). ولا ذكر لجدة أو المدينة المنورة أو القصيم"
+    "ko": "10/29 09:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 제다·메디나·카심 언급 없음",
+    "en": "When checked around 09:40 (Doha) on 29 Oct, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given). No mention of Jeddah, Madinah or Qassim",
+    "ar": "عند التحقق نحو الساعة 09:40 (بتوقيت الدوحة) يوم 29 أكتوبر، نصّت الصفحة على أن «الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة؛ دون ذكر موعد الاستئناف). ولا ذكر لجدة أو المدينة المنورة أو القصيم"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T21:50:00+03:00",
+ "updated_at": "2026-10-30T22:43:00+03:00",
  "window_start": "2026-10-30",
  "pills": [
   {
@@ -969,13 +969,17 @@
     "ar": "القصيم (بريدة)"
    },
    "note": {
-    "ko": "10/25 재개 예정 · 10/25 카심→도하편(QR1195)은 항공편 추적 사이트 1곳에 12:04 출발·13:20 도착 기록(예정 11:05 출발, 항공사 공식 발표 아님)",
-    "en": "Flights due to resume on 25 Oct · The 25 Oct Qassim→Doha flight (QR1195) shows a 12:04 departure and 13:20 arrival on one flight-tracking site (scheduled departure 11:05; not an official airline announcement)",
-    "ar": "من المقرر استئناف الرحلات في 25 أكتوبر · يُظهر أحد مواقع تتبّع الرحلات أن رحلة القصيم–الدوحة (QR1195) يوم 25 أكتوبر غادرت في الساعة 12:04 ووصلت في الساعة 13:20 (موعد المغادرة المقرر 11:05؛ وهذا ليس إعلانًا رسميًا من شركة الطيران)"
+    "ko": "카타르항공이 9/1 공식 발표로 10/25 재개 예정을 밝힘(일요일 주 1회, 10/30부터 금요일 추가 · 카심 출발 일요일 11:05, 금요일 11:50) — 같은 발표에서 10/31 재개 예정이던 타이프는 10/12 공지에 운항 중단 대상으로 올라 있음 · 10/25 편은 항공편 추적 사이트 2곳에 실제 12:04 출발·13:20 도착 기록, 10/30 편은 1곳에 ‘도착’ 표시(표시 시각은 예정 시각과 같음), 다음 편 11/1(일) 11:05 예정 표시(항공편 추적 사이트 기준, 항공사 공식 발표 아님) · 카타르항공 공식 공지에는 카심 중단 언급 없음(10/30 확인) · 10/25 이후 실제 재개를 확인하는 항공사 공식 발표는 확인되지 않음",
+    "en": "Qatar Airways announced officially on 1 Sep that flights would resume on 25 Oct (once weekly on Sundays, with an additional Friday flight from 30 Oct · departing Qassim at 11:05 on Sundays and 11:50 on Fridays) — Taif, due to resume on 31 Oct under the same announcement, is listed as suspended in the 12 Oct alert · The 25 Oct flight has actual records of a 12:04 departure and 13:20 arrival on two flight-tracking sites; the 30 Oct flight is shown as “Arrived” on one site (the times shown are the same as the scheduled times); the next flight, on Sun 1 Nov at 11:05, is shown as planned (according to flight-tracking sites; not an official airline announcement) · Qatar Airways’ official travel alert does not mention any suspension for Qassim (checked 30 Oct) · No official airline announcement confirming the actual resumption since 25 Oct has been found",
+    "ar": "أعلنت الخطوط الجوية القطرية رسميًا في 1 سبتمبر استئناف الرحلات اعتبارًا من 25 أكتوبر (رحلة واحدة أسبوعيًا يوم الأحد، مع رحلة إضافية يوم الجمعة اعتبارًا من 30 أكتوبر · المغادرة من القصيم الساعة 11:05 يوم الأحد و11:50 يوم الجمعة) — أمّا الطائف، التي كان من المقرر استئناف رحلاتها في 31 أكتوبر بموجب الإعلان نفسه، فهي مُدرجة ضمن الرحلات المعلّقة في تنبيه 12 أكتوبر · يُظهر موقعان لتتبّع الرحلات سجلات فعلية لرحلة 25 أكتوبر بمغادرة الساعة 12:04 ووصول الساعة 13:20، وتظهر رحلة 30 أكتوبر بحالة «وصلت» في موقع واحد (الأوقات المعروضة مطابقة للأوقات المقررة)، وتظهر الرحلة التالية يوم الأحد 1 نوفمبر الساعة 11:05 بحالة «مُخطَّط لها» (بحسب مواقع تتبّع الرحلات، وهذا ليس إعلانًا رسميًا من شركة الطيران) · لا يذكر تنبيه السفر الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى القصيم (تم التحقق في 30 أكتوبر) · لم يُرصَد أي إعلان رسمي من شركة الطيران يؤكد الاستئناف الفعلي منذ 25 أكتوبر"
    },
    "refs": [
     6,
-    39
+    39,
+    135,
+    136,
+    137,
+    138
    ]
   },
   {
@@ -3270,6 +3274,70 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1207 من الطائف إلى الدوحة: تظهر رحلة السبت 31 أكتوبر (الإقلاع المقرر 11:00 والوصول 13:10) ورحلة الأربعاء 4 نوفمبر «ملغاة» (ليس إشعارًا من شركة الطيران)"
    },
    "url": "https://www.trip.com/flights/status-qr1207"
+  },
+  {
+   "n": 135,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1195, 10/30 22:40경 확인)",
+    "en": "Trip.com flight status (QR1195, checked around 22:40 on 30 Oct)",
+    "ar": "حالة الرحلات على Trip.com (QR1195، تم التحقق نحو الساعة 22:40 يوم 30 أكتوبر)"
+   },
+   "date": "2026-10-30",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 카심→도하 QR1195: 10/25 편 ‘도착(Arrived)’ 표시(12:04 출발·13:20 도착). 10/24(토, 06:55 출발)·10/26~10/29 편도 ‘도착’으로 표시되나 공식 일정(일·금 주 2회)과 맞지 않아 신뢰하기 어려움. 10/30 편은 ‘예정(Scheduled)’ 표시 (항공사 공지 아님)",
+    "en": "Qatar Airways Qassim→Doha QR1195: the 25 Oct flight is shown as “Arrived” (12:04 departure, 13:20 arrival). Flights on 24 Oct (Sat, 06:55 departure) and 26–29 Oct are also shown as “Arrived”, but this does not match the official schedule (twice weekly, Sundays and Fridays) and is unreliable. The 30 Oct flight is shown as “Scheduled” (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1195 من القصيم إلى الدوحة: تظهر رحلة 25 أكتوبر بحالة «وصلت» (المغادرة 12:04، والوصول 13:20). وتظهر رحلات 24 أكتوبر (السبت، المغادرة 06:55) ومن 26 إلى 29 أكتوبر أيضًا بحالة «وصلت»، غير أن ذلك لا يتطابق مع الجدول الرسمي (رحلتان أسبوعيًا يومَي الأحد والجمعة)، ولذا لا يُعتمد عليه. وتظهر رحلة 30 أكتوبر بحالة «مُجدولة» (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://us.trip.com/flights/status-qr1195/"
+  },
+  {
+   "n": 136,
+   "name": {
+    "ko": "aviability 항공편 추적 (QR1195, 10/30 22:40경 확인)",
+    "en": "aviability flight tracker (QR1195, checked around 22:40 on 30 Oct)",
+    "ar": "موقع aviability لتتبّع الرحلات (QR1195، تم التحقق نحو الساعة 22:40 يوم 30 أكتوبر)"
+   },
+   "date": "2026-10-30",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 카심(부라이다)→도하 QR1195: 10/30 편 ‘게이트 도착(Arrived at gate)’ 표시(표시 시각 11:50 출발·13:25 도착은 공식 예정 시각과 같아 실제 시각인지 불명). 11/1(일) 편은 11:05 출발 ‘예정(Planned)’ (항공사 공지 아님)",
+    "en": "Qatar Airways Qassim (Buraidah)→Doha QR1195: the 30 Oct flight is shown as “Arrived at gate” (the times shown, 11:50 departure and 13:25 arrival, are the same as the official scheduled times, so it is unclear whether they are actual times). The Sun 1 Nov flight is shown as “Planned” with an 11:05 departure (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1195 من القصيم (بريدة) إلى الدوحة: تظهر رحلة 30 أكتوبر بحالة «وصلت إلى البوابة» (الأوقات المعروضة، المغادرة 11:50 والوصول 13:25، مطابقة للأوقات المقررة رسميًا، فلا يتضح إن كانت أوقاتًا فعلية). وتظهر رحلة الأحد 1 نوفمبر بحالة «مُخطَّط لها» بمغادرة الساعة 11:05 (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://aviability.com/flight-number/flight-qr1195-qatar-airways"
+  },
+  {
+   "n": 137,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 10/30 22:40경 확인)",
+    "en": "Qatar Airways travel alerts (global English page, checked around 22:40 on 30 Oct)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة الإنجليزية العالمية، تم التحقق نحو الساعة 22:40 يوم 30 أكتوبر)"
+   },
+   "date": "2026-10-30",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "10/30 22:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 제다·메디나·카심·하일 언급 없음",
+    "en": "When checked around 22:40 (Doha) on 30 Oct, it stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct 16:54 Doha time; no resumption date given). No mention of Jeddah, Madinah, Qassim or Hail",
+    "ar": "عند التحقق نحو الساعة 22:40 (بتوقيت الدوحة) يوم 30 أكتوبر، نصّت على أن «الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر 16:54 بتوقيت الدوحة، دون تحديد موعد للاستئناف). ولا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 138,
+   "name": {
+    "ko": "카타르항공 보도자료 (9/1)",
+    "en": "Qatar Airways press release (1 Sep)",
+    "ar": "بيان صحفي للخطوط الجوية القطرية (1 سبتمبر)"
+   },
+   "date": "2026-09-01",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "카심(ELQ) 10/25 재개 발표: 매주 일요일 QR1195 카심 11:05 출발 → 도하 12:40, 10/30부터 매주 금요일 QR1195 11:50 출발 → 13:25 추가. 같은 발표에 타이프·타북·얀부 재개 포함",
+    "en": "Announcement that Qassim (ELQ) flights would resume on 25 Oct: every Sunday QR1195 departing Qassim 11:05 → Doha 12:40, plus every Friday from 30 Oct QR1195 departing 11:50 → 13:25. The same announcement included the resumption of Taif, Tabuk and Yanbu",
+    "ar": "إعلان استئناف الرحلات إلى القصيم (ELQ) في 25 أكتوبر: كل يوم أحد رحلة QR1195 تغادر القصيم الساعة 11:05 وتصل إلى الدوحة الساعة 12:40، إضافة إلى رحلة كل يوم جمعة اعتبارًا من 30 أكتوبر برقم QR1195 تغادر الساعة 11:50 وتصل الساعة 13:25. وشمل الإعلان نفسه استئناف الرحلات إلى الطائف وتبوك وينبع"
+   },
+   "url": "https://www.qatarairways.com/press-releases/en-WW/269934-qatar-airways-resumes-flights-to-qassim-taif-tabuk-and-yanbu-in-saudi-arabia/"
   }
  ]
 }

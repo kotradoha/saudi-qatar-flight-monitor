@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T05:40:00+03:00",
+ "updated_at": "2026-10-31T06:40:00+03:00",
  "window_start": "2026-10-31",
  "pills": [
   {
@@ -81,7 +81,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -133,14 +134,15 @@
     147,
     145,
     146,
-    148
+    148,
+    152
    ]
   },
   {
    "html": {
-    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단.</span> 카타르항공 공식 공지는 담맘 출도착편 일시 중단을 유지하고 있고 재개일은 밝히지 않았습니다(10/31 확인). 항공편 추적 사이트에도 10/25 이후 담맘 출발편이 잇따라 결항으로 표시됩니다(항공사 공식 발표 아님). 담맘 공항은 10/21 공격으로 2명이 숨지고 8명이 다친 뒤 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 10/28 기준 일부 지연·결항 속에 운영 중입니다(주사우디 미국대사관). 후티는 10/29(목) 담맘 공항을 드론으로 공격해 항공 교통을 방해했다고 주장했습니다(후티 측 주장, 사우디 확인 안 됨). 동부 지역을 향한 탄도미사일 요격도 이어지고 있습니다(10/27·10/29 새벽, 연합군 발표, 공항 언급 없음). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
-    "en": "<span class='red'>Qatar Airways’ Dammam→Doha flights suspended.</span> Qatar Airways’ official notice still lists flights to and from Dammam as temporarily suspended, with no resumption date (checked 31 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). Dammam airport resumed operations on 22 Oct after an attack on 21 Oct killed two people and injured eight (Saudi General Authority of Civil Aviation (GACA)), and as of 28 Oct it was operating with some delays and cancellations (US Embassy in Saudi Arabia). On Thu 29 Oct the Houthis claimed a drone attack on Dammam airport that they said disrupted air traffic (Houthi claim, not confirmed by Saudi Arabia). Ballistic missiles fired towards the Eastern Region also continue to be intercepted (27 Oct and early 29 Oct; coalition statements; no airport mentioned). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
-    "ar": "<span class='red'>تعليق رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة.</span> لا يزال الإشعار الرسمي للخطوط الجوية القطرية يُدرج الرحلات من الدمام وإليها ضمن الرحلات المعلّقة مؤقتًا، دون تحديد موعد للاستئناف (تحقّقنا منه في 31 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف مطار الدمام عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر أسفر عن مقتل شخصين وإصابة ثمانية (وفق الهيئة العامة للطيران المدني (GACA))، وكان يعمل حتى تاريخ 28 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وادّعى الحوثيون يوم الخميس 29 أكتوبر أنهم هاجموا مطار الدمام بطائرة مسيّرة، وقالوا إن الهجوم عطّل حركة الملاحة الجوية (ادعاء حوثي لم تؤكده السعودية). ولا تزال عمليات اعتراض الصواريخ الباليستية المُطلَقة باتجاه المنطقة الشرقية مستمرة (في 27 أكتوبر وفجر 29 أكتوبر، وفق بيانات التحالف، دون ذكر أي مطار). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، قرابة 3 ساعات و24 دقيقة، دون احتساب وقت الانتظار عند الحدود)."
+    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단.</span> 카타르항공 공식 공지는 담맘 출도착편 일시 중단을 유지하고 있고 재개일은 밝히지 않았습니다(10/31 확인). 항공편 추적 사이트에도 10/25 이후 담맘 출발편이 잇따라 결항으로 표시됩니다(항공사 공식 발표 아님). 담맘 공항은 10/21 공격으로 2명이 숨지고 8명이 다친 뒤 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 10/28 기준 일부 지연·결항 속에 운영 중입니다(주사우디 미국대사관). 후티는 10/29(목) 담맘 공항을 드론으로 공격해 항공 교통을 방해했다고 주장했습니다(후티 측 주장, 사우디 확인 안 됨). 동부 지역 상공·방면 요격도 이어지고 있습니다(10/27·10/29 새벽 탄도미사일, 10/31(토) 새벽 동부 지역 상공 드론 1기, 연합군 발표, 공항 언급 없음). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
+    "en": "<span class='red'>Qatar Airways’ Dammam→Doha flights suspended.</span> Qatar Airways’ official notice still lists flights to and from Dammam as temporarily suspended, with no resumption date (checked 31 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). Dammam airport resumed operations on 22 Oct after an attack on 21 Oct killed two people and injured eight (Saudi General Authority of Civil Aviation (GACA)), and as of 28 Oct it was operating with some delays and cancellations (US Embassy in Saudi Arabia). On Thu 29 Oct the Houthis claimed a drone attack on Dammam airport that they said disrupted air traffic (Houthi claim, not confirmed by Saudi Arabia). Interceptions over and towards the Eastern Region also continue (ballistic missiles on 27 Oct and early 29 Oct, and one drone over the Eastern Region early on Sat 31 Oct; coalition statements; no airport mentioned). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
+    "ar": "<span class='red'>تعليق رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة.</span> لا يزال الإشعار الرسمي للخطوط الجوية القطرية يُدرج الرحلات من الدمام وإليها ضمن الرحلات المعلّقة مؤقتًا، دون تحديد موعد للاستئناف (تحقّقنا منه في 31 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف مطار الدمام عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر أسفر عن مقتل شخصين وإصابة ثمانية (وفق الهيئة العامة للطيران المدني (GACA))، وكان يعمل حتى تاريخ 28 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وادّعى الحوثيون يوم الخميس 29 أكتوبر أنهم هاجموا مطار الدمام بطائرة مسيّرة، وقالوا إن الهجوم عطّل حركة الملاحة الجوية (ادعاء حوثي لم تؤكده السعودية). ولا تزال عمليات الاعتراض في أجواء المنطقة الشرقية وباتجاهها مستمرة (صواريخ باليستية في 27 أكتوبر وفجر 29 أكتوبر، وطائرة مسيّرة واحدة في أجواء المنطقة الشرقية فجر السبت 31 أكتوبر، وفق بيانات التحالف، دون ذكر أي مطار). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، قرابة 3 ساعات و24 دقيقة، دون احتساب وقت الانتظار عند الحدود)."
    },
    "refs": [
     8,
@@ -183,7 +185,10 @@
     143,
     144,
     147,
-    148
+    148,
+    149,
+    150,
+    152
    ]
   },
   {
@@ -262,7 +267,8 @@
     147,
     145,
     146,
-    148
+    148,
+    152
    ]
   },
   {
@@ -325,7 +331,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -352,9 +359,9 @@
     "ar": "المغادرة من الدمام 04:40 · 10:50 · 22:30 (معلّقة حاليًا)"
    },
    "note": {
-    "ko": "카타르항공 공식 공지상 중단 유지(10/31 확인). 10/25 이후 담맘 출발편도 항공편 추적 사이트에 잇따라 결항 표시(항공사 공식 발표 아님). 공항은 10/21 공격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 10/28 기준 일부 지연·결항 속 운영(주사우디 미국대사관). 후티는 10/29(목) 담맘 공항을 드론으로 공격해 항공 교통을 방해했다고 주장(후티 측 주장, 사우디 확인 안 됨). 동부 지역을 향한 탄도미사일 요격 계속(10/27·10/29 새벽, 연합군 발표, 공항 언급 없음).",
-    "en": "Suspension still in place per Qatar Airways’ official notice (checked 31 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). The airport resumed operations on 22 Oct after an attack on 21 Oct (two killed, eight injured) (GACA statement), and as of 28 Oct was operating with some delays and cancellations (US Embassy in Saudi Arabia). On Thu 29 Oct the Houthis claimed a drone attack on Dammam airport that they said disrupted air traffic (Houthi claim, not confirmed by Saudi Arabia). Ballistic missiles fired towards the Eastern Region continue to be intercepted (27 Oct and early 29 Oct; coalition statements; no airport mentioned).",
-    "ar": "لا يزال التعليق ساريًا وفق الإشعار الرسمي للخطوط الجوية القطرية (تحقّقنا منه في 31 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر (مقتل شخصين وإصابة ثمانية) (وفق بيان الهيئة العامة للطيران المدني)، وكان يعمل حتى تاريخ 28 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وادّعى الحوثيون يوم الخميس 29 أكتوبر أنهم هاجموا مطار الدمام بطائرة مسيّرة، وقالوا إن الهجوم عطّل حركة الملاحة الجوية (ادعاء حوثي لم تؤكده السعودية). ولا يزال اعتراض الصواريخ الباليستية المُطلَقة باتجاه المنطقة الشرقية مستمرًا (في 27 أكتوبر وفجر 29 أكتوبر، وفق بيانات التحالف، دون ذكر أي مطار)."
+    "ko": "카타르항공 공식 공지상 중단 유지(10/31 확인). 10/25 이후 담맘 출발편도 항공편 추적 사이트에 잇따라 결항 표시(항공사 공식 발표 아님). 공항은 10/21 공격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 10/28 기준 일부 지연·결항 속 운영(주사우디 미국대사관). 후티는 10/29(목) 담맘 공항을 드론으로 공격해 항공 교통을 방해했다고 주장(후티 측 주장, 사우디 확인 안 됨). 동부 지역 상공·방면 요격 계속(10/27·10/29 새벽 탄도미사일, 10/31(토) 새벽 동부 지역 상공 드론 1기, 연합군 발표, 공항 언급 없음).",
+    "en": "Suspension still in place per Qatar Airways’ official notice (checked 31 Oct). Flight-tracking sites also show a string of Dammam departures cancelled since 25 Oct (not official airline announcements). The airport resumed operations on 22 Oct after an attack on 21 Oct (two killed, eight injured) (GACA statement), and as of 28 Oct was operating with some delays and cancellations (US Embassy in Saudi Arabia). On Thu 29 Oct the Houthis claimed a drone attack on Dammam airport that they said disrupted air traffic (Houthi claim, not confirmed by Saudi Arabia). Interceptions over and towards the Eastern Region continue (ballistic missiles on 27 Oct and early 29 Oct, and one drone over the Eastern Region early on Sat 31 Oct; coalition statements; no airport mentioned).",
+    "ar": "لا يزال التعليق ساريًا وفق الإشعار الرسمي للخطوط الجوية القطرية (تحقّقنا منه في 31 أكتوبر). كما تُظهر مواقع تتبّع الرحلات إلغاء رحلات متتالية من الدمام منذ 25 أكتوبر (لا إعلانات رسمية من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم وقع في 21 أكتوبر (مقتل شخصين وإصابة ثمانية) (وفق بيان الهيئة العامة للطيران المدني)، وكان يعمل حتى تاريخ 28 أكتوبر مع بعض التأخيرات والإلغاءات (وفق السفارة الأمريكية في السعودية). وادّعى الحوثيون يوم الخميس 29 أكتوبر أنهم هاجموا مطار الدمام بطائرة مسيّرة، وقالوا إن الهجوم عطّل حركة الملاحة الجوية (ادعاء حوثي لم تؤكده السعودية). ولا يزال الاعتراض في أجواء المنطقة الشرقية وباتجاهها مستمرًا (صواريخ باليستية في 27 أكتوبر وفجر 29 أكتوبر، وطائرة مسيّرة واحدة في أجواء المنطقة الشرقية فجر السبت 31 أكتوبر، وفق بيانات التحالف، دون ذكر أي مطار)."
    },
    "refs": [
     9,
@@ -397,7 +404,10 @@
     143,
     144,
     147,
-    148
+    148,
+    149,
+    150,
+    152
    ]
   },
   {
@@ -555,7 +565,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -582,9 +593,9 @@
     "ar": "معلّق حاليًا (دون إعلان موعد للاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공식 공지에 아브하 출도착편 일시 중단 명시(10/31 확인). 후티는 10/27에도 드론으로 아브하 공항을 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음). 남부 지역을 향한 요격도 이어짐: 10/27 드론 4기(연합군 발표), 10/30(금) 저녁 탄도미사일 1발(연합군 발표, 목표 도시·피해 언급 없음).",
-    "en": "Qatar Airways’ official notice states that flights to and from Abha are temporarily suspended (checked 31 Oct). On 27 Oct, the Houthis also claimed a drone attack on Abha airport (Houthi claim; no immediate response from the Saudi authorities). Interceptions of drones and missiles launched towards the Southern Region also continue: four drones on 27 Oct (coalition statement) and one ballistic missile on the evening of Fri 30 Oct (coalition statement; no target city or damage mentioned).",
-    "ar": "ينص الإشعار الرسمي للخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (تحقّقنا منه في 31 أكتوبر). وفي 27 أكتوبر أيضًا، ادّعى الحوثيون مهاجمة مطار أبها بطائرة مسيّرة (ادعاء حوثي، دون ردّ فوري من السلطات السعودية). وتتواصل كذلك عمليات اعتراض الطائرات المسيّرة والصواريخ المُطلَقة باتجاه المنطقة الجنوبية: أربع طائرات مسيّرة في 27 أكتوبر (وفق بيان التحالف)، وصاروخ باليستي واحد مساء الجمعة 30 أكتوبر (وفق بيان التحالف، دون ذكر المدينة المستهدفة أو أضرار)."
+    "ko": "카타르항공 공식 공지에 아브하 출도착편 일시 중단 명시(10/31 확인). 후티는 10/27에도 드론으로 아브하 공항을 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음). 남부 지역을 향한 요격도 이어짐: 10/30(금) 저녁 탄도미사일 1발, 10/31(토) 새벽 드론 1기(연합군 발표, 목표 도시·피해 언급 없음).",
+    "en": "Qatar Airways’ official notice states that flights to and from Abha are temporarily suspended (checked 31 Oct). On 27 Oct, the Houthis also claimed a drone attack on Abha airport (Houthi claim; no immediate response from the Saudi authorities). Interceptions of drones and missiles launched towards the Southern Region also continue: one ballistic missile on the evening of Fri 30 Oct and one drone early on Sat 31 Oct (coalition statements; no target city or damage mentioned).",
+    "ar": "ينص الإشعار الرسمي للخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (تحقّقنا منه في 31 أكتوبر). وفي 27 أكتوبر أيضًا، ادّعى الحوثيون مهاجمة مطار أبها بطائرة مسيّرة (ادعاء حوثي، دون ردّ فوري من السلطات السعودية). وتتواصل كذلك عمليات اعتراض الطائرات المسيّرة والصواريخ المُطلَقة باتجاه المنطقة الجنوبية: صاروخ باليستي واحد مساء الجمعة 30 أكتوبر، وطائرة مسيّرة واحدة فجر السبت 31 أكتوبر (وفق بيانات التحالف، دون ذكر المدينة المستهدفة أو أضرار)."
    },
    "refs": [
     4,
@@ -616,7 +627,11 @@
     143,
     144,
     147,
-    148
+    148,
+    149,
+    150,
+    151,
+    152
    ]
   }
  ],
@@ -668,7 +683,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -852,7 +868,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -905,7 +922,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -1019,7 +1037,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   }
  ],
@@ -1045,7 +1064,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -1089,7 +1109,8 @@
     143,
     144,
     147,
-    148
+    148,
+    152
    ]
   },
   {
@@ -3566,6 +3587,70 @@
     "ko": "10/31 05:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 제다·메디나·카심·하일·알울라 언급 없음",
     "en": "When checked around 05:40 (Doha) on 31 Oct, states that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given). No mention of Jeddah, Madinah, Qassim, Hail or AlUla",
     "ar": "عند التحقّق نحو الساعة 05:40 (بتوقيت الدوحة) في 31 أكتوبر، تنصّ على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث في 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد الاستئناف). ولا تذكر جدة أو المدينة المنورة أو القصيم أو حائل أو العُلا"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 149,
+   "name": {
+    "ko": "아랍뉴스 (Arab News, 10/31 06:25 갱신)",
+    "en": "Arab News (updated 06:25 on 31 Oct)",
+    "ar": "عرب نيوز (حُدِّث الساعة 06:25 في 31 أكتوبر)"
+   },
+   "date": "2026-10-31",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/30 게재·10/31 06:25 갱신: 연합군 발표 인용, 10/31(토) 오전 드론 2기(동부 지역 1기, 남부 1기)를 요격·파괴. 피해·사상자·공항 언급 없음",
+    "en": "Published 30 Oct, updated 06:25 on 31 Oct: citing the coalition, two drones were intercepted and destroyed on the morning of Sat 31 Oct (one in the Eastern Province, one in the south). No damage, casualties or airport mentioned",
+    "ar": "نُشر في 30 أكتوبر وحُدِّث الساعة 06:25 في 31 أكتوبر: نقلًا عن التحالف، جرى اعتراض طائرتين مسيّرتين وتدميرهما صباح السبت 31 أكتوبر (واحدة في المنطقة الشرقية وأخرى في الجنوب). دون ذكر أضرار أو إصابات أو أي مطار"
+   },
+   "url": "https://www.arabnews.com/saudi-arabia/saudi-led-coalition-intercepts-houthi-drones-over-riyadh-and-madinah-missile-in-south-3009043"
+  },
+  {
+   "n": 150,
+   "name": {
+    "ko": "로이터 통신 (프로톰 알로 게재, 10/31)",
+    "en": "Reuters (via Prothom Alo, 31 Oct)",
+    "ar": "رويترز (عبر بروثوم ألو، 31 أكتوبر)"
+   },
+   "date": "2026-10-31",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/31 03:32(사이트 표기 시각, 시간대 미표기) 게재(카이로발): 연합군은 10/31(토) 새벽 동부 지역 상공에서 드론 1기를 요격·파괴했고, 이후 남부 지역으로 향하던 후티 드론 1기도 요격·파괴했다고 발표. 피해·공항 언급 없음",
+    "en": "Published 03:32 on 31 Oct (time as shown on the site, time zone not stated; datelined Cairo): the coalition said it intercepted and destroyed a drone over the Eastern Region early on Sat 31 Oct, and later a Houthi drone heading towards the Southern Region. No damage or airport mentioned",
+    "ar": "نُشر الساعة 03:32 في 31 أكتوبر (وفق التوقيت المعروض على الموقع، دون ذكر المنطقة الزمنية؛ من القاهرة): أعلن التحالف أنه اعترض طائرة مسيّرة ودمّرها في أجواء المنطقة الشرقية فجر السبت 31 أكتوبر، ثم اعترض طائرة مسيّرة حوثية متجهة نحو المنطقة الجنوبية ودمّرها. دون ذكر أضرار أو أي مطار"
+   },
+   "url": "https://en.prothomalo.com/international/middle-east/mk38rnykor"
+  },
+  {
+   "n": 151,
+   "name": {
+    "ko": "미들이스트아이 (Middle East Eye, 10/31)",
+    "en": "Middle East Eye (31 Oct)",
+    "ar": "ميدل إيست آي (31 أكتوبر)"
+   },
+   "date": "2026-10-31",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "10/31 00:54 GMT 게재: 연합군 대변인 투르키 알말리키 소장 발표 인용, 사우디 남부 지역 상공에서 후티 드론 1기 요격·파괴. 피해·공항 언급 없음",
+    "en": "Published 00:54 GMT on 31 Oct: citing coalition spokesman Maj. Gen. Turki Al-Maliki, a Houthi drone was intercepted and destroyed over Saudi Arabia’s Southern Region. No damage or airport mentioned",
+    "ar": "نُشر الساعة 00:54 بتوقيت غرينتش في 31 أكتوبر: نقلًا عن المتحدث باسم التحالف اللواء تركي المالكي، جرى اعتراض طائرة مسيّرة حوثية وتدميرها في أجواء المنطقة الجنوبية في السعودية. دون ذكر أضرار أو أي مطار"
+   },
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-drone-intercepted-over-saudi-arabias-southern-region-coalition"
+  },
+  {
+   "n": 152,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 10/31 06:40경 확인)",
+    "en": "Qatar Airways travel alerts (global English page, checked around 06:40 on 31 Oct)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة الإنجليزية العالمية، تحقّقنا منها نحو الساعة 06:40 في 31 أكتوبر)"
+   },
+   "date": "2026-10-31",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "10/31 06:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 제다·메디나·카심·하일·알울라 언급 없음",
+    "en": "When checked around 06:40 (Doha) on 31 Oct, states that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given). No mention of Jeddah, Madinah, Qassim, Hail or AlUla",
+    "ar": "عند التحقّق نحو الساعة 06:40 (بتوقيت الدوحة) في 31 أكتوبر، تنصّ على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث في 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد الاستئناف). ولا تذكر جدة أو المدينة المنورة أو القصيم أو حائل أو العُلا"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }

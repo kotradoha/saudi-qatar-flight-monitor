@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T06:40:00+03:00",
+ "updated_at": "2026-10-31T07:40:00+03:00",
  "window_start": "2026-10-31",
  "pills": [
   {
@@ -82,14 +82,15 @@
     144,
     147,
     148,
-    152
+    152,
+    153
    ]
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 새벽편 카타르항공 QR1185와 메디나 QR1175는 10/25~10/30 매일 실제 운항 기록이 있고(10/31 편은 예정, 항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공식 공지에도 제다·메디나 운항 중단 언급은 없습니다(공지 최종 갱신 10/12, 10/31 확인). 다만 카타르항공은 제다 노선을 하루 7회에서 4회로 줄였고(10/19 보도, 기간·해당 편 미발표), 제다 QR1183편은 10/26 이후 실제 운항 기록이 없으며 10/31 이후 편도 사이트에 따라 결항 또는 예정으로 표시가 엇갈립니다(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 서부 지역을 향한 공격도 계속되고 있습니다. 10/24 요격된 미사일 파편이 제다 알누즈하 지구 등에 떨어졌고(사우디 민방위청 발표), 10/28 타이프를 향한 후티 탄도미사일 1발이 요격됐고 같은 날 제다·얀부에 비상 경보가 발령됐다가 해제됐으며(경보 사유 미공개, 연합군·사우디 민방위청 발표), 10/30에도 서부 지역을 향한 후티 순항미사일 1발과 메카 지역(제다 포함)·메디나 지역 상공의 후티 드론 각 1기가 요격됐습니다(연합군 발표, 피해·공항 언급 없음, 메카 지역 드론은 후티가 발사를 부인해 주장 엇갈림). 이 공격들이 공항 운영에 미친 영향은 보도되지 않았습니다.",
-    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Qatar Airways’ early-morning flights QR1185 from Jeddah and QR1175 from Madinah have been recorded as actually operating every day from 25 to 30 Oct (31 Oct flights scheduled; according to flight-tracking sites, not official airline announcements), and Qatar Airways’ official notice makes no mention of any suspension of flights to or from Jeddah or Madinah (notice last updated 12 Oct; checked 31 Oct). However, Qatar Airways has cut the Jeddah route from seven to four flights a day (reported 19 Oct; period and affected flights not announced), and flight QR1183 from Jeddah has had no actual operation recorded since 26 Oct, while its flights from 31 Oct onwards are shown as cancelled or as planned depending on the site, so the listings conflict (according to flight-tracking sites, not official airline announcements). Attacks towards the western region are also continuing. On 24 Oct, debris from intercepted missiles fell in areas including Jeddah’s Al-Nuzha district (Saudi Civil Defense); on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted, and emergency alerts were issued in Jeddah and Yanbu and later lifted (reason for the alerts not disclosed; coalition and Saudi Civil Defense announcements); and on 30 Oct, a Houthi cruise missile launched towards the western region and one Houthi drone each over the Makkah region (which includes Jeddah) and the Madinah region were also intercepted (coalition announcements; no damage or airport mentioned; the Houthis denied launching the drone over the Makkah region, so the accounts conflict). No impact of these attacks on airport operations has been reported.",
-    "ar": "<span class='grn'>جدة والمدينة المنورة هما الأكثر استقرارًا للسفر إلى الدوحة.</span> سُجِّل تسيير رحلتَي الخطوط الجوية القطرية الصباحيتين الباكرتين QR1185 من جدة وQR1175 من المدينة المنورة فعليًا كل يوم من 25 إلى 30 أكتوبر (رحلتا 31 أكتوبر مجدولتان، وفق مواقع تتبّع الرحلات، لا وفق إعلان رسمي من شركة الطيران)، ولا يذكر الإعلان الرسمي للخطوط الجوية القطرية أي تعليق للرحلات من جدة أو المدينة المنورة وإليهما (آخر تحديث للإعلان في 12 أكتوبر، وتحقّقنا منه في 31 أكتوبر). غير أن الخطوط الجوية القطرية خفّضت رحلاتها على خط جدة من سبع رحلات إلى أربع رحلات يوميًا (وفق تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولم يُسجَّل تسيير الرحلة QR1183 من جدة فعليًا منذ 26 أكتوبر، وتظهر رحلاتها اعتبارًا من 31 أكتوبر ملغاة أو مجدولة بحسب الموقع، ما يعني تضارب البيانات (وفق مواقع تتبّع الرحلات، لا وفق إعلان رسمي من شركة الطيران). وتتواصل كذلك الهجمات باتجاه المنطقة الغربية. ففي 24 أكتوبر، سقطت شظايا صواريخ جرى اعتراضها في مناطق منها حي النزهة في جدة (وفق الدفاع المدني السعودي)، وفي 28 أكتوبر، اعتُرض صاروخ باليستي حوثي أُطلق نحو الطائف، وصدرت تنبيهات طوارئ في جدة وينبع ثم رُفعت (دون الإفصاح عن سببها، وفق إعلانَي التحالف والدفاع المدني السعودي)، وفي 30 أكتوبر، اعتُرض أيضًا صاروخ كروز حوثي أُطلق نحو المنطقة الغربية، وطائرتان مسيّرتان حوثيتان، إحداهما في أجواء منطقة مكة المكرمة التي تتبعها جدة والأخرى في أجواء منطقة المدينة المنورة (وفق إعلانات التحالف، دون ذكر أي أضرار أو المطار، ونفى الحوثيون إطلاق المسيّرة في أجواء منطقة مكة المكرمة، ما يعني تضارب الروايات). ولم يُبلَّغ عن أي تأثير لهذه الهجمات في عمليات المطارات."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 새벽편 카타르항공 QR1185는 10/25~10/30, 메디나 QR1175는 10/25~10/31 매일 실제 운항 기록이 있고(QR1185의 10/31 편은 예정 출발 05:10이 지났으나 07:40경까지 출발 기록이 없어 운항 여부가 확인되지 않음, 항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공식 공지에도 제다·메디나 운항 중단 언급은 없습니다(공지 최종 갱신 10/12, 10/31 확인). 다만 카타르항공은 제다 노선을 하루 7회에서 4회로 줄였고(10/19 보도, 기간·해당 편 미발표), 제다 QR1183편은 10/26 이후 실제 운항 기록이 없으며 10/31 이후 편도 사이트에 따라 결항 또는 예정으로 표시가 엇갈립니다(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 서부 지역을 향한 공격도 계속되고 있습니다. 10/24 요격된 미사일 파편이 제다 알누즈하 지구 등에 떨어졌고(사우디 민방위청 발표), 10/28 타이프를 향한 후티 탄도미사일 1발이 요격됐고 같은 날 제다·얀부에 비상 경보가 발령됐다가 해제됐으며(경보 사유 미공개, 연합군·사우디 민방위청 발표), 10/30에도 서부 지역을 향한 후티 순항미사일 1발과 메카 지역(제다 포함)·메디나 지역 상공의 후티 드론 각 1기가 요격됐습니다(연합군 발표, 피해·공항 언급 없음, 메카 지역 드론은 후티가 발사를 부인해 주장 엇갈림). 이 공격들이 공항 운영에 미친 영향은 보도되지 않았습니다.",
+    "en": "<span class='grn'>Jeddah and Madinah are the most reliable departure points for Doha.</span> Qatar Airways’ early-morning flight QR1185 from Jeddah has been recorded as actually operating every day from 25 to 30 Oct, and QR1175 from Madinah every day from 25 to 31 Oct (the 31 Oct QR1185 flight had no departure recorded as of around 07:40, although its scheduled 05:10 departure time had passed, so whether it operated has not been confirmed; according to flight-tracking sites, not official airline announcements), and Qatar Airways’ official notice makes no mention of any suspension of flights to or from Jeddah or Madinah (notice last updated 12 Oct; checked 31 Oct). However, Qatar Airways has cut the Jeddah route from seven to four flights a day (reported 19 Oct; period and affected flights not announced), and flight QR1183 from Jeddah has had no actual operation recorded since 26 Oct, while its flights from 31 Oct onwards are shown as cancelled or as planned depending on the site, so the listings conflict (according to flight-tracking sites, not official airline announcements). Attacks towards the western region are also continuing. On 24 Oct, debris from intercepted missiles fell in areas including Jeddah’s Al-Nuzha district (Saudi Civil Defense); on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted, and emergency alerts were issued in Jeddah and Yanbu and later lifted (reason for the alerts not disclosed; coalition and Saudi Civil Defense announcements); and on 30 Oct, a Houthi cruise missile launched towards the western region and one Houthi drone each over the Makkah region (which includes Jeddah) and the Madinah region were also intercepted (coalition announcements; no damage or airport mentioned; the Houthis denied launching the drone over the Makkah region, so the accounts conflict). No impact of these attacks on airport operations has been reported.",
+    "ar": "<span class='grn'>جدة والمدينة المنورة هما الأكثر استقرارًا للسفر إلى الدوحة.</span> سُجِّل تسيير رحلة الخطوط الجوية القطرية الصباحية الباكرة QR1185 من جدة فعليًا كل يوم من 25 إلى 30 أكتوبر، والرحلة QR1175 من المدينة المنورة كل يوم من 25 إلى 31 أكتوبر (ولم تُسجَّل حتى نحو الساعة 07:40 مغادرة رحلة QR1185 في 31 أكتوبر رغم مرور موعد إقلاعها المقرّر 05:10، فلم يتأكّد تسييرها، وفق مواقع تتبّع الرحلات، لا وفق إعلان رسمي من شركة الطيران)، ولا يذكر الإعلان الرسمي للخطوط الجوية القطرية أي تعليق للرحلات من جدة أو المدينة المنورة وإليهما (آخر تحديث للإعلان في 12 أكتوبر، وتحقّقنا منه في 31 أكتوبر). غير أن الخطوط الجوية القطرية خفّضت رحلاتها على خط جدة من سبع رحلات إلى أربع رحلات يوميًا (وفق تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولم يُسجَّل تسيير الرحلة QR1183 من جدة فعليًا منذ 26 أكتوبر، وتظهر رحلاتها اعتبارًا من 31 أكتوبر ملغاة أو مجدولة بحسب الموقع، ما يعني تضارب البيانات (وفق مواقع تتبّع الرحلات، لا وفق إعلان رسمي من شركة الطيران). وتتواصل كذلك الهجمات باتجاه المنطقة الغربية. ففي 24 أكتوبر، سقطت شظايا صواريخ جرى اعتراضها في مناطق منها حي النزهة في جدة (وفق الدفاع المدني السعودي)، وفي 28 أكتوبر، اعتُرض صاروخ باليستي حوثي أُطلق نحو الطائف، وصدرت تنبيهات طوارئ في جدة وينبع ثم رُفعت (دون الإفصاح عن سببها، وفق إعلانَي التحالف والدفاع المدني السعودي)، وفي 30 أكتوبر، اعتُرض أيضًا صاروخ كروز حوثي أُطلق نحو المنطقة الغربية، وطائرتان مسيّرتان حوثيتان، إحداهما في أجواء منطقة مكة المكرمة التي تتبعها جدة والأخرى في أجواء منطقة المدينة المنورة (وفق إعلانات التحالف، دون ذكر أي أضرار أو المطار، ونفى الحوثيون إطلاق المسيّرة في أجواء منطقة مكة المكرمة، ما يعني تضارب الروايات). ولم يُبلَّغ عن أي تأثير لهذه الهجمات في عمليات المطارات."
    },
    "refs": [
     12,
@@ -135,7 +136,9 @@
     145,
     146,
     148,
-    152
+    152,
+    153,
+    154
    ]
   },
   {
@@ -188,7 +191,8 @@
     148,
     149,
     150,
-    152
+    152,
+    153
    ]
   },
   {
@@ -268,7 +272,8 @@
     145,
     146,
     148,
-    152
+    152,
+    153
    ]
   },
   {
@@ -295,9 +300,9 @@
     "ar": "المغادرة من المدينة المنورة 04:50"
    },
    "note": {
-    "ko": "10/25~10/30 매일 실제 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 결항·중단 언급 없음(10/31 확인). 10/30(금) 밤 연합군 발표: 메디나 지역 상공에서 후티 드론 1기 요격(요격 시각 미발표, 피해·공항 언급 없음).",
-    "en": "Recorded as actually operating every day from 25 to 30 Oct (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official notice mentions no cancellation or suspension (checked 31 Oct). Late on the night of Fri 30 Oct, the coalition announced that a Houthi drone had been intercepted over the Madinah region (time of interception not given; no damage or airport mentioned).",
-    "ar": "سُجِّل تسيير الرحلة فعليًا كل يوم من 25 إلى 30 أكتوبر (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي إلغاء أو تعليق (تحقّقنا منه في 31 أكتوبر). وأعلن التحالف في وقت متأخر من ليل الجمعة 30 أكتوبر اعتراض طائرة مسيّرة حوثية في أجواء منطقة المدينة المنورة (دون تحديد وقت الاعتراض أو ذكر أي أضرار أو المطار)."
+    "ko": "10/25~10/30 매일 실제 운항 기록, 10/31 편도 실제 출발 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 결항·중단 언급 없음(10/31 확인). 10/30(금) 밤 연합군 발표: 메디나 지역 상공에서 후티 드론 1기 요격(요격 시각 미발표, 피해·공항 언급 없음).",
+    "en": "Recorded as actually operating every day from 25 to 30 Oct, and the 31 Oct flight also has an actual departure recorded (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official notice mentions no cancellation or suspension (checked 31 Oct). Late on the night of Fri 30 Oct, the coalition announced that a Houthi drone had been intercepted over the Madinah region (time of interception not given; no damage or airport mentioned).",
+    "ar": "سُجِّل تسيير الرحلة فعليًا كل يوم من 25 إلى 30 أكتوبر، كما سُجِّلت مغادرة رحلة 31 أكتوبر فعليًا (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي إلغاء أو تعليق (تحقّقنا منه في 31 أكتوبر). وأعلن التحالف في وقت متأخر من ليل الجمعة 30 أكتوبر اعتراض طائرة مسيّرة حوثية في أجواء منطقة المدينة المنورة (دون تحديد وقت الاعتراض أو ذكر أي أضرار أو المطار)."
    },
    "refs": [
     38,
@@ -332,7 +337,9 @@
     144,
     147,
     148,
-    152
+    152,
+    153,
+    154
    ]
   },
   {
@@ -407,7 +414,8 @@
     148,
     149,
     150,
-    152
+    152,
+    153
    ]
   },
   {
@@ -566,7 +574,8 @@
     144,
     147,
     148,
-    152
+    152,
+    153
    ]
   },
   {
@@ -631,7 +640,8 @@
     149,
     150,
     151,
-    152
+    152,
+    153
    ]
   }
  ],
@@ -684,7 +694,8 @@
     144,
     147,
     148,
-    152
+    152,
+    153
    ]
   },
   {
@@ -830,7 +841,7 @@
     "ar": "الخطوط الجوية القطرية"
    },
    "status": [
-    "예정",
+    "운항",
     "예정",
     "예정",
     "예정",
@@ -869,7 +880,9 @@
     144,
     147,
     148,
-    152
+    152,
+    153,
+    154
    ]
   },
   {
@@ -923,7 +936,8 @@
     144,
     147,
     148,
-    152
+    152,
+    153
    ]
   },
   {
@@ -1038,7 +1052,8 @@
     144,
     147,
     148,
-    152
+    152,
+    153
    ]
   }
  ],
@@ -1065,7 +1080,8 @@
     144,
     147,
     148,
-    152
+    152,
+    153
    ]
   },
   {
@@ -1075,9 +1091,9 @@
     "ar": "الطائف"
    },
    "note": {
-    "ko": "10/31 재개 예정이었으나(9/2 카타르트리뷴 보도) 재개 확인되지 않음 — 10/31 타이프→도하편(QR1207)은 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님), 카타르항공 공식 공지는 10/30 저녁 확인 시점에 타이프 출도착편 일시 중단을 명시(재개일 미발표, 페이지·확인 시점에 따라 타이프를 빼기도 해 표기 엇갈림) · 10/28 새벽 타이프를 향한 후티 탄도미사일 1발 요격(연합군 발표, 연합군은 사상자·피해를 보고하지 않음)",
-    "en": "Had been due to resume on 31 Oct (Qatar Tribune, 2 Sep), but resumption is not confirmed — the 31 Oct Taif→Doha flight (QR1207) is shown as cancelled on a flight-tracking site (not an official airline announcement), and Qatar Airways’ official notice, when checked on the evening of 30 Oct, stated that flights to and from Taif are temporarily suspended (no resumption date announced; depending on the page and when it is checked, Taif is sometimes omitted, so its listings are inconsistent) · Early on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted (coalition announcement; the coalition reported no casualties or damage)",
-    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر (وفق قطر تريبيون، 2 سبتمبر)، لكن الاستئناف لم يتأكّد — إذ تظهر رحلة 31 أكتوبر من الطائف إلى الدوحة (QR1207) ملغاةً على أحد مواقع تتبّع الرحلات (ليس إعلانًا رسميًا من شركة الطيران)، ونصّ الإشعار الرسمي للخطوط الجوية القطرية، عند التحقق منه مساء 30 أكتوبر، على تعليق الرحلات من الطائف وإليها مؤقتًا (دون إعلان موعد للاستئناف، ويُسقط الإشعار الطائف أحيانًا بحسب الصفحة ووقت التحقق، فجاء ما يُدرجه متضاربًا) · وفي وقت مبكر من يوم 28 أكتوبر، اعتُرض صاروخ باليستي أطلقه الحوثيون نحو الطائف (إعلان التحالف، ولم يُبلغ التحالف عن إصابات أو أضرار)"
+    "ko": "10/31 재개 예정이었으나(9/2 카타르트리뷴 보도) 재개 확인되지 않음 — 10/31 타이프→도하편(QR1207)은 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님), 카타르항공 공식 공지는 페이지·확인 시점에 따라 타이프 출도착편을 일시 중단 대상에 넣기도 하고 빼기도 해 표기가 엇갈림(10/31 06:40경 확인 때는 포함, 07:40경 확인 때는 빠짐, 재개 발표는 없음) · 10/28 새벽 타이프를 향한 후티 탄도미사일 1발 요격(연합군 발표, 연합군은 사상자·피해를 보고하지 않음)",
+    "en": "Had been due to resume on 31 Oct (Qatar Tribune, 2 Sep), but resumption is not confirmed — the 31 Oct Taif→Doha flight (QR1207) is shown as cancelled on a flight-tracking site (not an official airline announcement), and Qatar Airways’ official notice sometimes lists flights to and from Taif as temporarily suspended and sometimes omits Taif, depending on the page and when it is checked, so its listings are inconsistent (Taif was included when checked around 06:40 on 31 Oct but omitted around 07:40; no resumption has been announced) · Early on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted (coalition announcement; the coalition reported no casualties or damage)",
+    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر (وفق قطر تريبيون، 2 سبتمبر)، لكن الاستئناف لم يتأكّد — إذ تظهر رحلة 31 أكتوبر من الطائف إلى الدوحة (QR1207) ملغاةً على أحد مواقع تتبّع الرحلات (ليس إعلانًا رسميًا من شركة الطيران)، ويُدرج الإشعار الرسمي للخطوط الجوية القطرية الرحلات من الطائف وإليها ضمن الرحلات المعلّقة مؤقتًا أحيانًا ويُسقط الطائف أحيانًا أخرى، بحسب الصفحة ووقت التحقق، فجاء ما يُدرجه متضاربًا (أُدرجت الطائف عند التحقق نحو الساعة 06:40 في 31 أكتوبر وأُسقطت نحو الساعة 07:40، ولم يُعلَن أي استئناف) · وفي وقت مبكر من يوم 28 أكتوبر، اعتُرض صاروخ باليستي أطلقه الحوثيون نحو الطائف (إعلان التحالف، ولم يُبلغ التحالف عن إصابات أو أضرار)"
    },
    "refs": [
     6,
@@ -1110,7 +1126,8 @@
     144,
     147,
     148,
-    152
+    152,
+    153
    ]
   },
   {
@@ -3653,6 +3670,38 @@
     "ar": "عند التحقّق نحو الساعة 06:40 (بتوقيت الدوحة) في 31 أكتوبر، تنصّ على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث في 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد الاستئناف). ولا تذكر جدة أو المدينة المنورة أو القصيم أو حائل أو العُلا"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 153,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌·카타르 페이지, 10/31 07:40경 확인)",
+    "en": "Qatar Airways travel alerts (global English and Qatar pages, checked around 07:40 on 31 Oct)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة الإنجليزية العالمية وصفحة قطر، تحقّقنا منهما نحو الساعة 07:40 في 31 أكتوبر)"
+   },
+   "date": "2026-10-31",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "10/31 07:40경(도하) 확인 시점에 두 페이지 모두 “아브하(AHB)·담맘(DMM)·리야드(RUH) 출도착 항공편이 일시 중단됐다”고 명시, 타이프(TIF)는 목록에 없음 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 06:40경 확인 때는 타이프가 포함돼 있었음(근거 152)",
+    "en": "When checked around 07:40 (Doha) on 31 Oct, both pages state that “flights to and from Abha (AHB), Dammam (DMM), and Riyadh (RUH) are temporarily suspended”; Taif (TIF) is not listed (last updated 12 Oct, 16:54 Doha time; no resumption date given). Taif was included when checked around 06:40 (source 152)",
+    "ar": "عند التحقّق نحو الساعة 07:40 (بتوقيت الدوحة) في 31 أكتوبر، تنصّ الصفحتان كلتاهما على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) وإليها معلّقة مؤقتًا»، ولا تَرِد الطائف (TIF) في القائمة (آخر تحديث في 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد الاستئناف). وكانت الطائف مُدرجة عند التحقّق نحو الساعة 06:40 (المصدر 152)"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 154,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1175, 10/31 07:40경 확인)",
+    "en": "Trip.com flight status (QR1175, checked around 07:40 on 31 Oct)",
+    "ar": "حالة الرحلات على Trip.com (QR1175، تحقّقنا منها نحو الساعة 07:40 في 31 أكتوبر)"
+   },
+   "date": "2026-10-31",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 메디나→도하 QR1175: 10/29·10/30 편 ‘도착(Arrived)’, 10/31 편 ‘운항 중(En route)’(예정 04:50 출발, 실제 06:04 출발, 08:03 도착 예상, “메디나를 출발했다”), 11/1 편 ‘예정’ 표시 (항공사 공지 아님)",
+    "en": "Qatar Airways Madinah→Doha QR1175: 29 and 30 Oct flights shown as ‘Arrived’; 31 Oct flight shown as ‘En route’ (scheduled 04:50 departure; departed 06:04; expected arrival 08:03; “has departed Medina”); 1 Nov flight shown as scheduled (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: تظهر رحلتا 29 و30 أكتوبر بحالة «وصلت»، ورحلة 31 أكتوبر بحالة «في الطريق» (الإقلاع المقرّر 04:50، وأقلعت الساعة 06:04، والوصول المتوقع 08:03، «غادرت المدينة المنورة»)، ورحلة 1 نوفمبر «مجدولة» (ليس إعلانًا من شركة الطيران)"
+   },
+   "url": "https://www.trip.com/flights/status-qr1175/"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T20:42:00+03:00",
+ "updated_at": "2026-11-01T21:42:00+03:00",
  "window_start": "2026-11-01",
  "pills": [
   {
@@ -35,9 +35,9 @@
  "key_points": [
   {
    "html": {
-    "ko": "<span class='red'>리야드→도하 직항 운항 재개 확인되지 않음.</span> 리야드 공항은 10/25부터 국내선과 사우디 국적 항공사 일부 국제선에 한해 부분 재개됐지만, 카타르항공 공식 공지는 리야드 출도착편 일시 중단을 유지하고 있습니다(11/1 확인). 후티는 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 10/29(목)에도 리야드 공항을 미사일로 공격했다고 주장했습니다(후티 측 주장, 사우디 확인 안 됨). 11/1(일)에는 국제 항공사들에 메카·메디나 공역을 제외한 사우디 영공을 이용하지 말라고 경고했습니다(후티 측 경고). 리야드 방면 요격은 10/27(탄도미사일)·10/29·10/30(후티 드론)·10/31에 잇따랐습니다. 10/29 저녁에는 요격된 탄도미사일 2발의 파편으로 시민 1명이 경상을 입고 주택 1채와 차량 1대가 파손됐고(연합군·사우디 민방위청 발표), 가장 최근인 10/31(토) 오전에도 리야드 지역 상공에서 드론 1기가 요격돼 파편이 떨어졌으나 부상자는 없었습니다(연합군 발표, 발사 주체는 밝히지 않음). 예약 사이트에 판매 중인 편도 항공사에 운항 여부를 꼭 확인하세요.",
-    "en": "<span class='red'>No resumption of direct Riyadh→Doha flights confirmed.</span> Riyadh airport partially reopened from 25 Oct for domestic flights and some international flights by Saudi carriers only, but Qatar Airways’ official notice still lists flights to and from Riyadh as temporarily suspended (checked 1 Nov). The Houthis have called Riyadh airport a ‘military target’ and warned people not to use it, and on Thu 29 Oct they claimed another missile attack on the airport (Houthi claim, not confirmed by Saudi Arabia). On Sun 1 Nov, they warned international airlines against using Saudi airspace except for the airspace of Makkah and Madinah (Houthi warning). Interceptions over or towards Riyadh followed one another on 27 (ballistic missiles), 29, 30 (a Houthi drone) and 31 Oct. On the evening of 29 Oct, debris from two intercepted ballistic missiles lightly injured one citizen and damaged a house and a vehicle (coalition and Saudi Civil Defense statements), and most recently, on the morning of Sat 31 Oct, a drone was intercepted over the Riyadh region and debris fell, with no injuries (coalition statement; it did not say who launched the drone). Even if flights appear on sale on booking sites, always confirm with the airline that they will operate.",
-    "ar": "<span class='red'>لم يتأكّد استئناف الرحلات المباشرة من الرياض إلى الدوحة.</span> أُعيد فتح مطار الرياض جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط، لكن الإشعار الرسمي للخطوط الجوية القطرية لا يزال يُدرج الرحلات من الرياض وإليها ضمن الرحلات المعلّقة مؤقتًا (تحقّقنا منه في 1 نوفمبر). ووصف الحوثيون مطار الرياض بأنه «هدف عسكري» وحذّروا من استخدامه، وادّعوا يوم الخميس 29 أكتوبر أنهم هاجموا المطار مجددًا بالصواريخ (ادعاء حوثي لم تؤكده السعودية). وفي يوم الأحد 1 نوفمبر، حذّروا شركات الطيران الدولية من استخدام الأجواء السعودية باستثناء أجواء مكة المكرمة والمدينة المنورة (تحذير حوثي). وتوالت عمليات الاعتراض في أجواء الرياض أو باتجاهها في 27 أكتوبر (صواريخ باليستية) و29 و30 أكتوبر (طائرة مسيّرة حوثية) و31 أكتوبر. ففي مساء 29 أكتوبر، أسفرت شظايا صاروخين باليستيين جرى اعتراضهما عن إصابة مواطن بجروح طفيفة وإلحاق أضرار بمنزل ومركبة (وفق بياني التحالف والدفاع المدني السعودي)، وفي أحدث حادثة، صباح السبت 31 أكتوبر، اعتُرضت طائرة مسيّرة في أجواء منطقة الرياض وسقطت شظاياها دون وقوع إصابات (وفق بيان التحالف، الذي لم يحدّد الجهة التي أطلقتها). يُرجى التأكد لدى شركة الطيران من تسيير الرحلة حتى لو كانت معروضة للبيع في مواقع الحجز."
+    "ko": "<span class='red'>리야드→도하 직항 정기 운항 재개 확인되지 않음.</span> 카타르항공 공식 공지는 리야드 출도착편 일시 중단을 유지하고 있습니다(11/1 확인). 리야드 공항은 10/25부터 국내선과 사우디 국적 항공사 일부 국제선에 한해 부분 재개됐고, 사우디아 SV540편이 11/1(일) 리야드에서 13:21 이륙해 도하에 14:31 착륙한 기록이 있습니다(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 다만 사우디아의 리야드–도하 운항 재개 발표는 확인되지 않았고, 11/2 이후 운항 여부도 확인되지 않았습니다. 후티는 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 10/29(목)에도 리야드 공항을 미사일로 공격했다고 주장했습니다(후티 측 주장, 사우디 확인 안 됨). 11/1(일)에는 국제 항공사들에 메카·메디나 공역을 제외한 사우디 영공을 이용하지 말라고 경고했습니다(후티 측 경고). 리야드 방면 요격은 10/27(탄도미사일)·10/29·10/30(후티 드론)·10/31에 잇따랐습니다. 10/29 저녁에는 요격된 탄도미사일 2발의 파편으로 시민 1명이 경상을 입고 주택 1채와 차량 1대가 파손됐고(연합군·사우디 민방위청 발표), 가장 최근인 10/31(토) 오전에도 리야드 지역 상공에서 드론 1기가 요격돼 파편이 떨어졌으나 부상자는 없었습니다(연합군 발표, 발사 주체는 밝히지 않음). 예약 사이트에 판매 중인 편도 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>No resumption of regular direct Riyadh→Doha flights confirmed.</span> Qatar Airways’ official notice still lists flights to and from Riyadh as temporarily suspended (checked 1 Nov). Riyadh airport partially reopened from 25 Oct for domestic flights and some international flights by Saudi carriers only, and Saudia flight SV540 is recorded as taking off from Riyadh at 13:21 on Sun 1 Nov and landing in Doha at 14:31 (according to flight-tracking sites, not an official airline announcement). However, no announcement by Saudia of resumed Riyadh–Doha flights has been confirmed, and whether flights will operate from 2 Nov onwards has not been confirmed either. The Houthis have called Riyadh airport a ‘military target’ and warned people not to use it, and on Thu 29 Oct they claimed another missile attack on the airport (Houthi claim, not confirmed by Saudi Arabia). On Sun 1 Nov, they warned international airlines against using Saudi airspace except for the airspace of Makkah and Madinah (Houthi warning). Interceptions over or towards Riyadh followed one another on 27 (ballistic missiles), 29, 30 (a Houthi drone) and 31 Oct. On the evening of 29 Oct, debris from two intercepted ballistic missiles lightly injured one citizen and damaged a house and a vehicle (coalition and Saudi Civil Defense statements), and most recently, on the morning of Sat 31 Oct, a drone was intercepted over the Riyadh region and debris fell, with no injuries (coalition statement; it did not say who launched the drone). Even if flights appear on sale on booking sites, always confirm with the airline that they will operate.",
+    "ar": "<span class='red'>لم يتأكّد استئناف الرحلات المباشرة المنتظمة من الرياض إلى الدوحة.</span> لا يزال الإشعار الرسمي للخطوط الجوية القطرية يُدرج الرحلات من الرياض وإليها ضمن الرحلات المعلّقة مؤقتًا (تحقّقنا منه في 1 نوفمبر). وقد أُعيد فتح مطار الرياض جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط، وتُظهر السجلات أن رحلة الخطوط السعودية SV540 أقلعت من الرياض الساعة 13:21 يوم الأحد 1 نوفمبر وهبطت في الدوحة الساعة 14:31 (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). غير أنه لم يتأكّد صدور إعلان من الخطوط السعودية باستئناف رحلاتها بين الرياض والدوحة، كما لم يتأكّد تسيير رحلات اعتبارًا من 2 نوفمبر. ووصف الحوثيون مطار الرياض بأنه «هدف عسكري» وحذّروا من استخدامه، وادّعوا يوم الخميس 29 أكتوبر أنهم هاجموا المطار مجددًا بالصواريخ (ادعاء حوثي لم تؤكده السعودية). وفي يوم الأحد 1 نوفمبر، حذّروا شركات الطيران الدولية من استخدام الأجواء السعودية باستثناء أجواء مكة المكرمة والمدينة المنورة (تحذير حوثي). وتوالت عمليات الاعتراض في أجواء الرياض أو باتجاهها في 27 أكتوبر (صواريخ باليستية) و29 و30 أكتوبر (طائرة مسيّرة حوثية) و31 أكتوبر. ففي مساء 29 أكتوبر، أسفرت شظايا صاروخين باليستيين جرى اعتراضهما عن إصابة مواطن بجروح طفيفة وإلحاق أضرار بمنزل ومركبة (وفق بياني التحالف والدفاع المدني السعودي)، وفي أحدث حادثة، صباح السبت 31 أكتوبر، اعتُرضت طائرة مسيّرة في أجواء منطقة الرياض وسقطت شظاياها دون وقوع إصابات (وفق بيان التحالف، الذي لم يحدّد الجهة التي أطلقتها). يُرجى التأكد لدى شركة الطيران من تسيير الرحلة حتى لو كانت معروضة للبيع في مواقع الحجز."
    },
    "refs": [
     33,
@@ -103,7 +103,10 @@
     187,
     191,
     194,
-    195
+    195,
+    196,
+    197,
+    198
    ]
   },
   {
@@ -644,19 +647,19 @@
    },
    "iata": "RUH",
    "verdict": {
-    "ko": "도하 직항 이용 불가 — 운항 재개 확인되지 않음",
-    "en": "Direct flights to Doha not available — resumption not confirmed",
-    "ar": "الرحلات المباشرة إلى الدوحة غير متاحة — لم يتأكّد استئناف الرحلات"
+    "ko": "도하 직항 정기 운항 재개 확인되지 않음 — 카타르항공 운항 중단, 사우디아 11/1 1편 운항 기록",
+    "en": "Resumption of regular direct flights to Doha not confirmed — Qatar Airways flights suspended; one Saudia flight recorded on 1 Nov",
+    "ar": "لم يتأكّد استئناف الرحلات المباشرة المنتظمة إلى الدوحة — رحلات الخطوط الجوية القطرية معلّقة، وسُجّلت رحلة واحدة للخطوط السعودية في 1 نوفمبر"
    },
    "carriers": {
-    "ko": "카타르항공: 공식 공지상 리야드 출도착편 일시 중단(11/1 확인) · 사우디 항공사: 리야드 공항에서 일부 운항, 도하 노선 운항은 확인되지 않음",
-    "en": "Qatar Airways: flights to and from Riyadh temporarily suspended per official notice (checked 1 Nov) · Saudi carriers: some flights operating at Riyadh airport; no Doha flights confirmed",
-    "ar": "الخطوط الجوية القطرية: الرحلات من الرياض وإليها معلّقة مؤقتًا وفق الإشعار الرسمي (تحقّقنا منه في 1 نوفمبر) · شركات الطيران السعودية: تُسيَّر بعض الرحلات في مطار الرياض، ولم يتأكّد تسيير أي رحلات إلى الدوحة"
+    "ko": "카타르항공: 공식 공지상 리야드 출도착편 일시 중단(11/1 확인) · 사우디아: SV540편 11/1 리야드→도하 실제 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 운항 재개 발표와 11/2 이후 운항 여부는 확인되지 않음 · 플라이나스: 도하 노선 운항 확인되지 않음",
+    "en": "Qatar Airways: flights to and from Riyadh temporarily suspended per official notice (checked 1 Nov) · Saudia: flight SV540 recorded as operating Riyadh→Doha on 1 Nov (according to flight-tracking sites, not an official airline announcement); no resumption announcement has been confirmed, nor whether flights will operate from 2 Nov onwards · flynas: no Doha flights confirmed",
+    "ar": "الخطوط الجوية القطرية: الرحلات من الرياض وإليها معلّقة مؤقتًا وفق الإشعار الرسمي (تحقّقنا منه في 1 نوفمبر) · الخطوط السعودية: تُظهر السجلات تسيير الرحلة SV540 من الرياض إلى الدوحة يوم 1 نوفمبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات ولا تسيير رحلات اعتبارًا من 2 نوفمبر · طيران ناس: لم يتأكّد تسيير أي رحلات إلى الدوحة"
    },
    "times": {
-    "ko": "공항은 10/25부터 국내선·사우디 국적 항공사 일부 국제선에 한해 부분 재개(공항 발표) · 리야드발 일부 항공편은 카심 공항에서 운항(주사우디 미국대사관)",
-    "en": "Airport partially reopened from 25 Oct, for domestic flights and some international flights by Saudi carriers only (airport announcement) · Some Riyadh-based flights operating from Qassim airport (US Embassy in Saudi Arabia)",
-    "ar": "أُعيد فتح المطار جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط (وفق إعلان المطار) · تُسيَّر بعض الرحلات التي تتخذ من الرياض مقرًا لها من مطار القصيم (وفق السفارة الأمريكية في السعودية)"
+    "ko": "사우디아 SV540 리야드 출발 12:40 → 도하 14:00(예정) · 11/1 실제 13:21 이륙·14:31 착륙(항공편 추적 사이트 기준) · 공항은 10/25부터 국내선·사우디 국적 항공사 일부 국제선에 한해 부분 재개(공항 발표) · 리야드발 일부 항공편은 카심 공항에서 운항(주사우디 미국대사관)",
+    "en": "Saudia SV540 departs Riyadh 12:40 → Doha 14:00 (scheduled) · on 1 Nov, actual take-off 13:21, landing 14:31 (according to flight-tracking sites) · Airport partially reopened from 25 Oct, for domestic flights and some international flights by Saudi carriers only (airport announcement) · Some Riyadh-based flights operating from Qassim airport (US Embassy in Saudi Arabia)",
+    "ar": "الموعد المقرر لرحلة الخطوط السعودية SV540: الإقلاع من الرياض 12:40 والوصول إلى الدوحة 14:00 · في 1 نوفمبر كان الإقلاع الفعلي 13:21 والهبوط 14:31 (وفق مواقع تتبّع الرحلات) · أُعيد فتح المطار جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط (وفق إعلان المطار) · تُسيَّر بعض الرحلات التي تتخذ من الرياض مقرًا لها من مطار القصيم (وفق السفارة الأمريكية في السعودية)"
    },
    "note": {
     "ko": "후티는 리야드 공항을 ‘군사 목표’로 지칭하며 항공사·근로자·여행객에게 이용하지 말라고 경고(10/24)했고, 10/26·10/29(목)에도 공항을 미사일로 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨). 11/1(일)에는 국제 항공사들에 메카·메디나 공역을 제외한 사우디 영공을 이용하지 말라고 경고(후티 측 경고). 리야드 방면 요격이 10/27(탄도미사일)·10/29·10/30(후티 드론)·10/31 잇따름: 10/29(목) 저녁 요격된 탄도미사일 2발의 파편으로 시민 1명 경상·주택 1채·차량 1대 파손(연합군·사우디 민방위청 발표), 10/31(토) 오전 리야드 지역 상공에서 드론 1기 요격, 파편이 떨어졌으나 부상자 없음(연합군 발표, 발사 주체 미언급). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
@@ -732,7 +735,10 @@
     187,
     191,
     194,
-    195
+    195,
+    196,
+    197,
+    198
    ]
   },
   {
@@ -902,7 +908,7 @@
     "ar": "الخطوط السعودية"
    },
    "status": [
-    "미정",
+    "운항",
     "미정",
     "미정",
     "미정",
@@ -917,7 +923,9 @@
    "refs": [
     16,
     17,
-    33
+    33,
+    196,
+    197
    ]
   },
   {
@@ -4657,6 +4665,54 @@
     "ar": "نُشر الساعة 15:20 بالتوقيت العالمي يوم 1 نوفمبر: دعا مصدر عسكري حوثي، عبر وكالة سبأ، شركات الطيران الدولية إلى تجنّب الأجواء السعودية باستثناء أجواء مكة المكرمة والمدينة المنورة، وهدّد منشآت أرامكو"
    },
    "url": "https://shafaq.com/en/World/Saudi-led-coalition-targets-Houthi-assets-in-Yemen"
+  },
+  {
+   "n": 196,
+   "name": {
+    "ko": "Aviability 항공편 현황 (SV540, 11/1 21:40경 확인)",
+    "en": "Aviability flight status (SV540, checked around 21:40 on 1 Nov)",
+    "ar": "حالة الرحلة على موقع Aviability (SV540، تحقّقنا منها نحو الساعة 21:40 يوم 1 نوفمبر)"
+   },
+   "date": "2026-11-01",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "사우디아 리야드(2터미널)→도하 SV540 11/1(일) 편: 예정 12:40 출발·14:00 도착, 실제 13:21 이륙·14:31 착륙·14:42 게이트 도착(A320). 앞뒤 편(10/27·11/3)은 기록 없음 (항공사 공지 아님)",
+    "en": "Saudia SV540 Riyadh (Terminal 2)→Doha, Sun 1 Nov: scheduled 12:40 departure and 14:00 arrival; actual take-off 13:21, landing 14:31, at gate 14:42 (A320). No data for the adjacent flights (27 Oct, 3 Nov) (not an airline notice)",
+    "ar": "رحلة الخطوط السعودية SV540 من الرياض (الصالة 2) إلى الدوحة يوم الأحد 1 نوفمبر: الإقلاع المقرر 12:40 والوصول المقرر 14:00؛ الإقلاع الفعلي 13:21 والهبوط 14:31 والوصول إلى البوابة 14:42 (طائرة A320). لا توجد بيانات للرحلتين السابقة واللاحقة (27 أكتوبر و3 نوفمبر) (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://aviability.com/en/flight/sv540-saudia/ruh-doh"
+  },
+  {
+   "n": 197,
+   "name": {
+    "ko": "airportinfo.live 항공편 현황 (SV540, 11/1 21:40경 확인)",
+    "en": "airportinfo.live flight status (SV540, checked around 21:40 on 1 Nov)",
+    "ar": "حالة الرحلة على موقع airportinfo.live (SV540، تحقّقنا منها نحو الساعة 21:40 يوم 1 نوفمبر)"
+   },
+   "date": "2026-11-01",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "사우디아 리야드→도하 SV540 11/1 편: ‘도착(Arrived)’, 31분 지연 착륙. 예정 12:40·실제 13:21 출발, 예정 14:00·실제 14:31 도착. 이력 표에 10월 중순~10/27 다수 편 ‘결항’ · 10/28·10/30 편은 ‘도착’으로 표시되나, 같은 날 SV541(도하→리야드)은 다른 사이트에서 ‘도착 미확인’으로 엇갈림 (항공사 공지 아님)",
+    "en": "Saudia SV540 Riyadh→Doha, 1 Nov: ‘Arrived’, landed 31 min late. Departure scheduled 12:40, actual 13:21; arrival scheduled 14:00, actual 14:31. History table shows many flights from mid-October to 27 Oct as ‘Cancelled’; 28 and 30 Oct flights are shown as ‘Arrived’, but the same-day SV541 (Doha→Riyadh) flights show ‘arrival unconfirmed’ on another site, so the sites conflict (not an airline notice)",
+    "ar": "رحلة الخطوط السعودية SV540 من الرياض إلى الدوحة يوم 1 نوفمبر: «وصلت»، وهبطت متأخرة 31 دقيقة. الإقلاع المقرر 12:40 والفعلي 13:21، والوصول المقرر 14:00 والفعلي 14:31. ويُظهر جدول السجل إلغاء كثير من الرحلات من منتصف أكتوبر حتى 27 أكتوبر؛ وتظهر رحلتا 28 و30 أكتوبر على أنهما «وصلتا»، لكن رحلتي SV541 (الدوحة–الرياض) في اليومين نفسيهما تظهران على موقع آخر بحالة «لم يتأكّد وصولهما»، ما يعني تضارب البيانات (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://airportinfo.live/flight/sv540"
+  },
+  {
+   "n": 198,
+   "name": {
+    "ko": "Aviability 항공편 현황 (SV541, 11/1 21:40경 확인)",
+    "en": "Aviability flight status (SV541, checked around 21:40 on 1 Nov)",
+    "ar": "حالة الرحلة على موقع Aviability (SV541، تحقّقنا منها نحو الساعة 21:40 يوم 1 نوفمبر)"
+   },
+   "date": "2026-11-01",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "사우디아 도하→리야드 SV541: 11/1 편 ‘게이트 도착’(34분 지연), 10/28·10/30 편은 ‘도착 미확인’, 11/2·11/3 편은 ‘예정’ 표시 (항공사 공지 아님)",
+    "en": "Saudia SV541 Doha→Riyadh: 1 Nov flight ‘arrived at gate’ (34 min late); 28 and 30 Oct flights ‘arrival unconfirmed’; 2 and 3 Nov flights shown as ‘planned’ (not an airline notice)",
+    "ar": "رحلة الخطوط السعودية SV541 من الدوحة إلى الرياض: رحلة 1 نوفمبر «وصلت إلى البوابة» (بتأخير 34 دقيقة)؛ ورحلتا 28 و30 أكتوبر «لم يتأكّد وصولهما»؛ ورحلتا 2 و3 نوفمبر معروضتان على أنهما «مُجدولتان» (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://aviability.com/en/flight/sv541-saudia"
   }
  ]
 }

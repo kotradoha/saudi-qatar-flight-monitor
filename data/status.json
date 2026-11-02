@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T12:41:00+03:00",
+ "updated_at": "2026-11-02T13:55:00+03:00",
  "window_start": "2026-11-02",
  "pills": [
   {
@@ -108,7 +108,7 @@
     197,
     198,
     199,
-    205
+    206
    ]
   },
   {
@@ -193,7 +193,7 @@
     199,
     201,
     202,
-    205
+    206
    ]
   },
   {
@@ -266,7 +266,7 @@
     187,
     191,
     199,
-    205
+    206
    ]
   },
   {
@@ -375,7 +375,7 @@
     191,
     199,
     201,
-    205
+    206
    ]
   },
   {
@@ -392,9 +392,9 @@
     "ar": "الرحلات متاحة"
    },
    "carriers": {
-    "ko": "카타르항공 QR1175",
-    "en": "Qatar Airways QR1175",
-    "ar": "الخطوط الجوية القطرية QR1175"
+    "ko": "카타르항공 QR1175 · 사우디아 SV540(10/28·10/30·11/2 운항 기록, 정기 운항 여부 확인되지 않음)",
+    "en": "Qatar Airways QR1175 · Saudia SV540 (operating records on 28 Oct, 30 Oct and 2 Nov; whether it is a regular service is unconfirmed)",
+    "ar": "الخطوط الجوية القطرية QR1175 · الخطوط السعودية SV540 (سجلات تسيير في 28 أكتوبر و30 أكتوبر و2 نوفمبر، ولم يُتأكَّد مما إذا كانت رحلة منتظمة)"
    },
    "times": {
     "ko": "메디나 출발 04:50",
@@ -402,9 +402,9 @@
     "ar": "المغادرة من المدينة المنورة 04:50"
    },
    "note": {
-    "ko": "10/25~11/2 매일 실제 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 결항·중단 언급 없음(11/2 확인). 연합군은 10/30(금) 밤 메디나 지역 상공에서 후티 드론 1기를 요격했다고 발표했으나(요격 시각 미발표, 피해·공항 언급 없음) 후티는 발사를 부인해 주장 엇갈림.",
-    "en": "Recorded as actually operating every day from 25 Oct to 2 Nov (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official notice mentions no cancellation or suspension (checked 2 Nov). Late on the night of Fri 30 Oct, the coalition announced that a Houthi drone had been intercepted over the Madinah region (time of interception not given; no damage or airport mentioned), but the Houthis denied launching it, so the accounts conflict.",
-    "ar": "سُجِّل تسيير الرحلة فعليًا كل يوم من 25 أكتوبر إلى 2 نوفمبر (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي إلغاء أو تعليق (تحقّقنا منه في 2 نوفمبر). وأعلن التحالف في وقت متأخر من ليل الجمعة 30 أكتوبر اعتراض طائرة مسيّرة حوثية في أجواء منطقة المدينة المنورة (دون تحديد وقت الاعتراض أو ذكر أي أضرار أو المطار)، لكن الحوثيين نفوا إطلاقها، ما يعني تضارب الروايات."
+    "ko": "카타르항공 QR1175는 10/25~11/2 매일 실제 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 결항·중단 언급 없음(11/2 확인). 사우디아 SV540편도 10/28·10/30·11/2(11:53 출발) 메디나→도하로 운항한 기록이 있고 11/4도 메디나 출발 예정으로 표시되나(항공편 추적 사이트 1곳 기준, 항공사 공식 발표 아님), 이 편명은 다른 날짜에는 리야드 출발로 표시되고 다른 추적 사이트는 리야드 출발만 표시해 메디나 정기 운항 여부는 확인되지 않음. 연합군은 10/30(금) 밤 메디나 지역 상공에서 후티 드론 1기를 요격했다고 발표했으나(요격 시각 미발표, 피해·공항 언급 없음) 후티는 발사를 부인해 주장 엇갈림.",
+    "en": "Qatar Airways QR1175 has records of actually operating every day from 25 Oct to 2 Nov (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official notice mentions no cancellation or suspension (checked 2 Nov). Saudia SV540 also has records of operating Madinah → Doha on 28 Oct, 30 Oct and 2 Nov (departed 11:53), and its 4 Nov flight is shown as scheduled to depart from Madinah (according to one flight-tracking site, not an official airline announcement); however, this flight number is shown departing from Riyadh on other dates, and another flight-tracking site shows only Riyadh departures, so whether it is a regular Madinah service is unconfirmed. Late on the night of Fri 30 Oct, the coalition announced that a Houthi drone had been intercepted over the Madinah region (time of interception not given; no damage or airport mentioned), but the Houthis denied launching it, so the accounts conflict.",
+    "ar": "سُجِّل تسيير رحلة الخطوط الجوية القطرية QR1175 فعليًا كل يوم من 25 أكتوبر إلى 2 نوفمبر (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي إلغاء أو تعليق (تحقّقنا منه في 2 نوفمبر). كما سُجِّل تسيير رحلة الخطوط السعودية SV540 من المدينة المنورة إلى الدوحة في 28 أكتوبر و30 أكتوبر و2 نوفمبر (أقلعت الساعة 11:53)، وتظهر رحلة 4 نوفمبر مقررةً للمغادرة من المدينة المنورة (وفق موقع واحد لتتبّع الرحلات، لا إعلان رسمي من شركة الطيران)، غير أن رقم الرحلة هذا يظهر في تواريخ أخرى مغادرًا من الرياض، ولا يُظهر موقع تتبّع آخر سوى رحلات مغادرة من الرياض، فلم يُتأكَّد مما إذا كانت رحلة منتظمة من المدينة المنورة. وأعلن التحالف في وقت متأخر من ليل الجمعة 30 أكتوبر اعتراض طائرة مسيّرة حوثية في أجواء منطقة المدينة المنورة (دون تحديد وقت الاعتراض أو ذكر أي أضرار أو المطار)، لكن الحوثيين نفوا إطلاقها، ما يعني تضارب الروايات."
    },
    "refs": [
     38,
@@ -464,7 +464,8 @@
     191,
     199,
     202,
-    205
+    206,
+    207
    ]
   },
   {
@@ -559,7 +560,7 @@
     187,
     191,
     199,
-    205
+    206
    ]
   },
   {
@@ -636,9 +637,9 @@
     "ar": "المغادرة من العُلا 11:30 والوصول إلى الدوحة 13:40 · الرحلة التالية 6 نوفمبر (الجمعة)"
    },
    "note": {
-    "ko": "10/18·10/21·10/23·10/25·10/28·10/30 편 모두 실제 운항 기록이 있고, 11/1(일) 편도 11:33 출발(예정 11:30)해 12:40경 비행 중(도하 도착 예상 13:30경)으로 표시됨 — 한 사이트는 아직 ‘이륙 대기’로 표시하나 갱신되지 않은 화면으로 보임(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 알울라 운항 중단 언급 없음(11/2 확인).",
-    "en": "The flights on 18, 21, 23, 25, 28 and 30 Oct all have records of actually operating, and the Sun 1 Nov flight was shown around 12:40 as in the air after departing at 11:33 (scheduled 11:30), with an estimated arrival in Doha around 13:30 — one site still shows it as “Awaiting takeoff”, but that page appears not to have been updated (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official travel alert does not mention any suspension for AlUla (checked 2 Nov).",
-    "ar": "سُجِّل تسيير رحلات 18 و21 و23 و25 و28 و30 أكتوبر جميعها فعليًا، كما ظهرت رحلة الأحد 1 نوفمبر نحو الساعة 12:40 في الجو بعد إقلاعها الساعة 11:33 (الموعد المقرر 11:30)، مع وصول متوقع إلى الدوحة نحو الساعة 13:30 — ولا يزال أحد المواقع يُظهرها بحالة «بانتظار الإقلاع»، لكن يبدو أن صفحته لم تُحدَّث (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر تنبيه السفر الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى العُلا (تم التحقق في 2 نوفمبر)."
+    "ko": "10/18·10/21·10/23·10/25·10/28·10/30·11/1 편 모두 실제 운항 기록이 있음(11/1 편은 한 사이트에 11:33 출발, 다른 사이트에 도하 ‘게이트 도착’ 13:27 기록). 11/4(수) 편이 예정으로 표시된 사이트도 있으나 추가편 운항 여부는 확인되지 않음(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 알울라 운항 중단 언급 없음(11/2 확인).",
+    "en": "The flights on 18, 21, 23, 25, 28 and 30 Oct and 1 Nov all have records of actually operating (for the 1 Nov flight, one site records departure at 11:33 and another records “arrived at gate” in Doha at 13:27). One site also shows a Wed 4 Nov flight as scheduled, but whether this extra flight will operate is unconfirmed (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official travel alert does not mention any suspension for AlUla (checked 2 Nov).",
+    "ar": "سُجِّل تسيير رحلات 18 و21 و23 و25 و28 و30 أكتوبر و1 نوفمبر جميعها فعليًا (بالنسبة إلى رحلة 1 نوفمبر، سجّل أحد المواقع إقلاعها الساعة 11:33، وسجّل موقع آخر «وصولها إلى البوابة» في الدوحة الساعة 13:27). ويُظهر أحد المواقع أيضًا رحلة يوم الأربعاء 4 نوفمبر مقررة، لكن لم يُتأكَّد من تسيير هذه الرحلة الإضافية (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر تنبيه السفر الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى العُلا (تم التحقق في 2 نوفمبر)."
    },
    "refs": [
     3,
@@ -654,7 +655,8 @@
     189,
     191,
     199,
-    205
+    206,
+    210
    ]
   },
   {
@@ -759,7 +761,7 @@
     197,
     198,
     199,
-    205
+    206
    ]
   },
   {
@@ -847,7 +849,7 @@
     199,
     203,
     204,
-    205
+    206
    ]
   }
  ],
@@ -919,7 +921,7 @@
     187,
     191,
     199,
-    205
+    206
    ]
   },
   {
@@ -1137,7 +1139,7 @@
     191,
     199,
     202,
-    205
+    206
    ]
   },
   {
@@ -1210,7 +1212,7 @@
     187,
     191,
     199,
-    205
+    206
    ]
   },
   {
@@ -1256,7 +1258,7 @@
     191,
     199,
     200,
-    205
+    206
    ]
   },
   {
@@ -1361,7 +1363,7 @@
     187,
     191,
     199,
-    205
+    206
    ]
   }
  ],
@@ -1373,9 +1375,9 @@
     "ar": "القصيم (بريدة)"
    },
    "note": {
-    "ko": "카타르항공이 9/1 공식 발표로 10/25 재개 예정을 밝힘(일요일 주 1회, 10/30부터 금요일 추가 · 카심 출발 일요일 11:05, 금요일 11:50) — 같은 발표에서 10/31 재개 예정이던 타이프는 10/12 공지에 운항 중단 대상으로 올라 있음 · 10/25 편은 항공편 추적 사이트 2곳에 실제 운항 기록, 10/30 편도 2곳에 ‘도착’ 표시(항공편 추적 사이트 기준, 항공사 공식 발표 아님) · 11/1(일) 편(예정 11:05 출발)은 12:40경 확인 때 한 사이트(도하 공항 도착 현황)에 11:38 출발·‘비행 중(IN AIR)’, 도하 도착 예상 12:49로 표시됐으나, 다른 두 사이트는 ‘지연’(예상 11:52 출발) 또는 ‘출발 미확인’으로 남아 있어(갱신 시각 미표시) 표시가 엇갈림(항공편 추적 사이트 기준, 항공사 공식 발표 아님) · 한 사이트는 10/26~10/31 매일 카심→도하 ‘도착’을 표시하지만 다른 사이트에는 해당 날짜 기록이 없어 엇갈림(항공편 추적 사이트 기준, 항공사 공식 발표 아님) · 카타르항공 공식 공지에는 카심 중단 언급 없음(11/2 확인) · 10/25 이후 실제 재개를 확인하는 항공사 공식 발표는 확인되지 않음",
-    "en": "Qatar Airways announced officially on 1 Sep that flights would resume on 25 Oct (once weekly on Sundays, with an additional Friday flight from 30 Oct · departing Qassim at 11:05 on Sundays and 11:50 on Fridays) — Taif, due to resume on 31 Oct under the same announcement, is listed as suspended in the 12 Oct alert · The 25 Oct flight has actual operation records on two flight-tracking sites, and the 30 Oct flight is also shown as “Arrived” on two sites (according to flight-tracking sites; not an official airline announcement) · The Sun 1 Nov flight (scheduled to depart at 11:05) was shown, when checked around 12:40, as departed at 11:38 and “IN AIR” with an estimated arrival in Doha at 12:49 on one site (Doha airport arrivals), while two other sites still showed it as “Delayed” (estimated departure 11:52) or “Departure unconfirmed” (no update time shown), so the sites conflict (according to flight-tracking sites; not an official airline announcement) · One site shows Qassim→Doha “Arrived” every day from 26 to 31 Oct, but another site has no records for those dates, so the sites conflict (according to flight-tracking sites; not an official airline announcement) · Qatar Airways’ official travel alert does not mention any suspension for Qassim (checked 2 Nov) · No official airline announcement confirming the actual resumption since 25 Oct has been found",
-    "ar": "أعلنت الخطوط الجوية القطرية رسميًا في 1 سبتمبر استئناف الرحلات اعتبارًا من 25 أكتوبر (رحلة واحدة أسبوعيًا يوم الأحد، مع رحلة إضافية يوم الجمعة اعتبارًا من 30 أكتوبر · المغادرة من القصيم الساعة 11:05 يوم الأحد و11:50 يوم الجمعة) — أمّا الطائف، التي كان من المقرر استئناف رحلاتها في 31 أكتوبر بموجب الإعلان نفسه، فهي مُدرجة ضمن الرحلات المعلّقة في تنبيه 12 أكتوبر · يُظهر موقعان لتتبّع الرحلات سجلات تشغيل فعلية لرحلة 25 أكتوبر، كما تظهر رحلة 30 أكتوبر بحالة «وصلت» في موقعين (بحسب مواقع تتبّع الرحلات، وهذا ليس إعلانًا رسميًا من شركة الطيران) · أمّا رحلة الأحد 1 نوفمبر (المقرر إقلاعها الساعة 11:05) فقد ظهرت عند التحقق نحو الساعة 12:40 في أحد المواقع (قائمة الوصول في مطار الدوحة) بحالة «في الجو» بعد إقلاعها الساعة 11:38، مع وصول متوقع إلى الدوحة الساعة 12:49، في حين لا تزال تظهر في موقعين آخرين بحالة «متأخرة» (موعد الإقلاع المتوقع 11:52) أو «لم يُؤكَّد الإقلاع» (دون بيان وقت التحديث)، فالمعلومات متضاربة (بحسب مواقع تتبّع الرحلات، وهذا ليس إعلانًا رسميًا من شركة الطيران) · يُظهر أحد المواقع رحلات من القصيم إلى الدوحة بحالة «وصلت» يوميًا من 26 إلى 31 أكتوبر، في حين لا يتضمن موقع آخر أي سجلات لتلك التواريخ، فالمعلومات متضاربة (بحسب مواقع تتبّع الرحلات، وهذا ليس إعلانًا رسميًا من شركة الطيران) · لا يذكر تنبيه السفر الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى القصيم (تم التحقق في 2 نوفمبر) · لم يُرصَد أي إعلان رسمي من شركة الطيران يؤكد الاستئناف الفعلي منذ 25 أكتوبر"
+    "ko": "카타르항공이 9/1 공식 발표로 10/25 재개 예정을 밝힘(일요일 주 1회, 10/30부터 금요일 추가 · 카심 출발 일요일 11:05, 금요일 11:50) — 같은 발표에서 10/31 재개 예정이던 타이프는 현재 카타르항공 공지에 운항 중단 대상으로 올라 있음 · 10/25·10/30 편은 항공편 추적 사이트 2곳에 실제 운항 기록이 있고, 11/1 편은 한 사이트에 출발(11:38), 다른 한 사이트에 도착(13:07) 기록이 있으나 또 다른 사이트는 아직 ‘지연’으로 표시해 엇갈림(항공편 추적 사이트 기준, 항공사 공식 발표 아님) · 한 사이트는 요일과 관계없이 10/26~10/31 매일 ‘도착’을 표시하지만 다른 사이트에는 10/30을 제외한 해당 날짜 기록이 없어 엇갈림 · 카타르항공 공식 공지에는 카심 중단 언급 없음(11/2 확인) · 10/25 이후 실제 재개를 확인하는 항공사 공식 발표는 확인되지 않음",
+    "en": "Qatar Airways announced officially on 1 Sep that flights would resume on 25 Oct (once weekly on Sundays, with an additional Friday flight from 30 Oct · departing Qassim at 11:05 on Sundays and 11:50 on Fridays) — Taif, due to resume on 31 Oct under the same announcement, is currently listed as suspended in Qatar Airways’ notice · the 25 Oct and 30 Oct flights have records of actually operating on two flight-tracking sites, and the 1 Nov flight has a departure record (11:38) on one site and an arrival record (13:07) on another, but a third site still shows it as “delayed”, so the data conflict (according to flight-tracking sites, not official airline announcements) · one site shows “arrived” every day from 26 to 31 Oct regardless of the weekday, but another site has no records for those dates except 30 Oct, so the data conflict · Qatar Airways’ official notice does not mention any suspension for Qassim (checked 2 Nov) · no official airline announcement confirming the actual resumption since 25 Oct has been found",
+    "ar": "أعلنت الخطوط الجوية القطرية رسميًا في 1 سبتمبر استئناف الرحلات في 25 أكتوبر (مرة أسبوعيًا يوم الأحد، مع رحلة إضافية يوم الجمعة اعتبارًا من 30 أكتوبر · المغادرة من القصيم الساعة 11:05 أيام الأحد و11:50 أيام الجمعة) — أما الطائف، التي كان مقررًا استئناف رحلاتها في 31 أكتوبر بموجب الإعلان نفسه، فهي مدرجة حاليًا ضمن الوجهات المعلّقة في إشعار الخطوط الجوية القطرية · سُجِّل تسيير رحلتَي 25 أكتوبر و30 أكتوبر فعليًا في موقعين من مواقع تتبّع الرحلات، وسُجِّل لرحلة 1 نوفمبر إقلاع (11:38) في أحد المواقع ووصول (13:07) في موقع آخر، لكن موقعًا ثالثًا لا يزال يُظهرها بحالة «متأخرة»، ما يعني تضارب البيانات (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران) · ويُظهر أحد المواقع حالة «وصلت» كل يوم من 26 إلى 31 أكتوبر بصرف النظر عن أيام الأسبوع، بينما لا يتضمن موقع آخر أي سجلات لتلك التواريخ باستثناء 30 أكتوبر، ما يعني تضارب البيانات · ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى القصيم (تم التحقق في 2 نوفمبر) · ولم يُعثر على إعلان رسمي من شركة الطيران يؤكد الاستئناف الفعلي منذ 25 أكتوبر"
    },
    "refs": [
     6,
@@ -1410,7 +1412,9 @@
     190,
     191,
     199,
-    205
+    206,
+    208,
+    209
    ]
   },
   {
@@ -1476,7 +1480,7 @@
     191,
     199,
     203,
-    205
+    206
    ]
   },
   {
@@ -4869,6 +4873,86 @@
     "ar": "عند التحقق نحو الساعة 12:40 (بتوقيت الدوحة) يوم 2 نوفمبر، نصّ على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر، 16:54 بتوقيت الدوحة، دون تحديد موعد للاستئناف). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 206,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 11/2 13:40경 확인)",
+    "en": "Qatar Airways travel alerts (English global page, checked around 13:40 on 2 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة العالمية بالإنجليزية، تم التحقق نحو الساعة 13:40 يوم 2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/2 13:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
+    "en": "When checked around 13:40 (Doha) on 2 Nov, it stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
+    "ar": "عند التحقق نحو الساعة 13:40 (بتوقيت الدوحة) يوم 2 نوفمبر، نصّ على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر، 16:54 بتوقيت الدوحة، دون ذكر موعد للاستئناف). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 207,
+   "name": {
+    "ko": "airportinfo.live 항공편 현황 (SV540, 11/2 13:40경 확인)",
+    "en": "airportinfo.live flight status (SV540, checked around 13:40 on 2 Nov)",
+    "ar": "airportinfo.live لحالة الرحلات (SV540، تم التحقق نحو الساعة 13:40 يوم 2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "사우디아 SV540 11/2(월) 편은 메디나(MED)→도하 구간으로 표시: 예정 11:40·실제 11:53 출발, 도하 도착 예정 14:00·예상 13:37, ‘비행 중(In Air)’. 이력 표에 10/28 편(11:55 출발·13:48 도착)과 10/30 편(11:51 출발·13:33 도착)도 메디나→도하 ‘도착’, 11/4 편은 메디나 출발 ‘예정’(11:40), 11/1 편은 리야드→도하 ‘도착’, 11/3 편은 리야드→도하 ‘예정’ (항공사 공지 아님)",
+    "en": "Saudia SV540 on Mon 2 Nov shown as Madinah (MED) → Doha: scheduled 11:40, actual departure 11:53; scheduled arrival in Doha 14:00, estimated 13:37; “In Air”. The history table also shows the 28 Oct flight (dep. 11:55, arr. 13:48) and the 30 Oct flight (dep. 11:51, arr. 13:33) as Madinah → Doha “arrived”, the 4 Nov flight as departing Madinah “scheduled” (11:40), the 1 Nov flight as Riyadh → Doha “arrived”, and the 3 Nov flight as Riyadh → Doha “scheduled” (not an airline notice)",
+    "ar": "تظهر رحلة الخطوط السعودية SV540 يوم الاثنين 2 نوفمبر على مسار المدينة المنورة (MED) → الدوحة: الإقلاع المقرر 11:40 والفعلي 11:53، والوصول المقرر إلى الدوحة 14:00 والمتوقع 13:37، بحالة «في الجو». ويُظهر جدول السجل أيضًا رحلتَي 28 أكتوبر (الإقلاع 11:55، الوصول 13:48) و30 أكتوبر (الإقلاع 11:51، الوصول 13:33) على مسار المدينة المنورة → الدوحة بحالة «وصلت»، ورحلة 4 نوفمبر مغادرةً من المدينة المنورة بحالة «مقررة» (11:40)، ورحلة 1 نوفمبر على مسار الرياض → الدوحة بحالة «وصلت»، ورحلة 3 نوفمبر على مسار الرياض → الدوحة بحالة «مقررة» (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://airportinfo.live/flight/sv540"
+  },
+  {
+   "n": 208,
+   "name": {
+    "ko": "aviability 항공편 현황 (QR1195, 11/2 13:40경 확인)",
+    "en": "aviability flight status (QR1195, checked around 13:40 on 2 Nov)",
+    "ar": "aviability لحالة الرحلات (QR1195، تم التحقق نحو الساعة 13:40 يوم 2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 부라이다(카심)→도하 QR1195: 10/30 편(11:50→13:25)과 11/1 편(11:05→13:07) 모두 ‘게이트 도착’ 표시. 11/1 편 출발 표시 시각 11:05는 예정 시각과 같아 실제 시각인지 불명. 10/25~10/29·10/31 편 기록 없음 (항공사 공지 아님)",
+    "en": "Qatar Airways Buraidah (Qassim) → Doha QR1195: the 30 Oct flight (11:50 → 13:25) and the 1 Nov flight (11:05 → 13:07) both shown as “arrived at gate”. The 11:05 departure time shown for 1 Nov is the same as the scheduled time, so it is unclear whether it is the actual time. No records for 25–29 Oct or 31 Oct (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1195 من بريدة (القصيم) إلى الدوحة: تظهر رحلتا 30 أكتوبر (11:50 → 13:25) و1 نوفمبر (11:05 → 13:07) كلتاهما بحالة «وصلت إلى البوابة». ووقت الإقلاع المعروض لرحلة 1 نوفمبر (11:05) مطابق للموعد المقرر، فلا يُعرف ما إذا كان الوقت الفعلي. ولا سجلات لرحلات 25–29 أكتوبر و31 أكتوبر (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://aviability.com/en/flight/qr1195-qatar-airways"
+  },
+  {
+   "n": 209,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1195, 11/2 13:40경 확인)",
+    "en": "Trip.com flight status (QR1195, checked around 13:40 on 2 Nov)",
+    "ar": "Trip.com لحالة الرحلات (QR1195، تم التحقق نحو الساعة 13:40 يوم 2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 카심→도하 QR1195: 11/1 편은 여전히 ‘지연’(예정 11:05 출발·12:40 도착, 예상 11:52 출발·13:09 도착)으로 표시되고 실제 출발·도착 시각은 표시되지 않음. 이력 표에 10/26~10/31 매일 ‘도착’, 10/25 편 기록 없음 (항공사 공지 아님)",
+    "en": "Qatar Airways Qassim → Doha QR1195: the 1 Nov flight is still shown as “delayed” (scheduled dep. 11:05, arr. 12:40; estimated dep. 11:52, arr. 13:09), with no actual departure or arrival times shown. The history table shows “arrived” every day from 26 to 31 Oct; no record for 25 Oct (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1195 من القصيم إلى الدوحة: لا تزال رحلة 1 نوفمبر تظهر بحالة «متأخرة» (الإقلاع المقرر 11:05 والوصول 12:40، والإقلاع المتوقع 11:52 والوصول 13:09)، دون عرض أوقات الإقلاع والوصول الفعلية. ويُظهر جدول السجل حالة «وصلت» كل يوم من 26 إلى 31 أكتوبر، ولا سجل لرحلة 25 أكتوبر (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://www.trip.com/flights/status-qr1195/"
+  },
+  {
+   "n": 210,
+   "name": {
+    "ko": "aviability 항공편 현황 (QR1203, 11/2 14:00경 확인)",
+    "en": "aviability flight status (QR1203, checked around 14:00 on 2 Nov)",
+    "ar": "aviability لحالة الرحلات (QR1203، تم التحقق نحو الساعة 14:00 يوم 2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 알울라→도하 QR1203: 10/28 편 ‘게이트 도착’(11:30→13:45), 10/30 편 ‘착륙’(11:30→13:40), 11/1 편 ‘게이트 도착’(11:25→13:27), 11/4(수) 편 ‘예정’(11:30→13:40) (항공사 공지 아님)",
+    "en": "Qatar Airways AlUla → Doha QR1203: 28 Oct flight “arrived at gate” (11:30 → 13:45), 30 Oct flight “landed” (11:30 → 13:40), 1 Nov flight “arrived at gate” (11:25 → 13:27), Wed 4 Nov flight “planned” (11:30 → 13:40) (not an airline notice)",
+    "ar": "رحلة الخطوط الجوية القطرية QR1203 من العُلا إلى الدوحة: رحلة 28 أكتوبر «وصلت إلى البوابة» (11:30 → 13:45)، ورحلة 30 أكتوبر «هبطت» (11:30 → 13:40)، ورحلة 1 نوفمبر «وصلت إلى البوابة» (11:25 → 13:27)، ورحلة الأربعاء 4 نوفمبر «مخطط لها» (11:30 → 13:40) (ليس إشعارًا من شركة الطيران)"
+   },
+   "url": "https://aviability.com/flight-number/flight-qr1203-qatar-airways"
   }
  ]
 }

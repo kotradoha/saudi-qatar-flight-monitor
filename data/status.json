@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-02T11:37:00+03:00",
+ "updated_at": "2026-11-02T12:41:00+03:00",
  "window_start": "2026-11-02",
  "pills": [
   {
@@ -107,7 +107,8 @@
     196,
     197,
     198,
-    199
+    199,
+    205
    ]
   },
   {
@@ -191,7 +192,8 @@
     191,
     199,
     201,
-    202
+    202,
+    205
    ]
   },
   {
@@ -263,7 +265,8 @@
     184,
     187,
     191,
-    199
+    199,
+    205
    ]
   },
   {
@@ -371,7 +374,8 @@
     187,
     191,
     199,
-    201
+    201,
+    205
    ]
   },
   {
@@ -459,7 +463,8 @@
     187,
     191,
     199,
-    202
+    202,
+    205
    ]
   },
   {
@@ -553,7 +558,8 @@
     184,
     187,
     191,
-    199
+    199,
+    205
    ]
   },
   {
@@ -647,7 +653,8 @@
     188,
     189,
     191,
-    199
+    199,
+    205
    ]
   },
   {
@@ -751,7 +758,8 @@
     196,
     197,
     198,
-    199
+    199,
+    205
    ]
   },
   {
@@ -778,9 +786,9 @@
     "ar": "معلّق حاليًا (دون إعلان موعد للاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공식 공지에 아브하 출도착편 일시 중단 명시(11/2 확인). 후티는 10/27에도 드론으로 아브하 공항을 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음). 남부 지역을 향한 요격이 10/30(금) 이후 매일 이어지고 있음: 11/1(일)에도 연합군은 후티가 남부 지역을 향해 발사한 탄도미사일 1발과 드론 1기 이상을 요격했다고 발표했고, 같은 날 새벽 아브하·카미스무샤이트에 비상 경보가 발령됐다가 해제됨(연합군·사우디 당국 발표, 목표 도시·피해·공항 언급 없음).",
-    "en": "Qatar Airways’ official notice states that flights to and from Abha are temporarily suspended (checked 2 Nov). On 27 Oct, the Houthis also claimed a drone attack on Abha airport (Houthi claim; no immediate response from the Saudi authorities). Interceptions of missiles and drones launched towards the Southern Region have continued daily since Fri 30 Oct: on Sun 1 Nov, the coalition again announced intercepting one ballistic missile and at least one drone launched by the Houthis towards the Southern Region, and emergency alerts were issued for Abha and Khamis Mushait early that day and later lifted (coalition and Saudi authorities’ statements; no target city, damage or airport mentioned).",
-    "ar": "ينص الإشعار الرسمي للخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (تحقّقنا منه في 2 نوفمبر). وفي 27 أكتوبر أيضًا، ادّعى الحوثيون مهاجمة مطار أبها بطائرة مسيّرة (ادعاء حوثي، دون ردّ فوري من السلطات السعودية). وتتواصل يوميًا منذ الجمعة 30 أكتوبر عمليات اعتراض الصواريخ والطائرات المسيّرة المُطلَقة باتجاه المنطقة الجنوبية: ففي يوم الأحد 1 نوفمبر، أعلن التحالف مجددًا اعتراض صاروخ باليستي واحد وطائرة مسيّرة واحدة على الأقل أطلقها الحوثيون باتجاه المنطقة الجنوبية، وصدرت فجر اليوم نفسه تحذيرات طوارئ لأبها وخميس مشيط ثم رُفعت (وفق بيانات التحالف والسلطات السعودية، دون ذكر المدينة المستهدفة أو أضرار أو المطار)."
+    "ko": "카타르항공 공식 공지에 아브하 출도착편 일시 중단 명시(11/2 확인). 후티는 10/27에도 드론으로 아브하 공항을 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음). 남부 지역을 향한 요격이 10/30(금) 이후 매일 이어지고 있음: 11/2(월)에도 아브하·카미스무샤이트·타이프·나즈란에 비상 경보가 발령됐다가 해제됐고, 연합군은 후티가 남부 지역을 향해 발사한 탄도미사일 1발을 요격했다고 발표함(사우디 민방위청·연합군 발표, 목표 도시·피해·공항 언급 없음).",
+    "en": "Qatar Airways’ official notice states that flights to and from Abha are temporarily suspended (checked 2 Nov). On 27 Oct, the Houthis also claimed a drone attack on Abha airport (Houthi claim; no immediate response from the Saudi authorities). Interceptions of missiles and drones launched towards the Southern Region have continued daily since Fri 30 Oct: on Mon 2 Nov, emergency alerts were issued for Abha, Khamis Mushait, Taif and Najran and later lifted, and the coalition announced intercepting one ballistic missile launched by the Houthis towards the Southern Region (Saudi Civil Defense and coalition statements; no target city, damage or airport mentioned).",
+    "ar": "ينص الإشعار الرسمي للخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (تحقّقنا منه في 2 نوفمبر). وفي 27 أكتوبر أيضًا، ادّعى الحوثيون مهاجمة مطار أبها بطائرة مسيّرة (ادعاء حوثي، دون ردّ فوري من السلطات السعودية). وتتواصل يوميًا منذ الجمعة 30 أكتوبر عمليات اعتراض الصواريخ والطائرات المسيّرة المُطلَقة باتجاه المنطقة الجنوبية: ففي يوم الاثنين 2 نوفمبر، صدرت تحذيرات طوارئ لأبها وخميس مشيط والطائف ونجران ثم رُفعت، وأعلن التحالف اعتراض صاروخ باليستي واحد أطلقه الحوثيون باتجاه المنطقة الجنوبية (وفق بيانات الدفاع المدني السعودي والتحالف، دون ذكر المدينة المستهدفة أو أضرار أو المطار)."
    },
    "refs": [
     4,
@@ -836,7 +844,10 @@
     191,
     192,
     193,
-    199
+    199,
+    203,
+    204,
+    205
    ]
   }
  ],
@@ -907,7 +918,8 @@
     184,
     187,
     191,
-    199
+    199,
+    205
    ]
   },
   {
@@ -1124,7 +1136,8 @@
     187,
     191,
     199,
-    202
+    202,
+    205
    ]
   },
   {
@@ -1196,7 +1209,8 @@
     184,
     187,
     191,
-    199
+    199,
+    205
    ]
   },
   {
@@ -1241,7 +1255,8 @@
     187,
     191,
     199,
-    200
+    200,
+    205
    ]
   },
   {
@@ -1345,7 +1360,8 @@
     184,
     187,
     191,
-    199
+    199,
+    205
    ]
   }
  ],
@@ -1393,7 +1409,8 @@
     187,
     190,
     191,
-    199
+    199,
+    205
    ]
   },
   {
@@ -1403,9 +1420,9 @@
     "ar": "الطائف"
    },
    "note": {
-    "ko": "10/31 재개 예정이었으나(9/2 카타르트리뷴 보도) 재개 확인되지 않음 — 10/31 타이프→도하편(QR1207)은 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님). 카타르항공 공식 공지는 확인 시점에 따라 타이프 출도착편을 일시 중단 대상에 넣기도 하고 빼기도 해 표기가 엇갈리며(목록에서 빠질 때가 있어도 운항 재개를 뜻하지는 않음), 재개 발표는 없음 · 10/28 새벽 타이프를 향한 후티 탄도미사일 1발 요격(연합군 발표, 연합군은 사상자·피해를 보고하지 않음)",
-    "en": "Had been due to resume on 31 Oct (Qatar Tribune, 2 Sep), but resumption is not confirmed — the 31 Oct Taif→Doha flight (QR1207) is shown as cancelled on a flight-tracking site (not an official airline announcement). Qatar Airways’ official notice sometimes lists flights to and from Taif as temporarily suspended and sometimes omits Taif, depending on when it is checked, so its listings are inconsistent (its occasional absence from the list does not mean flights have resumed); no resumption has been announced · Early on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted (coalition announcement; the coalition reported no casualties or damage)",
-    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر (وفق قطر تريبيون، 2 سبتمبر)، لكن الاستئناف لم يتأكّد — إذ تظهر رحلة 31 أكتوبر من الطائف إلى الدوحة (QR1207) ملغاةً على أحد مواقع تتبّع الرحلات (ليس إعلانًا رسميًا من شركة الطيران). ويُدرج الإشعار الرسمي للخطوط الجوية القطرية الرحلات من الطائف وإليها ضمن الرحلات المعلّقة مؤقتًا أحيانًا ويُسقط الطائف أحيانًا أخرى، بحسب وقت التحقق، فجاء ما يُدرجه متضاربًا (وغيابها عن القائمة أحيانًا لا يعني استئناف الرحلات)، ولم يُعلَن أي استئناف · وفي وقت مبكر من يوم 28 أكتوبر، اعتُرض صاروخ باليستي أطلقه الحوثيون نحو الطائف (إعلان التحالف، ولم يُبلغ التحالف عن إصابات أو أضرار)"
+    "ko": "10/31 재개 예정이었으나(9/2 카타르트리뷴 보도) 재개 확인되지 않음 — 10/31 타이프→도하편(QR1207)은 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님). 카타르항공 공식 공지는 확인 시점에 따라 타이프 출도착편을 일시 중단 대상에 넣기도 하고 빼기도 해 표기가 엇갈리며(목록에서 빠질 때가 있어도 운항 재개를 뜻하지는 않음), 재개 발표는 없음 · 위협 계속: 10/28 새벽 타이프를 향한 후티 탄도미사일 1발이 요격됐고(연합군 발표, 연합군은 사상자·피해를 보고하지 않음), 11/2(월)에도 타이프 등 남부·서부 도시에 비상 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 피해 언급 없음)",
+    "en": "Had been due to resume on 31 Oct (Qatar Tribune, 2 Sep), but resumption is not confirmed — the 31 Oct Taif→Doha flight (QR1207) is shown as cancelled on a flight-tracking site (not an official airline announcement). Qatar Airways’ official notice sometimes lists flights to and from Taif as temporarily suspended and sometimes omits Taif, depending on when it is checked, so its listings are inconsistent (its occasional absence from the list does not mean flights have resumed); no resumption has been announced · The threat continues: early on 28 Oct, a Houthi ballistic missile launched towards Taif was intercepted (coalition announcement; the coalition reported no casualties or damage), and on Mon 2 Nov emergency alerts were also issued for Taif and other southern and western cities and later lifted (Saudi Civil Defense statement; no damage mentioned)",
+    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر (وفق قطر تريبيون، 2 سبتمبر)، لكن الاستئناف لم يتأكّد — إذ تظهر رحلة 31 أكتوبر من الطائف إلى الدوحة (QR1207) ملغاةً على أحد مواقع تتبّع الرحلات (ليس إعلانًا رسميًا من شركة الطيران). ويُدرج الإشعار الرسمي للخطوط الجوية القطرية الرحلات من الطائف وإليها ضمن الرحلات المعلّقة مؤقتًا أحيانًا ويُسقط الطائف أحيانًا أخرى، بحسب وقت التحقق، فجاء ما يُدرجه متضاربًا (وغيابها عن القائمة أحيانًا لا يعني استئناف الرحلات)، ولم يُعلَن أي استئناف · ولا يزال التهديد قائمًا: ففي وقت مبكر من يوم 28 أكتوبر، اعتُرض صاروخ باليستي أطلقه الحوثيون نحو الطائف (إعلان التحالف، ولم يُبلغ التحالف عن إصابات أو أضرار)، وفي يوم الاثنين 2 نوفمبر صدرت كذلك تحذيرات طوارئ للطائف ومدن أخرى في الجنوب والغرب ثم رُفعت (وفق بيان الدفاع المدني السعودي، دون ذكر أضرار)"
    },
    "refs": [
     6,
@@ -1457,7 +1474,9 @@
     184,
     187,
     191,
-    199
+    199,
+    203,
+    205
    ]
   },
   {
@@ -1512,14 +1531,15 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, Aaj TV·에이뉴스 보도, 사우디 당국의 즉각적인 반응 없음)",
-    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim, reported by Aaj TV and A News; no immediate response from Saudi officials)",
-    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، وفق ما أوردته قناة آج تي في وقناة A News، دون رد فوري من المسؤولين السعوديين)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, Aaj TV·에이뉴스 보도, 사우디 당국의 즉각적인 반응 없음) · 11/2(월) 나즈란에 비상 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 피해 언급 없음)",
+    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim, reported by Aaj TV and A News; no immediate response from Saudi officials) · On Mon 2 Nov, an emergency alert was issued for Najran and later lifted (Saudi Civil Defense statement; no damage mentioned)",
+    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، وفق ما أوردته قناة آج تي في وقناة A News، دون رد فوري من المسؤولين السعوديين) · يوم الاثنين 2 نوفمبر، صدر تحذير طوارئ لنجران ثم رُفع (وفق بيان الدفاع المدني السعودي، دون ذكر أضرار)"
    },
    "refs": [
     5,
     69,
-    70
+    70,
+    203
    ]
   },
   {
@@ -4801,6 +4821,54 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة يوم الاثنين 2 نوفمبر: «وصلت»، المغادرة المقررة 04:50 والفعلية 04:37، والوصول المقرر 06:55 والفعلي 06:45 (بالتوقيت المحلي). وتظهر رحلة 1 نوفمبر أيضًا «وصلت» (غادرت 04:59 ووصلت 06:42) (ليست إعلانًا من شركة الطيران)"
    },
    "url": "https://airportinfo.live/flight/qr1175"
+  },
+  {
+   "n": 203,
+   "name": {
+    "ko": "비즈니스레코더 (Business Recorder, 로이터 기사, 11/2)",
+    "en": "Business Recorder (Reuters report, 2 Nov)",
+    "ar": "بزنس ريكوردر (تقرير رويترز، 2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/2 게재(12:49 파키스탄 시각), 로이터: 사우디 민방위청은 11/2(월) 남부·서부 도시인 카미스무샤이트·아브하·타이프·나즈란에 경보를 발령한 뒤 곧 위협이 지나갔다고 발표. 연합군은 후티가 남부 지역을 향해 발사한 탄도미사일 1발을 요격·파괴했다고 발표. 피해·공항 언급 없음",
+    "en": "Published 2 Nov (12:49 Pakistan time), Reuters: Saudi Civil Defense said on Mon 2 Nov that the threat had passed shortly after it issued alerts for southern and western cities: Khamis Mushait, Abha, Taif and Najran. The coalition said it intercepted and destroyed a ballistic missile launched by the Houthis towards the Southern Region. No damage or airport mentioned",
+    "ar": "نُشر في 2 نوفمبر (12:49 بتوقيت باكستان)، رويترز: أعلن الدفاع المدني السعودي يوم الاثنين 2 نوفمبر زوال الخطر بعد وقت قصير من إصدار تحذيرات لمدن في الجنوب والغرب هي خميس مشيط وأبها والطائف ونجران. وأعلن التحالف اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه المنطقة الجنوبية وتدميره. دون ذكر أضرار أو المطار"
+   },
+   "url": "https://www.brecorder.com/news/40447038/saudi-civil-defence-sounds-all-clear-after-alerts-in-southern-cities"
+  },
+  {
+   "n": 204,
+   "name": {
+    "ko": "아나돌루통신 (Anadolu Agency, 11/2)",
+    "en": "Anadolu Agency (2 Nov)",
+    "ar": "وكالة الأناضول (2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/2(월) 게재: 연합군 대변인 투르키 알말리키 소장은 후티가 남부 지역을 향해 발사한 탄도미사일 1발을 요격·파괴했다고 발표. 목표·사상자 언급 없음, 공항 언급 없음",
+    "en": "Published Mon 2 Nov: coalition spokesman Maj. Gen. Turki al-Maliki said a ballistic missile launched by the Houthis towards the Southern Region was intercepted and destroyed. No target, casualties or airport mentioned",
+    "ar": "نُشر يوم الاثنين 2 نوفمبر: أعلن المتحدث باسم التحالف اللواء تركي المالكي اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه المنطقة الجنوبية وتدميره. دون ذكر الهدف أو إصابات أو المطار"
+   },
+   "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-southern-region/4108355"
+  },
+  {
+   "n": 205,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 11/2 12:40경 확인)",
+    "en": "Qatar Airways travel alerts (English global page, checked around 12:40 on 2 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة العالمية بالإنجليزية، تحقّقنا منها نحو الساعة 12:40 يوم 2 نوفمبر)"
+   },
+   "date": "2026-11-02",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/2 12:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
+    "en": "When checked around 12:40 (Doha) on 2 Nov, it stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
+    "ar": "عند التحقق نحو الساعة 12:40 (بتوقيت الدوحة) يوم 2 نوفمبر، نصّ على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر، 16:54 بتوقيت الدوحة، دون تحديد موعد للاستئناف). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }
  ]
 }

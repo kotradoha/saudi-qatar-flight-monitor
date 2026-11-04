@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:37:00+03:00",
+ "updated_at": "2026-11-04T21:39:00+03:00",
  "window_start": "2026-11-04",
  "pills": [
   {
@@ -132,7 +132,8 @@
     253,
     254,
     256,
-    259
+    259,
+    260
    ]
   },
   {
@@ -242,7 +243,8 @@
     250,
     251,
     256,
-    259
+    259,
+    260
    ]
   },
   {
@@ -337,7 +339,8 @@
     250,
     251,
     256,
-    259
+    259,
+    260
    ]
   },
   {
@@ -472,7 +475,8 @@
     250,
     251,
     256,
-    259
+    259,
+    260
    ]
   },
   {
@@ -580,7 +584,8 @@
     250,
     251,
     256,
-    259
+    259,
+    260
    ]
   },
   {
@@ -697,7 +702,8 @@
     250,
     251,
     256,
-    259
+    259,
+    260
    ]
   },
   {
@@ -945,7 +951,8 @@
     253,
     254,
     256,
-    259
+    259,
+    260
    ]
   },
   {
@@ -1051,7 +1058,8 @@
     250,
     251,
     256,
-    259
+    259,
+    260
    ]
   }
  ],
@@ -1768,7 +1776,8 @@
     237,
     245,
     246,
-    259
+    259,
+    260
    ]
   },
   {
@@ -6029,6 +6038,22 @@
     "ko": "11/4 20:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재, 영향받는 승객에게 개별 연락, 추가 소식은 qatarairways.com에 공지). 타이프가 다시 목록에 포함됨(11/4 19:40경 확인 때는 빠져 있었음, 근거 256). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
     "en": "When checked at around 20:40 (Doha) on 4 Nov, stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date; affected passengers will be contacted directly; further updates on qatarairways.com). Taif was back on the list (it was absent when checked around 19:40 on 4 Nov, source 256). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
     "ar": "عند التحقق نحو الساعة 20:40 (بتوقيت الدوحة) يوم 4 نوفمبر، نصّ التنبيه على أن «الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر، الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد للاستئناف، وسيُتواصل مع المسافرين المتأثرين مباشرةً، وستُنشر التحديثات على qatarairways.com). وعادت الطائف إلى القائمة (لم تكن مدرجة عند التحقق نحو الساعة 19:40 يوم 4 نوفمبر، المصدر 256). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 260,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 11/4 21:40경 확인)",
+    "en": "Qatar Airways travel alerts (English global page, checked around 21:40 on 4 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة العالمية باللغة الإنجليزية، تم التحقق منها نحو الساعة 21:40 يوم 4 نوفمبر)"
+   },
+   "date": "2026-11-04",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/4 21:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재, 영향받는 승객에게 개별 연락, “추가 소식은 qatarairways.com에 공지”). 타이프는 11/4 20:40경 확인 때와 마찬가지로 목록에 포함됨(근거 259). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
+    "en": "When checked around 21:40 (Doha) on 4 Nov, the page stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) were temporarily suspended (last updated 12 Oct 16:54 Doha time; no resumption date given; affected passengers will be contacted directly; “Further updates will be shared on qatarairways.com”). Taif remained on the list, as at the check around 20:40 on 4 Nov (source 259). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
+    "ar": "عند التحقق نحو الساعة 21:40 (بتوقيت الدوحة) يوم 4 نوفمبر، نصّت الصفحة على أن الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) معلّقة مؤقتًا (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة؛ دون ذكر موعد للاستئناف؛ وسيُتواصل مع المسافرين المتأثرين مباشرةً؛ «ستُنشر التحديثات على qatarairways.com»). وظلت الطائف مدرجة في القائمة كما في التحقق الذي جرى نحو الساعة 20:40 يوم 4 نوفمبر (المصدر 259). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }

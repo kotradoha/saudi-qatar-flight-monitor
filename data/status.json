@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T02:38:00+03:00",
+ "updated_at": "2026-11-04T03:39:00+03:00",
  "window_start": "2026-11-04",
  "pills": [
   {
@@ -219,7 +219,8 @@
     231,
     232,
     233,
-    237
+    237,
+    241
    ]
   },
   {
@@ -306,7 +307,8 @@
     227,
     229,
     237,
-    239
+    239,
+    241
    ]
   },
   {
@@ -431,7 +433,8 @@
     231,
     232,
     233,
-    237
+    237,
+    241
    ]
   },
   {
@@ -640,7 +643,8 @@
     227,
     229,
     237,
-    239
+    239,
+    241
    ]
   },
   {
@@ -898,9 +902,9 @@
     "ar": "معلّق حاليًا (دون إعلان موعد للاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공식 공지에 아브하 출도착편 일시 중단 명시(11/4 확인). 후티는 11/3(화) 드론으로 아브하 공항을 공격해 항공 교통을 방해했고 카미스무샤이트 공군기지도 탄도미사일로 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음, 공격 여부와 공항 피해·운항 차질 모두 독립적으로 확인되지 않음). 후티는 같은 날 사우디 영토를 겨냥한 작전을 하지 않았다고도 밝혀 주장이 엇갈림. 남부 지역을 향한 요격이 10/30(금) 이후 매일 이어지고 있음: 11/2(월)에도 아브하·카미스무샤이트·타이프·나즈란에 비상 경보가 발령됐다가 해제됐고, 연합군은 후티가 남부 지역을 향해 발사한 탄도미사일 1발을 요격했다고 발표함(사우디 민방위청·연합군 발표, 목표 도시·피해·공항 언급 없음).",
-    "en": "Qatar Airways’ official notice states that flights to and from Abha are temporarily suspended (checked 4 Nov). On Tue 3 Nov, the Houthis claimed to have attacked Abha airport with a drone, disrupting air traffic, and to have also struck Khamis Mushait Air Base with a ballistic missile (Houthi claim; no immediate response from the Saudi authorities; neither the attacks nor any airport damage or flight disruption has been independently confirmed). The Houthis also stated on the same day that they had not carried out any operation targeting Saudi territory, so the claims are contradictory. Interceptions of missiles and drones launched towards the Southern Region have continued daily since Fri 30 Oct: on Mon 2 Nov, emergency alerts were issued for Abha, Khamis Mushait, Taif and Najran and later lifted, and the coalition announced intercepting one ballistic missile launched by the Houthis towards the Southern Region (Saudi Civil Defense and coalition statements; no target city, damage or airport mentioned).",
-    "ar": "ينص الإشعار الرسمي للخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (تحقّقنا منه في 4 نوفمبر). وفي يوم الثلاثاء 3 نوفمبر، ادّعى الحوثيون مهاجمة مطار أبها بطائرة مسيّرة قالوا إنها عطّلت الحركة الجوية، واستهداف قاعدة خميس مشيط الجوية بصاروخ باليستي أيضًا (ادعاء حوثي، دون ردّ فوري من السلطات السعودية، ولم يُتحقَّق بشكل مستقل من وقوع الهجومين أو من أضرار في المطار أو تعطّل الرحلات). كما أعلن الحوثيون في اليوم نفسه أنهم لم ينفّذوا أي عملية تستهدف الأراضي السعودية، ما يجعل الادعاءات متضاربة. وتتواصل يوميًا منذ الجمعة 30 أكتوبر عمليات اعتراض الصواريخ والطائرات المسيّرة المُطلَقة باتجاه المنطقة الجنوبية: ففي يوم الاثنين 2 نوفمبر، صدرت تحذيرات طوارئ لأبها وخميس مشيط والطائف ونجران ثم رُفعت، وأعلن التحالف اعتراض صاروخ باليستي واحد أطلقه الحوثيون باتجاه المنطقة الجنوبية (وفق بيانات الدفاع المدني السعودي والتحالف، دون ذكر المدينة المستهدفة أو أضرار أو المطار)."
+    "ko": "카타르항공 공식 공지에 아브하 출도착편 일시 중단 명시(11/4 확인). 후티는 11/3(화) 드론으로 아브하 공항을 공격해 항공 교통을 방해했고 카미스무샤이트 공군기지도 탄도미사일로 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음, 공격 여부와 공항 피해·운항 차질 모두 독립적으로 확인되지 않음). 후티는 같은 날 사우디 영토를 겨냥한 작전을 하지 않았다고도 밝혀 주장이 엇갈림. 남부 지역을 향한 요격이 10/30(금) 이후 매일 이어지고 있음: 가장 최근 11/3(화)에도 남부 지역으로 향하던 드론 1기가 요격됐고(연합군 발표, 목표 도시·피해·공항 언급 없음), 11/2(월)에는 아브하·카미스무샤이트·타이프·나즈란에 비상 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 피해 언급 없음).",
+    "en": "Qatar Airways’ official notice states that flights to and from Abha are temporarily suspended (checked 4 Nov). On Tue 3 Nov, the Houthis claimed to have attacked Abha airport with a drone, disrupting air traffic, and to have also struck Khamis Mushait Air Base with a ballistic missile (Houthi claim; no immediate response from the Saudi authorities; neither the attacks nor any airport damage or flight disruption has been independently confirmed). The Houthis also stated on the same day that they had not carried out any operation targeting Saudi territory, so the claims are contradictory. Interceptions of missiles and drones launched towards the Southern Region have continued daily since Fri 30 Oct: most recently, on Tue 3 Nov, a drone heading towards the Southern Region was intercepted (coalition statement; no target city, damage or airport mentioned), and on Mon 2 Nov emergency alerts were issued for Abha, Khamis Mushait, Taif and Najran and later lifted (Saudi Civil Defense statement; no damage mentioned).",
+    "ar": "ينص الإشعار الرسمي للخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (تحقّقنا منه في 4 نوفمبر). وفي يوم الثلاثاء 3 نوفمبر، ادّعى الحوثيون مهاجمة مطار أبها بطائرة مسيّرة قالوا إنها عطّلت الحركة الجوية، واستهداف قاعدة خميس مشيط الجوية بصاروخ باليستي أيضًا (ادعاء حوثي، دون ردّ فوري من السلطات السعودية، ولم يُتحقَّق بشكل مستقل من وقوع الهجومين أو من أضرار في المطار أو تعطّل الرحلات). كما أعلن الحوثيون في اليوم نفسه أنهم لم ينفّذوا أي عملية تستهدف الأراضي السعودية، ما يجعل الادعاءات متضاربة. وتتواصل يوميًا منذ الجمعة 30 أكتوبر عمليات اعتراض الصواريخ والطائرات المسيّرة المُطلَقة باتجاه المنطقة الجنوبية: وكان آخرها يوم الثلاثاء 3 نوفمبر، إذ اعتُرضت طائرة مسيّرة كانت متجهة نحو المنطقة الجنوبية (وفق بيان التحالف، دون ذكر المدينة المستهدفة أو أضرار أو المطار)، وفي يوم الاثنين 2 نوفمبر صدرت تحذيرات طوارئ لأبها وخميس مشيط والطائف ونجران ثم رُفعت (وفق بيان الدفاع المدني السعودي، دون ذكر أضرار)."
    },
    "refs": [
     4,
@@ -969,7 +973,8 @@
     234,
     235,
     236,
-    237
+    237,
+    241
    ]
   }
  ],
@@ -5626,6 +5631,22 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1195 من القصيم إلى الدوحة: يُظهر جدول السجل حالة «وصلت» كل يوم من 29 أكتوبر إلى 3 نوفمبر (رحلة 1 نوفمبر: الإقلاع 11:38 والوصول 12:56؛ رحلة 3 نوفمبر: الإقلاع 12:02 والوصول 13:15)، ورحلة 4 نوفمبر «مجدولة» (11:50). ولا يبيّن الجدول ما إذا كانت الأوقات مقررة أم فعلية. ولا يُظهر موقع تتبّع آخر (aviability) سوى رحلتَي 30 أكتوبر و1 نوفمبر بحالة «وصلت إلى البوابة» (ليس إشعارًا من شركة الطيران)"
    },
    "url": "https://www.trip.com/flights/status-qr1195/"
+  },
+  {
+   "n": 241,
+   "name": {
+    "ko": "신화통신 (Xinhua, 11/4)",
+    "en": "Xinhua (4 Nov)",
+    "ar": "وكالة شينخوا (4 نوفمبر)"
+   },
+   "date": "2026-11-04",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/4 게재: 연합군 대변인 투르키 알말리키, 11/3(화) 메카 지역·동부 지역에서 드론 각 1기 요격·파괴, 남부 지역으로 향하던 드론 1기 요격 발표. 후티 대변인 야흐야 사레아는 드론으로 아브하 국제공항을 공격해 항공 교통을 방해하고 탄도미사일로 카미스무샤이트 킹칼리드 공군기지를 타격했다고 주장(독립적으로 확인되지 않음)",
+    "en": "Published 4 Nov: coalition spokesman Turki Al-Maliki announced that on Tue 3 Nov one drone each was intercepted and destroyed in the Makkah region and the Eastern Province, and one drone heading towards the Southern Region was intercepted. Houthi spokesman Yahya Saree claimed a drone attack on Abha International Airport that disrupted air traffic and a ballistic missile strike on King Khalid Air Base in Khamis Mushait (not independently verified)",
+    "ar": "نُشر في 4 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي أنه في يوم الثلاثاء 3 نوفمبر اعتُرضت ودُمّرت طائرة مسيّرة في كلٍّ من منطقة مكة المكرمة والمنطقة الشرقية، واعتُرضت طائرة مسيّرة كانت متجهة نحو المنطقة الجنوبية. وادّعى المتحدث باسم الحوثيين يحيى سريع شنّ هجوم بطائرة مسيّرة على مطار أبها الدولي عطّل الحركة الجوية، وضرب قاعدة الملك خالد الجوية في خميس مشيط بصاروخ باليستي (لم يُتحقَّق من ذلك بشكل مستقل)"
+   },
+   "url": "https://english.news.cn/20261104/63111060703b4708aecd77e2745d2b41/c.html"
   }
  ]
 }

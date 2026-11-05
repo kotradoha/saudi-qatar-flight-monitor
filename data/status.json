@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T00:50:00+03:00",
+ "updated_at": "2026-11-06T01:45:00+03:00",
  "window_start": "2026-11-06",
  "pills": [
   {
@@ -2000,9 +2000,9 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, Aaj TV·에이뉴스 보도, 사우디 당국의 즉각적인 반응 없음) · 나즈란 지역에 비상 경보가 잇따르고 있음: 11/2(월)·11/4(수) 나즈란에 이어 가장 최근 11/5(목) 오전에는 나즈란주 샤루라에 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 위협 종류·피해 언급 없음)",
-    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim, reported by Aaj TV and A News; no immediate response from Saudi officials) · Emergency alerts in the Najran region continue: after alerts for Najran on Mon 2 Nov and Wed 4 Nov, most recently an alert was issued for Sharurah Governorate in Najran Region on the morning of Thu 5 Nov and later lifted (Saudi Civil Defense statement; type of threat and damage not mentioned)",
-    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، وفق ما أوردته قناة آج تي في وقناة A News، دون رد فوري من المسؤولين السعوديين) · تتوالى إنذارات الطوارئ في منطقة نجران: بعد إنذارَي نجران يومَي الاثنين 2 نوفمبر والأربعاء 4 نوفمبر، صدر أحدثها صباح الخميس 5 نوفمبر لمحافظة شرورة في منطقة نجران ثم رُفع (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, Aaj TV·에이뉴스 보도, 사우디 당국의 즉각적인 반응 없음) · 나즈란 지역에 비상 경보가 잇따르고 있음: 11/2(월)·11/4(수) 나즈란에 이어 가장 최근 11/5(목)에는 나즈란주 샤루라에 경보가 여러 차례 발령됐다가 해제됨(사우디 민방위청 발표, 위협 종류·피해 언급 없음)",
+    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim, reported by Aaj TV and A News; no immediate response from Saudi officials) · Emergency alerts in the Najran region continue: after alerts for Najran on Mon 2 Nov and Wed 4 Nov, most recently, on Thu 5 Nov, alerts were issued several times for Sharurah Governorate in Najran Region and later lifted (Saudi Civil Defense statement; type of threat and damage not mentioned)",
+    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، وفق ما أوردته قناة آج تي في وقناة A News، دون رد فوري من المسؤولين السعوديين) · تتوالى إنذارات الطوارئ في منطقة نجران: بعد إنذارَي نجران يومَي الاثنين 2 نوفمبر والأربعاء 4 نوفمبر، كان أحدثها يوم الخميس 5 نوفمبر، حين صدرت إنذارات عدة مرات لمحافظة شرورة في منطقة نجران ثم رُفعت (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار)"
    },
    "refs": [
     5,
@@ -2012,7 +2012,9 @@
     257,
     258,
     280,
-    281
+    281,
+    286,
+    296
    ]
   },
   {
@@ -6784,6 +6786,22 @@
     "ar": "رحلة الخطوط الجوية القطرية حائل–الدوحة QR1229: «وصلت» في 22 و24 و26 و29 و31 أكتوبر و2 نوفمبر، و«وصلت» يوم الخميس 5 نوفمبر (موعد المغادرة المقرر 17:35 والفعلي 17:39، وموعد الوصول المقرر 19:25 والفعلي 19:31). ليس إعلانًا رسميًا من شركة الطيران."
    },
    "url": "https://www.trip.com/flights/status-qr1229/"
+  },
+  {
+   "n": 296,
+   "name": {
+    "ko": "칼리즈타임스 (Khaleej Times, 11/5 라이브 업데이트)",
+    "en": "Khaleej Times (live updates, 5 Nov)",
+    "ar": "خليج تايمز (تحديثات مباشرة، 5 نوفمبر)"
+   },
+   "date": "2026-11-05",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/5 라이브 업데이트: 샤루라에 낮 두 차례 경보에 이어 저녁에 그날 세 번째 짧은 경보 발령. 위협 종류·피해 언급 없음",
+    "en": "Live updates of 5 Nov: after two warnings earlier in the day, a brief alert was issued in Sharurah in the evening, the third that day. No mention of threat type or damage",
+    "ar": "تحديثات مباشرة يوم 5 نوفمبر: بعد إنذارين في وقت سابق من اليوم، صدر إنذار قصير في شرورة مساءً، وهو الثالث في ذلك اليوم. دون ذكر نوع التهديد أو أضرار"
+   },
+   "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-5-2026"
   }
  ]
 }

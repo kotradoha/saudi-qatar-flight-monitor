@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T08:40:00+03:00",
+ "updated_at": "2026-11-05T09:40:00+03:00",
  "window_start": "2026-11-05",
  "pills": [
   {
@@ -143,7 +143,8 @@
     272,
     273,
     275,
-    277
+    277,
+    278
    ]
   },
   {
@@ -266,7 +267,8 @@
     274,
     275,
     276,
-    277
+    277,
+    278
    ]
   },
   {
@@ -369,7 +371,8 @@
     270,
     273,
     275,
-    277
+    277,
+    278
    ]
   },
   {
@@ -515,7 +518,8 @@
     273,
     275,
     276,
-    277
+    277,
+    278
    ]
   },
   {
@@ -635,7 +639,8 @@
     273,
     274,
     275,
-    277
+    277,
+    278
    ]
   },
   {
@@ -760,7 +765,8 @@
     270,
     273,
     275,
-    277
+    277,
+    278
    ]
   },
   {
@@ -1019,7 +1025,8 @@
     272,
     273,
     275,
-    277
+    277,
+    278
    ]
   },
   {
@@ -1133,7 +1140,8 @@
     270,
     273,
     275,
-    277
+    277,
+    278
    ]
   }
  ],
@@ -1461,7 +1469,8 @@
     273,
     274,
     275,
-    277
+    277,
+    278
    ]
   },
   {
@@ -1869,7 +1878,8 @@
     270,
     273,
     275,
-    277
+    277,
+    278
    ]
   },
   {
@@ -6421,6 +6431,22 @@
     "ko": "11/5 08:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재, 영향받는 승객에게 개별 연락, 추가 소식은 qatarairways.com에 공지). 타이프가 다시 목록에 포함됨(11/5 07:40경 확인 때는 빠져 있었음, 근거 275). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
     "en": "When checked around 08:40 (Doha) on 5 Nov, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct 16:54 Doha time, no resumption date given, affected passengers to be contacted directly, further updates to be shared on qatarairways.com). Taif was included in the list again (it was not on the list at the check around 07:40 on 5 Nov, source 275). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
     "ar": "عند التحقق نحو الساعة 08:40 (بتوقيت الدوحة) يوم 5 نوفمبر، نصّت الصفحة على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد للاستئناف، وسيُتواصل مع المسافرين المتأثرين مباشرةً، وستُنشر المستجدات على qatarairways.com). وعادت الطائف إلى القائمة (لم تكن مدرجة عند التحقق نحو الساعة 07:40 يوم 5 نوفمبر، المصدر 275). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 278,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 11/5 09:40경 확인)",
+    "en": "Qatar Airways travel alerts (English global page, checked around 09:40 on 5 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (الصفحة العالمية باللغة الإنجليزية، جرى التحقق نحو الساعة 09:40 يوم 5 نوفمبر)"
+   },
+   "date": "2026-11-05",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/5 09:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재, “추가 소식은 qatarairways.com에 공지”). 타이프는 11/5 08:40경 확인 때와 마찬가지로 목록에 포함됨(근거 277). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
+    "en": "When checked around 09:40 (Doha) on 5 Nov, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given; “Further updates will be shared on qatarairways.com”). Taif remained on the list, as at the check around 08:40 on 5 Nov (source 277). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
+    "ar": "عند التحقق نحو الساعة 09:40 (بتوقيت الدوحة) يوم 5 نوفمبر، نصّت الصفحة على أن «الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد للاستئناف، و«ستُنشر المستجدات على qatarairways.com»). وظلّت الطائف مدرجة في القائمة كما كانت عند التحقق نحو الساعة 08:40 يوم 5 نوفمبر (المصدر 277). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }

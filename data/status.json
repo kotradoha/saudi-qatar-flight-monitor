@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-05T10:40:00+03:00",
+ "updated_at": "2026-11-05T11:40:00+03:00",
  "window_start": "2026-11-05",
  "pills": [
   {
@@ -144,7 +144,8 @@
     273,
     275,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -268,7 +269,8 @@
     275,
     276,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -372,7 +374,8 @@
     273,
     275,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -519,7 +522,8 @@
     275,
     276,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -640,7 +644,8 @@
     274,
     275,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -766,7 +771,8 @@
     273,
     275,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -845,9 +851,9 @@
     "ar": "الرحلات متاحة (2–3 رحلات أسبوعيًا)"
    },
    "carriers": {
-    "ko": "카타르항공 금·일 (10/21·10/28 수 추가)",
-    "en": "Qatar Airways Fri · Sun (plus Wed 21 Oct and Wed 28 Oct)",
-    "ar": "الخطوط الجوية القطرية الجمعة · الأحد (ورحلتان إضافيتان يومَي الأربعاء 21 أكتوبر والأربعاء 28 أكتوبر)"
+    "ko": "카타르항공 금·일 (10/21·10/28·11/4 수 추가)",
+    "en": "Qatar Airways Fri · Sun (plus Wed 21 Oct, Wed 28 Oct and Wed 4 Nov)",
+    "ar": "الخطوط الجوية القطرية الجمعة · الأحد (ورحلات إضافية أيام الأربعاء 21 أكتوبر و28 أكتوبر و4 نوفمبر)"
    },
    "times": {
     "ko": "알울라 출발 11:30 → 도하 13:40 · 다음 편 11/6(금)",
@@ -855,9 +861,9 @@
     "ar": "المغادرة من العُلا 11:30 والوصول إلى الدوحة 13:40 · الرحلة التالية 6 نوفمبر (الجمعة)"
    },
    "note": {
-    "ko": "10/18·10/21·10/23·10/25·10/28·10/30·11/1 편 모두 실제 운항 기록이 있음(11/1 편은 한 사이트에 11:33 출발, 다른 사이트에 도하 ‘게이트 도착’ 13:27 기록). 11/4(수) 편이 예정으로 표시된 사이트도 있으나 추가편 운항 여부는 확인되지 않음(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 알울라 운항 중단 언급 없음(11/5 확인).",
-    "en": "The flights on 18, 21, 23, 25, 28 and 30 Oct and 1 Nov all have records of actually operating (for the 1 Nov flight, one site records departure at 11:33 and another records “arrived at gate” in Doha at 13:27). One site also shows a Wed 4 Nov flight as scheduled, but whether this extra flight operated is unconfirmed (according to flight-tracking sites, not official airline announcements). Qatar Airways’ official travel alert does not mention any suspension for AlUla (checked 5 Nov).",
-    "ar": "سُجِّل تسيير رحلات 18 و21 و23 و25 و28 و30 أكتوبر و1 نوفمبر جميعها فعليًا (بالنسبة إلى رحلة 1 نوفمبر، سجّل أحد المواقع إقلاعها الساعة 11:33، وسجّل موقع آخر «وصولها إلى البوابة» في الدوحة الساعة 13:27). ويُظهر أحد المواقع أيضًا رحلة يوم الأربعاء 4 نوفمبر مقررة، لكن لم يُتأكَّد من تسيير هذه الرحلة الإضافية (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولا يذكر تنبيه السفر الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى العُلا (تم التحقق في 5 نوفمبر)."
+    "ko": "10/18 이후 금·일 정기편과 수요일 추가편(10/21·10/28·11/4)이 모두 실제 운항 기록이 있음(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 11/11(수) 이후 추가편 운항 여부는 확인되지 않음. 카타르항공 공식 공지에 알울라 운항 중단 언급 없음(11/5 확인).",
+    "en": "Since 18 Oct, all regular Friday and Sunday flights and the extra Wednesday flights (21 Oct, 28 Oct and 4 Nov) have records of actually operating (according to flight-tracking sites, not official airline announcements). Whether extra Wednesday flights will operate from 11 Nov onwards is unconfirmed. Qatar Airways’ official travel alert does not mention any suspension for AlUla (checked 5 Nov).",
+    "ar": "منذ 18 أكتوبر، سُجِّل تسيير جميع الرحلات المنتظمة يومَي الجمعة والأحد والرحلات الإضافية أيام الأربعاء (21 و28 أكتوبر و4 نوفمبر) فعليًا (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران). ولم يُتأكَّد من تسيير رحلات إضافية أيام الأربعاء اعتبارًا من 11 نوفمبر. ولا يذكر تنبيه السفر الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى العُلا (تم التحقق في 5 نوفمبر)."
    },
    "refs": [
     3,
@@ -885,7 +891,8 @@
     229,
     237,
     245,
-    246
+    246,
+    279
    ]
   },
   {
@@ -1026,7 +1033,8 @@
     273,
     275,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -1141,7 +1149,8 @@
     273,
     275,
     277,
-    278
+    278,
+    282
    ]
   }
  ],
@@ -1470,7 +1479,8 @@
     274,
     275,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -1879,7 +1889,8 @@
     273,
     275,
     277,
-    278
+    278,
+    282
    ]
   },
   {
@@ -1939,9 +1950,9 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, Aaj TV·에이뉴스 보도, 사우디 당국의 즉각적인 반응 없음) · 11/2(월)에 이어 11/4(수) 새벽에도 나즈란에 비상 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 위협 종류·피해 언급 없음)",
-    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim, reported by Aaj TV and A News; no immediate response from Saudi officials) · Following an alert on Mon 2 Nov, an emergency alert was issued again for Najran in the early hours of Wed 4 Nov and later lifted (Saudi Civil Defense statement; type of threat and damage not mentioned)",
-    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، وفق ما أوردته قناة آج تي في وقناة A News، دون رد فوري من المسؤولين السعوديين) · بعد تحذير يوم الاثنين 2 نوفمبر، صدر تحذير طوارئ لنجران مجددًا فجر الأربعاء 4 نوفمبر ثم رُفع (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, Aaj TV·에이뉴스 보도, 사우디 당국의 즉각적인 반응 없음) · 나즈란 지역에 비상 경보가 잇따르고 있음: 11/2(월)·11/4(수) 나즈란에 이어 가장 최근 11/5(목) 오전에는 나즈란주 샤루라에 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 위협 종류·피해 언급 없음)",
+    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim, reported by Aaj TV and A News; no immediate response from Saudi officials) · Emergency alerts in the Najran region continue: after alerts for Najran on Mon 2 Nov and Wed 4 Nov, most recently an alert was issued for Sharurah Governorate in Najran Region on the morning of Thu 5 Nov and later lifted (Saudi Civil Defense statement; type of threat and damage not mentioned)",
+    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، وفق ما أوردته قناة آج تي في وقناة A News، دون رد فوري من المسؤولين السعوديين) · تتوالى إنذارات الطوارئ في منطقة نجران: بعد إنذارَي نجران يومَي الاثنين 2 نوفمبر والأربعاء 4 نوفمبر، صدر أحدثها صباح الخميس 5 نوفمبر لمحافظة شرورة في منطقة نجران ثم رُفع (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار)"
    },
    "refs": [
     5,
@@ -1949,7 +1960,9 @@
     70,
     203,
     257,
-    258
+    258,
+    280,
+    281
    ]
   },
   {
@@ -6447,6 +6460,70 @@
     "ko": "11/5 09:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재, “추가 소식은 qatarairways.com에 공지”). 타이프는 11/5 08:40경 확인 때와 마찬가지로 목록에 포함됨(근거 277). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
     "en": "When checked around 09:40 (Doha) on 5 Nov, the page stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH), and Taif (TIF) are temporarily suspended” (last updated 12 Oct, 16:54 Doha time; no resumption date given; “Further updates will be shared on qatarairways.com”). Taif remained on the list, as at the check around 08:40 on 5 Nov (source 277). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
     "ar": "عند التحقق نحو الساعة 09:40 (بتوقيت الدوحة) يوم 5 نوفمبر، نصّت الصفحة على أن «الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون ذكر موعد للاستئناف، و«ستُنشر المستجدات على qatarairways.com»). وظلّت الطائف مدرجة في القائمة كما كانت عند التحقق نحو الساعة 08:40 يوم 5 نوفمبر (المصدر 277). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 279,
+   "name": {
+    "ko": "aviability 항공편 현황 (QR1203, 11/5 11:40경 확인)",
+    "en": "aviability flight status (QR1203, checked around 11:40 on 5 Nov)",
+    "ar": "aviability لحالة الرحلات (QR1203، تم التحقق نحو الساعة 11:40 يوم 5 نوفمبر)"
+   },
+   "date": "2026-11-05",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 알울라→도하 QR1203: 11/1(일) ‘게이트 도착’(11:25·13:27), 11/4(수) ‘게이트 도착’(11:29·13:33), 11/6(금) ‘예정’(11:30 출발·13:40 도착). 항공사 공식 발표 아님",
+    "en": "Qatar Airways AlUla→Doha QR1203: Sun 1 Nov ‘arrived at gate’ (11:25, 13:27), Wed 4 Nov ‘arrived at gate’ (11:29, 13:33), Fri 6 Nov ‘planned’ (departs 11:30, arrives 13:40). Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1203 من العُلا إلى الدوحة: الأحد 1 نوفمبر «وصلت إلى البوابة» (11:25 و13:27)، والأربعاء 4 نوفمبر «وصلت إلى البوابة» (11:29 و13:33)، والجمعة 6 نوفمبر «مقررة» (المغادرة 11:30 والوصول 13:40). ليس إعلانًا رسميًا من شركة الطيران"
+   },
+   "url": "https://aviability.com/flight-number/flight-qr1203-qatar-airways"
+  },
+  {
+   "n": 280,
+   "name": {
+    "ko": "아젤 (Ajel English, 11/5)",
+    "en": "Ajel English (5 Nov)",
+    "ar": "عاجل (Ajel English، 5 نوفمبر)"
+   },
+   "date": "2026-11-05",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/5 07:50 UTC 게재: 사우디 민방위청이 샤루라 지역의 위협이 끝났다고 발표, 주민에게 지시 준수·모임과 촬영 자제 당부. 위협 종류·피해 언급 없음",
+    "en": "Published 07:50 UTC on 5 Nov: Saudi Civil Defense announced that the threat in Sharurah Governorate had ended and urged residents to follow instructions and avoid gathering and filming. No mention of threat type or damage",
+    "ar": "نُشر الساعة 07:50 بتوقيت غرينتش يوم 5 نوفمبر: أعلن الدفاع المدني السعودي زوال الخطر عن محافظة شرورة، ودعا السكان إلى اتباع التعليمات وتجنّب التجمهر والتصوير. دون ذكر نوع التهديد أو أضرار"
+   },
+   "url": "https://english.ajel.sa/saudi-arabia/nf5t8llpu"
+  },
+  {
+   "n": 281,
+   "name": {
+    "ko": "사다 엘발라드 (Sada Elbalad, 11/5)",
+    "en": "Sada Elbalad (5 Nov)",
+    "ar": "صدى البلد (5 نوفمبر)"
+   },
+   "date": "2026-11-05",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/5 게재: 사우디 민방위청이 국가 조기경보 플랫폼으로 샤루라에 비상 경보를 낸 뒤 짧은 시간 만에 위험이 지나갔다고 발표. 샤루라 경보의 위협 종류·피해 언급 없음",
+    "en": "Published 5 Nov: Saudi Civil Defense issued an emergency alert for Sharurah via the National Early Warning Platform and announced shortly afterwards that the danger had passed. No mention of the threat type or damage for the Sharurah alert",
+    "ar": "نُشر يوم 5 نوفمبر: أطلق الدفاع المدني السعودي إنذار طوارئ في شرورة عبر المنصة الوطنية للإنذار المبكر، ثم أعلن زوال الخطر بعد وقت قصير. دون ذكر نوع التهديد أو أضرار بشأن إنذار شرورة"
+   },
+   "url": "https://www.elbalad.news/7168870"
+  },
+  {
+   "n": 282,
+   "name": {
+    "ko": "카타르항공 여행 공지 (영문 글로벌 페이지, 11/5 11:40경 확인)",
+    "en": "Qatar Airways travel alert (English global page, checked around 11:40 on 5 Nov)",
+    "ar": "تنبيه السفر من الخطوط الجوية القطرية (الصفحة العالمية بالإنجليزية، تم التحقق نحو الساعة 11:40 يوم 5 نوفمبر)"
+   },
+   "date": "2026-11-05",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/5 11:40경(도하) 확인 시점에 “아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착 항공편이 일시 중단됐다”고 명시 (최종 갱신 10/12 16:54 도하 시각, 재개일 미기재, 영향받는 승객에게 개별 연락). 중단 대상에 제다·메디나·카심·하일·알울라는 없음",
+    "en": "When checked around 11:40 (Doha) on 5 Nov, it stated that “flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended” (last updated 12 Oct 16:54 Doha time; no resumption date; affected passengers to be contacted directly). Jeddah, Madinah, Qassim, Hail and AlUla are not among the suspended destinations",
+    "ar": "عند التحقق نحو الساعة 11:40 (بتوقيت الدوحة) يوم 5 نوفمبر، نصّ على أن «الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها معلّقة مؤقتًا» (آخر تحديث 12 أكتوبر الساعة 16:54 بتوقيت الدوحة، دون موعد للاستئناف، وسيُتواصل مع المسافرين المتأثرين مباشرة). ولا تشمل الوجهات المعلّقة جدة والمدينة المنورة والقصيم وحائل والعُلا"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }

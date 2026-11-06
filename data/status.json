@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T07:52:00+03:00",
+ "updated_at": "2026-11-06T08:50:00+03:00",
  "window_start": "2026-11-06",
  "pills": [
   {
@@ -148,7 +148,8 @@
     282,
     285,
     294,
-    298
+    298,
+    299
    ]
   },
   {
@@ -283,7 +284,8 @@
     291,
     294,
     297,
-    298
+    298,
+    299
    ]
   },
   {
@@ -395,7 +397,8 @@
     292,
     293,
     294,
-    298
+    298,
+    299
    ]
   },
   {
@@ -549,7 +552,8 @@
     284,
     291,
     294,
-    298
+    298,
+    299
    ]
   },
   {
@@ -678,7 +682,8 @@
     289,
     294,
     297,
-    298
+    298,
+    299
    ]
   },
   {
@@ -812,7 +817,8 @@
     292,
     293,
     294,
-    298
+    298,
+    299
    ]
   },
   {
@@ -878,7 +884,8 @@
     288,
     294,
     295,
-    298
+    298,
+    299
    ]
   },
   {
@@ -938,7 +945,8 @@
     246,
     279,
     294,
-    298
+    298,
+    299
    ]
   },
   {
@@ -1083,7 +1091,8 @@
     282,
     285,
     294,
-    298
+    298,
+    299
    ]
   },
   {
@@ -1202,7 +1211,8 @@
     282,
     285,
     294,
-    298
+    298,
+    299
    ]
   }
  ],
@@ -1862,7 +1872,8 @@
     245,
     246,
     294,
-    298
+    298,
+    299
    ]
   },
   {
@@ -1953,7 +1964,8 @@
     278,
     282,
     285,
-    298
+    298,
+    299
    ]
   },
   {
@@ -6847,6 +6859,22 @@
     "ko": "11/6 07:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH) 출도착편 일시 중단’ 명시, 재개일 미기재, 영향받는 승객에게 개별 연락. 이번 확인 시점에는 타이프(TIF)가 목록에 없음(10월 중단 이후 타이프 재개를 알리는 공지는 없음. 9/1 보도자료의 10/31 타이프 재개 계획은 중단 공지 이전 발표). 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하)",
     "en": "When checked around 07:40 (Doha) on 6 Nov, it stated that flights to and from Abha (AHB), Dammam (DMM) and Riyadh (RUH) are temporarily suspended, with no resumption date; affected passengers will be contacted directly. Taif (TIF) was not on the list at this check (no announcement of Taif resuming after the October suspension; the 1 Sep press release planning Taif's return on 31 Oct predates the suspension notice). No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct 16:54 (Doha)",
     "ar": "عند التحقق نحو الساعة 07:40 (بتوقيت الدوحة) يوم 6 نوفمبر، نصّ التنبيه على تعليق الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) مؤقتًا، دون ذكر موعد للاستئناف، مع التواصل مباشرة مع المسافرين المتأثرين. ولم تَرِد الطائف (TIF) في القائمة عند هذا التحقق (لا يوجد إعلان عن استئناف رحلات الطائف بعد تعليق أكتوبر؛ وبيان 1 سبتمبر الذي أعلن استئنافها في 31 أكتوبر سابق لإشعار التعليق). ولا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر الساعة 16:54 (بتوقيت الدوحة)"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 299,
+   "name": {
+    "ko": "카타르항공 Travel Alerts (11/6 08:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 08:40, 6 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 08:40 في 6 نوفمبر)"
+   },
+   "date": "2026-11-06",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/6 08:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH) 출도착편 일시 중단’ 명시, 재개일 미기재, 영향받는 승객에게 개별 연락, 추가 소식은 qatarairways.com에 공지. 타이프(TIF)는 이번에도 목록에 없음(10월 중단 이후 타이프 재개를 알리는 공지는 없음). 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하)",
+    "en": "When checked around 08:40 (Doha) on 6 Nov, the page stated that flights to and from Abha (AHB), Dammam (DMM) and Riyadh (RUH) are temporarily suspended, with no resumption date; affected passengers will be contacted directly and further updates posted on qatarairways.com. Taif (TIF) was again not on the list (no notice announcing a resumption of Taif flights since the October suspension). No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha).",
+    "ar": "عند التحقق نحو الساعة 08:40 (بتوقيت الدوحة) في 6 نوفمبر، نصّت الصفحة على تعليق الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) وإليها مؤقتًا، دون تحديد موعد للاستئناف، مع التواصل مباشرة مع المسافرين المتأثرين ونشر المستجدات على qatarairways.com. ولم تكن الطائف (TIF) مدرجة في القائمة هذه المرة أيضًا (دون أي إعلان عن استئناف رحلات الطائف منذ تعليقها في أكتوبر). ولا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث: 12 أكتوبر، 16:54 (بتوقيت الدوحة)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   }

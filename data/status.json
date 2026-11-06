@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T10:38:00+03:00",
+ "updated_at": "2026-11-06T11:39:00+03:00",
  "window_start": "2026-11-06",
  "pills": [
   {
@@ -2027,9 +2027,9 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, Aaj TV·에이뉴스 보도, 사우디 당국의 즉각적인 반응 없음) · 나즈란 지역에 비상 경보가 잇따르고 있음: 11/2(월)·11/4(수) 나즈란에 이어 가장 최근 11/5(목)에는 나즈란주 샤루라에 경보가 여러 차례 발령됐다가 해제됨(사우디 민방위청 발표, 위협 종류·피해 언급 없음)",
-    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim, reported by Aaj TV and A News; no immediate response from Saudi officials) · Emergency alerts in the Najran region continue: after alerts for Najran on Mon 2 Nov and Wed 4 Nov, most recently, on Thu 5 Nov, alerts were issued several times for Sharurah Governorate in Najran Region and later lifted (Saudi Civil Defense statement; type of threat and damage not mentioned)",
-    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، وفق ما أوردته قناة آج تي في وقناة A News، دون رد فوري من المسؤولين السعوديين) · تتوالى إنذارات الطوارئ في منطقة نجران: بعد إنذارَي نجران يومَي الاثنين 2 نوفمبر والأربعاء 4 نوفمبر، كان أحدثها يوم الخميس 5 نوفمبر، حين صدرت إنذارات عدة مرات لمحافظة شرورة في منطقة نجران ثم رُفعت (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 위협 계속: 11/6(금) 나즈란 지역을 향해 발사된 후티 탄도미사일 2발이 요격됐고 요격 파편이 떨어져 피해를 조사 중이며(연합군 발표, 공항 언급 없음), 나즈란주에 잠재적 위험 경보가 발령됐다가 해제됨(사우디 민방위청) · 11/2 이후 나즈란 지역(샤루라 포함)에 비상 경보가 잇따르고 있음(사우디 민방위청 발표, 위협 종류·피해 언급 없음) · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음)",
+    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · Threat continues: on Fri 6 Nov, two Houthi ballistic missiles fired toward the Najran region were intercepted; debris from the interception fell and damage is being assessed (coalition statement; no airport mentioned), and a potential danger alert was issued for Najran Province and later lifted (Saudi Civil Defense) · Since 2 Nov, emergency alerts have been issued repeatedly in the Najran region, including Sharurah (Saudi Civil Defense statements; type of threat and damage not mentioned) · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim; no immediate response from Saudi officials)",
+    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · التهديد مستمر: يوم الجمعة 6 نوفمبر، اعتُرض صاروخان باليستيان حوثيان أُطلقا باتجاه منطقة نجران، وتساقطت شظايا الاعتراض ويجري تقييم الأضرار (وفق بيان التحالف، دون ذكر المطار)، وصدر إنذار بخطر محتمل لمنطقة نجران ثم رُفع (الدفاع المدني السعودي) · منذ 2 نوفمبر تتوالى إنذارات الطوارئ في منطقة نجران، بما فيها شرورة (وفق بيانات الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار) · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، دون رد فوري من المسؤولين السعوديين)"
    },
    "refs": [
     5,
@@ -2041,7 +2041,9 @@
     280,
     281,
     286,
-    296
+    296,
+    300,
+    301
    ]
   },
   {
@@ -6877,6 +6879,38 @@
     "ar": "عند التحقق نحو الساعة 08:40 (بتوقيت الدوحة) في 6 نوفمبر، نصّت الصفحة على تعليق الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) وإليها مؤقتًا، دون تحديد موعد للاستئناف، مع التواصل مباشرة مع المسافرين المتأثرين ونشر المستجدات على qatarairways.com. ولم تكن الطائف (TIF) مدرجة في القائمة هذه المرة أيضًا (دون أي إعلان عن استئناف رحلات الطائف منذ تعليقها في أكتوبر). ولا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث: 12 أكتوبر، 16:54 (بتوقيت الدوحة)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 300,
+   "name": {
+    "ko": "아랍뉴스 (Arab News, 11/6)",
+    "en": "Arab News (6 Nov)",
+    "ar": "عرب نيوز (6 نوفمبر)"
+   },
+   "date": "2026-11-06",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/6 10:43(리야드) 게재: 연합군 대변인 투르키 알말리키 소장이 나즈란주를 겨냥한 후티 탄도미사일 2발을 요격했다고 밝힘, ‘요격으로 파편이 떨어졌고 피해를 조사 중’. 사우디 민방위청이 국가 조기경보 플랫폼으로 나즈란주에 잠재적 위험 경보를 발령했다가 곧 해제. 사상자 보고 없음, 공항 언급 없음",
+    "en": "Published 6 Nov 10:43 (Riyadh): coalition spokesperson Maj. Gen. Turki Al-Maliki said two Houthi ballistic missiles targeting Najran Province were intercepted; 'debris fell as a result of the interception, and damage is being assessed'. Saudi Civil Defense issued a potential danger warning for Najran Province via the National Early Warning Platform and lifted it shortly afterward. No casualties reported; no airport mentioned",
+    "ar": "نُشر في 6 نوفمبر الساعة 10:43 (بتوقيت الرياض): أعلن المتحدث باسم التحالف اللواء الركن تركي المالكي اعتراض صاروخين باليستيين حوثيين استهدفا منطقة نجران، و«تساقطت شظايا نتيجة الاعتراض ويجري تقييم الأضرار». وأصدر الدفاع المدني السعودي عبر المنصة الوطنية للإنذار المبكر تحذيرًا من خطر محتمل في منطقة نجران ثم رفعه بعد وقت قصير. دون الإبلاغ عن إصابات، ودون ذكر المطار"
+   },
+   "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-houthi-ballistic-missiles-targeting-najran-3010126"
+  },
+  {
+   "n": 301,
+   "name": {
+    "ko": "미들이스트아이 (Middle East Eye, 11/6 라이브 블로그)",
+    "en": "Middle East Eye (6 Nov live blog)",
+    "ar": "ميدل إيست آي (مدونة مباشرة، 6 نوفمبر)"
+   },
+   "date": "2026-11-06",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/6 08:00(GMT) 게재: 사우디 주도 연합군이 11/6(금) 사우디 나즈란 지역을 향해 후티가 발사한 탄도미사일 2발을 요격했다고 발표, 요격 파편이 있었고 피해를 조사 중. 공항 언급 없음",
+    "en": "Published 6 Nov 08:00 (GMT): the Saudi-led coalition said on Fri 6 Nov that it intercepted two ballistic missiles fired by the Houthis toward Saudi Arabia's Najran region; there was debris from the interception and damage was 'being assessed'. No airport mentioned",
+    "ar": "نُشر في 6 نوفمبر الساعة 08:00 (بتوقيت غرينتش): أعلن التحالف بقيادة السعودية يوم الجمعة 6 نوفمبر اعتراض صاروخين باليستيين أطلقهما الحوثيون باتجاه منطقة نجران السعودية، مع تساقط شظايا الاعتراض و«يجري تقييم الأضرار». دون ذكر المطار"
+   },
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-two-houthi-missiles-fired-towards-saudi-arabias"
   }
  ]
 }

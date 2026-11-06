@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T15:40:00+03:00",
+ "updated_at": "2026-11-06T16:50:00+03:00",
  "window_start": "2026-11-06",
  "pills": [
   {
@@ -152,7 +152,8 @@
     299,
     302,
     304,
-    307
+    307,
+    308
    ]
   },
   {
@@ -293,7 +294,8 @@
     305,
     306,
     304,
-    307
+    307,
+    308
    ]
   },
   {
@@ -409,7 +411,8 @@
     299,
     302,
     304,
-    307
+    307,
+    308
    ]
   },
   {
@@ -570,7 +573,9 @@
     306,
     304,
     289,
-    307
+    307,
+    308,
+    311
    ]
   },
   {
@@ -703,7 +708,9 @@
     299,
     302,
     304,
-    307
+    307,
+    308,
+    310
    ]
   },
   {
@@ -841,7 +848,8 @@
     299,
     302,
     304,
-    307
+    307,
+    308
    ]
   },
   {
@@ -911,7 +919,8 @@
     299,
     302,
     304,
-    307
+    307,
+    308
    ]
   },
   {
@@ -976,7 +985,8 @@
     302,
     303,
     304,
-    307
+    307,
+    308
    ]
   },
   {
@@ -1125,7 +1135,9 @@
     299,
     302,
     304,
-    307
+    307,
+    308,
+    311
    ]
   },
   {
@@ -1248,7 +1260,8 @@
     299,
     302,
     304,
-    307
+    307,
+    308
    ]
   }
  ],
@@ -1854,9 +1867,9 @@
     "ar": "القصيم (بريدة)"
    },
    "note": {
-    "ko": "카타르항공이 9/1 공식 발표로 10/25 재개 예정을 밝힘(일요일 주 1회, 10/30부터 금요일 추가 · 카심 출발 일요일 11:05, 금요일 11:50) — 같은 발표에서 10/31 재개 예정이던 타이프는 재개가 확인되지 않았고, 카타르항공 공지에는 확인 시점에 따라 운항 중단 대상에 오르기도 하고 빠지기도 함(재개 발표 없음) · 10/25·10/30·11/1 편은 항공편 추적 사이트 2곳 이상에 실제 운항 기록이 있음(항공편 추적 사이트 기준, 항공사 공식 발표 아님) · 한 사이트는 요일과 관계없이 10/26~11/3 매일 ‘도착’을 표시하지만 다른 사이트에는 10/30·11/1 외 날짜의 기록이 없어 엇갈림 · 카타르항공 공식 공지에는 카심 중단 언급 없음(11/6 확인) · 10/25 이후 실제 재개를 확인하는 항공사 공식 발표는 확인되지 않음",
-    "en": "Qatar Airways announced officially on 1 Sep that flights would resume on 25 Oct (once weekly on Sundays, with an additional Friday flight from 30 Oct · departing Qassim at 11:05 on Sundays and 11:50 on Fridays) — the resumption of Taif, due on 31 Oct under the same announcement, is not confirmed, and Qatar Airways’ notice sometimes lists Taif as suspended and sometimes omits it, depending on when it is checked (no resumption has been announced) · the 25 Oct, 30 Oct and 1 Nov flights have records of actually operating on two or more flight-tracking sites (according to flight-tracking sites, not official airline announcements) · one site shows “arrived” every day from 26 Oct to 3 Nov regardless of the weekday, but another site has no records for dates other than 30 Oct and 1 Nov, so the data conflict · Qatar Airways’ official notice does not mention any suspension for Qassim (checked 6 Nov) · no official airline announcement confirming the actual resumption since 25 Oct has been found",
-    "ar": "أعلنت الخطوط الجوية القطرية رسميًا في 1 سبتمبر استئناف الرحلات في 25 أكتوبر (مرة أسبوعيًا يوم الأحد، مع رحلة إضافية يوم الجمعة اعتبارًا من 30 أكتوبر · المغادرة من القصيم الساعة 11:05 أيام الأحد و11:50 أيام الجمعة) — أما الطائف، التي كان مقررًا استئناف رحلاتها في 31 أكتوبر بموجب الإعلان نفسه، فلم يتأكّد استئناف رحلاتها، ويُدرجها إشعار الخطوط الجوية القطرية ضمن الوجهات المعلّقة أحيانًا ويُسقطها أحيانًا أخرى بحسب وقت التحقق (ولم يُعلَن أي استئناف) · سُجِّل تسيير رحلات 25 أكتوبر و30 أكتوبر و1 نوفمبر فعليًا في موقعين أو أكثر من مواقع تتبّع الرحلات (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران) · ويُظهر أحد المواقع حالة «وصلت» كل يوم من 26 أكتوبر إلى 3 نوفمبر بصرف النظر عن أيام الأسبوع، بينما لا يتضمن موقع آخر أي سجلات لتواريخ غير 30 أكتوبر و1 نوفمبر، ما يعني تضارب البيانات · ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى القصيم (تم التحقق في 6 نوفمبر) · ولم يُعثر على إعلان رسمي من شركة الطيران يؤكد الاستئناف الفعلي منذ 25 أكتوبر"
+    "ko": "카타르항공이 9/1 공식 발표로 10/25 재개 예정을 밝힘(일요일 주 1회, 10/30부터 금요일 추가 · 카심 출발 일요일 11:05, 금요일 11:50) — 같은 발표에서 10/31 재개 예정이던 타이프는 재개가 확인되지 않았고, 카타르항공 공지에는 확인 시점에 따라 운항 중단 대상에 오르기도 하고 빠지기도 함(재개 발표 없음) · 10/25·10/30·11/1 편은 항공편 추적 사이트 2곳 이상에, 11/6(금) 편은 1곳에 실제 운항 기록이 있음(항공편 추적 사이트 기준, 항공사 공식 발표 아님) · 한 사이트는 요일과 관계없이 10/26~11/3 매일 ‘도착’을 표시하지만 다른 사이트에는 10/30·11/1 외 날짜의 기록이 없어 엇갈림 · 카타르항공 공식 공지에는 카심 중단 언급 없음(11/6 확인) · 10/25 이후 실제 재개를 확인하는 항공사 공식 발표는 확인되지 않음",
+    "en": "Qatar Airways announced officially on 1 Sep that flights would resume on 25 Oct (once weekly on Sundays, with an additional Friday flight from 30 Oct · departing Qassim at 11:05 on Sundays and 11:50 on Fridays) — the resumption of Taif, due on 31 Oct under the same announcement, is not confirmed, and Qatar Airways’ notice sometimes lists Taif as suspended and sometimes omits it, depending on when it is checked (no resumption has been announced) · the 25 Oct, 30 Oct and 1 Nov flights have records of actually operating on two or more flight-tracking sites, and the 6 Nov (Fri) flight on one site (according to flight-tracking sites, not official airline announcements) · one site shows “arrived” every day from 26 Oct to 3 Nov regardless of the weekday, but another site has no records for dates other than 30 Oct and 1 Nov, so the data conflict · Qatar Airways’ official notice does not mention any suspension for Qassim (checked 6 Nov) · no official airline announcement confirming the actual resumption since 25 Oct has been found",
+    "ar": "أعلنت الخطوط الجوية القطرية رسميًا في 1 سبتمبر استئناف الرحلات في 25 أكتوبر (مرة أسبوعيًا يوم الأحد، مع رحلة إضافية يوم الجمعة اعتبارًا من 30 أكتوبر · المغادرة من القصيم الساعة 11:05 أيام الأحد و11:50 أيام الجمعة) — أما الطائف، التي كان مقررًا استئناف رحلاتها في 31 أكتوبر بموجب الإعلان نفسه، فلم يتأكّد استئناف رحلاتها، ويُدرجها إشعار الخطوط الجوية القطرية ضمن الوجهات المعلّقة أحيانًا ويُسقطها أحيانًا أخرى بحسب وقت التحقق (ولم يُعلَن أي استئناف) · سُجِّل تسيير رحلات 25 أكتوبر و30 أكتوبر و1 نوفمبر فعليًا في موقعين أو أكثر من مواقع تتبّع الرحلات، ورحلة 6 نوفمبر (الجمعة) في موقع واحد (وفق مواقع تتبّع الرحلات، لا إعلانات رسمية من شركة الطيران) · ويُظهر أحد المواقع حالة «وصلت» كل يوم من 26 أكتوبر إلى 3 نوفمبر بصرف النظر عن أيام الأسبوع، بينما لا يتضمن موقع آخر أي سجلات لتواريخ غير 30 أكتوبر و1 نوفمبر، ما يعني تضارب البيانات · ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق للرحلات إلى القصيم (تم التحقق في 6 نوفمبر) · ولم يُعثر على إعلان رسمي من شركة الطيران يؤكد الاستئناف الفعلي منذ 25 أكتوبر"
    },
    "refs": [
     6,
@@ -1912,7 +1925,9 @@
     299,
     302,
     304,
-    307
+    307,
+    308,
+    309
    ]
   },
   {
@@ -2007,7 +2022,8 @@
     299,
     302,
     304,
-    307
+    307,
+    308
    ]
   },
   {
@@ -7049,6 +7065,70 @@
     "ar": "عند التحقق نحو الساعة 15:40 (بتوقيت الدوحة) يوم 6 نوفمبر، نصّ على تعليق الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) وإليها مؤقتًا، دون ذكر موعد للاستئناف، مع التواصل مباشرةً مع المسافرين المتأثرين. ولم تَرِد الطائف (TIF) في القائمة في هذا التحقق أيضًا (دون أي إعلان عن استئناف رحلات الطائف). ولا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث في 12 أكتوبر الساعة 16:54 (بتوقيت الدوحة)"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 308,
+   "name": {
+    "ko": "카타르항공 Travel Alerts (11/6 16:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 16:40 on 6 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 16:40 يوم 6 نوفمبر)"
+   },
+   "date": "2026-11-06",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/6 16:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재, 영향받는 승객에게 개별 연락, 추가 소식은 qatarairways.com에 공지. 15:40 확인 때 빠졌던 타이프(TIF)가 다시 목록에 포함됨. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하)",
+    "en": "When checked around 16:40 (Doha) on 6 Nov, it stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given; affected passengers will be contacted directly; further updates will be shared on qatarairways.com. Taif (TIF), absent at the 15:40 check, was again included in the list. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct 16:54 (Doha)",
+    "ar": "عند التحقق نحو الساعة 16:40 (بتوقيت الدوحة) يوم 6 نوفمبر، نصّ على تعليق الرحلات من أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) وإليها مؤقتًا، دون ذكر موعد للاستئناف، مع التواصل مباشرةً مع المسافرين المتأثرين، على أن تُنشر المستجدات على موقع qatarairways.com. وعادت الطائف (TIF)، التي لم تَرِد في تحقق الساعة 15:40، إلى القائمة. ولا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث في 12 أكتوبر الساعة 16:54 (بتوقيت الدوحة)"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 309,
+   "name": {
+    "ko": "aviability 항공편 현황 (QR1195, 11/6 16:50경 확인)",
+    "en": "aviability flight status (QR1195, checked around 16:50 on 6 Nov)",
+    "ar": "حالة الرحلات على موقع aviability (QR1195، تم التحقق نحو الساعة 16:50 يوم 6 نوفمبر)"
+   },
+   "date": "2026-11-06",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 카심→도하 QR1195: 11/6(금) ‘게이트 도착’(사이트 표시 11:50 출발·13:36 도착), 11/8(일) ‘예정’(11:05 출발·12:40 도착). 11/1~11/5 편 표시 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Qassim→Doha QR1195: 6 Nov (Fri) ‘arrived at gate’ (site shows departure 11:50, arrival 13:36); 8 Nov (Sun) ‘planned’ (departure 11:05, arrival 12:40). No entries for 1–5 Nov. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1195 من القصيم إلى الدوحة: يوم 6 نوفمبر (الجمعة) «وصلت إلى البوابة» (يُظهر الموقع المغادرة 11:50 والوصول 13:36)؛ ويوم 8 نوفمبر (الأحد) «مُجدولة» (المغادرة 11:05 والوصول 12:40). لا توجد بيانات لرحلات 1–5 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران"
+   },
+   "url": "https://aviability.com/flight-number/flight-qr1195-qatar-airways"
+  },
+  {
+   "n": 310,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1175, 11/6 16:45경 확인)",
+    "en": "Trip.com flight status (QR1175, checked around 16:45 on 6 Nov)",
+    "ar": "حالة الرحلات على موقع Trip.com (QR1175، تم التحقق نحو الساعة 16:45 يوم 6 نوفمبر)"
+   },
+   "date": "2026-11-06",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "카타르항공 메디나→도하 QR1175: 11/1~11/5 매일 ‘도착’, 11/6(금) ‘도착’(예정 04:50·실제 05:09 출발, 예정 06:55·실제 07:11 도착), 11/7(토) ‘예정’. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Madinah→Doha QR1175: ‘arrived’ every day 1–5 Nov; 6 Nov (Fri) ‘arrived’ (scheduled departure 04:50, actual 05:09; scheduled arrival 06:55, actual 07:11); 7 Nov (Sat) ‘scheduled’. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: «وصلت» يوميًا من 1 إلى 5 نوفمبر؛ ويوم 6 نوفمبر (الجمعة) «وصلت» (المغادرة المجدولة 04:50 والفعلية 05:09؛ والوصول المجدول 06:55 والفعلي 07:11)؛ ويوم 7 نوفمبر (السبت) «مُجدولة». ليس إعلانًا رسميًا من شركة الطيران"
+   },
+   "url": "https://us.trip.com/flights/status-qr1175/"
+  },
+  {
+   "n": 311,
+   "name": {
+    "ko": "더내셔널 (The National, 11/6)",
+    "en": "The National (6 Nov)",
+    "ar": "ذا ناشونال (The National، 6 نوفمبر)"
+   },
+   "date": "2026-11-06",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/6 06:41(UTC) 게재: 카타르항공이 리야드·담맘·아브하·타이프 출도착편을 일시 중단했고 여행 공지에 재개일이 없으며 제다 운항 횟수를 줄였다고 보도. 리야드 킹칼리드 국제공항은 10/25 부분 재개 후에도 제한 속에 운영 중이고 리야드 출도착편은 여전히 차질. 리야드를 오가는 사우디아 일부 편은 카심 또는 담맘으로 우회 후 버스로 리야드 이동",
+    "en": "Published 06:41 (UTC) on 6 Nov: reports that Qatar Airways has temporarily suspended flights to and from Riyadh, Dammam, Abha and Taif, with no resumption date in its travel advisory, and has reduced Jeddah frequencies. King Khalid International Airport in Riyadh is still operating under restrictions after its partial reopening on 25 Oct, and flights to and from Riyadh remain disrupted. Some Saudia flights serving Riyadh have been rerouted through Qassim or Dammam, with passengers continuing by bus",
+    "ar": "نُشر الساعة 06:41 (بالتوقيت العالمي) يوم 6 نوفمبر: أفاد بأن الخطوط الجوية القطرية علّقت مؤقتًا رحلاتها من الرياض والدمام وأبها والطائف وإليها، دون موعد للاستئناف في إشعار السفر، وخفّضت عدد رحلاتها إلى جدة. ولا يزال مطار الملك خالد الدولي في الرياض يعمل وفق قيود بعد إعادة فتحه جزئيًا في 25 أكتوبر، ولا تزال الرحلات من الرياض وإليها متعثرة. وجرى تحويل بعض رحلات الخطوط السعودية التي تخدم الرياض عبر القصيم أو الدمام، ليواصل المسافرون الرحلة بالحافلات"
+   },
+   "url": "https://www.thenationalnews.com/travel/2026/11/06/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T21:38:00+03:00",
+ "updated_at": "2026-11-07T22:37:00+03:00",
  "window_start": "2026-11-07",
  "pills": [
   {
@@ -180,7 +180,8 @@
     338,
     339,
     340,
-    341
+    341,
+    342
    ]
   },
   {
@@ -345,7 +346,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -483,7 +485,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -668,7 +671,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -825,7 +829,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -985,7 +990,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -1077,7 +1083,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -1165,7 +1172,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -1343,7 +1351,8 @@
     338,
     339,
     340,
-    341
+    341,
+    342
    ]
   },
   {
@@ -1488,7 +1497,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   }
  ],
@@ -1584,7 +1594,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -1937,7 +1948,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -2127,7 +2139,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   }
  ],
@@ -2315,7 +2328,8 @@
     336,
     337,
     338,
-    341
+    341,
+    342
    ]
   },
   {
@@ -2357,9 +2371,9 @@
     "ar": "جازان"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11/2(월) 후티는 지잔의 조기경보 레이더와 지잔 공항의 군 수송기를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨) · 11/4(수) 새벽에도 지잔에 비상 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 위협 종류·피해 언급 없음) · 같은 날 후티는 지잔·나즈란 군 시설 공격도 주장(후티 측 주장, 독립적으로 확인되지 않음)",
-    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Mon 2 Nov the Houthis claimed to have targeted an early-warning radar in Jazan and a military transport aircraft at Jazan airport (Houthi claim, not confirmed by Saudi Arabia) · An emergency alert was also issued for Jazan in the early hours of Wed 4 Nov and later lifted (Saudi Civil Defense statement; type of threat and damage not mentioned) · The same day the Houthis also claimed attacks on military sites in Jazan and Najran (Houthi claim, not independently verified)",
-    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · وادّعى الحوثيون يوم الاثنين 2 نوفمبر أنهم استهدفوا رادار إنذار مبكر في جازان وطائرة نقل عسكرية في مطار جازان (ادعاء حوثي لم تؤكده السعودية) · وصدر أيضًا تحذير طوارئ لجازان فجر الأربعاء 4 نوفمبر ثم رُفع (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار) · وفي اليوم نفسه ادّعى الحوثيون أيضًا مهاجمة مواقع عسكرية في جازان ونجران (ادعاء حوثي لم يُتحقَّق منه بشكل مستقل)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11/2(월) 후티는 지잔의 조기경보 레이더와 지잔 공항의 군 수송기를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨) · 11/4(수) 새벽 지잔에 비상 경보가 발령됐다가 해제됐고(사우디 민방위청 발표, 위협 종류·피해 언급 없음), 11/7(토) 오후에도 지잔시에 위험 경보가 발령됐다가 곧 해제됨(사우디 민방위청 경보, 언론 보도, 위협 종류·피해 언급 없음) · 11/4 후티는 지잔·나즈란 군 시설 공격도 주장(후티 측 주장, 독립적으로 확인되지 않음)",
+    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · On Mon 2 Nov the Houthis claimed to have targeted an early-warning radar in Jazan and a military transport aircraft at Jazan airport (Houthi claim, not confirmed by Saudi Arabia) · An emergency alert was issued for Jazan in the early hours of Wed 4 Nov and later lifted (Saudi Civil Defense statement; type of threat and damage not mentioned), and on the afternoon of Sat 7 Nov a danger alert was issued for Jazan city and lifted shortly afterwards (Saudi Civil Defense alert, as reported by the media; type of threat and damage not mentioned) · On 4 Nov the Houthis also claimed attacks on military sites in Jazan and Najran (Houthi claim, not independently verified)",
+    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · وادّعى الحوثيون يوم الاثنين 2 نوفمبر أنهم استهدفوا رادار إنذار مبكر في جازان وطائرة نقل عسكرية في مطار جازان (ادعاء حوثي لم تؤكده السعودية) · وصدر تحذير طوارئ لجازان فجر الأربعاء 4 نوفمبر ثم رُفع (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار)، كما صدر إنذار بالخطر لمدينة جازان بعد ظهر السبت 7 نوفمبر ثم رُفع بعد وقت قصير (إنذار من الدفاع المدني السعودي وفق ما أوردته وسائل الإعلام، دون ذكر نوع التهديد أو أضرار) · وفي 4 نوفمبر ادّعى الحوثيون أيضًا مهاجمة مواقع عسكرية في جازان ونجران (ادعاء حوثي لم يُتحقَّق منه بشكل مستقل)"
    },
    "refs": [
     5,
@@ -2367,7 +2381,8 @@
     217,
     258,
     268,
-    269
+    269,
+    343
    ]
   },
   {
@@ -2377,9 +2392,9 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 위협 계속: 11/6(금) 나즈란 지역을 향해 발사된 후티 탄도미사일 2발이 요격됐고 요격 파편이 떨어져 피해를 조사 중이며(연합군 발표, 공항 언급 없음), 나즈란주에 잠재적 위험 경보가 발령됐다가 해제됨(사우디 민방위청) · 11/2 이후 나즈란 지역(샤루라 포함)에 비상 경보가 잇따르고 있음(사우디 민방위청 발표, 위협 종류·피해 언급 없음) · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음)",
-    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · Threat continues: on Fri 6 Nov, two Houthi ballistic missiles fired toward the Najran region were intercepted; debris from the interception fell and damage is being assessed (coalition statement; no airport mentioned), and a potential danger alert was issued for Najran Province and later lifted (Saudi Civil Defense) · Since 2 Nov, emergency alerts have been issued repeatedly in the Najran region, including Sharurah (Saudi Civil Defense statements; type of threat and damage not mentioned) · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim; no immediate response from Saudi officials)",
-    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · التهديد مستمر: يوم الجمعة 6 نوفمبر، اعتُرض صاروخان باليستيان حوثيان أُطلقا باتجاه منطقة نجران، وتساقطت شظايا الاعتراض ويجري تقييم الأضرار (وفق بيان التحالف، دون ذكر المطار)، وصدر إنذار بخطر محتمل لمنطقة نجران ثم رُفع (الدفاع المدني السعودي) · منذ 2 نوفمبر تتوالى إنذارات الطوارئ في منطقة نجران، بما فيها شرورة (وفق بيانات الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار) · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، دون رد فوري من المسؤولين السعوديين)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 위협 계속: 11/6(금) 나즈란 지역을 향해 발사된 후티 탄도미사일 2발이 요격됐고 요격 파편이 떨어져 피해를 조사 중이며(연합군 발표, 공항 언급 없음), 나즈란주에 잠재적 위험 경보가 발령됐다가 해제됨(사우디 민방위청) · 11/2 이후 나즈란 지역(샤루라 포함)에 비상 경보가 잇따르고 있으며, 가장 최근 11/7(토)에도 나즈란에 위협 경보가 발령됐다가 약 10분 뒤 해제됨(사우디 민방위청 발표, 11/7 경보는 언론 보도, 위협 종류·피해 언급 없음) · 11/7(토) 후티는 나즈란 국가방위군 캠프 공격도 주장(후티 측 주장, 사우디 확인 안 됨, 독립적으로 확인되지 않음) · 10/27(화) 후티는 나즈란 공항의 군 수송기를 탄도미사일로 공격했다고 주장(후티 측 주장, 사우디 당국의 즉각적인 반응 없음)",
+    "en": "No direct route · Airport reported closed until 15 Oct (ch-aviation, trade outlet); status since then not confirmed · Threat continues: on Fri 6 Nov, two Houthi ballistic missiles fired toward the Najran region were intercepted; debris from the interception fell and damage is being assessed (coalition statement; no airport mentioned), and a potential danger alert was issued for Najran Province and later lifted (Saudi Civil Defense) · Since 2 Nov, emergency alerts have been issued repeatedly in the Najran region, including Sharurah; most recently, on Sat 7 Nov, a threat alert was issued for Najran and lifted about 10 minutes later (Saudi Civil Defense statements; the 7 Nov alert as reported by the media; type of threat and damage not mentioned) · On Sat 7 Nov the Houthis also claimed an attack on a National Guard camp in Najran (Houthi claim, not confirmed by Saudi Arabia, not independently verified) · On Tue 27 Oct, the Houthis claimed a ballistic missile attack on a military transport aircraft at Najran Airport (Houthi claim; no immediate response from Saudi officials)",
+    "ar": "لا يوجد خط مباشر · أفادت ch-aviation (مجلة متخصصة في الطيران) بإغلاق المطار حتى 15 أكتوبر، ولم يتأكد وضعه التشغيلي منذ ذلك الحين · التهديد مستمر: يوم الجمعة 6 نوفمبر، اعتُرض صاروخان باليستيان حوثيان أُطلقا باتجاه منطقة نجران، وتساقطت شظايا الاعتراض ويجري تقييم الأضرار (وفق بيان التحالف، دون ذكر المطار)، وصدر إنذار بخطر محتمل لمنطقة نجران ثم رُفع (الدفاع المدني السعودي) · منذ 2 نوفمبر تتوالى إنذارات الطوارئ في منطقة نجران، بما فيها شرورة، وآخرها يوم السبت 7 نوفمبر حين صدر إنذار بالخطر في نجران ثم رُفع بعد نحو 10 دقائق (وفق بيانات الدفاع المدني السعودي، وإنذار 7 نوفمبر وفق ما أوردته وسائل الإعلام، دون ذكر نوع التهديد أو أضرار) · وادّعى الحوثيون يوم السبت 7 نوفمبر أيضًا مهاجمة معسكر للحرس الوطني في نجران (ادعاء حوثي لم تؤكده السعودية ولم يُتحقَّق منه بشكل مستقل) · يوم الثلاثاء 27 أكتوبر، زعم الحوثيون استهداف طائرة نقل عسكرية في مطار نجران بصاروخ باليستي (ادعاء حوثي، دون رد فوري من المسؤولين السعوديين)"
    },
    "refs": [
     5,
@@ -2393,7 +2408,9 @@
     286,
     296,
     300,
-    301
+    301,
+    339,
+    340
    ]
   },
   {
@@ -7901,6 +7918,38 @@
     "ar": "عند التحقق نحو الساعة 21:38 (بتوقيت الدوحة) يوم 7 نوفمبر، نصّ التنبيه على تعليق الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) مؤقتًا، دون تحديد موعد للاستئناف، على أن تُنشر المستجدات على موقع qatarairways.com. ولم تكن الطائف (TIF) مدرجة في القائمة عند هذا التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف). آخر تحديث: 12 أكتوبر، 16:54 (بتوقيت الدوحة)"
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 342,
+   "name": {
+    "ko": "카타르항공 Travel Alerts (11/7 22:37경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 22:37 on 7 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 22:37 يوم 7 نوفمبر)"
+   },
+   "date": "2026-11-07",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/7 22:37경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재, 추가 소식은 qatarairways.com에 공지. 21:38 확인 때 빠졌던 타이프(TIF)가 다시 목록에 포함됨. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하)",
+    "en": "When checked around 22:37 (Doha) on 7 Nov, it stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended, with no resumption date; further updates will be posted on qatarairways.com. Taif (TIF), which was missing at the 21:38 check, was back on the list. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha)",
+    "ar": "عند التحقق نحو الساعة 22:37 (بتوقيت الدوحة) يوم 7 نوفمبر، نصّ التنبيه على تعليق الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) مؤقتًا، دون تحديد موعد للاستئناف، على أن تُنشر المستجدات على موقع qatarairways.com. وعادت الطائف (TIF) إلى القائمة بعد أن غابت عنها عند التحقق في الساعة 21:38. ولا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث: 12 أكتوبر، 16:54 (بتوقيت الدوحة)"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 343,
+   "name": {
+    "ko": "아랍뉴스 (Arab News, 11/7 13:15 갱신)",
+    "en": "Arab News (updated 13:15, 7 Nov)",
+    "ar": "عرب نيوز (حُدّث الساعة 13:15 يوم 7 نوفمبر)"
+   },
+   "date": "2026-11-07",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/7 13:15 갱신(사이트 표시 시각): 사우디 민방위청이 11/7(토) 오후 지잔시에 위험 경보를 발령했다가 곧 해제했다고 보도. 같은 기사에서 11/7 리야드 겨냥 후티 순항미사일 요격(연합군 대변인 발표)도 보도. 피해·공항 영향 언급 없음",
+    "en": "Updated 13:15 on 7 Nov (time as shown on the site): reported that Saudi Civil Defense issued a danger alert for Jazan city on the afternoon of Sat 7 Nov and lifted it shortly afterwards. The same article reported the interception of a Houthi cruise missile targeting Riyadh on 7 Nov (coalition spokesman). No damage or airport impact mentioned",
+    "ar": "حُدّث الساعة 13:15 يوم 7 نوفمبر (وفق التوقيت المعروض على الموقع): أفاد بأن الدفاع المدني السعودي أصدر إنذارًا بالخطر لمدينة جازان بعد ظهر السبت 7 نوفمبر ثم رفعه بعد وقت قصير. وأورد المقال نفسه اعتراض صاروخ كروز حوثي استهدف الرياض يوم 7 نوفمبر (وفق المتحدث باسم التحالف). دون ذكر أضرار أو تأثير على المطارات"
+   },
+   "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
   }
  ]
 }

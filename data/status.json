@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T22:37:00+03:00",
+ "updated_at": "2026-11-07T23:40:00+03:00",
  "window_start": "2026-11-07",
  "pills": [
   {
@@ -181,7 +181,8 @@
     339,
     340,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -347,7 +348,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -486,7 +488,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -672,7 +675,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -830,7 +834,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -991,7 +996,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -1013,14 +1019,14 @@
     "ar": "الخطوط الجوية القطرية الإثنين · الخميس · السبت"
    },
    "times": {
-    "ko": "하일 출발 17:35 → 도하 19:25 · 다음 편 11/7(토)",
-    "en": "Departs Hail 17:35 → arrives Doha 19:25 · next flight 7 Nov (Sat)",
-    "ar": "المغادرة من حائل 17:35 والوصول إلى الدوحة 19:25 · الرحلة التالية 7 نوفمبر (السبت)"
+    "ko": "하일 출발 17:35 → 도하 19:25 · 다음 편 11/9(월)",
+    "en": "Departs Hail 17:35 → arrives Doha 19:25 · next flight 9 Nov (Mon)",
+    "ar": "المغادرة من حائل 17:35 والوصول إلى الدوحة 19:25 · الرحلة التالية 9 نوفمبر (الاثنين)"
    },
    "note": {
-    "ko": "하일→도하편(QR1229)은 10/12부터 11/5(목)까지, 도하→하일편(QR1228)도 10/29(목)부터 11/5(목)까지 매회 실제 운항 기록이 있음(항공편 추적 사이트 기준, 10/29 이후 편은 1곳 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 하일 운항 중단 언급 없음(11/7 확인).",
-    "en": "Hail → Doha flights (QR1229) have records of actually operating on every scheduled day from 12 Oct to Thu 5 Nov, and Doha → Hail flights (QR1228) likewise from Thu 29 Oct to Thu 5 Nov (according to flight-tracking sites, with flights from 29 Oct on one site only; not official airline announcements). Qatar Airways’ official notice makes no mention of a suspension of Hail flights (checked 7 Nov).",
-    "ar": "سُجِّل تسيير رحلات حائل–الدوحة (QR1229) فعليًا في كل موعد مجدول من 12 أكتوبر إلى الخميس 5 نوفمبر، وكذلك رحلات الدوحة–حائل (QR1228) من الخميس 29 أكتوبر إلى الخميس 5 نوفمبر (وفق مواقع تتبّع الرحلات، والرحلات منذ 29 أكتوبر وفق موقع واحد فقط، وليست إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات حائل (تحقّقنا منه في 7 نوفمبر)."
+    "ko": "하일→도하편(QR1229)은 10/12부터 11/5(목)까지, 도하→하일편(QR1228)도 10/29(목)부터 11/5(목)까지 매회 실제 운항 기록이 있음(항공편 추적 사이트 기준, 10/29 이후 편은 1곳 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 하일 운항 중단 언급 없음(11/7 확인). 11/7(토) 편은 실제 운항 여부가 아직 확인되지 않음(항공편 추적 사이트에 결항 표시는 없음).",
+    "en": "Hail → Doha flights (QR1229) have records of actually operating on every scheduled day from 12 Oct to Thu 5 Nov, and Doha → Hail flights (QR1228) likewise from Thu 29 Oct to Thu 5 Nov (according to flight-tracking sites, with flights from 29 Oct on one site only; not official airline announcements). Qatar Airways’ official notice makes no mention of a suspension of Hail flights (checked 7 Nov). Whether the Sat 7 Nov flight actually operated has not yet been confirmed (no cancellation is shown on flight-tracking sites).",
+    "ar": "سُجِّل تسيير رحلات حائل–الدوحة (QR1229) فعليًا في كل موعد مجدول من 12 أكتوبر إلى الخميس 5 نوفمبر، وكذلك رحلات الدوحة–حائل (QR1228) من الخميس 29 أكتوبر إلى الخميس 5 نوفمبر (وفق مواقع تتبّع الرحلات، والرحلات منذ 29 أكتوبر وفق موقع واحد فقط، وليست إعلانات رسمية من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات حائل (تحقّقنا منه في 7 نوفمبر). ولم يتأكّد بعد تسيير رحلة السبت 7 نوفمبر فعليًا (لا تُظهر مواقع تتبّع الرحلات أي إلغاء لها)."
    },
    "refs": [
     2,
@@ -1084,7 +1090,9 @@
     337,
     338,
     341,
-    342
+    342,
+    344,
+    345
    ]
   },
   {
@@ -1173,7 +1181,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -1352,7 +1361,8 @@
     339,
     340,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -1498,7 +1508,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   }
  ],
@@ -1595,7 +1606,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -1949,7 +1961,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -2140,7 +2153,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   }
  ],
@@ -2329,7 +2343,8 @@
     337,
     338,
     341,
-    342
+    342,
+    344
    ]
   },
   {
@@ -7950,6 +7965,38 @@
     "ar": "حُدّث الساعة 13:15 يوم 7 نوفمبر (وفق التوقيت المعروض على الموقع): أفاد بأن الدفاع المدني السعودي أصدر إنذارًا بالخطر لمدينة جازان بعد ظهر السبت 7 نوفمبر ثم رفعه بعد وقت قصير. وأورد المقال نفسه اعتراض صاروخ كروز حوثي استهدف الرياض يوم 7 نوفمبر (وفق المتحدث باسم التحالف). دون ذكر أضرار أو تأثير على المطارات"
    },
    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
+  },
+  {
+   "n": 344,
+   "name": {
+    "ko": "카타르항공 Travel Alerts (11/7 23:36경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 23:36, 7 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تحقّقنا منها نحو الساعة 23:36 يوم 7 نوفمبر)"
+   },
+   "date": "2026-11-07",
+   "kind": "항공사 공지",
+   "what": {
+    "ko": "11/7 23:36경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재, 영향받는 승객에게 개별 연락. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하)",
+    "en": "When checked around 23:36 (Doha) on 7 Nov, it stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended, with no resumption date given; affected passengers will be contacted directly. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha)",
+    "ar": "عند التحقّق نحو الساعة 23:36 (بتوقيت الدوحة) يوم 7 نوفمبر، نصّ على تعليق الرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF) مؤقتًا، دون تحديد موعد للاستئناف، مع التواصل مباشرة مع المسافرين المتأثرين. ولا يذكر جدة ولا المدينة المنورة ولا القصيم ولا حائل ولا العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة)"
+   },
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+  },
+  {
+   "n": 345,
+   "name": {
+    "ko": "Trip.com 항공편 현황 (QR1229, 11/7 23:40경 확인)",
+    "en": "Trip.com flight status (QR1229, checked around 23:40, 7 Nov)",
+    "ar": "حالة الرحلة على Trip.com (QR1229، تحقّقنا منها نحو الساعة 23:40 يوم 7 نوفمبر)"
+   },
+   "date": "2026-11-07",
+   "kind": "항공편 추적",
+   "what": {
+    "ko": "하일→도하 QR1229: 10/24·10/26·10/29·10/31·11/2·11/5 ‘도착’, 11/7(토) 편은 확인 시점에도 ‘예정’(17:35 출발 예정)으로만 표시돼 실제 운항 여부 확인되지 않음. 결항 표시 없음. 항공사 공식 발표 아님",
+    "en": "Hail → Doha QR1229: ‘Arrived’ on 24, 26, 29 and 31 Oct and 2 and 5 Nov; the Sat 7 Nov flight was still shown only as ‘Scheduled’ (17:35 departure) at the time of checking, so whether it actually operated is not confirmed. No cancellation shown. Not an official airline announcement",
+    "ar": "رحلة حائل–الدوحة QR1229: «وصلت» في 24 و26 و29 و31 أكتوبر و2 و5 نوفمبر؛ أما رحلة السبت 7 نوفمبر فكانت لا تزال معروضة «مجدولة» فقط (المغادرة 17:35) وقت التحقّق، فلم يتأكّد تسييرها فعليًا. لا يظهر أي إلغاء. ليس إعلانًا رسميًا من شركة الطيران"
+   },
+   "url": "https://www.trip.com/flights/status-qr1229/"
   }
  ]
 }

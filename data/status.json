@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T21:40:00+03:00",
+ "updated_at": "2026-11-08T22:40:00+03:00",
  "window_start": "2026-11-08",
  "pills": [
   {
@@ -9,9 +9,9 @@
     "ar": "<b>الأحد 8 نوفمبر، أضرار في مبنى لأرامكو بالرياض</b>: لحقت أضرار طفيفة بمبنى إداري لأرامكو في مركز الملك عبدالله المالي جراء سقوط شظايا إثر محاولة استهداف، دون وقوع إصابات أو وفيات (وفق وزارة الطاقة السعودية، ولم تُذكر آثار على المطار)"
    },
    "refs": [
+    85,
     86,
-    87,
-    88
+    87
    ]
   },
   {
@@ -56,14 +56,14 @@
     20,
     40,
     53,
+    71,
     72,
-    73,
-    75,
-    78,
-    83,
+    74,
+    77,
+    82,
+    84,
     85,
-    86,
-    87
+    86
    ]
   },
   {
@@ -89,10 +89,10 @@
     57,
     59,
     63,
-    69,
+    68,
+    79,
     80,
-    81,
-    85
+    84
    ]
   },
   {
@@ -113,9 +113,9 @@
     63,
     64,
     65,
-    79,
-    82,
-    85
+    78,
+    81,
+    84
    ]
   },
   {
@@ -172,9 +172,9 @@
     49,
     55,
     57,
-    69,
-    80,
-    85
+    68,
+    79,
+    84
    ]
   },
   {
@@ -215,9 +215,9 @@
     59,
     60,
     63,
-    78,
-    81,
-    85
+    77,
+    80,
+    84
    ]
   },
   {
@@ -262,9 +262,9 @@
     63,
     64,
     65,
-    79,
-    82,
-    85
+    78,
+    81,
+    84
    ]
   },
   {
@@ -291,16 +291,15 @@
     "ar": "المغادرة من حائل 17:35 والوصول إلى الدوحة 19:25 · الرحلة التالية 9 نوفمبر (الاثنين)"
    },
    "note": {
-    "ko": "10/12 이후 11/5(목)까지 매회 운항 기록(항공편 추적 사이트 기준, 10/29 이후 편은 1곳 기준, 항공사 공식 발표 아님). 11/7(토) 편은 운항 여부가 아직 확인되지 않음(결항 표시는 없음). 카타르항공 공식 공지에 하일 운항 중단 언급 없음.",
-    "en": "Flights have records of operating on every scheduled day from 12 Oct to Thu 5 Nov (according to flight-tracking sites, with flights from 29 Oct on one site only; not an official airline announcement). Whether the Sat 7 Nov flight operated has not yet been confirmed (no cancellation is shown). Qatar Airways’ official notice makes no mention of suspending Hail flights.",
-    "ar": "سُجّل تسيير الرحلات في كل موعد مجدول من 12 أكتوبر إلى الخميس 5 نوفمبر (وفق مواقع تتبّع الرحلات، والرحلات منذ 29 أكتوبر وفق موقع واحد فقط، وليس إعلانًا رسميًا من شركة الطيران). ولم يتأكّد بعد تسيير رحلة السبت 7 نوفمبر (لا يظهر أي إلغاء لها). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات حائل."
+    "ko": "10/12 이후 11/7(토)까지 매회 운항 기록(항공편 추적 사이트 기준, 10/29 이후 편은 1곳 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 하일 운항 중단 언급 없음.",
+    "en": "Flights have records of operating on every scheduled day from 12 Oct to Sat 7 Nov (according to flight-tracking sites, with flights from 29 Oct on one site only; not an official airline announcement). Qatar Airways’ official notice makes no mention of suspending Hail flights.",
+    "ar": "سُجّل تسيير الرحلات في كل موعد مجدول من 12 أكتوبر إلى السبت 7 نوفمبر (وفق مواقع تتبّع الرحلات، والرحلات منذ 29 أكتوبر وفق موقع واحد فقط، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات حائل."
    },
    "refs": [
     2,
     62,
-    66,
-    77,
-    85
+    76,
+    84
    ]
   },
   {
@@ -335,8 +334,8 @@
     29,
     38,
     58,
-    71,
-    85
+    70,
+    84
    ]
   },
   {
@@ -374,16 +373,16 @@
     39,
     40,
     53,
+    71,
     72,
     73,
     74,
-    75,
-    78,
-    83,
+    77,
+    82,
+    84,
     85,
     86,
-    87,
-    88
+    87
    ]
   },
   {
@@ -418,8 +417,8 @@
     50,
     51,
     54,
-    83,
-    85
+    82,
+    84
    ]
   }
  ],
@@ -450,7 +449,7 @@
     "미정"
    ],
    "refs": [
-    85
+    84
    ]
   },
   {
@@ -481,7 +480,7 @@
    "refs": [
     40,
     53,
-    78
+    77
    ]
   },
   {
@@ -543,8 +542,8 @@
     8,
     33,
     57,
-    80,
-    85
+    79,
+    84
    ]
   },
   {
@@ -604,8 +603,8 @@
    ],
    "refs": [
     56,
-    81,
-    85
+    80,
+    84
    ]
   },
   {
@@ -636,7 +635,7 @@
    "refs": [
     25,
     26,
-    85
+    84
    ]
   },
   {
@@ -666,8 +665,8 @@
    ],
    "refs": [
     62,
-    77,
-    85
+    76,
+    84
    ]
   },
   {
@@ -697,8 +696,8 @@
    ],
    "refs": [
     58,
-    71,
-    85
+    70,
+    84
    ]
   },
   {
@@ -728,7 +727,7 @@
    ],
    "refs": [
     3,
-    85
+    84
    ]
   }
  ],
@@ -749,8 +748,8 @@
     32,
     37,
     42,
-    70,
-    85
+    69,
+    84
    ]
   },
   {
@@ -767,7 +766,7 @@
    "refs": [
     5,
     30,
-    85
+    84
    ]
   },
   {
@@ -818,7 +817,7 @@
     45,
     52,
     54,
-    76
+    75
    ]
   },
   {
@@ -835,10 +834,10 @@
    "refs": [
     4,
     27,
+    66,
     67,
-    68,
-    74,
-    84
+    73,
+    83
    ]
   },
   {
@@ -1932,22 +1931,6 @@
   {
    "n": 66,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1229, 11/6 00:45경 확인)",
-    "en": "Trip.com flight status (QR1229, checked around 00:45 on 6 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1229، تحقّقنا منها نحو الساعة 00:45 في 6 نوفمبر)"
-   },
-   "date": "2026-11-06",
-   "kind": "항공편 추적",
-   "what": {
-    "ko": "카타르항공 하일→도하 QR1229: 10/22·10/24·10/26·10/29·10/31·11/2 ‘도착’, 11/5(목) ‘도착’(예정 17:35·실제 17:39 출발, 예정 19:25·실제 19:31 도착). 항공사 공식 발표 아님",
-    "en": "Qatar Airways Hail → Doha QR1229: ‘Arrived’ on 22, 24, 26, 29 and 31 Oct and 2 Nov; Thu 5 Nov ‘Arrived’ (scheduled departure 17:35, actual 17:39; scheduled arrival 19:25, actual 19:31). Not an official airline announcement.",
-    "ar": "رحلة الخطوط الجوية القطرية حائل–الدوحة QR1229: «وصلت» في 22 و24 و26 و29 و31 أكتوبر و2 نوفمبر، و«وصلت» يوم الخميس 5 نوفمبر (موعد المغادرة المقرر 17:35 والفعلي 17:39، وموعد الوصول المقرر 19:25 والفعلي 19:31). ليس إعلانًا رسميًا من شركة الطيران."
-   },
-   "url": "https://www.trip.com/flights/status-qr1229/"
-  },
-  {
-   "n": 67,
-   "name": {
     "ko": "아랍뉴스 (Arab News, 11/6)",
     "en": "Arab News (6 Nov)",
     "ar": "عرب نيوز (6 نوفمبر)"
@@ -1962,7 +1945,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-houthi-ballistic-missiles-targeting-najran-3010126"
   },
   {
-   "n": 68,
+   "n": 67,
    "name": {
     "ko": "미들이스트아이 (Middle East Eye, 11/6 라이브 블로그)",
     "en": "Middle East Eye (6 Nov live blog)",
@@ -1978,7 +1961,7 @@
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-two-houthi-missiles-fired-towards-saudi-arabias"
   },
   {
-   "n": 69,
+   "n": 68,
    "name": {
     "ko": "LBC (AFP 인용, 11/6)",
     "en": "LBC (citing AFP, 6 Nov)",
@@ -1994,7 +1977,7 @@
    "url": "https://www.lbcgroup.tv/news/middleeastnews/966646/saudi-led-coalition-says-it-intercepted-drone-in-mecca-region/en"
   },
   {
-   "n": 70,
+   "n": 69,
    "name": {
     "ko": "aviability 항공편 현황 (QR1195, 11/8 14:38경 확인)",
     "en": "aviability flight status (QR1195, checked around 14:38 on 8 Nov)",
@@ -2010,7 +1993,7 @@
    "url": "https://aviability.com/flight-number/flight-qr1195-qatar-airways"
   },
   {
-   "n": 71,
+   "n": 70,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1203, 11/6 20:45경 확인)",
     "en": "Trip.com flight status (QR1203, checked around 20:45 on 6 Nov)",
@@ -2026,7 +2009,7 @@
    "url": "https://pk.trip.com/flights/status-qr1203/"
   },
   {
-   "n": 72,
+   "n": 71,
    "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/6)",
     "en": "Anadolu Agency (6 Nov)",
@@ -2042,7 +2025,7 @@
    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-destroyed-drone-in-region-of-saudi-capital-riyadh/4114767"
   },
   {
-   "n": 73,
+   "n": 72,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/7 갱신)",
     "en": "Arab News (updated 7 Nov)",
@@ -2058,7 +2041,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
   },
   {
-   "n": 74,
+   "n": 73,
    "name": {
     "ko": "타스통신 (TASS, 11/7)",
     "en": "TASS (7 Nov)",
@@ -2074,7 +2057,7 @@
    "url": "https://tass.com/world/2214301"
   },
   {
-   "n": 75,
+   "n": 74,
    "name": {
     "ko": "인디아TV 뉴스 (India TV News, 11/7)",
     "en": "India TV News (7 Nov)",
@@ -2090,7 +2073,7 @@
    "url": "https://www.indiatvnews.com/news/world/houthis-claim-strikes-on-riyadh-airport-aramco-oil-facility-saudi-military-after-25-killed-in-yemen-strikes-2026-11-07-1058925"
   },
   {
-   "n": 76,
+   "n": 75,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/7 13:15 갱신)",
     "en": "Arab News (updated 13:15, 7 Nov)",
@@ -2106,23 +2089,23 @@
    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
   },
   {
-   "n": 77,
+   "n": 76,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1229, 11/8 15:40경 확인)",
-    "en": "Trip.com flight status (QR1229, checked around 15:40, 8 Nov)",
-    "ar": "حالة الرحلة على Trip.com (QR1229، تحقّقنا منها نحو الساعة 15:40 يوم 8 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1229, 11/8 22:40경 확인)",
+    "en": "Trip.com flight status (QR1229, checked around 22:40, 8 Nov)",
+    "ar": "حالة الرحلة على Trip.com (QR1229، تحقّقنا منها نحو الساعة 22:40 يوم 8 نوفمبر)"
    },
    "date": "2026-11-08",
    "kind": "항공편 추적",
    "what": {
-    "ko": "하일→도하 QR1229: 10/24·10/26·10/29·10/31·11/2·11/5 ‘도착’, 11/7(토) 편은 확인 시점에도 ‘예정’(17:35 출발 예정)으로만 표시돼 실제 운항 여부 확인되지 않음. 결항 표시 없음. 항공사 공식 발표 아님",
-    "en": "Hail → Doha QR1229: ‘Arrived’ on 24, 26, 29 and 31 Oct and 2 and 5 Nov; the Sat 7 Nov flight was still shown only as ‘Scheduled’ (17:35 departure) at the time of checking, so whether it actually operated is not confirmed. No cancellation shown. Not an official airline announcement",
-    "ar": "رحلة حائل–الدوحة QR1229: «وصلت» في 24 و26 و29 و31 أكتوبر و2 و5 نوفمبر؛ أما رحلة السبت 7 نوفمبر فكانت لا تزال معروضة «مجدولة» فقط (المغادرة 17:35) وقت التحقّق، فلم يتأكّد تسييرها فعليًا. لا يظهر أي إلغاء. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "하일→도하 QR1229: 10/24·10/26·10/29·10/31·11/2·11/5 ‘도착’, 11/7(토) ‘도착’(예정 17:35·실제 18:00 출발, 예정 19:25·실제 19:28 도착). 항공사 공식 발표 아님",
+    "en": "Hail → Doha QR1229: ‘Arrived’ on 24, 26, 29 and 31 Oct and 2 and 5 Nov; Sat 7 Nov ‘Arrived’ (scheduled departure 17:35, actual 18:00; scheduled arrival 19:25, actual 19:28). Not an official airline announcement",
+    "ar": "رحلة حائل–الدوحة QR1229: «وصلت» في 24 و26 و29 و31 أكتوبر و2 و5 نوفمبر، و«وصلت» يوم السبت 7 نوفمبر (موعد المغادرة المقرر 17:35 والفعلي 18:00، وموعد الوصول المقرر 19:25 والفعلي 19:28). ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://www.trip.com/flights/status-qr1229/"
   },
   {
-   "n": 78,
+   "n": 77,
    "name": {
     "ko": "Trip.com 항공편 현황 (SV540, 11/8 15:40경 확인)",
     "en": "Trip.com flight status (SV540, checked around 15:40, 8 Nov)",
@@ -2138,7 +2121,7 @@
    "url": "https://us.trip.com/flights/status-sv540/"
   },
   {
-   "n": 79,
+   "n": 78,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/8 06:26)",
     "en": "Arab News (8 Nov, 06:26)",
@@ -2154,7 +2137,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/saudi-defenses-intercept-houthi-ballistic-missile-targeting-eastern-province-3010424"
   },
   {
-   "n": 80,
+   "n": 79,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1185, 11/8 07:38경 확인)",
     "en": "Trip.com flight status (QR1185, checked around 07:38, 8 Nov)",
@@ -2170,7 +2153,7 @@
    "url": "https://www.trip.com/flights/status-qr1185/"
   },
   {
-   "n": 81,
+   "n": 80,
    "name": {
     "ko": "aviability 항공편 현황 (QR1175, 11/8 08:37경 확인)",
     "en": "aviability flight status (QR1175, checked around 08:37, 8 Nov)",
@@ -2186,7 +2169,7 @@
    "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
   },
   {
-   "n": 82,
+   "n": 81,
    "name": {
     "ko": "비즈니스 레코더 (Business Recorder, 로이터 인용, 11/8)",
     "en": "Business Recorder (citing Reuters, 8 Nov)",
@@ -2202,7 +2185,7 @@
    "url": "https://www.brecorder.com/news/40447982/saudi-civil-defence-gives-all-clear-after-alerts-in-eastern-province"
   },
   {
-   "n": 83,
+   "n": 82,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/8 09:29 갱신)",
     "en": "Arab News (updated 09:29, 8 Nov)",
@@ -2218,7 +2201,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/saudi-defenses-intercept-houthi-missiles-targeting-riyadh-southern-regions-3010424"
   },
   {
-   "n": 84,
+   "n": 83,
    "name": {
     "ko": "데일리 베이루트 (Daily Beirut, 11/8)",
     "en": "Daily Beirut (8 Nov)",
@@ -2234,23 +2217,23 @@
    "url": "https://dailybeirut.com/en/world/saudi-arabia-intercepts-destroys-houthi-missiles-drone/"
   },
   {
-   "n": 85,
+   "n": 84,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/8 21:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 21:40, 8 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 21:40، 8 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/8 22:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 22:40, 8 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 22:40، 8 نوفمبر)"
    },
    "date": "2026-11-08",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/8 21:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재, 추가 소식은 qatarairways.com에 공지. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 확인 시점에 따라 목록에 있기도(11/8 15:40경·17:40경·19:40경·20:40경·21:40경) 없기도(11/7 21:38경·11/8 16:40경) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 21:40 (Doha) on 8 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given; further updates to be posted on qatarairways.com. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Depending on the time of checking, Taif has been on the list (around 15:40, 17:40, 19:40, 20:40 and 21:40 on 8 Nov) or not (around 21:38 on 7 Nov and 16:40 on 8 Nov) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 21:40 (بتوقيت الدوحة) يوم 8 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف، مع الإشارة إلى نشر المستجدات على qatarairways.com. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). وتظهر الطائف في القائمة أحيانًا (نحو الساعة 15:40 و17:40 و19:40 و20:40 و21:40 يوم 8 نوفمبر) وتغيب أحيانًا أخرى (نحو الساعة 21:38 يوم 7 نوفمبر و16:40 يوم 8 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/8 22:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재, 추가 소식은 qatarairways.com에 공지. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 확인 시점에 따라 목록에 있기도(11/8 15:40경·17:40경·19:40경·20:40경·21:40경·22:40경) 없기도(11/7 21:38경·11/8 16:40경) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 22:40 (Doha) on 8 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given; further updates to be posted on qatarairways.com. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Depending on the time of checking, Taif has been on the list (around 15:40, 17:40, 19:40, 20:40, 21:40 and 22:40 on 8 Nov) or not (around 21:38 on 7 Nov and 16:40 on 8 Nov) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 22:40 (بتوقيت الدوحة) يوم 8 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف، مع الإشارة إلى نشر المستجدات على qatarairways.com. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). وتظهر الطائف في القائمة أحيانًا (نحو الساعة 15:40 و17:40 و19:40 و20:40 و21:40 و22:40 يوم 8 نوفمبر) وتغيب أحيانًا أخرى (نحو الساعة 21:38 يوم 7 نوفمبر و16:40 يوم 8 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
   {
-   "n": 86,
+   "n": 85,
    "name": {
     "ko": "AP 통신 (WSLS 게재, 11/8 10:05 UTC)",
     "en": "Associated Press (via WSLS, 8 Nov 10:05 UTC)",
@@ -2266,7 +2249,7 @@
    "url": "https://www.wsls.com/news/world/2026/11/08/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/"
   },
   {
-   "n": 87,
+   "n": 86,
    "name": {
     "ko": "아샤르크 알아우사트 (Asharq Al-Awsat, 11/8 05:44·09:27 갱신)",
     "en": "Asharq Al-Awsat (8 Nov, 05:44; updated 09:27)",
@@ -2282,7 +2265,7 @@
    "url": "https://english.aawsat.com/gulf/5338801-energy-ministry-minor-damage-attempted-attack-saudi-aramco-building-riyadh"
   },
   {
-   "n": 88,
+   "n": 87,
    "name": {
     "ko": "미들이스트아이 (Middle East Eye, 11/8 10:26 GMT)",
     "en": "Middle East Eye (8 Nov, 10:26 GMT)",

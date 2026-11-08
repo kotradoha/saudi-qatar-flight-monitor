@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-08T13:50:00+03:00",
+ "updated_at": "2026-11-08T14:05:00+03:00",
  "window_start": "2026-11-08",
  "pills": [
+  {
+   "text": {
+    "ko": "<b>11/8(일) 리야드 아람코 건물 피해</b>: 공격 시도 중 떨어진 파편에 킹압둘라 금융지구의 아람코 사무 건물이 경미한 피해, 사상자 없음 (사우디 에너지부 발표, 공항 영향 보도 없음)",
+    "en": "<b>Sun 8 Nov, Aramco building damaged in Riyadh</b>: falling shrapnel from an attempted attack caused minor damage to an Aramco administrative building in the King Abdullah Financial District; no casualties (Saudi Ministry of Energy; no airport impact reported)",
+    "ar": "<b>الأحد 8 نوفمبر، أضرار في مبنى لأرامكو بالرياض</b>: لحقت أضرار طفيفة بمبنى إداري لأرامكو في مركز الملك عبدالله المالي جراء سقوط شظايا إثر محاولة استهداف، دون وقوع إصابات أو وفيات (وفق وزارة الطاقة السعودية، ولم تُذكر آثار على المطار)"
+   },
+   "refs": [
+    87,
+    88,
+    89
+   ]
+  },
   {
    "text": {
     "ko": "외교부 여행경보 <b>3단계 출국권고</b> (사우디 전역, 10/11~)",

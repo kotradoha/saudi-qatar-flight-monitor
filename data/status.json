@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T14:38:00+03:00",
+ "updated_at": "2026-11-08T15:45:00+03:00",
  "window_start": "2026-11-08",
  "pills": [
   {
@@ -683,7 +683,7 @@
     "ar": "الخطوط الجوية القطرية"
    },
    "status": [
-    "미정",
+    "운항",
     "–",
     "–",
     "–",
@@ -1804,16 +1804,16 @@
   {
    "n": 58,
    "name": {
-    "ko": "aviability 항공편 현황 (QR1203, 11/5 11:40경 확인)",
-    "en": "aviability flight status (QR1203, checked around 11:40 on 5 Nov)",
-    "ar": "aviability لحالة الرحلات (QR1203، تم التحقق نحو الساعة 11:40 يوم 5 نوفمبر)"
+    "ko": "aviability 항공편 현황 (QR1203, 11/8 15:40경 확인)",
+    "en": "aviability flight status (QR1203, checked around 15:40 on 8 Nov)",
+    "ar": "aviability لحالة الرحلات (QR1203، تم التحقق نحو الساعة 15:40 يوم 8 نوفمبر)"
    },
-   "date": "2026-11-05",
+   "date": "2026-11-08",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 알울라→도하 QR1203: 11/1(일) ‘게이트 도착’(11:25·13:27), 11/4(수) ‘게이트 도착’(11:29·13:33), 11/6(금) ‘예정’(11:30 출발·13:40 도착). 항공사 공식 발표 아님",
-    "en": "Qatar Airways AlUla→Doha QR1203: Sun 1 Nov ‘arrived at gate’ (11:25, 13:27), Wed 4 Nov ‘arrived at gate’ (11:29, 13:33), Fri 6 Nov ‘planned’ (departs 11:30, arrives 13:40). Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1203 من العُلا إلى الدوحة: الأحد 1 نوفمبر «وصلت إلى البوابة» (11:25 و13:27)، والأربعاء 4 نوفمبر «وصلت إلى البوابة» (11:29 و13:33)، والجمعة 6 نوفمبر «مقررة» (المغادرة 11:30 والوصول 13:40). ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 알울라→도하 QR1203: 11/4(수) ‘게이트 도착’(11:29·13:33), 11/6(금) ‘게이트 도착’(11:30·13:21), 11/8(일) ‘게이트 도착’(11:50·13:50). 이전 확인(11/5) 때 11/1(일) 편도 ‘게이트 도착’(11:25·13:27). 같은 시점 Trip.com은 11/8 편을 아직 ‘예정’으로 표시(11/8 편 실제 운항 기록은 1곳 기준). 항공사 공식 발표 아님",
+    "en": "Qatar Airways AlUla→Doha QR1203: Wed 4 Nov ‘arrived at gate’ (11:29, 13:33), Fri 6 Nov ‘arrived at gate’ (11:30, 13:21), Sun 8 Nov ‘arrived at gate’ (11:50, 13:50). At an earlier check (5 Nov) the Sun 1 Nov flight was also shown as ‘arrived at gate’ (11:25, 13:27). At the same time Trip.com still showed the 8 Nov flight as ‘Scheduled’ (the record of the 8 Nov flight operating is from one site only). Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1203 من العُلا إلى الدوحة: الأربعاء 4 نوفمبر «وصلت إلى البوابة» (11:29 و13:33)، والجمعة 6 نوفمبر «وصلت إلى البوابة» (11:30 و13:21)، والأحد 8 نوفمبر «وصلت إلى البوابة» (11:50 و13:50). وفي تحقق سابق (5 نوفمبر) ظهرت رحلة الأحد 1 نوفمبر أيضًا «وصلت إلى البوابة» (11:25 و13:27). وفي الوقت نفسه كان موقع Trip.com لا يزال يعرض رحلة 8 نوفمبر «مقررة» (سجل تسيير رحلة 8 نوفمبر مصدره موقع واحد فقط). ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://aviability.com/flight-number/flight-qr1203-qatar-airways"
   },
@@ -2108,11 +2108,11 @@
   {
    "n": 77,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1229, 11/7 23:40경 확인)",
-    "en": "Trip.com flight status (QR1229, checked around 23:40, 7 Nov)",
-    "ar": "حالة الرحلة على Trip.com (QR1229، تحقّقنا منها نحو الساعة 23:40 يوم 7 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1229, 11/8 15:40경 확인)",
+    "en": "Trip.com flight status (QR1229, checked around 15:40, 8 Nov)",
+    "ar": "حالة الرحلة على Trip.com (QR1229، تحقّقنا منها نحو الساعة 15:40 يوم 8 نوفمبر)"
    },
-   "date": "2026-11-07",
+   "date": "2026-11-08",
    "kind": "항공편 추적",
    "what": {
     "ko": "하일→도하 QR1229: 10/24·10/26·10/29·10/31·11/2·11/5 ‘도착’, 11/7(토) 편은 확인 시점에도 ‘예정’(17:35 출발 예정)으로만 표시돼 실제 운항 여부 확인되지 않음. 결항 표시 없음. 항공사 공식 발표 아님",
@@ -2124,9 +2124,9 @@
   {
    "n": 78,
    "name": {
-    "ko": "Trip.com 항공편 현황 (SV540, 11/8 01:45경 확인)",
-    "en": "Trip.com flight status (SV540, checked around 01:45, 8 Nov)",
-    "ar": "حالة الرحلات على Trip.com (الرحلة SV540، تم التحقق نحو الساعة 01:45، 8 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (SV540, 11/8 15:40경 확인)",
+    "en": "Trip.com flight status (SV540, checked around 15:40, 8 Nov)",
+    "ar": "حالة الرحلات على Trip.com (الرحلة SV540، تم التحقق نحو الساعة 15:40، 8 نوفمبر)"
    },
    "date": "2026-11-08",
    "kind": "항공편 추적",
@@ -2236,16 +2236,16 @@
   {
    "n": 85,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/8 14:38경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 14:38, 8 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 14:38، 8 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/8 15:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 15:40, 8 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 15:40، 8 نوفمبر)"
    },
    "date": "2026-11-08",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/8 14:38경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재, 추가 소식은 qatarairways.com에 공지. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 앞선 확인(11/7 21:38경)에서는 타이프(TIF)가 목록에 없었음(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 14:38 (Doha) on 8 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given; further updates to be posted on qatarairways.com. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). At an earlier check (around 21:38 on 7 Nov) Taif (TIF) was not on the list (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 14:38 (بتوقيت الدوحة) يوم 8 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف، مع الإشارة إلى نشر المستجدات على qatarairways.com. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). وفي تحقق سابق (نحو الساعة 21:38 يوم 7 نوفمبر) لم تكن الطائف (TIF) مدرجة في القائمة (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/8 15:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재, 추가 소식은 qatarairways.com에 공지. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 앞선 확인(11/7 21:38경)에서는 타이프(TIF)가 목록에 없었음(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 15:40 (Doha) on 8 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given; further updates to be posted on qatarairways.com. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). At an earlier check (around 21:38 on 7 Nov) Taif (TIF) was not on the list (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 15:40 (بتوقيت الدوحة) يوم 8 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف، مع الإشارة إلى نشر المستجدات على qatarairways.com. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). وفي تحقق سابق (نحو الساعة 21:38 يوم 7 نوفمبر) لم تكن الطائف (TIF) مدرجة في القائمة (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

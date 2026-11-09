@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T22:40:00+03:00",
+ "updated_at": "2026-11-09T23:40:00+03:00",
  "window_start": "2026-11-09",
  "pills": [
   {
@@ -294,9 +294,9 @@
     "ar": "المغادرة من حائل 17:35 والوصول إلى الدوحة 19:25 · الرحلة التالية 12 نوفمبر (الخميس)"
    },
    "note": {
-    "ko": "10/12 이후 11/7(토)까지 매회 운항 기록(항공편 추적 사이트 기준, 10/29 이후 편은 1곳 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 하일 운항 중단 언급 없음.",
-    "en": "Flights have records of operating on every scheduled day from 12 Oct to Sat 7 Nov (according to flight-tracking sites, with flights from 29 Oct on one site only; not an official airline announcement). Qatar Airways’ official notice makes no mention of suspending Hail flights.",
-    "ar": "سُجّل تسيير الرحلات في كل موعد مجدول من 12 أكتوبر إلى السبت 7 نوفمبر (وفق مواقع تتبّع الرحلات، والرحلات منذ 29 أكتوبر وفق موقع واحد فقط، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات حائل."
+    "ko": "10/12 이후 11/9(월)까지 매회 운항 기록(항공편 추적 사이트 기준, 10/29 이후 편은 1곳 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 하일 운항 중단 언급 없음.",
+    "en": "Flights have records of operating on every scheduled day from 12 Oct to Mon 9 Nov (according to flight-tracking sites, with flights from 29 Oct on one site only; not an official airline announcement). Qatar Airways’ official notice makes no mention of suspending Hail flights.",
+    "ar": "سُجّل تسيير الرحلات في كل موعد مجدول من 12 أكتوبر إلى الاثنين 9 نوفمبر (وفق مواقع تتبّع الرحلات، والرحلات منذ 29 أكتوبر وفق موقع واحد فقط، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات حائل."
    },
    "refs": [
     2,
@@ -593,7 +593,7 @@
     "ar": "الخطوط الجوية القطرية"
    },
    "status": [
-    "예정",
+    "운항",
     "예정",
     "예정",
     "예정",
@@ -655,7 +655,7 @@
     "ar": "الخطوط الجوية القطرية"
    },
    "status": [
-    "예정",
+    "운항",
     "–",
     "–",
     "예정",
@@ -2063,16 +2063,16 @@
   {
    "n": 74,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1229, 11/9 20:40경 확인)",
-    "en": "Trip.com flight status (QR1229, checked around 20:40, 9 Nov)",
-    "ar": "حالة الرحلة على Trip.com (QR1229، تحقّقنا منها نحو الساعة 20:40 يوم 9 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1229, 11/9 23:40경 확인)",
+    "en": "Trip.com flight status (QR1229, checked around 23:40, 9 Nov)",
+    "ar": "حالة الرحلة على Trip.com (QR1229، تحقّقنا منها نحو الساعة 23:40 يوم 9 نوفمبر)"
    },
    "date": "2026-11-09",
    "kind": "항공편 추적",
    "what": {
-    "ko": "하일→도하 QR1229: 10/24·10/26·10/29·10/31·11/2·11/5 ‘도착’, 11/7(토) ‘도착’(예정 17:35·실제 18:00 출발, 예정 19:25·실제 19:28 도착). 11/9(월) 편은 아직 기록 없음. 항공사 공식 발표 아님",
-    "en": "Hail → Doha QR1229: ‘Arrived’ on 24, 26, 29 and 31 Oct and 2 and 5 Nov; Sat 7 Nov ‘Arrived’ (scheduled departure 17:35, actual 18:00; scheduled arrival 19:25, actual 19:28). No record yet for the Mon 9 Nov flight. Not an official airline announcement",
-    "ar": "رحلة حائل–الدوحة QR1229: «وصلت» في 24 و26 و29 و31 أكتوبر و2 و5 نوفمبر، و«وصلت» يوم السبت 7 نوفمبر (موعد المغادرة المقرر 17:35 والفعلي 18:00، وموعد الوصول المقرر 19:25 والفعلي 19:28). ولا يوجد سجل بعد لرحلة الاثنين 9 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "하일→도하 QR1229: 10/24·10/26·10/29·10/31·11/2·11/5·11/7 ‘도착’, 11/9(월)도 ‘도착’(예정 17:35·실제 17:43 출발, 예정 19:25·실제 19:30 도착). 항공사 공식 발표 아님",
+    "en": "Hail → Doha QR1229: ‘Arrived’ on 24, 26, 29 and 31 Oct and 2, 5 and 7 Nov; Mon 9 Nov also ‘Arrived’ (scheduled departure 17:35, actual 17:43; scheduled arrival 19:25, actual 19:30). Not an official airline announcement",
+    "ar": "رحلة حائل–الدوحة QR1229: «وصلت» في 24 و26 و29 و31 أكتوبر و2 و5 و7 نوفمبر، و«وصلت» أيضًا يوم الاثنين 9 نوفمبر (موعد المغادرة المقرر 17:35 والفعلي 17:43، وموعد الوصول المقرر 19:25 والفعلي 19:30). ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://www.trip.com/flights/status-qr1229/"
   },
@@ -2191,16 +2191,16 @@
   {
    "n": 82,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/9 21:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 21:40, 9 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 21:40، 9 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/9 23:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 23:40, 9 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 23:40، 9 نوفمبر)"
    },
    "date": "2026-11-09",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/9 21:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(이번 확인 포함) 없기도(최근 11/9 18:40경) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 21:40 (Doha) on 9 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (including this check) and sometimes not (most recently around 18:40 on 9 Nov) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 21:40 (بتوقيت الدوحة) يوم 9 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (بما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 18:40 يوم 9 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/9 23:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(이번 확인 포함) 없기도(최근 11/9 18:40경) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 23:40 (Doha) on 9 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (including this check) and sometimes not (most recently around 18:40 on 9 Nov) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 23:40 (بتوقيت الدوحة) يوم 9 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (بما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 18:40 يوم 9 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-09T05:39:00+03:00",
+ "updated_at": "2026-11-09T06:39:00+03:00",
  "window_start": "2026-11-09",
  "pills": [
   {
@@ -2204,16 +2204,16 @@
   {
    "n": 83,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/9 05:37경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 05:37, 9 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 05:37، 9 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/9 06:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 06:40, 9 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 06:40، 9 نوفمبر)"
    },
    "date": "2026-11-09",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/9 05:37경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(이번 확인 포함) 없기도(최근 11/9 04:36경) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 05:37 (Doha) on 9 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (including this check) and sometimes not (most recently around 04:36 on 9 Nov) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 05:37 (بتوقيت الدوحة) يوم 9 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (بما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 04:36 يوم 9 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/9 06:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 11/9 05:37경) 없기도(이번 확인 포함) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 06:40 (Doha) on 9 Nov, stated that flights to and from Abha (AHB), Dammam (DMM) and Riyadh (RUH) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently around 05:37 on 9 Nov) and sometimes not (including this check) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 06:40 (بتوقيت الدوحة) يوم 9 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها نحو الساعة 05:37 يوم 9 نوفمبر) وتغيب أحيانًا أخرى (بما في ذلك هذا التحقق) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

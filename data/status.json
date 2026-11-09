@@ -1,19 +1,7 @@
 {
- "updated_at": "2026-11-09T23:40:00+03:00",
- "window_start": "2026-11-09",
+ "updated_at": "2026-11-10T00:40:00+03:00",
+ "window_start": "2026-11-10",
  "pills": [
-  {
-   "text": {
-    "ko": "<b>11/8(일) 리야드 아람코 건물 피해</b>: 공격 시도 중 떨어진 파편에 킹압둘라 금융지구의 아람코 사무 건물이 경미한 피해, 사상자 없음 (사우디 에너지부 발표, 공항 영향 보도 없음)",
-    "en": "<b>Sun 8 Nov, Aramco building damaged in Riyadh</b>: falling shrapnel from an attempted attack caused minor damage to an Aramco administrative building in the King Abdullah Financial District; no casualties (Saudi Ministry of Energy; no airport impact reported)",
-    "ar": "<b>الأحد 8 نوفمبر، أضرار في مبنى لأرامكو بالرياض</b>: لحقت أضرار طفيفة بمبنى إداري لأرامكو في مركز الملك عبدالله المالي جراء سقوط شظايا إثر محاولة استهداف، دون وقوع إصابات أو وفيات (وفق وزارة الطاقة السعودية، ولم تُذكر آثار على المطار)"
-   },
-   "refs": [
-    83,
-    84,
-    85
-   ]
-  },
   {
    "text": {
     "ko": "외교부 여행경보 <b>3단계 출국권고</b> (사우디 전역, 10/11~)",
@@ -63,10 +51,10 @@
     82,
     83,
     84,
+    85,
     86,
-    87,
-    89,
-    90
+    88,
+    89
    ]
   },
   {
@@ -177,7 +165,7 @@
     67,
     77,
     82,
-    88
+    87
    ]
   },
   {
@@ -383,10 +371,10 @@
     82,
     83,
     84,
+    85,
     86,
-    87,
-    89,
-    90
+    88,
+    89
    ]
   },
   {
@@ -593,7 +581,7 @@
     "ar": "الخطوط الجوية القطرية"
    },
    "status": [
-    "운항",
+    "예정",
     "예정",
     "예정",
     "예정",
@@ -655,7 +643,6 @@
     "ar": "الخطوط الجوية القطرية"
    },
    "status": [
-    "운항",
     "–",
     "–",
     "예정",
@@ -665,7 +652,8 @@
     "예정",
     "–",
     "–",
-    "예정"
+    "예정",
+    "–"
    ],
    "refs": [
     61,
@@ -689,14 +677,14 @@
     "–",
     "–",
     "–",
-    "–",
     "미정",
     "–",
     "미정",
     "–",
     "–",
     "–",
-    "–"
+    "–",
+    "미정"
    ],
    "refs": [
     57,
@@ -719,7 +707,6 @@
    "status": [
     "–",
     "–",
-    "–",
     "미정",
     "–",
     "미정",
@@ -727,7 +714,8 @@
     "–",
     "–",
     "–",
-    "미정"
+    "미정",
+    "–"
    ],
    "refs": [
     3,
@@ -2111,11 +2099,11 @@
   {
    "n": 77,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1185, 11/9 17:40경 확인)",
-    "en": "Trip.com flight status (QR1185, checked around 17:40, 9 Nov)",
-    "ar": "حالة الرحلات على Trip.com (الرحلة QR1185، تم التحقق نحو الساعة 17:40، 9 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1185, 11/10 00:40경 확인)",
+    "en": "Trip.com flight status (QR1185, checked around 00:40, 10 Nov)",
+    "ar": "حالة الرحلات على Trip.com (الرحلة QR1185، تم التحقق نحو الساعة 00:40، 10 نوفمبر)"
    },
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "kind": "항공편 추적",
    "what": {
     "ko": "카타르항공 제다→도하 QR1185: 11/5~11/8 ‘도착’, 11/9(월)도 ‘도착’(제다 출발 05:20, 도하 도착 06:59), 11/10 ‘예정’(05:10 출발). 결항 표시 없음. 항공사 공식 발표 아님",
@@ -2127,11 +2115,11 @@
   {
    "n": 78,
    "name": {
-    "ko": "aviability 항공편 현황 (QR1175, 11/9 09:40경 확인)",
-    "en": "aviability flight status (QR1175, checked around 09:40, 9 Nov)",
-    "ar": "حالة الرحلات على aviability (الرحلة QR1175، تم التحقق نحو الساعة 09:40، 9 نوفمبر)"
+    "ko": "aviability 항공편 현황 (QR1175, 11/10 00:40경 확인)",
+    "en": "aviability flight status (QR1175, checked around 00:40, 10 Nov)",
+    "ar": "حالة الرحلات على aviability (الرحلة QR1175، تم التحقق نحو الساعة 00:40، 10 نوفمبر)"
    },
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "kind": "항공편 추적",
    "what": {
     "ko": "카타르항공 메디나→도하 QR1175: 11/4~11/8 ‘게이트 도착’, 11/9(월)도 ‘게이트 도착’(05:07·07:05 표시), 11/10 ‘예정’. 결항 표시 없음. 항공사 공식 발표 아님",
@@ -2191,16 +2179,16 @@
   {
    "n": 82,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/9 23:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 23:40, 9 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 23:40، 9 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/10 00:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 00:40, 10 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 00:40، 10 نوفمبر)"
    },
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/9 23:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(이번 확인 포함) 없기도(최근 11/9 18:40경) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 23:40 (Doha) on 9 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (including this check) and sometimes not (most recently around 18:40 on 9 Nov) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 23:40 (بتوقيت الدوحة) يوم 9 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (بما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 18:40 يوم 9 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/10 00:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(이번 확인 포함) 없기도(최근 11/9 18:40경) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 00:40 (Doha) on 10 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (including this check) and sometimes not (most recently around 18:40 on 9 Nov) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 00:40 (بتوقيت الدوحة) يوم 10 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (بما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 18:40 يوم 9 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2238,22 +2226,6 @@
   },
   {
    "n": 85,
-   "name": {
-    "ko": "미들이스트아이 (Middle East Eye, 11/8 10:26 GMT)",
-    "en": "Middle East Eye (8 Nov, 10:26 GMT)",
-    "ar": "ميدل إيست آي (8 نوفمبر، 10:26 بتوقيت غرينتش)"
-   },
-   "date": "2026-11-08",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/8(일) 에너지부 관계자가 아람코 사무 건물이 떨어진 파편에 맞아 경미한 피해를 입었다고 밝힘. 로이터 목격자는 킹압둘라 금융지구 아람코 타워 여러 층의 유리창이 깨진 것을 봄. 사상자 없음. 후티 대변인은 아람코 시설·리야드 공항 등을 겨냥한 6개 작전을 주장(날짜 미기재). 항공편 차질 언급 없음",
-    "en": "8 Nov (Sun): energy ministry official said the Aramco administrative building sustained minor damage from falling shrapnel; a Reuters witness saw windows blown out on several floors of the Aramco Tower in KAFD. No casualties. Houthi spokesman claimed six operations against Aramco facilities, Riyadh airport and others (claim undated). No flight disruption mentioned",
-    "ar": "الأحد 8 نوفمبر: قال مسؤول في وزارة الطاقة إن المبنى الإداري لأرامكو تعرّض لأضرار طفيفة جراء سقوط شظايا، ورأى شاهدُ عيان من رويترز نوافذ محطمة في عدة طوابق من برج أرامكو في مركز الملك عبدالله المالي. لا إصابات. وادّعى المتحدث الحوثي تنفيذ ست عمليات ضد منشآت أرامكو ومطار الرياض وغيرها (دون تاريخ). دون ذكر تعطّل الرحلات"
-   },
-   "url": "https://www.middleeasteye.net/news/saudi-aramco-tower-damaged-after-houthi-missile-attacks-riyadh"
-  },
-  {
-   "n": 86,
    "date": "2026-11-08",
    "kind": "언론 보도",
    "name": {
@@ -2269,7 +2241,7 @@
    }
   },
   {
-   "n": 87,
+   "n": 86,
    "date": "2026-11-08",
    "kind": "언론 보도",
    "name": {
@@ -2285,7 +2257,7 @@
    }
   },
   {
-   "n": 88,
+   "n": 87,
    "name": {
     "ko": "aviability 항공편 현황 (QR1185, 11/9 10:36경 확인)",
     "en": "aviability flight status (QR1185, checked around 10:36, 9 Nov)",
@@ -2301,7 +2273,7 @@
    "url": "https://aviability.com/flight-number/flight-qr1185-qatar-airways"
   },
   {
-   "n": 89,
+   "n": 88,
    "name": {
     "ko": "로이터 (Reuters, Daily Maverick 게재, 11/9)",
     "en": "Reuters (via Daily Maverick, 9 Nov)",
@@ -2317,7 +2289,7 @@
    "url": "https://www.dailymaverick.co.za/article/2026-11-09-saudi-arabia-says-danger-passed-in-riyadh-after-alert-day-after-houthi-attack/"
   },
   {
-   "n": 90,
+   "n": 89,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/9 09:50)",
     "en": "Arab News (9 Nov, 09:50)",

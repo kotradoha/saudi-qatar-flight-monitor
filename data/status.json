@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T11:40:00+03:00",
+ "updated_at": "2026-11-10T12:40:00+03:00",
  "window_start": "2026-11-10",
  "pills": [
   {
@@ -1776,16 +1776,16 @@
   {
    "n": 56,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1183, 11/9 09:40경 확인)",
-    "en": "Trip.com flight status (QR1183, checked around 09:40 on 9 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1183، جرى التحقق نحو الساعة 09:40 يوم 9 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1183, 11/10 12:40경 확인)",
+    "en": "Trip.com flight status (QR1183, checked around 12:40 on 10 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1183، جرى التحقق نحو الساعة 12:40 يوم 10 نوفمبر)"
    },
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 제다→도하 QR1183: 11/1~11/7 모든 편 ‘결항’ 표시(예정 04:10 출발·06:30 도착, 10/30·10/31 편은 이전 확인 때 ‘결항’ 표시), ‘도착’ 기록 없음, 11/8~11/10 편 기록 없음, 11/15 편도 ‘결항’ 표시. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Jeddah→Doha QR1183: every flight from 1 to 7 Nov shown as ‘Cancelled’ (scheduled 04:10 departure, 06:30 arrival; the 30 and 31 Oct flights were shown as ‘Cancelled’ at an earlier check), no ‘Arrived’ record, no entries for 8–10 Nov, and the 15 Nov flight also shown as ‘Cancelled’. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1183 من جدة إلى الدوحة: جميع الرحلات من 1 إلى 7 نوفمبر مُدرجة على أنها «ملغاة» (الإقلاع المقرر 04:10 والوصول 06:30، وكانت رحلتا 30 و31 أكتوبر مُدرجتين على أنهما «ملغاتان» عند تحقق سابق)، دون أي سجل «وصول»، ولا بيانات لرحلات 8 إلى 10 نوفمبر، ورحلة 15 نوفمبر مُدرجة أيضًا على أنها «ملغاة». ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 제다→도하 QR1183: 11/2~11/7 편과 11/10(화) 편 모두 ‘결항’ 표시(예정 04:10 출발·06:30 도착, 10/30~11/1 편은 이전 확인 때 ‘결항’ 표시), ‘도착’ 기록 없음, 11/15 편도 ‘결항’ 표시. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Jeddah→Doha QR1183: the 2–7 Nov flights and the 10 Nov (Tue) flight all shown as ‘Cancelled’ (scheduled 04:10 departure, 06:30 arrival; the 30 Oct–1 Nov flights were shown as ‘Cancelled’ at earlier checks), no ‘Arrived’ record, and the 15 Nov flight also shown as ‘Cancelled’. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1183 من جدة إلى الدوحة: رحلات 2 إلى 7 نوفمبر ورحلة 10 نوفمبر (الثلاثاء) مُدرجة جميعها على أنها «ملغاة» (الإقلاع المقرر 04:10 والوصول 06:30، وكانت رحلات 30 أكتوبر إلى 1 نوفمبر مُدرجة على أنها «ملغاة» عند تحققات سابقة)، دون أي سجل «وصول»، ورحلة 15 نوفمبر مُدرجة أيضًا على أنها «ملغاة». ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://www.trip.com/flights/status-qr1183/"
   },
@@ -2160,16 +2160,16 @@
   {
    "n": 80,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/10 11:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 11:40, 10 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 11:40 في 10 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/10 12:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 12:40, 10 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 12:40 في 10 نوفمبر)"
    },
    "date": "2026-11-10",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/10 11:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 11/10 09:40경·10:40경·이번 확인 포함) 없기도(최근 11/10 07:40경) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 11:40 (Doha) on 10 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently around 09:40 and 10:40 on 10 Nov, and including this check) and sometimes not (most recently around 07:40 on 10 Nov) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 11:40 (بتوقيت الدوحة) يوم 10 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها نحو الساعة 09:40 والساعة 10:40 يوم 10 نوفمبر، وبما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 07:40 يوم 10 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/10 12:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 11/10 09:40경·10:40경·11:40경·이번 확인 포함) 없기도(최근 11/10 07:40경) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 12:40 (Doha) on 10 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently around 09:40, 10:40 and 11:40 on 10 Nov, and including this check) and sometimes not (most recently around 07:40 on 10 Nov) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 12:40 (بتوقيت الدوحة) يوم 10 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها نحو الساعة 09:40 والساعة 10:40 والساعة 11:40 يوم 10 نوفمبر، وبما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 07:40 يوم 10 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

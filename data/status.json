@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T07:40:00+03:00",
+ "updated_at": "2026-11-10T08:40:00+03:00",
  "window_start": "2026-11-10",
  "pills": [
   {
@@ -2193,16 +2193,16 @@
   {
    "n": 82,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/10 07:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 07:40, 10 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 07:40، 10 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/10 08:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 08:40, 10 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 08:40، 10 نوفمبر)"
    },
    "date": "2026-11-10",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/10 07:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 11/10 06:40경) 없기도(이번 확인 포함) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 07:40 (Doha) on 10 Nov, stated that flights to and from Abha (AHB), Dammam (DMM) and Riyadh (RUH) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently around 06:40 on 10 Nov) and sometimes not (including this check) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 07:40 (بتوقيت الدوحة) يوم 10 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها نحو الساعة 06:40 يوم 10 نوفمبر) وتغيب أحيانًا أخرى (بما في ذلك هذا التحقق) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/10 08:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(이번 확인 포함) 없기도(최근 11/10 07:40경) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 08:40 (Doha) on 10 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (including this check) and sometimes not (most recently around 07:40 on 10 Nov) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 08:40 (بتوقيت الدوحة) يوم 10 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (بما في ذلك هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 07:40 يوم 10 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2273,18 +2273,18 @@
   {
    "n": 87,
    "name": {
-    "ko": "aviability 항공편 현황 (QR1185, 11/9 10:36경 확인)",
-    "en": "aviability flight status (QR1185, checked around 10:36, 9 Nov)",
-    "ar": "حالة الرحلات على aviability (الرحلة QR1185، تم التحقق نحو الساعة 10:36، 9 نوفمبر)"
+    "ko": "aviability 항공편 현황 (QR1185, 11/10 08:40경 확인)",
+    "en": "aviability flight status (QR1185, checked around 08:40, 10 Nov)",
+    "ar": "حالة الرحلات على aviability (الرحلة QR1185، تم التحقق نحو الساعة 08:40، 10 نوفمبر)"
    },
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 제다→도하 QR1185: 11/5~11/8 ‘게이트 도착’, 11/9(월)도 ‘게이트 도착’(05:15·07:05 표시), 11/10·11/11 ‘예정’(05:10 출발·07:30 도착). 결항 표시 없음. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Jeddah→Doha QR1185: ‘Arrived at gate’ 5–8 Nov, and Mon 9 Nov also ‘Arrived at gate’ (05:15 and 07:05 shown); 10 and 11 Nov ‘Planned’ (05:10 departure, 07:30 arrival). No cancellations shown. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1185 من جدة إلى الدوحة: «وصلت إلى البوابة» من 5 إلى 8 نوفمبر، ويوم الاثنين 9 نوفمبر أيضًا «وصلت إلى البوابة» (يظهر 05:15 و07:05)؛ ورحلتا 10 و11 نوفمبر «مخطط لهما» (الإقلاع 05:10 والوصول 07:30). لا يظهر أي إلغاء. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 제다→도하 QR1185: 11/6~11/9 ‘게이트 도착’, 11/10(화)도 ‘게이트 도착’(05:10·07:05 표시), 11/11·11/12 ‘예정’(05:10 출발·07:30 도착). 결항 표시 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Jeddah→Doha QR1185: ‘Arrived at gate’ 6–9 Nov, and Tue 10 Nov also ‘Arrived at gate’ (05:10 and 07:05 shown); 11 and 12 Nov ‘Planned’ (05:10 departure, 07:30 arrival). No cancellations shown. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1185 من جدة إلى الدوحة: «وصلت إلى البوابة» من 6 إلى 9 نوفمبر، ويوم الثلاثاء 10 نوفمبر أيضًا «وصلت إلى البوابة» (يظهر 05:10 و07:05)؛ ورحلتا 11 و12 نوفمبر «مخطط لهما» (الإقلاع 05:10 والوصول 07:30). لا يظهر أي إلغاء. ليس إعلانًا رسميًا من شركة الطيران"
    },
-   "url": "https://aviability.com/flight-number/flight-qr1185-qatar-airways"
+   "url": "https://aviability.com/en/flight/qr1185-qatar-airways"
   },
   {
    "n": 88,

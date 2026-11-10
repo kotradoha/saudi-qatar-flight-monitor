@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T14:40:00+03:00",
+ "updated_at": "2026-11-10T15:40:00+03:00",
  "window_start": "2026-11-10",
  "pills": [
   {
@@ -896,18 +896,18 @@
   {
    "n": 1,
    "name": {
-    "ko": "Aviability (SV543, 11/9 17:40경 확인)",
-    "en": "Aviability (SV543, checked around 17:40, 9 Nov)",
-    "ar": "Aviability (الرحلة SV543، تم التحقق نحو الساعة 17:40، 9 نوفمبر)"
+    "ko": "Aviability (SV543, 11/10 15:40경 확인)",
+    "en": "Aviability (SV543, checked around 15:40, 10 Nov)",
+    "ar": "Aviability (الرحلة SV543، تم التحقق نحو الساعة 15:40، 10 نوفمبر)"
    },
-   "date": "2026-11-09",
+   "date": "2026-11-10",
    "kind": "항공편 추적",
    "what": {
-    "ko": "사우디아 도하→제다 SV543: 11/8·11/9 ‘게이트 도착’, 11/10·11/11 ‘예정’(12:50 출발). 항공사 공식 발표 아님",
-    "en": "Saudia Doha→Jeddah SV543: 8 and 9 Nov ‘Arrived at gate’; 10 and 11 Nov ‘Planned’ (12:50 departure). Not an official airline announcement",
-    "ar": "رحلة الخطوط السعودية SV543 من الدوحة إلى جدة: يومَي 8 و9 نوفمبر «وصلت إلى البوابة»، ورحلتا 10 و11 نوفمبر «مخطط لهما» (الإقلاع 12:50). ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "사우디아 도하→제다 SV543: 11/8·11/9·11/10 ‘게이트 도착’(11/10 12:48 출발·15:23 도착 표시), 11/11 ‘예정’(12:50 출발). 항공사 공식 발표 아님",
+    "en": "Saudia Doha→Jeddah SV543: 8, 9 and 10 Nov ‘Arrived at gate’ (10 Nov shown as departing 12:48 and arriving 15:23); 11 Nov ‘Planned’ (12:50 departure). Not an official airline announcement",
+    "ar": "رحلة الخطوط السعودية SV543 من الدوحة إلى جدة: أيام 8 و9 و10 نوفمبر «وصلت إلى البوابة» (رحلة 10 نوفمبر مبيَّنة بالإقلاع 12:48 والوصول 15:23)، ورحلة 11 نوفمبر «مخطط لها» (الإقلاع 12:50). ليس إعلانًا رسميًا من شركة الطيران"
    },
-   "url": "https://aviability.com/en/flight/sv543-saudia"
+   "url": "https://aviability.com/flight-number/flight-sv543-saudia"
   },
   {
    "n": 2,
@@ -2160,16 +2160,16 @@
   {
    "n": 80,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/10 14:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 14:40, 10 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 14:40 في 10 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/10 15:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 15:40, 10 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 15:40 في 10 نوفمبر)"
    },
    "date": "2026-11-10",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/10 14:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH) 출도착편 일시 중단’ 명시, 재개일 미기재. 타이프·제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 11/10 09:40경~13:40경) 없기도(최근 이번 확인) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 14:40 (Doha) on 10 Nov, stated that flights to and from Abha (AHB), Dammam (DMM) and Riyadh (RUH) are temporarily suspended; no resumption date given. No mention of Taif, Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently from around 09:40 to around 13:40 on 10 Nov) and sometimes not (most recently in this check) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 14:40 (بتوقيت الدوحة) يوم 10 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH)، دون ذكر موعد للاستئناف. لا ذكر للطائف أو جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها من نحو الساعة 09:40 حتى نحو الساعة 13:40 يوم 10 نوفمبر) وتغيب أحيانًا أخرى (آخرها في هذا التحقق) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/10 15:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 이번 확인) 없기도(최근 11/10 14:40경) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 15:40 (Doha) on 10 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently in this check) and sometimes not (most recently around 14:40 on 10 Nov) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 15:40 (بتوقيت الدوحة) يوم 10 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها في هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 14:40 يوم 10 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

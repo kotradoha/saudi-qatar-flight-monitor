@@ -1,7 +1,17 @@
 {
- "updated_at": "2026-11-11T15:40:00+03:00",
+ "updated_at": "2026-11-11T17:50:00+03:00",
  "window_start": "2026-11-11",
  "pills": [
+  {
+   "text": {
+    "ko": "<b>11/11(수) 카타르항공, 리야드·담맘 운항 재개 발표</b>: 카타르항공이 리야드 노선은 11/13부터, 담맘 노선은 11/14부터 매일 운항을 재개한다고 공지 (카타르항공 공식 공지, 아브하·타이프는 중단 유지, 재개 후 실제 운항은 아직 확인되지 않음)",
+    "en": "<b>11 Nov (Wed) Qatar Airways announces resumption of Riyadh and Dammam flights</b>: Qatar Airways announced that daily flights will resume on the Riyadh route from 13 Nov and on the Dammam route from 14 Nov (Qatar Airways official notice; Abha and Taif remain suspended; actual operation after resumption not yet confirmed)",
+    "ar": "<b>11 نوفمبر (الأربعاء) الخطوط الجوية القطرية تعلن استئناف رحلات الرياض والدمام</b>: أعلنت الخطوط الجوية القطرية استئناف رحلاتها اليومية على خط الرياض اعتبارًا من 13 نوفمبر وعلى خط الدمام اعتبارًا من 14 نوفمبر (وفق الإشعار الرسمي للخطوط الجوية القطرية؛ ويستمر تعليق رحلات أبها والطائف؛ ولم يتأكّد بعدُ التسيير الفعلي بعد الاستئناف)"
+   },
+   "refs": [
+    76
+   ]
+  },
   {
    "text": {
     "ko": "<b>11/9(월) 메디나 지역 동서 송유관 피격</b>: 메디나 지역의 동서 송유관이 공격받아 작은 화재가 났고 사상자는 없음 (사우디 국영통신(SPA)·에너지부 관계자 발표, 공격 주체 미발표, 송유관 운영 차질 없음, 공항·항공편 영향 언급 없음) · 후티는 메디나 송유관 공격을 부인하고 리야드에서 송유관을 공격했다고 주장(주장 엇갈림)",
@@ -47,9 +57,9 @@
  "key_points": [
   {
    "html": {
-    "ko": "<span class='red'>리야드→도하 직항은 이용이 어렵습니다.</span> 카타르항공은 리야드 운항 중단을 유지하고 있고(공식 공지, 재개일 미발표), 리야드 공항은 10/25부터 국내선과 사우디 국적 항공사 일부 국제선만 부분 운영 중입니다. 사우디아 SV540편은 11/1·11/3·11/7·11/10 운항 기록이 있지만 11/5·11/6 편은 결항으로 표시되고 11/8 편은 결항·운항 표시가 엇갈리는 등 불규칙하고(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 사우디아의 운항 재개 발표는 확인되지 않았습니다. 위협도 계속됩니다. 후티는 리야드 공항을 ‘군사 목표’로 지칭하며 공격을 거듭 주장하고 있고(최근 11/10, 후티 측 주장, 확인되지 않음), 리야드를 향한 미사일·드론 요격이 11/6부터 잇따르고 있으며(최근 11/10 탄도미사일·순항미사일 각 1발, 연합군 발표, 피해 언급 없음), 11/8에는 떨어진 파편에 아람코 사무 건물이 경미한 피해를 입었습니다(피해는 사우디 에너지부 발표, 사상자 없음). 예약 사이트에 판매 중인 편도 항공사에 운항 여부를 꼭 확인하세요.",
-    "en": "<span class='red'>Direct flights from Riyadh to Doha are hard to use.</span> Qatar Airways is keeping its Riyadh flights suspended (official notice, no resumption date announced), and Riyadh airport has been only partially operating since 25 Oct, for domestic flights and some international flights by Saudi carriers. Saudia flight SV540 has operating records on 1, 3, 7 and 10 Nov, but its 5 and 6 Nov flights are shown as cancelled and the 8 Nov flight has been shown both as cancelled and as operated, so it is irregular (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no Saudia announcement of resumed flights has been confirmed. The threat continues. The Houthis call Riyadh airport a ‘military target’ and have repeatedly claimed attacks on it (most recently 10 Nov; Houthi claim, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently one ballistic missile and one cruise missile on 10 Nov, coalition statement; no damage mentioned), and on 8 Nov falling shrapnel caused minor damage to an Aramco administrative building (damage: Saudi Ministry of Energy; no casualties). Even for flights on sale on booking sites, always check with the airline that they will operate.",
-    "ar": "<span class='red'>يصعب استخدام الرحلات المباشرة من الرياض إلى الدوحة.</span> تُبقي الخطوط الجوية القطرية رحلاتها من الرياض وإليها معلّقة (وفق الإشعار الرسمي، دون إعلان موعد للاستئناف)، ويعمل مطار الرياض جزئيًا فقط منذ 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية. وسُجّل تسيير رحلة الخطوط السعودية SV540 أيام 1 و3 و7 و10 نوفمبر، لكن رحلتَي 5 و6 نوفمبر تظهران ملغاتَين، وتتضارب حالة رحلة 8 نوفمبر بين الإلغاء والتسيير، فالتسيير غير منتظم (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان من الخطوط السعودية باستئناف الرحلات. ولا يزال التهديد قائمًا؛ إذ يصف الحوثيون مطار الرياض بأنه ‘هدف عسكري’ ويكرّرون ادعاء مهاجمته (آخرها في 10 نوفمبر؛ ادعاء حوثي لم يتأكّد)، وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها صاروخ باليستي وصاروخ كروز في 10 نوفمبر، وفق بيان التحالف، دون ذكر أضرار)، وفي 8 نوفمبر لحقت أضرار طفيفة بمبنى إداري لأرامكو جراء سقوط شظايا (الأضرار وفق وزارة الطاقة السعودية، دون وقوع إصابات أو وفيات). يُرجى التأكد لدى شركة الطيران من تسيير الرحلة حتى لو كانت معروضة للبيع في مواقع الحجز."
+    "ko": "<span class='red'>리야드→도하 직항은 아직 이용이 어렵습니다(카타르항공 11/13 재개 발표).</span> 카타르항공 공식 공지는 11/13부터 리야드 노선을 매일 운항한다고 밝혔으나 그 전까지는 중단 상태이고 재개 후 실제 운항은 아직 확인되지 않았으며, 리야드 공항은 10/25부터 국내선과 사우디 국적 항공사 일부 국제선만 부분 운영 중입니다(10/25 공항 발표 기준, 이후 변경 발표는 확인되지 않음). 사우디아 SV540편은 11/1·11/3·11/7·11/10 운항 기록이 있지만 11/5·11/6 편은 결항으로 표시되고 11/8 편은 결항·운항 표시가 엇갈리는 등 불규칙하고(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 사우디아의 운항 재개 발표는 확인되지 않았습니다. 위협도 계속됩니다. 후티는 리야드 공항을 ‘군사 목표’로 지칭하며 공격을 거듭 주장하고 있고(최근 11/10, 후티 측 주장, 확인되지 않음), 리야드를 향한 미사일·드론 요격이 11/6부터 잇따르고 있으며(최근 11/11 순항미사일 3발, 연합군 발표, 피해 언급 없음), 11/8에는 떨어진 파편에 아람코 사무 건물이 경미한 피해를 입었습니다(피해는 사우디 에너지부 발표, 사상자 없음). 재개 첫 편과 예약 사이트에 판매 중인 편도 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>Direct flights from Riyadh to Doha are still hard to use (Qatar Airways has announced resumption from 13 Nov).</span> Qatar Airways’ official notice says daily flights on the Riyadh route will operate from 13 Nov, but until then they remain suspended and actual operation after resumption has not yet been confirmed, while Riyadh airport has been only partially operating since 25 Oct, for domestic flights and some international flights by Saudi carriers (per the airport’s 25 Oct announcement; no later change announcement confirmed). Saudia flight SV540 has operating records on 1, 3, 7 and 10 Nov, but its 5 and 6 Nov flights are shown as cancelled and the 8 Nov flight has been shown both as cancelled and as operated, so it is irregular (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no Saudia announcement of resumed flights has been confirmed. The threat continues. The Houthis call Riyadh airport a ‘military target’ and have repeatedly claimed attacks on it (most recently 10 Nov; Houthi claim, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently three cruise missiles on 11 Nov, coalition statement; no damage mentioned), and on 8 Nov falling shrapnel caused minor damage to an Aramco administrative building (damage: Saudi Ministry of Energy; no casualties). For the first flights after resumption and even for flights on sale on booking sites, always check with the airline that they will operate.",
+    "ar": "<span class='red'>لا يزال استخدام الرحلات المباشرة من الرياض إلى الدوحة صعبًا (أعلنت الخطوط الجوية القطرية استئناف رحلاتها اعتبارًا من 13 نوفمبر).</span> يفيد الإشعار الرسمي للخطوط الجوية القطرية بتسيير رحلات يومية على خط الرياض اعتبارًا من 13 نوفمبر، لكنها تبقى معلّقة حتى ذلك الحين ولم يتأكّد بعدُ التسيير الفعلي بعد الاستئناف، فيما يعمل مطار الرياض جزئيًا فقط منذ 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية (وفق إعلان المطار في 25 أكتوبر، ولم يتأكّد صدور إعلان لاحق بتغيير ذلك). وسُجّل تسيير رحلة الخطوط السعودية SV540 أيام 1 و3 و7 و10 نوفمبر، لكن رحلتَي 5 و6 نوفمبر تظهران ملغاتَين، وتتضارب حالة رحلة 8 نوفمبر بين الإلغاء والتسيير، فالتسيير غير منتظم (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان من الخطوط السعودية باستئناف الرحلات. ولا يزال التهديد قائمًا؛ إذ يصف الحوثيون مطار الرياض بأنه ‘هدف عسكري’ ويكرّرون ادعاء مهاجمته (آخرها في 10 نوفمبر؛ ادعاء حوثي لم يتأكّد)، وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها 3 صواريخ كروز في 11 نوفمبر، وفق بيان التحالف، دون ذكر أضرار)، وفي 8 نوفمبر لحقت أضرار طفيفة بمبنى إداري لأرامكو جراء سقوط شظايا (الأضرار وفق وزارة الطاقة السعودية، دون وقوع إصابات أو وفيات). يُرجى التأكد لدى شركة الطيران من تسيير الرحلات الأولى بعد الاستئناف، وأي رحلة حتى لو كانت معروضة للبيع في مواقع الحجز."
    },
    "refs": [
     16,
@@ -63,9 +73,10 @@
     76,
     77,
     78,
-    80,
     83,
-    84
+    84,
+    86,
+    87
    ]
   },
   {
@@ -100,9 +111,9 @@
   },
   {
    "html": {
-    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단.</span> 카타르항공 공식 공지는 담맘 출도착편 일시 중단을 유지하고 있고 재개일은 밝히지 않았습니다. 담맘 공항 자체는 10/21 피격(2명 사망·8명 부상) 후 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 일부 지연·결항 속에 운영 중입니다(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항을 드론으로 공격했다고 주장했고(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음), 동부 지역을 향한 미사일·드론 요격이 이어져 11/10에도 드론 1기가 요격됐습니다(연합군 발표). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
-    "en": "<span class='red'>Qatar Airways flights from Dammam to Doha are suspended.</span> Qatar Airways’ official notice keeps flights to and from Dammam temporarily suspended and gives no resumption date. Dammam airport itself resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; Saudi General Authority of Civil Aviation (GACA) statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed), and interceptions of missiles and drones heading for the Eastern Province continue, with another drone intercepted on 10 Nov (coalition statement). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
-    "ar": "<span class='red'>رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة معلّقة.</span> يُبقي الإشعار الرسمي للخطوط الجوية القطرية الرحلات من الدمام وإليها معلّقة مؤقتًا دون تحديد موعد للاستئناف. أما مطار الدمام نفسه فقد استأنف عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني (GACA))، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات)، وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، إذ اعتُرضت طائرة مسيّرة أخرى في 10 نوفمبر (وفق بيان التحالف). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، أي قرابة 3.4 ساعات، دون احتساب الانتظار عند الحدود)."
+    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단 — 11/14 재개 발표.</span> 카타르항공 공식 공지는 11/14부터 담맘 노선을 매일 운항한다고 밝혔으나 그 전까지는 중단 상태이고, 재개 후 실제 운항은 아직 확인되지 않았습니다. 담맘 공항 자체는 10/21 피격(2명 사망·8명 부상) 후 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 일부 지연·결항 속에 운영 중입니다(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항을 드론으로 공격했다고 주장했고(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음), 동부 지역을 향한 미사일·드론 요격이 이어져 11/10에도 드론 1기가 요격됐습니다(연합군 발표). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
+    "en": "<span class='red'>Qatar Airways flights from Dammam to Doha are suspended — resumption announced from 14 Nov.</span> Qatar Airways’ official notice says daily flights on the Dammam route will operate from 14 Nov, but until then they remain suspended, and actual operation after resumption has not yet been confirmed. Dammam airport itself resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; Saudi General Authority of Civil Aviation (GACA) statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed), and interceptions of missiles and drones heading for the Eastern Province continue, with another drone intercepted on 10 Nov (coalition statement). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
+    "ar": "<span class='red'>رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة معلّقة — أُعلن استئنافها اعتبارًا من 14 نوفمبر.</span> يفيد الإشعار الرسمي للخطوط الجوية القطرية بتسيير رحلات يومية على خط الدمام اعتبارًا من 14 نوفمبر، لكنها تبقى معلّقة حتى ذلك الحين، ولم يتأكّد بعدُ التسيير الفعلي بعد الاستئناف. أما مطار الدمام نفسه فقد استأنف عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني (GACA))، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات)، وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، إذ اعتُرضت طائرة مسيّرة أخرى في 10 نوفمبر (وفق بيان التحالف). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، أي قرابة 3.4 ساعات، دون احتساب الانتظار عند الحدود)."
    },
    "refs": [
     7,
@@ -230,24 +241,24 @@
    },
    "iata": "DMM",
    "verdict": {
-    "ko": "이용 불가 — 카타르항공 운항 중단",
-    "en": "Unavailable — Qatar Airways flights suspended",
-    "ar": "غير متاح — رحلات الخطوط الجوية القطرية معلّقة"
+    "ko": "이용 불가 — 카타르항공 운항 중단 (11/14 재개 발표)",
+    "en": "Unavailable — Qatar Airways flights suspended (resumption announced from 14 Nov)",
+    "ar": "غير متاح — رحلات الخطوط الجوية القطرية معلّقة (أُعلن استئنافها اعتبارًا من 14 نوفمبر)"
    },
    "carriers": {
-    "ko": "카타르항공 하루 3회 노선 — 10/12 일시 중단 공지, 재개일 미발표",
-    "en": "Qatar Airways route with three flights a day — temporary suspension announced 12 Oct; no resumption date announced",
-    "ar": "خط للخطوط الجوية القطرية بثلاث رحلات يوميًا — أُعلن تعليقه مؤقتًا في 12 أكتوبر، دون إعلان موعد للاستئناف"
+    "ko": "카타르항공 하루 3회 노선 — 10/12 일시 중단, 11/14부터 매일 운항 재개 공지",
+    "en": "Qatar Airways route with three flights a day — temporarily suspended on 12 Oct; daily flights to resume from 14 Nov per notice",
+    "ar": "خط للخطوط الجوية القطرية بثلاث رحلات يوميًا — عُلّق مؤقتًا في 12 أكتوبر، ويُستأنف التسيير اليومي اعتبارًا من 14 نوفمبر وفق الإشعار"
    },
    "times": {
-    "ko": "담맘 출발 04:40 · 10:50 · 22:30 (운항 중단 중)",
-    "en": "Departs Dammam 04:40 · 10:50 · 22:30 (currently suspended)",
-    "ar": "المغادرة من الدمام 04:40 · 10:50 · 22:30 (معلّقة حاليًا)"
+    "ko": "담맘 출발 04:40 · 10:50 · 22:30 (중단 전 시간표, 재개 후 시간표는 확인되지 않음)",
+    "en": "Departs Dammam 04:40 · 10:50 · 22:30 (pre-suspension schedule; schedule after resumption not confirmed)",
+    "ar": "المغادرة من الدمام 04:40 · 10:50 · 22:30 (جدول ما قبل التعليق؛ ولم يتأكّد الجدول بعد الاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공식 공지상 중단 유지, 재개일 미발표. 10/25 이후 담맘 출발편도 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님). 공항은 10/21 피격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 일부 지연·결항 속 운영(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항 드론 공격 주장(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음). 동부 지역을 향한 미사일·드론 요격 계속, 최근 11/10 드론 1기 요격(연합군 발표, 피해·공항 언급 없음).",
-    "en": "Suspension remains in place per Qatar Airways’ official notice; no resumption date announced. Dammam departures since 25 Oct are also shown as cancelled on flight-tracking sites (not an official airline announcement). The airport resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; GACA statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed). Interceptions of missiles and drones heading for the Eastern Province continue; most recently a drone was intercepted on 10 Nov (coalition statement; no damage or airport mentioned).",
-    "ar": "لا يزال التعليق ساريًا وفق الإشعار الرسمي للخطوط الجوية القطرية، دون إعلان موعد للاستئناف. وتظهر رحلات المغادرة من الدمام منذ 25 أكتوبر ملغاة أيضًا في مواقع تتبّع الرحلات (وليس إعلانًا رسميًا من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني)، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات). وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، وآخرها اعتراض طائرة مسيّرة في 10 نوفمبر (وفق بيان التحالف، دون ذكر أضرار أو المطار)."
+    "ko": "카타르항공 공식 공지상 11/14부터 매일 운항 재개, 그 전까지 중단(재개 후 실제 운항은 확인되지 않음). 10/25 이후 담맘 출발편도 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님). 공항은 10/21 피격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 일부 지연·결항 속 운영(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항 드론 공격 주장(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음). 동부 지역을 향한 미사일·드론 요격 계속, 최근 11/10 드론 1기 요격(연합군 발표, 피해·공항 언급 없음).",
+    "en": "Per Qatar Airways’ official notice, daily flights resume from 14 Nov and remain suspended until then (actual operation after resumption not confirmed). Dammam departures since 25 Oct are also shown as cancelled on flight-tracking sites (not an official airline announcement). The airport resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; GACA statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed). Interceptions of missiles and drones heading for the Eastern Province continue; most recently a drone was intercepted on 10 Nov (coalition statement; no damage or airport mentioned).",
+    "ar": "وفق الإشعار الرسمي للخطوط الجوية القطرية، تُستأنف الرحلات اليومية اعتبارًا من 14 نوفمبر وتبقى معلّقة حتى ذلك الحين (ولم يتأكّد التسيير الفعلي بعد الاستئناف). وتظهر رحلات المغادرة من الدمام منذ 25 أكتوبر ملغاة أيضًا في مواقع تتبّع الرحلات (وليس إعلانًا رسميًا من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني)، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات). وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، وآخرها اعتراض طائرة مسيّرة في 10 نوفمبر (وفق بيان التحالف، دون ذكر أضرار أو المطار)."
    },
    "refs": [
     11,
@@ -347,14 +358,14 @@
    },
    "iata": "RUH",
    "verdict": {
-    "ko": "도하 직항 정기 운항 재개 확인되지 않음 — 카타르항공 운항 중단, 사우디아 불규칙 운항",
-    "en": "Resumption of regular direct flights to Doha not confirmed — Qatar Airways flights suspended; Saudia operating irregularly",
-    "ar": "لم يتأكّد استئناف الرحلات المباشرة المنتظمة إلى الدوحة — رحلات الخطوط الجوية القطرية معلّقة، والخطوط السعودية تسيّر رحلات غير منتظمة"
+    "ko": "도하 직항 정기 운항 재개 확인되지 않음 — 카타르항공 운항 중단(11/13 재개 발표), 사우디아 불규칙 운항",
+    "en": "Resumption of regular direct flights to Doha not confirmed — Qatar Airways flights suspended (resumption announced from 13 Nov); Saudia operating irregularly",
+    "ar": "لم يتأكّد استئناف الرحلات المباشرة المنتظمة إلى الدوحة — رحلات الخطوط الجوية القطرية معلّقة (أُعلن استئنافها اعتبارًا من 13 نوفمبر)، والخطوط السعودية تسيّر رحلات غير منتظمة"
    },
    "carriers": {
-    "ko": "카타르항공: 공식 공지상 리야드 출도착편 일시 중단 · 사우디아: SV540편 11/1·11/3·11/7·11/10 운항 기록, 11/5·11/6 결항 표시, 11/8은 결항·운항 표시 엇갈림(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 운항 재개 발표는 확인되지 않음 · 플라이나스: 도하 노선 운항 확인되지 않음",
-    "en": "Qatar Airways: flights to and from Riyadh temporarily suspended per official notice · Saudia: flight SV540 recorded as operating on 1, 3, 7 and 10 Nov, shown as cancelled on 5 and 6 Nov, and shown both as cancelled and as operated on 8 Nov (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no resumption announcement confirmed · flynas: no Doha flights confirmed",
-    "ar": "الخطوط الجوية القطرية: الرحلات من الرياض وإليها معلّقة مؤقتًا وفق الإشعار الرسمي · الخطوط السعودية: سُجّل تسيير الرحلة SV540 أيام 1 و3 و7 و10 نوفمبر، وتظهر ملغاة يومَي 5 و6 نوفمبر، وتتضارب حالتها يوم 8 نوفمبر بين الإلغاء والتسيير (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات · طيران ناس: لم يتأكّد تسيير أي رحلات إلى الدوحة"
+    "ko": "카타르항공: 공식 공지상 11/13부터 매일 운항 재개, 그 전까지 중단(재개 후 실제 운항은 확인되지 않음) · 사우디아: SV540편 11/1·11/3·11/7·11/10 운항 기록, 11/5·11/6 결항 표시, 11/8은 결항·운항 표시 엇갈림(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 운항 재개 발표는 확인되지 않음 · 플라이나스: 도하 노선 운항 확인되지 않음",
+    "en": "Qatar Airways: per official notice, daily flights resume from 13 Nov and remain suspended until then (actual operation after resumption not confirmed) · Saudia: flight SV540 recorded as operating on 1, 3, 7 and 10 Nov, shown as cancelled on 5 and 6 Nov, and shown both as cancelled and as operated on 8 Nov (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no resumption announcement confirmed · flynas: no Doha flights confirmed",
+    "ar": "الخطوط الجوية القطرية: وفق الإشعار الرسمي، تُستأنف الرحلات اليومية اعتبارًا من 13 نوفمبر وتبقى معلّقة حتى ذلك الحين (ولم يتأكّد التسيير الفعلي بعد الاستئناف) · الخطوط السعودية: سُجّل تسيير الرحلة SV540 أيام 1 و3 و7 و10 نوفمبر، وتظهر ملغاة يومَي 5 و6 نوفمبر، وتتضارب حالتها يوم 8 نوفمبر بين الإلغاء والتسيير (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات · طيران ناس: لم يتأكّد تسيير أي رحلات إلى الدوحة"
    },
    "times": {
     "ko": "사우디아 SV540 리야드 출발 12:40 → 도하 14:00(예정) · 공항은 10/25부터 국내선·사우디 국적 항공사 일부 국제선에 한해 부분 재개(공항 발표) · 리야드발 일부 항공편은 카심 공항에서 운항(주사우디 미국대사관)",
@@ -362,9 +373,9 @@
     "ar": "الموعد المقرر لرحلة الخطوط السعودية SV540: الإقلاع من الرياض 12:40 والوصول إلى الدوحة 14:00 · أُعيد فتح المطار جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط (وفق إعلان المطار) · تُسيَّر بعض الرحلات التي تتخذ من الرياض مقرًا لها من مطار القصيم (وفق السفارة الأمريكية في السعودية)"
    },
    "note": {
-    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 항공사·근로자·여행객에게 이용하지 말라고 경고했고, 이후 공항 공격을 거듭 주장(최근 11/10, 후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음). 11/1에는 국제 항공사들에 메카·메디나 공역을 제외한 사우디 영공을 이용하지 말라고 경고(후티 측 경고). 리야드를 향한 미사일·드론 요격이 11/6부터 잇따르고 있고(최근 11/10 탄도미사일·순항미사일 각 1발, 연합군 발표, 피해 언급 없음), 11/8에는 떨어진 파편에 리야드 킹압둘라 금융지구(KAFD)의 아람코 사무 건물이 경미한 피해(사우디 에너지부 관계자 발표, 사상자 없음, 공항 언급 없음). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
-    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned airlines, workers and travellers not to use it, and have since repeatedly claimed attacks on it (most recently 10 Nov; Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed). On 1 Nov they warned international airlines not to use Saudi airspace except over Makkah and Madinah (Houthi warning). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently one ballistic missile and one cruise missile on 10 Nov, coalition statement; no damage mentioned), and on 8 Nov falling shrapnel caused minor damage to an Aramco administrative building in Riyadh’s King Abdullah Financial District (KAFD) (Saudi Ministry of Energy official; no casualties; no airport mentioned). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
-    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا شركات الطيران والعاملين والمسافرين من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 10 نوفمبر؛ ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات). وفي 1 نوفمبر حذّروا شركات الطيران الدولية من استخدام الأجواء السعودية باستثناء أجواء مكة المكرمة والمدينة المنورة (تحذير حوثي). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها صاروخ باليستي وصاروخ كروز في 10 نوفمبر، وفق بيان التحالف، دون ذكر أضرار)، وفي 8 نوفمبر لحقت أضرار طفيفة بمبنى إداري تابع لأرامكو السعودية في مركز الملك عبدالله المالي بالرياض جراء سقوط شظايا (وفق مصدر مسؤول في وزارة الطاقة السعودية، دون وقوع إصابات أو وفيات، ودون ذكر المطار). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
+    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 항공사·근로자·여행객에게 이용하지 말라고 경고했고, 이후 공항 공격을 거듭 주장(최근 11/10, 후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음). 11/1에는 국제 항공사들에 메카·메디나 공역을 제외한 사우디 영공을 이용하지 말라고 경고(후티 측 경고). 리야드를 향한 미사일·드론 요격이 11/6부터 잇따르고 있고(최근 11/11 순항미사일 3발, 연합군 발표, 피해 언급 없음), 11/8에는 떨어진 파편에 리야드 킹압둘라 금융지구(KAFD)의 아람코 사무 건물이 경미한 피해(사우디 에너지부 관계자 발표, 사상자 없음, 공항 언급 없음). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
+    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned airlines, workers and travellers not to use it, and have since repeatedly claimed attacks on it (most recently 10 Nov; Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed). On 1 Nov they warned international airlines not to use Saudi airspace except over Makkah and Madinah (Houthi warning). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently three cruise missiles on 11 Nov, coalition statement; no damage mentioned), and on 8 Nov falling shrapnel caused minor damage to an Aramco administrative building in Riyadh’s King Abdullah Financial District (KAFD) (Saudi Ministry of Energy official; no casualties; no airport mentioned). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
+    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا شركات الطيران والعاملين والمسافرين من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 10 نوفمبر؛ ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات). وفي 1 نوفمبر حذّروا شركات الطيران الدولية من استخدام الأجواء السعودية باستثناء أجواء مكة المكرمة والمدينة المنورة (تحذير حوثي). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها 3 صواريخ كروز في 11 نوفمبر، وفق بيان التحالف، دون ذكر أضرار)، وفي 8 نوفمبر لحقت أضرار طفيفة بمبنى إداري تابع لأرامكو السعودية في مركز الملك عبدالله المالي بالرياض جراء سقوط شظايا (وفق مصدر مسؤول في وزارة الطاقة السعودية، دون وقوع إصابات أو وفيات، ودون ذكر المطار). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
    },
    "refs": [
     16,
@@ -380,9 +391,10 @@
     76,
     77,
     78,
-    80,
     83,
-    84
+    84,
+    86,
+    87
    ]
   },
   {
@@ -439,15 +451,15 @@
    "status": [
     "미정",
     "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정"
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정"
    ],
    "refs": [
     76
@@ -624,14 +636,14 @@
     "미정",
     "미정",
     "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정",
-    "미정"
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정",
+    "예정"
    ],
    "refs": [
     24,
@@ -760,9 +772,9 @@
     "ar": "الطائف"
    },
    "note": {
-    "ko": "10/31 재개 예정이었으나 재개 확인되지 않음 — 10/31 편(QR1207)은 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님) · 카타르항공 공식 공지는 확인 시점에 따라 타이프를 일시 중단 대상에 넣기도 하고 빼기도 해 표기가 엇갈림(목록에서 빠질 때가 있어도 재개를 뜻하지는 않음), 재개 발표 없음",
-    "en": "Was due to resume on 31 Oct, but resumption not confirmed — the 31 Oct flight (QR1207) is shown as cancelled on flight-tracking sites (not an official airline announcement) · Qatar Airways’ official notice sometimes includes Taif among suspended destinations and sometimes omits it, depending on when it is checked (its omission does not mean flights have resumed); no resumption announced",
-    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر، لكن الاستئناف لم يتأكّد — تظهر رحلة 31 أكتوبر (QR1207) ملغاة في مواقع تتبّع الرحلات (وليس إعلانًا رسميًا من شركة الطيران) · يُدرج الإشعار الرسمي للخطوط الجوية القطرية الطائف ضمن الوجهات المعلّقة أحيانًا ويُسقطها أحيانًا أخرى بحسب وقت الاطلاع عليه (ولا يعني غيابها عن القائمة استئناف الرحلات)، ولم يُعلَن أي استئناف"
+    "ko": "10/31 재개 예정이었으나 재개되지 않음 — 10/31 편(QR1207)은 항공편 추적 사이트에 결항 표시(항공사 공식 발표 아님) · 카타르항공 공식 공지(11/11 갱신)는 타이프 출도착편 일시 중단 유지를 명시, 재개일 미발표",
+    "en": "Was due to resume on 31 Oct, but did not resume — the 31 Oct flight (QR1207) is shown as cancelled on flight-tracking sites (not an official airline announcement) · Qatar Airways’ official notice (updated 11 Nov) states that flights to and from Taif remain temporarily suspended; no resumption date announced",
+    "ar": "كان من المقرر استئناف الرحلات في 31 أكتوبر، لكنها لم تُستأنف — تظهر رحلة 31 أكتوبر (QR1207) ملغاة في مواقع تتبّع الرحلات (وليس إعلانًا رسميًا من شركة الطيران) · ينصّ الإشعار الرسمي للخطوط الجوية القطرية (المحدَّث في 11 نوفمبر) على استمرار التعليق المؤقت للرحلات من الطائف وإليها، دون إعلان موعد للاستئناف"
    },
    "refs": [
     5,
@@ -2090,16 +2102,16 @@
   {
    "n": 76,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/11 15:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 15:40 on 11 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 15:40 يوم 11 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/11 17:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 17:40 on 11 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 17:40 يوم 11 نوفمبر)"
    },
    "date": "2026-11-11",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/11 15:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 이번 확인) 없기도(최근 11/11 14:40경) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 15:40 (Doha) on 11 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently in this check) and sometimes not (most recently around 14:40 on 11 Nov) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 15:40 (بتوقيت الدوحة) يوم 11 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها في هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 14:40 يوم 11 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/11 17:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 같은 시각 일부 지역판 페이지(en-us·en-qa)는 아직 10/12 16:54 갱신판(아브하·담맘·리야드 일시 중단)을 표시(갱신 반영 지연으로 보임).",
+    "en": "Checked around 17:40 (Doha) on 11 Nov; last updated 11 Nov, 16:54 (Doha): states that daily flights to Riyadh (RUH) resume effective 13 Nov, that daily services to Dammam (DMM) will also resume on 14 Nov, and that flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. At the same time, some regional versions of the page (en-us, en-qa) still showed the version last updated 12 Oct, 16:54 (Abha, Dammam and Riyadh temporarily suspended), apparently because the update had not yet been reflected.",
+    "ar": "تم التحقق نحو الساعة 17:40 (بتوقيت الدوحة) يوم 11 نوفمبر؛ آخر تحديث 11 نوفمبر، 16:54 (بتوقيت الدوحة): نصّ على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من وإلى أبها (AHB) والطائف (TIF) (دون ذكر موعد للاستئناف). لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. وفي الوقت نفسه كانت بعض النسخ الإقليمية من الصفحة (en-us وen-qa) لا تزال تعرض النسخة المحدّثة في 12 أكتوبر، 16:54 (تعليق مؤقت لأبها والدمام والرياض)، ويبدو أن التحديث لم ينعكس عليها بعد."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2246,6 +2258,38 @@
     "en": "Published 10 Nov 19:32 (Pakistan time), Reuters: on Tue 10 Nov the Houthis denied attacking the East-West pipeline in the Madinah region and said they had attacked the pipeline in the capital, Riyadh. On 9 Nov a Saudi Ministry of Energy source had said the pipeline was attacked in the Madinah region but operations were not affected (state media). No Saudi response to the Houthi denial",
     "ar": "نُشر في 10 نوفمبر الساعة 19:32 (بتوقيت باكستان)، رويترز: نفى الحوثيون يوم الثلاثاء 10 نوفمبر مهاجمة خط أنابيب شرق-غرب في منطقة المدينة المنورة، وقالوا إنهم هاجموا خط الأنابيب في العاصمة الرياض. وكان مصدر في وزارة الطاقة السعودية قد ذكر في 9 نوفمبر أن خط الأنابيب تعرّض لهجوم في منطقة المدينة المنورة دون أن تتأثر عملياته (وسائل الإعلام الرسمية). لا رد سعوديًا على النفي الحوثي"
    }
+  },
+  {
+   "n": 86,
+   "name": {
+    "ko": "아나돌루통신 (Anadolu Agency, 11/11)",
+    "en": "Anadolu Agency (11 Nov)",
+    "ar": "وكالة الأناضول (11 نوفمبر)"
+   },
+   "date": "2026-11-11",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/11 게재: 연합군 대변인 투르키 알말리키가 11/11(수) 성명에서 후티가 리야드 지역을 향해 발사한 순항미사일 3발을 목표 도달 전에 요격했다고 발표. 피해·사상자 언급 없음, 공항 언급 없음",
+    "en": "Published 11 Nov: coalition spokesman Turki al-Maliki said in a statement on Wednesday 11 Nov that three cruise missiles launched by the Houthis towards the Riyadh region were intercepted before reaching their targets. No damage or casualties mentioned; no airport mentioned",
+    "ar": "نُشر في 11 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي في بيان يوم الأربعاء 11 نوفمبر اعتراض 3 صواريخ كروز أطلقها الحوثيون باتجاه منطقة الرياض قبل بلوغها أهدافها. دون ذكر أضرار أو إصابات، ودون ذكر أي مطار"
+   },
+   "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-3-houthi-cruise-missiles-targeting-riyadh/4120837"
+  },
+  {
+   "n": 87,
+   "name": {
+    "ko": "아랍타임스 (Arab Times, 11/11 17:10)",
+    "en": "Arab Times (11 Nov, 17:10)",
+    "ar": "عرب تايمز (11 نوفمبر، 17:10)"
+   },
+   "date": "2026-11-11",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/11 17:10(+03:00) 게재, 리야드발: 연합군이 11/11(수) 후티가 리야드 지역을 향해 발사한 순항미사일 3발을 사우디 방공망이 파괴했다고 발표. 피해·사상자 정보 없음, 공항 언급 없음",
+    "en": "Published 17:10 (+03:00) on 11 Nov, Riyadh dateline: the coalition announced on Wednesday 11 Nov that Saudi air defences destroyed three cruise missiles launched by the Houthis towards the Riyadh region. No information on damage or casualties; no airport mentioned",
+    "ar": "نُشر الساعة 17:10 (+03:00) يوم 11 نوفمبر من الرياض: أعلن التحالف يوم الأربعاء 11 نوفمبر أن الدفاعات الجوية السعودية دمّرت 3 صواريخ كروز أطلقها الحوثيون باتجاه منطقة الرياض. لا معلومات عن أضرار أو إصابات، ودون ذكر أي مطار"
+   },
+   "url": "https://www.arabtimesonline.com/news/saudi-air-defences-intercept-and-destroy-3-iran-backed-houthi-cruise-missiles-targeting-riyadh/"
   }
  ]
 }

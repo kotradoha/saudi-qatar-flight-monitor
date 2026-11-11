@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T18:40:00+03:00",
+ "updated_at": "2026-11-11T19:40:00+03:00",
  "window_start": "2026-11-11",
  "pills": [
   {
@@ -902,16 +902,16 @@
   {
    "n": 1,
    "name": {
-    "ko": "Aviability (SV543, 11/10 15:40경 확인)",
-    "en": "Aviability (SV543, checked around 15:40, 10 Nov)",
-    "ar": "Aviability (الرحلة SV543، تم التحقق نحو الساعة 15:40، 10 نوفمبر)"
+    "ko": "Aviability (SV543, 11/11 19:40경 확인)",
+    "en": "Aviability (SV543, checked around 19:40, 11 Nov)",
+    "ar": "Aviability (الرحلة SV543، تم التحقق نحو الساعة 19:40، 11 نوفمبر)"
    },
-   "date": "2026-11-10",
+   "date": "2026-11-11",
    "kind": "항공편 추적",
    "what": {
-    "ko": "사우디아 도하→제다 SV543: 11/8·11/9·11/10 ‘게이트 도착’(11/10 12:48 출발·15:23 도착 표시), 11/11 ‘예정’(12:50 출발). 항공사 공식 발표 아님",
-    "en": "Saudia Doha→Jeddah SV543: 8, 9 and 10 Nov ‘Arrived at gate’ (10 Nov shown as departing 12:48 and arriving 15:23); 11 Nov ‘Planned’ (12:50 departure). Not an official airline announcement",
-    "ar": "رحلة الخطوط السعودية SV543 من الدوحة إلى جدة: أيام 8 و9 و10 نوفمبر «وصلت إلى البوابة» (رحلة 10 نوفمبر مبيَّنة بالإقلاع 12:48 والوصول 15:23)، ورحلة 11 نوفمبر «مخطط لها» (الإقلاع 12:50). ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "사우디아 도하→제다 SV543: 11/8·11/9·11/10 ‘게이트 도착’(11/10 12:48 출발·15:23 도착 표시), 11/11 ‘착륙’(12:57 출발·15:35 도착 표시). 항공사 공식 발표 아님",
+    "en": "Saudia Doha→Jeddah SV543: 8, 9 and 10 Nov ‘Arrived at gate’ (10 Nov shown as departing 12:48 and arriving 15:23); 11 Nov ‘Landed’ (shown as departing 12:57 and arriving 15:35). Not an official airline announcement",
+    "ar": "رحلة الخطوط السعودية SV543 من الدوحة إلى جدة: أيام 8 و9 و10 نوفمبر «وصلت إلى البوابة» (رحلة 10 نوفمبر مبيَّنة بالإقلاع 12:48 والوصول 15:23)، ورحلة 11 نوفمبر «هبطت» (مبيَّنة بالإقلاع 12:57 والوصول 15:35). ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://aviability.com/flight-number/flight-sv543-saudia"
   },
@@ -2102,16 +2102,16 @@
   {
    "n": 76,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/11 18:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 18:40 on 11 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 18:40 يوم 11 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/11 19:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 19:40 on 11 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 19:40 يوم 11 نوفمبر)"
    },
    "date": "2026-11-11",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/11 18:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 같은 시각 en-qa·en-in 판은 이 11/11 갱신판을 표시했고, en 판 페이지는 아직 10/12 16:54 갱신판(아브하·담맘·리야드 일시 중단)을 표시(갱신 반영 지연으로 보임).",
-    "en": "Checked around 18:40 (Doha) on 11 Nov; last updated 11 Nov, 16:54 (Doha): states that daily flights to Riyadh (RUH) resume effective 13 Nov, that daily services to Dammam (DMM) will also resume on 14 Nov, and that flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. At the same time, the en-qa and en-in versions showed this 11 Nov update, while the en version of the page still showed the version last updated 12 Oct, 16:54 (Abha, Dammam and Riyadh temporarily suspended), apparently because the update had not yet been reflected.",
-    "ar": "تم التحقق نحو الساعة 18:40 (بتوقيت الدوحة) يوم 11 نوفمبر؛ آخر تحديث 11 نوفمبر، 16:54 (بتوقيت الدوحة): نصّ على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من وإلى أبها (AHB) والطائف (TIF) (دون ذكر موعد للاستئناف). لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. وفي الوقت نفسه عرضت نسختا en-qa وen-in هذا التحديث الصادر في 11 نوفمبر، بينما كانت النسخة en من الصفحة لا تزال تعرض النسخة المحدّثة في 12 أكتوبر، 16:54 (تعليق مؤقت لأبها والدمام والرياض)، ويبدو أن التحديث لم ينعكس عليها بعد."
+    "ko": "11/11 19:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 이번 확인 때는 en-qa 판과 en 판 모두 이 11/11 갱신판을 표시(직전 18:40경 확인 때는 en 판이 아직 10/12 갱신판을 표시했었음).",
+    "en": "Checked around 19:40 (Doha) on 11 Nov; last updated 11 Nov, 16:54 (Doha): states that daily flights to Riyadh (RUH) resume effective 13 Nov, that daily services to Dammam (DMM) will also resume on 14 Nov, and that flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. At this check both the en-qa and en versions showed this 11 Nov update (at the previous check around 18:40, the en version still showed the 12 Oct version).",
+    "ar": "تم التحقق نحو الساعة 19:40 (بتوقيت الدوحة) يوم 11 نوفمبر؛ آخر تحديث 11 نوفمبر، 16:54 (بتوقيت الدوحة): نصّ على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من وإلى أبها (AHB) والطائف (TIF) (دون ذكر موعد للاستئناف). لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. وفي هذا التحقق عرضت نسختا en-qa وen هذا التحديث الصادر في 11 نوفمبر (وفي التحقق السابق نحو الساعة 18:40 كانت النسخة en لا تزال تعرض نسخة 12 أكتوبر)."
    },
    "url": "https://www.qatarairways.com/en-qa/travel-alerts.html"
   },

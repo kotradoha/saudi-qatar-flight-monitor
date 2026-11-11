@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T08:40:00+03:00",
+ "updated_at": "2026-11-11T09:36:00+03:00",
  "window_start": "2026-11-11",
  "pills": [
   {
@@ -9,9 +9,9 @@
     "ar": "<b>9 نوفمبر (الاثنين) استهداف خط أنابيب شرق-غرب في منطقة المدينة المنورة</b>: تعرّض خط أنابيب النفط شرق-غرب في منطقة المدينة المنورة لهجوم أدى إلى حريق صغير، دون وقوع إصابات (وفق وكالة الأنباء السعودية (واس) ومصدر مسؤول في وزارة الطاقة؛ لم تُحدَّد الجهة المهاجِمة؛ ولم تتأثر عمليات خط الأنابيب؛ ولم يُذكر أي أثر على المطارات أو الرحلات)؛ ونفى الحوثيون مهاجمة خط الأنابيب في المدينة المنورة وادّعوا أنهم هاجموه في الرياض (الروايات متضاربة)"
    },
    "refs": [
-    83,
-    84,
-    88
+    80,
+    81,
+    85
    ]
   },
   {
@@ -56,23 +56,23 @@
     19,
     39,
     51,
-    69,
-    70,
+    66,
+    67,
+    71,
     74,
+    76,
     77,
-    79,
+    78,
     80,
-    81,
     83,
-    86,
-    87
+    84
    ]
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공식 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 카타르항공은 제다 노선을 하루 7회에서 4회로 줄였고(10/19 보도, 기간·해당 편 미발표), 제다 QR1183편은 10/26 이후 운항 기록이 없습니다(사이트에 따라 결항·예정 표시 엇갈림). 서부 지역도 위협에서 벗어나 있지 않습니다. 메카·메디나 지역을 향한 드론·미사일 요격이 이어지고 있고(최근 11/5 메디나, 11/6 메카, 연합군 발표; 후티는 일부 발사를 부인해 주장 엇갈림), 11/9에는 메디나 지역의 동서 송유관이 공격받아 작은 화재가 났습니다(사우디 국영통신·에너지부 관계자 발표, 사상자 없음, 공격 주체 미발표; 후티는 메디나 송유관 공격을 부인해 주장 엇갈림). 공항 운영에 미친 영향은 보도되지 않았습니다.",
-    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for reaching Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ official notice makes no mention of suspending flights to either city. However, Qatar Airways has cut the Jeddah route from 7 to 4 flights a day (19 Oct reports; duration and affected flights not announced), and Jeddah flight QR1183 has had no operating record since 26 Oct (sites differ, showing it as cancelled or scheduled). The western region is not free of threats either: interceptions of drones and missiles heading for the Makkah and Madinah regions are continuing (most recently Madinah on 5 Nov and Makkah on 6 Nov, coalition statements; the Houthis denied some launches, so accounts conflict), and on 9 Nov the East-West oil pipeline in the Madinah region was attacked, causing a small fire (Saudi Press Agency and a Ministry of Energy official; no casualties; attacker not named; the Houthis denied attacking the pipeline in Madinah, so accounts conflict). No impact on airport operations has been reported.",
-    "ar": "<span class='grn'>جدة والمدينة المنورة هما الخياران الأكثر استقرارًا للوصول إلى الدوحة.</span> سُجّل تسيير رحلة الخطوط الجوية القطرية QR1185 من جدة ورحلة QR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات المدينتين. غير أن الخطوط الجوية القطرية خفّضت رحلات خط جدة من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير رحلة جدة QR1183 منذ 26 أكتوبر (تتباين المواقع بين عرضها ملغاة أو مجدولة). ولا تخلو المنطقة الغربية من التهديد؛ إذ تتواصل عمليات اعتراض طائرات مسيّرة وصواريخ متجهة إلى منطقتَي مكة المكرمة والمدينة المنورة (آخرها المدينة المنورة في 5 نوفمبر ومكة المكرمة في 6 نوفمبر، وفق بيانات التحالف؛ ونفى الحوثيون بعض عمليات الإطلاق، فالروايات متضاربة)، وفي 9 نوفمبر تعرّض خط أنابيب النفط شرق-غرب في منطقة المدينة المنورة لهجوم أدى إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات، ولم تُحدَّد الجهة المهاجِمة؛ ونفى الحوثيون مهاجمة خط الأنابيب في المدينة المنورة، فالروايات متضاربة). ولم تُذكر أي آثار على تشغيل المطارات."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공식 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 카타르항공은 제다 노선을 하루 7회에서 4회로 줄였고(10/19 보도, 기간·해당 편 미발표), 제다 QR1183편은 10/26 이후 운항 기록이 없습니다(사이트에 따라 결항·예정 표시 엇갈림). 서부 지역도 위협에서 벗어나 있지 않습니다. 메카·메디나 지역을 향한 드론·미사일 요격이 이어지고 있고(최근 11/6 메카 지역, 연합군 발표), 11/9에는 메디나 지역의 동서 송유관이 공격받아 작은 화재가 났습니다(사우디 국영통신·에너지부 관계자 발표, 사상자 없음, 공격 주체 미발표; 후티는 메디나 송유관 공격을 부인해 주장 엇갈림). 공항 운영에 미친 영향은 보도되지 않았습니다.",
+    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for reaching Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ official notice makes no mention of suspending flights to either city. However, Qatar Airways has cut the Jeddah route from 7 to 4 flights a day (19 Oct reports; duration and affected flights not announced), and Jeddah flight QR1183 has had no operating record since 26 Oct (sites differ, showing it as cancelled or scheduled). The western region is not free of threats either: interceptions of drones and missiles heading for the Makkah and Madinah regions are continuing (most recently the Makkah region on 6 Nov, coalition statement), and on 9 Nov the East-West oil pipeline in the Madinah region was attacked, causing a small fire (Saudi Press Agency and a Ministry of Energy official; no casualties; attacker not named; the Houthis denied attacking the pipeline in Madinah, so accounts conflict). No impact on airport operations has been reported.",
+    "ar": "<span class='grn'>جدة والمدينة المنورة هما الخياران الأكثر استقرارًا للوصول إلى الدوحة.</span> سُجّل تسيير رحلة الخطوط الجوية القطرية QR1185 من جدة ورحلة QR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق لرحلات المدينتين. غير أن الخطوط الجوية القطرية خفّضت رحلات خط جدة من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير رحلة جدة QR1183 منذ 26 أكتوبر (تتباين المواقع بين عرضها ملغاة أو مجدولة). ولا تخلو المنطقة الغربية من التهديد؛ إذ تتواصل عمليات اعتراض طائرات مسيّرة وصواريخ متجهة إلى منطقتَي مكة المكرمة والمدينة المنورة (آخرها منطقة مكة المكرمة في 6 نوفمبر، وفق بيان التحالف)، وفي 9 نوفمبر تعرّض خط أنابيب النفط شرق-غرب في منطقة المدينة المنورة لهجوم أدى إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات، ولم تُحدَّد الجهة المهاجِمة؛ ونفى الحوثيون مهاجمة خط الأنابيب في المدينة المنورة، فالروايات متضاربة). ولم تُذكر أي آثار على تشغيل المطارات."
    },
    "refs": [
     8,
@@ -89,15 +89,13 @@
     53,
     54,
     55,
-    57,
-    61,
-    66,
-    75,
+    63,
+    72,
+    73,
     76,
-    79,
-    83,
-    84,
-    88
+    80,
+    81,
+    85
    ]
   },
   {
@@ -115,11 +113,11 @@
     43,
     44,
     45,
-    61,
-    62,
-    63,
-    79,
-    85
+    58,
+    59,
+    60,
+    76,
+    82
    ]
   },
   {
@@ -174,10 +172,10 @@
     47,
     53,
     55,
-    66,
-    75,
-    79,
-    82
+    63,
+    72,
+    76,
+    79
    ]
   },
   {
@@ -204,9 +202,9 @@
     "ar": "المغادرة من المدينة المنورة 04:50"
    },
    "note": {
-    "ko": "카타르항공 QR1175는 10/25 이후 매일 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 운항 중단 언급 없음. 사우디아 SV540편은 10/28·10/30·11/2·11/9 메디나→도하 기록이 있으나 다른 날에는 리야드 출발로 표시돼 메디나 정기 운항 여부는 확인되지 않음(항공편 추적 사이트 1곳 기준, 항공사 공식 발표 아님). 메디나 방면 위협 계속: 11/5 메디나 지역을 향한 후티 탄도미사일 1발 요격(연합군 발표, 후티는 부인해 주장 엇갈림), 11/9 메디나 지역 동서 송유관 피격으로 작은 화재(사우디 국영통신·에너지부 관계자 발표, 사상자 없음, 공격 주체 미발표; 후티는 메디나 송유관 공격을 부인해 주장 엇갈림). 공항 영향 보도 없음.",
-    "en": "Qatar Airways QR1175 has records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement). Qatar Airways’ official notice makes no mention of a suspension. Saudia SV540 has Madinah→Doha records on 28 Oct, 30 Oct, 2 Nov and 9 Nov, but on other days it is shown departing from Riyadh, so whether it serves Madinah regularly is unconfirmed (according to one flight-tracking site, not an official airline announcement). Threats towards Madinah continue: on 5 Nov a Houthi ballistic missile heading for the Madinah region was intercepted (coalition statement; the Houthis denied it, so accounts conflict), and on 9 Nov an attack on the East-West oil pipeline in the Madinah region caused a small fire (Saudi Press Agency and a Ministry of Energy official; no casualties; attacker not named; the Houthis denied attacking the pipeline in Madinah, so accounts conflict). No impact on the airport reported.",
-    "ar": "سُجّل تسيير رحلة الخطوط الجوية القطرية QR1175 يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق. وتوجد سجلات لرحلة الخطوط السعودية SV540 من المدينة المنورة إلى الدوحة في 28 أكتوبر و30 أكتوبر و2 نوفمبر و9 نوفمبر، لكنها تظهر في أيام أخرى مغادِرةً من الرياض، فلم يتأكّد تسييرها المنتظم من المدينة المنورة (وفق موقع واحد لتتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يزال التهديد قائمًا باتجاه المدينة المنورة؛ إذ اعتُرض في 5 نوفمبر صاروخ باليستي حوثي متجه إلى منطقة المدينة المنورة (وفق بيان التحالف؛ ونفى الحوثيون ذلك، فالروايات متضاربة)، وفي 9 نوفمبر أدى هجوم على خط أنابيب النفط شرق-غرب في منطقة المدينة المنورة إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات، ولم تُحدَّد الجهة المهاجِمة؛ ونفى الحوثيون مهاجمة خط الأنابيب في المدينة المنورة، فالروايات متضاربة). ولم تُذكر أي آثار على المطار."
+    "ko": "카타르항공 QR1175는 10/25 이후 매일 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 운항 중단 언급 없음. 사우디아 SV540편은 10/28·10/30·11/2·11/9 메디나→도하 기록이 있으나 다른 날에는 리야드 출발로 표시돼 메디나 정기 운항 여부는 확인되지 않음(항공편 추적 사이트 1곳 기준, 항공사 공식 발표 아님). 메디나 방면 위협 계속: 11/9 메디나 지역 동서 송유관 피격으로 작은 화재(사우디 국영통신·에너지부 관계자 발표, 사상자 없음, 공격 주체 미발표; 후티는 메디나 송유관 공격을 부인해 주장 엇갈림). 공항 영향 보도 없음.",
+    "en": "Qatar Airways QR1175 has records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement). Qatar Airways’ official notice makes no mention of a suspension. Saudia SV540 has Madinah→Doha records on 28 Oct, 30 Oct, 2 Nov and 9 Nov, but on other days it is shown departing from Riyadh, so whether it serves Madinah regularly is unconfirmed (according to one flight-tracking site, not an official airline announcement). Threats towards Madinah continue: on 9 Nov an attack on the East-West oil pipeline in the Madinah region caused a small fire (Saudi Press Agency and a Ministry of Energy official; no casualties; attacker not named; the Houthis denied attacking the pipeline in Madinah, so accounts conflict). No impact on the airport reported.",
+    "ar": "سُجّل تسيير رحلة الخطوط الجوية القطرية QR1175 يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر الإشعار الرسمي للخطوط الجوية القطرية أي تعليق. وتوجد سجلات لرحلة الخطوط السعودية SV540 من المدينة المنورة إلى الدوحة في 28 أكتوبر و30 أكتوبر و2 نوفمبر و9 نوفمبر، لكنها تظهر في أيام أخرى مغادِرةً من الرياض، فلم يتأكّد تسييرها المنتظم من المدينة المنورة (وفق موقع واحد لتتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يزال التهديد قائمًا باتجاه المدينة المنورة؛ إذ أدى في 9 نوفمبر هجوم على خط أنابيب النفط شرق-غرب في منطقة المدينة المنورة إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات، ولم تُحدَّد الجهة المهاجِمة؛ ونفى الحوثيون مهاجمة خط الأنابيب في المدينة المنورة، فالروايات متضاربة). ولم تُذكر أي آثار على المطار."
    },
    "refs": [
     18,
@@ -215,15 +213,12 @@
     40,
     46,
     54,
-    57,
-    58,
-    61,
-    74,
+    71,
+    73,
     76,
-    79,
-    83,
-    84,
-    88
+    80,
+    81,
+    85
    ]
   },
   {
@@ -265,11 +260,11 @@
     43,
     44,
     45,
-    61,
-    62,
-    63,
-    79,
-    85
+    58,
+    59,
+    60,
+    76,
+    82
    ]
   },
   {
@@ -302,9 +297,9 @@
    },
    "refs": [
     2,
-    60,
-    73,
-    79
+    57,
+    70,
+    76
    ]
   },
   {
@@ -339,8 +334,8 @@
     28,
     37,
     56,
-    68,
-    79
+    65,
+    76
    ]
   },
   {
@@ -378,16 +373,16 @@
     38,
     39,
     51,
-    69,
-    70,
+    66,
+    67,
+    71,
     74,
+    76,
     77,
-    79,
+    78,
     80,
-    81,
     83,
-    86,
-    87
+    84
    ]
   },
   {
@@ -422,9 +417,9 @@
     48,
     49,
     52,
-    79,
-    83,
-    85
+    76,
+    80,
+    82
    ]
   }
  ],
@@ -455,7 +450,7 @@
     "미정"
    ],
    "refs": [
-    79
+    76
    ]
   },
   {
@@ -486,7 +481,7 @@
    "refs": [
     39,
     51,
-    74
+    71
    ]
   },
   {
@@ -548,8 +543,8 @@
     8,
     32,
     55,
-    75,
-    79
+    72,
+    76
    ]
   },
   {
@@ -609,8 +604,8 @@
    ],
    "refs": [
     54,
-    76,
-    79
+    73,
+    76
    ]
   },
   {
@@ -641,7 +636,7 @@
    "refs": [
     24,
     25,
-    79
+    76
    ]
   },
   {
@@ -670,9 +665,9 @@
     "예정"
    ],
    "refs": [
-    60,
-    73,
-    79
+    57,
+    70,
+    76
    ]
   },
   {
@@ -702,8 +697,8 @@
    ],
    "refs": [
     56,
-    68,
-    79
+    65,
+    76
    ]
   },
   {
@@ -733,7 +728,7 @@
    ],
    "refs": [
     3,
-    79
+    76
    ]
   }
  ],
@@ -754,8 +749,8 @@
     31,
     36,
     41,
-    67,
-    79
+    64,
+    76
    ]
   },
   {
@@ -772,7 +767,7 @@
    "refs": [
     5,
     29,
-    79
+    76
    ]
   },
   {
@@ -782,13 +777,12 @@
     "ar": "ينبع"
    },
    "note": {
-    "ko": "2027-01-02 재개 예정 · 11/5(목) 얀부에 비상 경보가 발령됐다가 해제됨(사우디 민방위청 발표, 위협 종류·피해 언급 없음)",
-    "en": "Flights due to resume on 2 Jan 2027 · On Thu 5 Nov an emergency alert was issued and then lifted in Yanbu (Saudi Civil Defense statement; type of threat and damage not mentioned)",
-    "ar": "من المقرر استئناف الرحلات في 2 يناير 2027 · صدر إنذار طوارئ في ينبع يوم الخميس 5 نوفمبر ثم رُفع (وفق بيان الدفاع المدني السعودي، دون ذكر نوع التهديد أو أضرار)"
+    "ko": "2027-01-02 재개 예정",
+    "en": "Flights due to resume on 2 Jan 2027",
+    "ar": "من المقرر استئناف الرحلات في 2 يناير 2027"
    },
    "refs": [
-    5,
-    59
+    5
    ]
   },
   {
@@ -823,7 +817,7 @@
     44,
     50,
     52,
-    72
+    69
    ]
   },
   {
@@ -840,10 +834,10 @@
    "refs": [
     4,
     26,
-    64,
-    65,
-    71,
-    78
+    61,
+    62,
+    68,
+    75
    ]
   },
   {
@@ -1792,54 +1786,6 @@
   {
    "n": 57,
    "name": {
-    "ko": "더 페닌슐라 (The Peninsula, 11/5)",
-    "en": "The Peninsula (5 Nov)",
-    "ar": "ذا بننسولا (The Peninsula، 5 نوفمبر)"
-   },
-   "date": "2026-11-05",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/5 13:09(도하) 게재: 사우디 방공망이 11/5(목) 후티가 메디나 지역을 향해 발사한 탄도미사일 1발을 요격·파괴했다고 연합군 대변인이 X에 발표. 요격 시각·피해·공항·항공편 언급 없음",
-    "en": "Published 13:09 (Doha) on 5 Nov: the coalition spokesperson announced on X that Saudi air defences on Thursday 5 Nov intercepted and destroyed a ballistic missile launched by the Houthis towards the Madinah region. No mention of the time of interception, damage, the airport or flights",
-    "ar": "نُشر الساعة 13:09 (بتوقيت الدوحة) يوم 5 نوفمبر: أعلن المتحدث باسم التحالف عبر منصة X أن الدفاعات الجوية السعودية اعترضت يوم الخميس 5 نوفمبر صاروخًا باليستيًا أطلقه الحوثيون باتجاه منطقة المدينة المنورة ودمّرته. دون ذكر وقت الاعتراض أو أضرار أو المطار أو الرحلات"
-   },
-   "url": "https://thepeninsulaqatar.com/article/05/11/2026/saudi-air-defenses-intercept-destroy-houthi-ballistic-missile-over-madinah"
-  },
-  {
-   "n": 58,
-   "name": {
-    "ko": "아랍뉴스 (Arab News, 11/5)",
-    "en": "Arab News (5 Nov)",
-    "ar": "عرب نيوز (Arab News، 5 نوفمبر)"
-   },
-   "date": "2026-11-05",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/5 13:08(리야드) 게재: 투르키 알말리키 연합군 대변인이 X에서 “방공망이 후티 테러 민병대가 메디나 지역을 향해 발사한 탄도미사일을 요격·파괴했다”고 발표. 요격 시각·피해·공항·항공편 언급 없음",
-    "en": "Published 13:08 (Riyadh) on 5 Nov: coalition spokesman Turki Al-Malki said on X that “air defense intercepted and destroyed a ballistic missile launched by the terrorist Houthi militia toward the Medina region”. No mention of the time of interception, damage, the airport or flights",
-    "ar": "نُشر الساعة 13:08 (بتوقيت الرياض) يوم 5 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي عبر منصة X أن الدفاعات الجوية اعترضت ودمّرت صاروخًا باليستيًا أطلقته ميليشيا الحوثي باتجاه منطقة المدينة المنورة. دون ذكر وقت الاعتراض أو أضرار أو المطار أو الرحلات"
-   },
-   "url": "https://www.arabnews.com/saudi-arabia/saudi-coalition-says-houthi-missile-fired-at-medina-region-intercepted-3009937"
-  },
-  {
-   "n": 59,
-   "name": {
-    "ko": "로이터 (Reuters, 11/5, Internazionale 게재)",
-    "en": "Reuters (5 Nov, via Internazionale)",
-    "ar": "رويترز (5 نوفمبر، عبر Internazionale)"
-   },
-   "date": "2026-11-05",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/5 12:33(CET) 게재: 사우디가 11/5(목) 홍해 원유 수출 거점 얀부에 ‘잠재적 위험’ 경보를 발령했고, 민방위청은 샤루라에도 비상 경보를 발령. 연합군은 메디나를 향해 발사된 미사일을 파괴했다고 발표. 11/5 기준 후티는 사우디 공격을 주장하지 않았음. 피해·공항·항공편 언급 없음",
-    "en": "Published 5 Nov 12:33 (CET): Saudi Arabia issued 'potential danger' alerts on Thu 5 Nov for Yanbu, its Red Sea oil export hub, and Civil Defense also issued emergency alerts for Sharurah. The coalition said it destroyed a missile launched toward Medina. As of 5 Nov the Houthis had not claimed any attack on the kingdom. No damage, airport or flights mentioned",
-    "ar": "نُشر في 5 نوفمبر الساعة 12:33 (بتوقيت وسط أوروبا): أصدرت السعودية يوم الخميس 5 نوفمبر إنذارات بـ«خطر محتمل» في ينبع، مركز تصدير النفط على البحر الأحمر، كما أصدر الدفاع المدني إنذارات طوارئ في شرورة. وأعلن التحالف تدمير صاروخ أُطلق باتجاه المدينة المنورة. وحتى 5 نوفمبر لم يعلن الحوثيون أي هجوم على المملكة. دون ذكر أضرار أو مطارات أو رحلات"
-   },
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/05/saudi-arabia-warns-of-potential-danger-in-yanbu-oil-hub-as-houthi-attacks-continue"
-  },
-  {
-   "n": 60,
-   "name": {
     "ko": "Trip.com 항공편 현황 (QR1228·QR1229, 11/5 19:40경 확인)",
     "en": "Trip.com flight status (QR1228 and QR1229, checked around 19:40 on 5 Nov)",
     "ar": "حالة الرحلات على Trip.com (QR1228 وQR1229، تحقّقنا منها نحو الساعة 19:40 في 5 نوفمبر)"
@@ -1854,7 +1800,7 @@
    "url": "https://www.trip.com/flights/status-qr1228/"
   },
   {
-   "n": 61,
+   "n": 58,
    "name": {
     "ko": "시아사트 (Siasat Daily, 11/5)",
     "en": "Siasat Daily (5 Nov)",
@@ -1870,7 +1816,7 @@
    "url": "https://www.siasat.com/houthis-claim-drone-attack-on-dammam-airport-3570433/"
   },
   {
-   "n": 62,
+   "n": 59,
    "name": {
     "ko": "APA (아제르바이잔 통신, 11/5)",
     "en": "APA (Azerbaijan, 5 Nov)",
@@ -1886,7 +1832,7 @@
    "url": "https://en.apa.az/asia/houthis-claim-drone-attack-on-saudi-arabias-dammam-airport-534394"
   },
   {
-   "n": 63,
+   "n": 60,
    "name": {
     "ko": "News.az (아나돌루 통신 인용)",
     "en": "News.az (citing Anadolu Agency)",
@@ -1902,7 +1848,7 @@
    "url": "https://news.az/news/drone-intercepted-over-saudi-arabia-s-eastern-province"
   },
   {
-   "n": 64,
+   "n": 61,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/6)",
     "en": "Arab News (6 Nov)",
@@ -1918,7 +1864,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-houthi-ballistic-missiles-targeting-najran-3010126"
   },
   {
-   "n": 65,
+   "n": 62,
    "name": {
     "ko": "미들이스트아이 (Middle East Eye, 11/6 라이브 블로그)",
     "en": "Middle East Eye (6 Nov live blog)",
@@ -1934,7 +1880,7 @@
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-two-houthi-missiles-fired-towards-saudi-arabias"
   },
   {
-   "n": 66,
+   "n": 63,
    "name": {
     "ko": "LBC (AFP 인용, 11/6)",
     "en": "LBC (citing AFP, 6 Nov)",
@@ -1950,7 +1896,7 @@
    "url": "https://www.lbcgroup.tv/news/middleeastnews/966646/saudi-led-coalition-says-it-intercepted-drone-in-mecca-region/en"
   },
   {
-   "n": 67,
+   "n": 64,
    "name": {
     "ko": "aviability 항공편 현황 (QR1195, 11/8 14:38경 확인)",
     "en": "aviability flight status (QR1195, checked around 14:38 on 8 Nov)",
@@ -1966,7 +1912,7 @@
    "url": "https://aviability.com/flight-number/flight-qr1195-qatar-airways"
   },
   {
-   "n": 68,
+   "n": 65,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1203, 11/6 20:45경 확인)",
     "en": "Trip.com flight status (QR1203, checked around 20:45 on 6 Nov)",
@@ -1982,7 +1928,7 @@
    "url": "https://pk.trip.com/flights/status-qr1203/"
   },
   {
-   "n": 69,
+   "n": 66,
    "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/6)",
     "en": "Anadolu Agency (6 Nov)",
@@ -1998,7 +1944,7 @@
    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-destroyed-drone-in-region-of-saudi-capital-riyadh/4114767"
   },
   {
-   "n": 70,
+   "n": 67,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/7 갱신)",
     "en": "Arab News (updated 7 Nov)",
@@ -2014,7 +1960,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
   },
   {
-   "n": 71,
+   "n": 68,
    "name": {
     "ko": "타스통신 (TASS, 11/7)",
     "en": "TASS (7 Nov)",
@@ -2030,7 +1976,7 @@
    "url": "https://tass.com/world/2214301"
   },
   {
-   "n": 72,
+   "n": 69,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/7 13:15 갱신)",
     "en": "Arab News (updated 13:15, 7 Nov)",
@@ -2046,7 +1992,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/saudi-air-defenses-intercept-ballistic-missile-drone-in-riyadh-region-3010236"
   },
   {
-   "n": 73,
+   "n": 70,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1229, 11/9 23:40경 확인)",
     "en": "Trip.com flight status (QR1229, checked around 23:40, 9 Nov)",
@@ -2062,7 +2008,7 @@
    "url": "https://www.trip.com/flights/status-qr1229/"
   },
   {
-   "n": 74,
+   "n": 71,
    "name": {
     "ko": "Trip.com 항공편 현황 (SV540, 11/11 01:40경 확인)",
     "en": "Trip.com flight status (SV540, checked around 01:40, 11 Nov)",
@@ -2078,7 +2024,7 @@
    "url": "https://us.trip.com/flights/status-sv540/"
   },
   {
-   "n": 75,
+   "n": 72,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1185, 11/10 00:40경 확인)",
     "en": "Trip.com flight status (QR1185, checked around 00:40, 10 Nov)",
@@ -2094,7 +2040,7 @@
    "url": "https://www.trip.com/flights/status-qr1185/"
   },
   {
-   "n": 76,
+   "n": 73,
    "name": {
     "ko": "aviability 항공편 현황 (QR1175, 11/11 01:40경 확인)",
     "en": "aviability flight status (QR1175, checked around 01:40, 11 Nov)",
@@ -2110,7 +2056,7 @@
    "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
   },
   {
-   "n": 77,
+   "n": 74,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/8 09:29 갱신)",
     "en": "Arab News (updated 09:29, 8 Nov)",
@@ -2126,7 +2072,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/saudi-defenses-intercept-houthi-missiles-targeting-riyadh-southern-regions-3010424"
   },
   {
-   "n": 78,
+   "n": 75,
    "name": {
     "ko": "데일리 베이루트 (Daily Beirut, 11/8)",
     "en": "Daily Beirut (8 Nov)",
@@ -2142,23 +2088,23 @@
    "url": "https://dailybeirut.com/en/world/saudi-arabia-intercepts-destroys-houthi-missiles-drone/"
   },
   {
-   "n": 79,
+   "n": 76,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/11 08:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 08:40 on 11 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 08:40 يوم 11 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/11 09:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 09:40 on 11 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 09:40 يوم 11 نوفمبر)"
    },
    "date": "2026-11-11",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/11 08:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 이번 확인) 없기도(최근 11/10 18:40경) 함(타이프 재개를 알리는 공지는 없음).",
-    "en": "When checked around 08:40 (Doha) on 11 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently in this check) and sometimes not (most recently around 18:40 on 10 Nov) (no notice announcing a Taif resumption).",
-    "ar": "عند التحقق نحو الساعة 08:40 (بتوقيت الدوحة) يوم 11 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها في هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 18:40 يوم 10 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
+    "ko": "11/11 09:40경(도하) 확인 시점에 ‘아브하(AHB)·담맘(DMM)·리야드(RUH)·타이프(TIF) 출도착편 일시 중단’ 명시, 재개일 미기재. 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 최종 갱신 10/12 16:54(도하). 타이프는 11/7 이후 확인 시점에 따라 목록에 있기도(최근 이번 확인) 없기도(최근 11/10 18:40경) 함(타이프 재개를 알리는 공지는 없음).",
+    "en": "When checked around 09:40 (Doha) on 11 Nov, stated that flights to and from Abha (AHB), Dammam (DMM), Riyadh (RUH) and Taif (TIF) are temporarily suspended; no resumption date given. No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Last updated 12 Oct, 16:54 (Doha). Since 7 Nov, depending on the time of checking, Taif has sometimes been on the list (most recently in this check) and sometimes not (most recently around 18:40 on 10 Nov) (no notice announcing a Taif resumption).",
+    "ar": "عند التحقق نحو الساعة 09:40 (بتوقيت الدوحة) يوم 11 نوفمبر، نصّ التنبيه على التعليق المؤقت للرحلات من وإلى أبها (AHB) والدمام (DMM) والرياض (RUH) والطائف (TIF)، دون ذكر موعد للاستئناف. لا ذكر لجدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. آخر تحديث 12 أكتوبر، 16:54 (بتوقيت الدوحة). ومنذ 7 نوفمبر تظهر الطائف في القائمة أحيانًا (آخرها في هذا التحقق) وتغيب أحيانًا أخرى (آخرها نحو الساعة 18:40 يوم 10 نوفمبر) بحسب وقت التحقق (دون أي إعلان عن استئناف الرحلات إلى الطائف)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
   {
-   "n": 80,
+   "n": 77,
    "name": {
     "ko": "AP 통신 (WSLS 게재, 11/8 10:05 UTC)",
     "en": "Associated Press (via WSLS, 8 Nov 10:05 UTC)",
@@ -2174,7 +2120,7 @@
    "url": "https://www.wsls.com/news/world/2026/11/08/saudi-arabia-intercepts-missiles-as-aramco-building-in-riyadh-is-damaged-and-other-mideast-news/"
   },
   {
-   "n": 81,
+   "n": 78,
    "name": {
     "ko": "아샤르크 알아우사트 (Asharq Al-Awsat, 11/8 05:44·09:27 갱신)",
     "en": "Asharq Al-Awsat (8 Nov, 05:44; updated 09:27)",
@@ -2190,7 +2136,7 @@
    "url": "https://english.aawsat.com/gulf/5338801-energy-ministry-minor-damage-attempted-attack-saudi-aramco-building-riyadh"
   },
   {
-   "n": 82,
+   "n": 79,
    "name": {
     "ko": "aviability 항공편 현황 (QR1185, 11/11 08:40경 확인)",
     "en": "aviability flight status (QR1185, checked around 08:40, 11 Nov)",
@@ -2206,7 +2152,7 @@
    "url": "https://aviability.com/en/flight/qr1185-qatar-airways"
   },
   {
-   "n": 83,
+   "n": 80,
    "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/10)",
     "en": "Anadolu Agency (10 Nov)",
@@ -2222,7 +2168,7 @@
    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-3-houthi-missiles-targeting-saudi-arabia/4118100"
   },
   {
-   "n": 84,
+   "n": 81,
    "name": {
     "ko": "샤파크뉴스 (Shafaq News, 11/9)",
     "en": "Shafaq News (9 Nov)",
@@ -2238,7 +2184,7 @@
    "url": "https://shafaq.com/en/Middle-East/Saudi-East-West-oil-pipeline-hit-in-Medina"
   },
   {
-   "n": 85,
+   "n": 82,
    "date": "2026-11-10",
    "kind": "언론 보도",
    "url": "https://www.yahoo.com/news/articles/saudi-led-coalition-says-intercepts-015649777.html",
@@ -2254,7 +2200,7 @@
    }
   },
   {
-   "n": 86,
+   "n": 83,
    "date": "2026-11-10",
    "kind": "언론 보도",
    "name": {
@@ -2270,7 +2216,7 @@
    }
   },
   {
-   "n": 87,
+   "n": 84,
    "date": "2026-11-11",
    "kind": "언론 보도",
    "name": {
@@ -2286,7 +2232,7 @@
    }
   },
   {
-   "n": 88,
+   "n": 85,
    "date": "2026-11-10",
    "kind": "언론 보도",
    "name": {

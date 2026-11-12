@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-12T18:38:00+03:00",
+ "updated_at": "2026-11-12T19:40:00+03:00",
  "window_start": "2026-11-12",
  "pills": [
   {
@@ -294,9 +294,9 @@
     "ar": "الخطوط الجوية القطرية الإثنين · الخميس · السبت"
    },
    "times": {
-    "ko": "하일 출발 17:35 → 도하 19:25 · 다음 편 11/12(목)",
-    "en": "Departs Hail 17:35 → arrives Doha 19:25 · next flight 12 Nov (Thu)",
-    "ar": "المغادرة من حائل 17:35 والوصول إلى الدوحة 19:25 · الرحلة التالية 12 نوفمبر (الخميس)"
+    "ko": "하일 출발 17:35 → 도하 19:25 · 다음 편 11/14(토)",
+    "en": "Departs Hail 17:35 → arrives Doha 19:25 · next flight 14 Nov (Sat)",
+    "ar": "المغادرة من حائل 17:35 والوصول إلى الدوحة 19:25 · الرحلة التالية 14 نوفمبر (السبت)"
    },
    "note": {
     "ko": "10/12 이후 11/9(월)까지 매회 운항 기록(항공편 추적 사이트 기준, 10/29 이후 편은 1곳 기준, 항공사 공식 발표 아님). 카타르항공 공식 공지에 하일 운항 중단 언급 없음.",
@@ -2073,18 +2073,18 @@
   {
    "n": 74,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/12 18:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 18:40, 12 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 18:40، 12 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/12 19:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 19:40, 12 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 19:40، 12 نوفمبر)"
    },
    "date": "2026-11-12",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/12 18:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음.",
-    "en": "Checked around 18:40 (Doha) on 12 Nov, last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla.",
-    "ar": "تم التحقق نحو الساعة 18:40 (بتوقيت الدوحة) في 12 نوفمبر، وآخر تحديث في 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): ينص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا يذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا."
+    "ko": "11/12 19:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 일부 지역판 페이지(en-sa·en-qa)에는 이전 공지(10/12 갱신, 아브하·담맘·리야드 중단)가 남아 표시됨.",
+    "en": "Checked around 19:40 (Doha) on 12 Nov, last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Some regional versions of the page (en-sa, en-qa) still show the earlier notice (updated 12 Oct; flights to and from Abha, Dammam and Riyadh suspended).",
+    "ar": "تم التحقق نحو الساعة 19:40 (بتوقيت الدوحة) في 12 نوفمبر، وآخر تحديث في 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): ينص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا يذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. لا تزال بعض النسخ الإقليمية من الصفحة (en-sa وen-qa) تعرض الإشعار السابق (آخر تحديث في 12 أكتوبر، مع تعليق الرحلات إلى أبها والدمام والرياض)."
    },
-   "url": "https://www.qatarairways.com/en-sa/travel-alerts.html"
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
   {
    "n": 75,

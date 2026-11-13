@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T10:50:00+03:00",
+ "updated_at": "2026-11-13T11:40:00+03:00",
  "window_start": "2026-11-13",
  "pills": [
   {
@@ -2080,18 +2080,18 @@
   {
    "n": 74,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/13 09:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 09:40, 13 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 09:40، 13 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/13 11:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 11:40, 13 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 11:40، 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/13 09:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. en·en-sa·en-sg 페이지가 이 버전을 표시했고, en-in 페이지는 이전 버전(최종 갱신 10/12, 리야드·담맘·아브하 중단)을 표시해 최종 갱신 시각이 가장 늦은 버전 기준으로 확인.",
-    "en": "Checked around 09:40 (Doha) on 13 Nov, last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. The en, en-sa and en-sg pages displayed this version, while the en-in page displayed an older version (last updated 12 Oct, with Riyadh, Dammam and Abha suspended), so the check was based on the version with the latest update time.",
-    "ar": "تم التحقق نحو الساعة 09:40 (بتوقيت الدوحة) في 13 نوفمبر، وآخر تحديث في 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): ينص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا يذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. عرضت صفحات en وen-sa وen-sg هذه النسخة، بينما عرضت صفحة en-in نسخة أقدم (آخر تحديث في 12 أكتوبر، مع تعليق الرياض والدمام وأبها)، لذا اعتُمد في التحقق على النسخة التي تحمل أحدث وقت تحديث."
+    "ko": "11/13 11:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. en-qa·en-sa 페이지가 이 버전을 표시했고, en 페이지는 이전 버전(최종 갱신 10/12, 리야드·담맘·아브하 중단)을 표시해 최종 갱신 시각이 가장 늦은 버전 기준으로 확인.",
+    "en": "Checked around 11:40 (Doha) on 13 Nov, last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. The en-qa and en-sa pages displayed this version, while the en page displayed an older version (last updated 12 Oct, with Riyadh, Dammam and Abha suspended), so the check was based on the version with the latest update time.",
+    "ar": "تم التحقق نحو الساعة 11:40 (بتوقيت الدوحة) في 13 نوفمبر، وآخر تحديث في 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): ينص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا يذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. عرضت صفحتا en-qa وen-sa هذه النسخة، بينما عرضت صفحة en نسخة أقدم (آخر تحديث في 12 أكتوبر، مع تعليق الرياض والدمام وأبها)، لذا اعتُمد في التحقق على النسخة التي تحمل أحدث وقت تحديث."
    },
-   "url": "https://www.qatarairways.com/en/travel-alerts.html"
+   "url": "https://www.qatarairways.com/en-qa/travel-alerts.html"
   },
   {
    "n": 75,
@@ -2319,9 +2319,9 @@
   },
   {
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1165, 11/13 00:40경 확인)",
-    "en": "Trip.com flight status (QR1165, checked around 00:40, 13 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1165، تم التحقق نحو الساعة 00:40 يوم 13 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1165, 11/13 11:40경 확인)",
+    "en": "Trip.com flight status (QR1165, checked around 11:40, 13 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1165، تم التحقق نحو الساعة 11:40 يوم 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공편 추적",
@@ -2335,9 +2335,9 @@
   },
   {
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1167, 11/13 09:40경 확인)",
-    "en": "Trip.com flight status (QR1167, checked around 09:40, 13 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1167، تم التحقق نحو الساعة 09:40 يوم 13 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1167, 11/13 11:40경 확인)",
+    "en": "Trip.com flight status (QR1167, checked around 11:40, 13 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1167، تم التحقق نحو الساعة 11:40 يوم 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공편 추적",

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T20:45:00+03:00",
+ "updated_at": "2026-11-13T21:40:00+03:00",
  "window_start": "2026-11-13",
  "pills": [
   {
@@ -2072,16 +2072,16 @@
   {
    "n": 74,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/13 20:45경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 20:45, 13 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 20:45، 13 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/13 21:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 21:40, 13 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 21:40، 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최종 갱신 11/11 16:54(도하) 버전: 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 11/13 하루 동안 확인 시점·페이지(en·en-qa·en-sa)에 따라 이 버전과 이전 버전(최종 갱신 10/12 16:54, 리야드·담맘·아브하 일시 중단, 재개일 없음)이 번갈아 표시됨. 11/13 19:45경(en·en-qa)과 20:45경(en) 확인 때는 모두 11/11 버전을 표시함. 같은 날 두 공식 버전이 번갈아 표시돼 왔으므로 리야드·담맘 상태를 보수적으로 ‘미정’으로 둠(걸프뉴스는 11/13 리야드 재개·11/14 담맘 재개 예정을 보도).",
-    "en": "Version last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Throughout 13 Nov, depending on the time of the check and the page (en, en-qa, en-sa), this version and an older version (last updated 12 Oct 16:54, with Riyadh, Dammam and Abha temporarily suspended and no resumption date) were displayed alternately. At the checks around 19:45 (en and en-qa) and 20:45 (en) on 13 Nov, the pages displayed the 11 Nov version. Because the two official versions had been displayed alternately that day, the Riyadh and Dammam status is conservatively set to ‘TBC’ (Gulf News reported the resumption of Riyadh on 13 Nov and the planned resumption of Dammam on 14 Nov).",
-    "ar": "النسخة التي يعود آخر تحديث لها إلى 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا تذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. وطوال يوم 13 نوفمبر، عُرضت هذه النسخة ونسخة أقدم (آخر تحديث في 12 أكتوبر الساعة 16:54، مع تعليق مؤقت لرحلات الرياض والدمام وأبها ودون موعد للاستئناف) بالتناوب بحسب وقت التحقق والصفحة (en وen-qa وen-sa). وعند التحقق نحو الساعة 19:45 (صفحتا en وen-qa) ونحو الساعة 20:45 (صفحة en) يوم 13 نوفمبر عُرضت نسخة 11 نوفمبر. ونظرًا لعرض النسختين الرسميتين بالتناوب في اليوم نفسه، صُنّفت حالة الرياض والدمام بتحفّظ على أنها «غير مؤكدة» (وأفادت غلف نيوز باستئناف رحلات الرياض في 13 نوفمبر والاستئناف المقرر لرحلات الدمام في 14 نوفمبر)."
+    "ko": "최종 갱신 11/11 16:54(도하) 버전: 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 11/13 하루 동안 확인 시점·페이지(en·en-qa·en-sa)에 따라 이 버전과 이전 버전(최종 갱신 10/12 16:54, 리야드·담맘·아브하 일시 중단, 재개일 없음)이 번갈아 표시됨. 11/13 19:45경(en·en-qa)과 20:45경·21:40경(en) 확인 때는 모두 11/11 버전을 표시함. 같은 날 두 공식 버전이 번갈아 표시돼 왔으므로 리야드·담맘 상태를 보수적으로 ‘미정’으로 둠(걸프뉴스는 11/13 리야드 재개·11/14 담맘 재개 예정을 보도).",
+    "en": "Version last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Throughout 13 Nov, depending on the time of the check and the page (en, en-qa, en-sa), this version and an older version (last updated 12 Oct 16:54, with Riyadh, Dammam and Abha temporarily suspended and no resumption date) were displayed alternately. At the checks around 19:45 (en and en-qa) and around 20:45 and 21:40 (en) on 13 Nov, the pages displayed the 11 Nov version. Because the two official versions had been displayed alternately that day, the Riyadh and Dammam status is conservatively set to ‘TBC’ (Gulf News reported the resumption of Riyadh on 13 Nov and the planned resumption of Dammam on 14 Nov).",
+    "ar": "النسخة التي يعود آخر تحديث لها إلى 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا تذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. وطوال يوم 13 نوفمبر، عُرضت هذه النسخة ونسخة أقدم (آخر تحديث في 12 أكتوبر الساعة 16:54، مع تعليق مؤقت لرحلات الرياض والدمام وأبها ودون موعد للاستئناف) بالتناوب بحسب وقت التحقق والصفحة (en وen-qa وen-sa). وعند التحقق نحو الساعة 19:45 (صفحتا en وen-qa) ونحو الساعتين 20:45 و21:40 (صفحة en) يوم 13 نوفمبر عُرضت نسخة 11 نوفمبر. ونظرًا لعرض النسختين الرسميتين بالتناوب في اليوم نفسه، صُنّفت حالة الرياض والدمام بتحفّظ على أنها «غير مؤكدة» (وأفادت غلف نيوز باستئناف رحلات الرياض في 13 نوفمبر والاستئناف المقرر لرحلات الدمام في 14 نوفمبر)."
    },
    "url": "https://www.qatarairways.com/en-qa/travel-alerts.html"
   },
@@ -2343,16 +2343,16 @@
   },
   {
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1173, 11/13 20:45경 확인)",
-    "en": "Trip.com flight status (QR1173, checked around 20:45, 13 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1173، تم التحقق نحو الساعة 20:45 يوم 13 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1173, 11/13 21:40경 확인)",
+    "en": "Trip.com flight status (QR1173, checked around 21:40, 13 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1173، تم التحقق نحو الساعة 21:40 يوم 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 리야드→도하 QR1173: 11/7~11/12 편 모두 ‘결항(Canceled)’ 표시. 11/13 편은 00:40경 확인 때 ‘결항’ 표시였으나 19:45경·20:45경 확인 때는 ‘예정(Scheduled)’(21:10 출발, 도착 22:12·22:40 표시 엇갈림)으로 바뀜, 실제 출발·도착 기록은 아직 없음. 11/14 이후 항목 없음. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Riyadh→Doha QR1173: flights from 7 to 12 Nov all shown as ‘Canceled’. The 13 Nov flight was shown as ‘Canceled’ at the check around 00:40 but as ‘Scheduled’ at the checks around 19:45 and 20:45 (21:10 departure; arrival shown inconsistently as 22:12 and 22:40), with no actual departure or arrival record yet. No entries from 14 Nov. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1173 من الرياض إلى الدوحة: تظهر رحلات الفترة من 7 إلى 12 نوفمبر جميعها «ملغاة (Canceled)». وكانت رحلة 13 نوفمبر تظهر «ملغاة» عند التحقق نحو الساعة 00:40، لكنها ظهرت «مجدولة (Scheduled)» عند التحقق نحو الساعتين 19:45 و20:45 (الإقلاع 21:10، مع تضارب في موعد الوصول بين 22:12 و22:40)، ولا يوجد بعد سجل فعلي للإقلاع أو الوصول. ولا توجد إدخالات اعتبارًا من 14 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 리야드→도하 QR1173: 11/7~11/12 편 모두 ‘결항(Canceled)’ 표시. 11/13 편은 00:40경 확인 때 ‘결항’ 표시였으나 19:45경·20:45경·21:40경 확인 때는 ‘예정(Scheduled)’(21:10 출발, 도착 22:12·22:40 표시 엇갈림)으로 바뀜, 실제 출발·도착 기록은 아직 없음. 11/14 이후 항목 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Riyadh→Doha QR1173: flights from 7 to 12 Nov all shown as ‘Canceled’. The 13 Nov flight was shown as ‘Canceled’ at the check around 00:40 but as ‘Scheduled’ at the checks around 19:45, 20:45 and 21:40 (21:10 departure; arrival shown inconsistently as 22:12 and 22:40), with no actual departure or arrival record yet. No entries from 14 Nov. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1173 من الرياض إلى الدوحة: تظهر رحلات الفترة من 7 إلى 12 نوفمبر جميعها «ملغاة (Canceled)». وكانت رحلة 13 نوفمبر تظهر «ملغاة» عند التحقق نحو الساعة 00:40، لكنها ظهرت «مجدولة (Scheduled)» عند التحقق نحو الساعات 19:45 و20:45 و21:40 (الإقلاع 21:10، مع تضارب في موعد الوصول بين 22:12 و22:40)، ولا يوجد بعد سجل فعلي للإقلاع أو الوصول. ولا توجد إدخالات اعتبارًا من 14 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://ph.trip.com/flights/status-qr1173/",
    "n": 91

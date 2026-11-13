@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-13T12:40:00+03:00",
+ "updated_at": "2026-11-13T13:40:00+03:00",
  "window_start": "2026-11-13",
  "pills": [
   {
    "text": {
-    "ko": "<b>11/11(수) 카타르항공, 리야드·담맘 운항 재개 발표</b>: 카타르항공이 리야드 노선은 11/13부터, 담맘 노선은 11/14부터 매일 운항을 재개한다고 공지 (카타르항공 공식 공지, 아브하·타이프는 중단 유지, 재개 후 실제 운항은 아직 확인되지 않음; 항공편 추적 사이트 1곳은 재개일 이후 리야드·담맘발 일부 편을 결항으로 표시해 엇갈림, 항공사 공식 발표 아님)",
-    "en": "<b>11 Nov (Wed) Qatar Airways announces resumption of Riyadh and Dammam flights</b>: Qatar Airways announced that daily flights will resume on the Riyadh route from 13 Nov and on the Dammam route from 14 Nov (Qatar Airways official notice; Abha and Taif remain suspended; actual operation after resumption not yet confirmed; one flight-tracking site shows some Riyadh and Dammam departures from the resumption dates onward as cancelled, a conflicting report; not an official airline announcement)",
-    "ar": "<b>11 نوفمبر (الأربعاء) الخطوط الجوية القطرية تعلن استئناف رحلات الرياض والدمام</b>: أعلنت الخطوط الجوية القطرية استئناف رحلاتها اليومية على خط الرياض اعتبارًا من 13 نوفمبر وعلى خط الدمام اعتبارًا من 14 نوفمبر (وفق الإشعار الرسمي للخطوط الجوية القطرية؛ ويستمر تعليق رحلات أبها والطائف؛ ولم يتأكّد بعدُ التسيير الفعلي بعد الاستئناف؛ ويُظهر موقع واحد لتتبّع الرحلات بعض الرحلات المغادرة من الرياض والدمام اعتبارًا من موعدَي الاستئناف ملغاة، في تضارب مع الإشعار، وليس إعلانًا رسميًا من شركة الطيران)"
+    "ko": "<b>11/11(수) 카타르항공, 리야드·담맘 운항 재개 발표</b>: 카타르항공이 리야드 노선은 11/13부터, 담맘 노선은 11/14부터 매일 운항을 재개한다고 공지 (카타르항공 공식 공지, 아브하·타이프는 중단 유지; 다만 현재 공지 페이지는 다시 이전(10/12 갱신) 중단 공지를 표시해 엇갈림; 항공편 추적 사이트 1곳은 재개일 이후 리야드·담맘발 일부 편을 결항으로 표시(항공사 공식 발표 아님); 실제 운항은 확인되지 않음)",
+    "en": "<b>11 Nov (Wed) Qatar Airways announces resumption of Riyadh and Dammam flights</b>: Qatar Airways announced that daily flights will resume on the Riyadh route from 13 Nov and on the Dammam route from 14 Nov (Qatar Airways official notice; Abha and Taif remain suspended; however, the notice page currently displays the earlier suspension notice (updated 12 Oct) again, a conflict; one flight-tracking site shows some Riyadh and Dammam departures from the resumption dates onward as cancelled (not an official airline announcement); actual operation not confirmed)",
+    "ar": "<b>11 نوفمبر (الأربعاء) الخطوط الجوية القطرية تعلن استئناف رحلات الرياض والدمام</b>: أعلنت الخطوط الجوية القطرية استئناف رحلاتها اليومية على خط الرياض اعتبارًا من 13 نوفمبر وعلى خط الدمام اعتبارًا من 14 نوفمبر (وفق الإشعار الرسمي للخطوط الجوية القطرية؛ ويستمر تعليق رحلات أبها والطائف؛ غير أن صفحة الإشعارات تعرض حاليًا من جديد إشعار التعليق السابق (المحدَّث في 12 أكتوبر)، في تضارب؛ ويُظهر موقع واحد لتتبّع الرحلات بعض الرحلات المغادرة من الرياض والدمام اعتبارًا من موعدَي الاستئناف ملغاة (وليس إعلانًا رسميًا من شركة الطيران)؛ ولم يتأكّد التسيير الفعلي)"
    },
    "refs": [
     24,
@@ -47,9 +47,9 @@
  "key_points": [
   {
    "html": {
-    "ko": "<span class='red'>리야드→도하 직항은 아직 이용이 어렵습니다(카타르항공 11/13 재개 발표, 추적 사이트와 엇갈림).</span> 카타르항공 공식 공지는 11/13부터 리야드 노선을 매일 운항한다고 밝혔지만, 항공편 추적 사이트 1곳은 11/13~11/15 리야드발 카타르항공 여러 편을 여전히 결항으로 표시해 엇갈리고(항공사 공식 발표 아님), 재개 후 실제 운항은 아직 확인되지 않았습니다. 리야드 공항은 10/25부터 국내선과 사우디 국적 항공사 일부 국제선만 부분 운영 중입니다(10/25 공항 발표 기준, 이후 변경 발표는 확인되지 않음). 사우디아 SV540편은 11/1·11/3·11/7·11/10 운항 기록이 있지만 11/5·11/6 편은 결항으로 표시되고 11/8 편은 결항·운항 표시가 엇갈리는 등 불규칙하고(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 사우디아의 운항 재개 발표는 확인되지 않았습니다. 위협도 계속됩니다. 후티는 리야드 공항을 ‘군사 목표’로 지칭하며 공격을 거듭 주장하고 있고(최근 11/11, 후티 측 주장, 확인되지 않음), 리야드를 향한 미사일·드론 요격이 11/6부터 잇따르고 있으며(최근 11/12 드론 1기, 연합군 발표, 피해 언급 없음), 11/8에는 떨어진 파편에 아람코 사무 건물이 경미한 피해를 입었습니다(피해는 사우디 에너지부 발표, 사상자 없음). 재개 첫 편과 예약 사이트에 판매 중인 편도 항공사에 운항 여부를 꼭 확인하세요.",
-    "en": "<span class='red'>Direct flights from Riyadh to Doha are still hard to use (Qatar Airways has announced resumption from 13 Nov; flight-tracking data conflict).</span> Qatar Airways’ official notice says daily flights on the Riyadh route will operate from 13 Nov, but one flight-tracking site still shows several Qatar Airways departures from Riyadh on 13–15 Nov as cancelled, a conflicting report (not an official airline announcement), and actual operation after resumption has not yet been confirmed. Riyadh airport has been only partially operating since 25 Oct, for domestic flights and some international flights by Saudi carriers (per the airport’s 25 Oct announcement; no later change announcement confirmed). Saudia flight SV540 has operating records on 1, 3, 7 and 10 Nov, but its 5 and 6 Nov flights are shown as cancelled and the 8 Nov flight has been shown both as cancelled and as operated, so it is irregular (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no Saudia announcement of resumed flights has been confirmed. The threat continues. The Houthis call Riyadh airport a ‘military target’ and have repeatedly claimed attacks on it (most recently 11 Nov; Houthi claim, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently one drone on 12 Nov, coalition statement; no damage mentioned), and on 8 Nov falling shrapnel caused minor damage to an Aramco administrative building (damage: Saudi Ministry of Energy; no casualties). For the first flights after resumption and even for flights on sale on booking sites, always check with the airline that they will operate.",
-    "ar": "<span class='red'>لا يزال استخدام الرحلات المباشرة من الرياض إلى الدوحة صعبًا (أعلنت الخطوط الجوية القطرية استئناف رحلاتها اعتبارًا من 13 نوفمبر، مع تضارب بيانات مواقع التتبّع).</span> يفيد الإشعار الرسمي للخطوط الجوية القطرية بتسيير رحلات يومية على خط الرياض اعتبارًا من 13 نوفمبر، لكن موقعًا واحدًا لتتبّع الرحلات لا يزال يُظهر عدة رحلات للخطوط الجوية القطرية من الرياض بين 13 و15 نوفمبر ملغاة، في تضارب مع الإشعار (وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد بعدُ التسيير الفعلي بعد الاستئناف. ويعمل مطار الرياض جزئيًا فقط منذ 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية (وفق إعلان المطار في 25 أكتوبر، ولم يتأكّد صدور إعلان لاحق بتغيير ذلك). وسُجّل تسيير رحلة الخطوط السعودية SV540 أيام 1 و3 و7 و10 نوفمبر، لكن رحلتَي 5 و6 نوفمبر تظهران ملغاتَين، وتتضارب حالة رحلة 8 نوفمبر بين الإلغاء والتسيير، فالتسيير غير منتظم (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان من الخطوط السعودية باستئناف الرحلات. ولا يزال التهديد قائمًا؛ إذ يصف الحوثيون مطار الرياض بأنه ‘هدف عسكري’ ويكرّرون ادعاء مهاجمته (آخرها في 11 نوفمبر؛ ادعاء حوثي لم يتأكّد)، وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها طائرة مسيّرة واحدة في 12 نوفمبر، وفق بيان التحالف، دون ذكر أضرار)، وفي 8 نوفمبر لحقت أضرار طفيفة بمبنى إداري لأرامكو جراء سقوط شظايا (الأضرار وفق وزارة الطاقة السعودية، دون وقوع إصابات أو وفيات). يُرجى التأكد لدى شركة الطيران من تسيير الرحلات الأولى بعد الاستئناف، وأي رحلة حتى لو كانت معروضة للبيع في مواقع الحجز."
+    "ko": "<span class='red'>리야드→도하 직항은 아직 이용이 어렵습니다(카타르항공 11/13 재개 공지 엇갈림).</span> 카타르항공은 11/11 갱신 공지에서 11/13부터 리야드 노선 매일 운항 재개를 밝혔지만 현재 공지 페이지는 다시 이전(10/12 갱신) 운항 중단 공지(재개일 없음)를 표시해 엇갈리고, 항공편 추적 사이트 1곳도 재개일 첫 편을 포함해 11/13~11/15 리야드발 카타르항공 여러 편을 결항으로 표시하며(항공사 공식 발표 아님), 실제 운항은 확인되지 않았습니다. 리야드 공항은 10/25부터 국내선과 사우디 국적 항공사 일부 국제선만 부분 운영 중입니다(10/25 공항 발표 기준, 이후 변경 발표는 확인되지 않음). 사우디아 SV540편은 11/1·11/3·11/7·11/10 운항 기록이 있지만 11/5·11/6 편은 결항으로 표시되고 11/8 편은 결항·운항 표시가 엇갈리는 등 불규칙하고(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 사우디아의 운항 재개 발표는 확인되지 않았습니다. 위협도 계속됩니다. 후티는 리야드 공항을 ‘군사 목표’로 지칭하며 공격을 거듭 주장하고 있고(최근 11/11, 후티 측 주장, 확인되지 않음), 리야드를 향한 미사일·드론 요격이 11/6부터 잇따르고 있으며(최근 11/12 드론 1기, 연합군 발표, 피해 언급 없음), 11/8에는 떨어진 파편에 아람코 사무 건물이 경미한 피해를 입었습니다(피해는 사우디 에너지부 발표, 사상자 없음). 재개 첫 편과 예약 사이트에 판매 중인 편도 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>Direct flights from Riyadh to Doha are still hard to use (Qatar Airways notices on resumption from 13 Nov conflict).</span> Qatar Airways’ notice updated on 11 Nov said daily flights on the Riyadh route would resume from 13 Nov, but the notice page currently displays the earlier suspension notice (updated 12 Oct; no resumption date) again, a conflict; one flight-tracking site also shows several Qatar Airways departures from Riyadh on 13–15 Nov, including the first flight on the resumption date, as cancelled (not an official airline announcement), and actual operation has not been confirmed. Riyadh airport has been only partially operating since 25 Oct, for domestic flights and some international flights by Saudi carriers (per the airport’s 25 Oct announcement; no later change announcement confirmed). Saudia flight SV540 has operating records on 1, 3, 7 and 10 Nov, but its 5 and 6 Nov flights are shown as cancelled and the 8 Nov flight has been shown both as cancelled and as operated, so it is irregular (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no Saudia announcement of resumed flights has been confirmed. The threat continues. The Houthis call Riyadh airport a ‘military target’ and have repeatedly claimed attacks on it (most recently 11 Nov; Houthi claim, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently one drone on 12 Nov, coalition statement; no damage mentioned), and on 8 Nov falling shrapnel caused minor damage to an Aramco administrative building (damage: Saudi Ministry of Energy; no casualties). For the first flights after resumption and even for flights on sale on booking sites, always check with the airline that they will operate.",
+    "ar": "<span class='red'>لا يزال استخدام الرحلات المباشرة من الرياض إلى الدوحة صعبًا (تضارب إشعارات الخطوط الجوية القطرية بشأن الاستئناف اعتبارًا من 13 نوفمبر).</span> أفاد إشعار الخطوط الجوية القطرية المحدَّث في 11 نوفمبر باستئناف الرحلات اليومية على خط الرياض اعتبارًا من 13 نوفمبر، لكن صفحة الإشعارات تعرض حاليًا من جديد إشعار تعليق الرحلات السابق (المحدَّث في 12 أكتوبر، دون موعد للاستئناف)، في تضارب، كما يُظهر موقع واحد لتتبّع الرحلات عدة رحلات للخطوط الجوية القطرية من الرياض بين 13 و15 نوفمبر، منها الرحلة الأولى في موعد الاستئناف، ملغاة (وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد التسيير الفعلي. ويعمل مطار الرياض جزئيًا فقط منذ 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية (وفق إعلان المطار في 25 أكتوبر، ولم يتأكّد صدور إعلان لاحق بتغيير ذلك). وسُجّل تسيير رحلة الخطوط السعودية SV540 أيام 1 و3 و7 و10 نوفمبر، لكن رحلتَي 5 و6 نوفمبر تظهران ملغاتَين، وتتضارب حالة رحلة 8 نوفمبر بين الإلغاء والتسيير، فالتسيير غير منتظم (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان من الخطوط السعودية باستئناف الرحلات. ولا يزال التهديد قائمًا؛ إذ يصف الحوثيون مطار الرياض بأنه ‘هدف عسكري’ ويكرّرون ادعاء مهاجمته (آخرها في 11 نوفمبر؛ ادعاء حوثي لم يتأكّد)، وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها طائرة مسيّرة واحدة في 12 نوفمبر، وفق بيان التحالف، دون ذكر أضرار)، وفي 8 نوفمبر لحقت أضرار طفيفة بمبنى إداري لأرامكو جراء سقوط شظايا (الأضرار وفق وزارة الطاقة السعودية، دون وقوع إصابات أو وفيات). يُرجى التأكد لدى شركة الطيران من تسيير الرحلات الأولى بعد الاستئناف، وأي رحلة حتى لو كانت معروضة للبيع في مواقع الحجز."
    },
    "refs": [
     16,
@@ -105,9 +105,9 @@
   },
   {
    "html": {
-    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단 — 11/14 재개 발표.</span> 카타르항공 공식 공지는 11/14부터 담맘 노선을 매일 운항한다고 밝혔으나 그 전까지는 중단 상태이고, 항공편 추적 사이트 1곳은 11/14~11/16 담맘발 QR1157편을 결항으로 표시해 엇갈리며(항공사 공식 발표 아님), 재개 후 실제 운항은 아직 확인되지 않았습니다. 담맘 공항 자체는 10/21 피격(2명 사망·8명 부상) 후 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 일부 지연·결항 속에 운영 중입니다(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항을 드론으로 공격했다고 주장했고(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음), 동부 지역을 향한 미사일·드론 요격이 이어져 11/13에도 드론 1기가 요격됐습니다(연합군 발표). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
-    "en": "<span class='red'>Qatar Airways flights from Dammam to Doha are suspended — resumption announced from 14 Nov.</span> Qatar Airways’ official notice says daily flights on the Dammam route will operate from 14 Nov, but until then they remain suspended; one flight-tracking site shows Dammam departure QR1157 on 14–16 Nov as cancelled, a conflicting report (not an official airline announcement), and actual operation after resumption has not yet been confirmed. Dammam airport itself resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; Saudi General Authority of Civil Aviation (GACA) statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed), and interceptions of missiles and drones heading for the Eastern Province continue, with another drone intercepted on 13 Nov (coalition statement). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
-    "ar": "<span class='red'>رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة معلّقة — أُعلن استئنافها اعتبارًا من 14 نوفمبر.</span> يفيد الإشعار الرسمي للخطوط الجوية القطرية بتسيير رحلات يومية على خط الدمام اعتبارًا من 14 نوفمبر، لكنها تبقى معلّقة حتى ذلك الحين، ويُظهر موقع واحد لتتبّع الرحلات الرحلة QR1157 المغادرة من الدمام بين 14 و16 نوفمبر ملغاة، في تضارب مع الإشعار (وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد بعدُ التسيير الفعلي بعد الاستئناف. أما مطار الدمام نفسه فقد استأنف عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني (GACA))، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات)، وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، إذ اعتُرضت طائرة مسيّرة أخرى في 13 نوفمبر (وفق بيان التحالف). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، أي قرابة 3.4 ساعات، دون احتساب الانتظار عند الحدود)."
+    "ko": "<span class='red'>담맘→도하 카타르항공 운항 중단 — 11/14 재개 공지 엇갈림.</span> 카타르항공은 11/11 갱신 공지에서 11/14부터 담맘 노선 매일 운항 재개를 밝혔지만 현재 공지 페이지는 다시 이전(10/12 갱신) 운항 중단 공지(재개일 없음)를 표시해 엇갈리고, 항공편 추적 사이트 1곳은 11/14~11/16 담맘발 QR1157편을 결항으로 표시하며(항공사 공식 발표 아님), 재개 여부는 확인되지 않았습니다. 담맘 공항 자체는 10/21 피격(2명 사망·8명 부상) 후 10/22 운영을 재개했고(사우디 민간항공청(GACA) 발표), 일부 지연·결항 속에 운영 중입니다(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항을 드론으로 공격했다고 주장했고(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음), 동부 지역을 향한 미사일·드론 요격이 이어져 11/13에도 드론 1기가 요격됐습니다(연합군 발표). 담맘 체류자는 육로(도하까지 약 333km, 약 3.4시간, 국경 대기 제외)도 검토하세요.",
+    "en": "<span class='red'>Qatar Airways flights from Dammam to Doha are suspended — notices on resumption from 14 Nov conflict.</span> Qatar Airways’ notice updated on 11 Nov said daily flights on the Dammam route would resume from 14 Nov, but the notice page currently displays the earlier suspension notice (updated 12 Oct; no resumption date) again, a conflict; one flight-tracking site shows Dammam departure QR1157 on 14–16 Nov as cancelled (not an official airline announcement), and resumption has not been confirmed. Dammam airport itself resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; Saudi General Authority of Civil Aviation (GACA) statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed), and interceptions of missiles and drones heading for the Eastern Province continue, with another drone intercepted on 13 Nov (coalition statement). People in Dammam should also consider travelling by road (about 333 km to Doha, roughly 3.4 hours, excluding border waiting time).",
+    "ar": "<span class='red'>رحلات الخطوط الجوية القطرية من الدمام إلى الدوحة معلّقة — تضارب الإشعارات بشأن استئنافها اعتبارًا من 14 نوفمبر.</span> أفاد إشعار الخطوط الجوية القطرية المحدَّث في 11 نوفمبر باستئناف الرحلات اليومية على خط الدمام اعتبارًا من 14 نوفمبر، لكن صفحة الإشعارات تعرض حاليًا من جديد إشعار تعليق الرحلات السابق (المحدَّث في 12 أكتوبر، دون موعد للاستئناف)، في تضارب، ويُظهر موقع واحد لتتبّع الرحلات الرحلة QR1157 المغادرة من الدمام بين 14 و16 نوفمبر ملغاة (وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد الاستئناف. أما مطار الدمام نفسه فقد استأنف عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني (GACA))، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات)، وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، إذ اعتُرضت طائرة مسيّرة أخرى في 13 نوفمبر (وفق بيان التحالف). وعلى الموجودين في الدمام النظر أيضًا في السفر برًّا (نحو 333 كم إلى الدوحة، أي قرابة 3.4 ساعات، دون احتساب الانتظار عند الحدود)."
    },
    "refs": [
     7,
@@ -240,14 +240,14 @@
    },
    "iata": "DMM",
    "verdict": {
-    "ko": "이용 불가 — 카타르항공 운항 중단 (11/14 재개 발표)",
-    "en": "Unavailable — Qatar Airways flights suspended (resumption announced from 14 Nov)",
-    "ar": "غير متاح — رحلات الخطوط الجوية القطرية معلّقة (أُعلن استئنافها اعتبارًا من 14 نوفمبر)"
+    "ko": "이용 불가 — 카타르항공 운항 중단 (11/14 재개 공지 엇갈림)",
+    "en": "Unavailable — Qatar Airways flights suspended (notices on resumption from 14 Nov conflict)",
+    "ar": "غير متاح — رحلات الخطوط الجوية القطرية معلّقة (تضارب الإشعارات بشأن استئنافها اعتبارًا من 14 نوفمبر)"
    },
    "carriers": {
-    "ko": "카타르항공 하루 3회 노선 — 10/12 일시 중단, 11/14부터 매일 운항 재개 공지",
-    "en": "Qatar Airways route with three flights a day — temporarily suspended on 12 Oct; daily flights to resume from 14 Nov per notice",
-    "ar": "خط للخطوط الجوية القطرية بثلاث رحلات يوميًا — عُلّق مؤقتًا في 12 أكتوبر، ويُستأنف التسيير اليومي اعتبارًا من 14 نوفمبر وفق الإشعار"
+    "ko": "카타르항공 하루 3회 노선 — 10/12 일시 중단, 11/11 갱신 공지는 11/14부터 매일 운항 재개(현재 공지 페이지는 이전 중단 공지 표시, 엇갈림)",
+    "en": "Qatar Airways route with three flights a day — temporarily suspended on 12 Oct; the notice updated on 11 Nov says daily flights resume from 14 Nov (the notice page currently displays the earlier suspension notice; conflicting)",
+    "ar": "خط للخطوط الجوية القطرية بثلاث رحلات يوميًا — عُلّق مؤقتًا في 12 أكتوبر، ويفيد الإشعار المحدَّث في 11 نوفمبر باستئناف التسيير اليومي اعتبارًا من 14 نوفمبر (تعرض صفحة الإشعارات حاليًا إشعار التعليق السابق، في تضارب)"
    },
    "times": {
     "ko": "담맘 출발 04:40 · 10:50 · 22:30 (중단 전 시간표, 재개 후 시간표는 확인되지 않음)",
@@ -255,9 +255,9 @@
     "ar": "المغادرة من الدمام 04:40 · 10:50 · 22:30 (جدول ما قبل التعليق؛ ولم يتأكّد الجدول بعد الاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공식 공지상 11/14부터 매일 운항 재개, 그 전까지 중단(재개 후 실제 운항은 확인되지 않음). 10/25 이후 담맘 출발편이 항공편 추적 사이트에 결항으로 표시돼 왔고, 1곳은 재개일 이후인 11/14~11/16 QR1157편도 결항으로 표시해 공지와 엇갈림(항공사 공식 발표 아님). 공항은 10/21 피격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 일부 지연·결항 속 운영(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항 드론 공격 주장(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음). 동부 지역을 향한 미사일·드론 요격 계속, 최근 11/13 드론 1기 요격(연합군 발표, 피해·공항 언급 없음).",
-    "en": "Per Qatar Airways’ official notice, daily flights resume from 14 Nov and remain suspended until then (actual operation after resumption not confirmed). Dammam departures since 25 Oct have been shown as cancelled on flight-tracking sites, and one site also shows QR1157 on 14–16 Nov, from the resumption date onward, as cancelled, conflicting with the notice (not an official airline announcement). The airport resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; GACA statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed). Interceptions of missiles and drones heading for the Eastern Province continue; most recently a drone was intercepted on 13 Nov (coalition statement; no damage or airport mentioned).",
-    "ar": "وفق الإشعار الرسمي للخطوط الجوية القطرية، تُستأنف الرحلات اليومية اعتبارًا من 14 نوفمبر وتبقى معلّقة حتى ذلك الحين (ولم يتأكّد التسيير الفعلي بعد الاستئناف). وتظهر رحلات المغادرة من الدمام منذ 25 أكتوبر ملغاة في مواقع تتبّع الرحلات، ويُظهر موقع واحد أيضًا الرحلة QR1157 بين 14 و16 نوفمبر، أي اعتبارًا من موعد الاستئناف، ملغاة، في تضارب مع الإشعار (وليس إعلانًا رسميًا من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني)، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات). وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، وآخرها اعتراض طائرة مسيّرة في 13 نوفمبر (وفق بيان التحالف، دون ذكر أضرار أو المطار)."
+    "ko": "카타르항공 11/11 갱신 공지상 11/14부터 매일 운항 재개, 다만 현재 공지 페이지는 다시 이전(10/12 갱신) 중단 공지(재개일 없음)를 표시해 엇갈림(재개 여부는 확인되지 않음). 10/25 이후 담맘 출발편이 항공편 추적 사이트에 결항으로 표시돼 왔고, 1곳은 재개일 이후인 11/14~11/16 QR1157편도 결항으로 표시해 공지와 엇갈림(항공사 공식 발표 아님). 공항은 10/21 피격(2명 사망·8명 부상) 후 10/22 운영 재개(GACA 발표), 일부 지연·결항 속 운영(11/10 주사우디 미국대사관). 후티는 11/2·11/5 담맘 공항 드론 공격 주장(후티 측 주장, 사우디 확인 안 됨, 피해·운항 차질은 확인되지 않음). 동부 지역을 향한 미사일·드론 요격 계속, 최근 11/13 드론 1기 요격(연합군 발표, 피해·공항 언급 없음).",
+    "en": "Per Qatar Airways’ notice updated on 11 Nov, daily flights resume from 14 Nov, but the notice page currently displays the earlier suspension notice (updated 12 Oct; no resumption date) again, a conflict (resumption not confirmed). Dammam departures since 25 Oct have been shown as cancelled on flight-tracking sites, and one site also shows QR1157 on 14–16 Nov, from the resumption date onward, as cancelled, conflicting with the notice (not an official airline announcement). The airport resumed operations on 22 Oct after the 21 Oct attack (2 killed, 8 injured; GACA statement) and is operating with some delays and cancellations (US Embassy in Saudi Arabia, 10 Nov). The Houthis claimed drone attacks on Dammam airport on 2 and 5 Nov (Houthi claims, not confirmed by Saudi Arabia; damage and flight disruption not confirmed). Interceptions of missiles and drones heading for the Eastern Province continue; most recently a drone was intercepted on 13 Nov (coalition statement; no damage or airport mentioned).",
+    "ar": "وفق إشعار الخطوط الجوية القطرية المحدَّث في 11 نوفمبر، تُستأنف الرحلات اليومية اعتبارًا من 14 نوفمبر، غير أن صفحة الإشعارات تعرض حاليًا من جديد إشعار التعليق السابق (المحدَّث في 12 أكتوبر، دون موعد للاستئناف)، في تضارب (ولم يتأكّد الاستئناف). وتظهر رحلات المغادرة من الدمام منذ 25 أكتوبر ملغاة في مواقع تتبّع الرحلات، ويُظهر موقع واحد أيضًا الرحلة QR1157 بين 14 و16 نوفمبر، أي اعتبارًا من موعد الاستئناف، ملغاة، في تضارب مع الإشعار (وليس إعلانًا رسميًا من شركة الطيران). واستأنف المطار عملياته في 22 أكتوبر بعد هجوم 21 أكتوبر (مقتل شخصين وإصابة 8؛ وفق بيان الهيئة العامة للطيران المدني)، ويعمل مع بعض التأخير والإلغاء (السفارة الأمريكية في السعودية، 10 نوفمبر). وادّعى الحوثيون مهاجمة مطار الدمام بطائرات مسيّرة في 2 و5 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية، ولم تتأكّد أضرار أو تعطّل في الرحلات). وتتواصل عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى المنطقة الشرقية، وآخرها اعتراض طائرة مسيّرة في 13 نوفمبر (وفق بيان التحالف، دون ذكر أضرار أو المطار)."
    },
    "refs": [
     11,
@@ -359,14 +359,14 @@
    },
    "iata": "RUH",
    "verdict": {
-    "ko": "도하 직항 정기 운항 재개 확인되지 않음 — 카타르항공 11/13 재개 발표(실제 운항 확인되지 않음, 추적 사이트와 엇갈림), 사우디아 불규칙 운항",
-    "en": "Resumption of regular direct flights to Doha not confirmed — Qatar Airways announced resumption from 13 Nov (actual operation not confirmed; conflicts with flight-tracking data); Saudia operating irregularly",
-    "ar": "لم يتأكّد استئناف الرحلات المباشرة المنتظمة إلى الدوحة — أعلنت الخطوط الجوية القطرية استئناف رحلاتها اعتبارًا من 13 نوفمبر (لم يتأكّد التسيير الفعلي، مع تضارب بيانات مواقع التتبّع)، والخطوط السعودية تسيّر رحلات غير منتظمة"
+    "ko": "도하 직항 정기 운항 재개 확인되지 않음 — 카타르항공 11/13 재개 공지 엇갈림(실제 운항 확인되지 않음), 사우디아 불규칙 운항",
+    "en": "Resumption of regular direct flights to Doha not confirmed — Qatar Airways notices on resumption from 13 Nov conflict (actual operation not confirmed); Saudia operating irregularly",
+    "ar": "لم يتأكّد استئناف الرحلات المباشرة المنتظمة إلى الدوحة — تتضارب إشعارات الخطوط الجوية القطرية بشأن الاستئناف اعتبارًا من 13 نوفمبر (لم يتأكّد التسيير الفعلي)، والخطوط السعودية تسيّر رحلات غير منتظمة"
    },
    "carriers": {
-    "ko": "카타르항공: 공식 공지상 11/13부터 매일 운항 재개, 다만 항공편 추적 사이트 1곳은 11/13~11/15 여러 편을 결항으로 표시(엇갈림, 항공사 공식 발표 아님), 실제 운항은 확인되지 않음 · 사우디아: SV540편 11/1·11/3·11/7·11/10 운항 기록, 11/5·11/6 결항 표시, 11/8은 결항·운항 표시 엇갈림(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 운항 재개 발표는 확인되지 않음 · 플라이나스: 도하 노선 운항 확인되지 않음",
-    "en": "Qatar Airways: per official notice, daily flights resume from 13 Nov, but one flight-tracking site shows several flights on 13–15 Nov as cancelled (conflicting; not an official airline announcement); actual operation not confirmed · Saudia: flight SV540 recorded as operating on 1, 3, 7 and 10 Nov, shown as cancelled on 5 and 6 Nov, and shown both as cancelled and as operated on 8 Nov (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no resumption announcement confirmed · flynas: no Doha flights confirmed",
-    "ar": "الخطوط الجوية القطرية: وفق الإشعار الرسمي، تُستأنف الرحلات اليومية اعتبارًا من 13 نوفمبر، لكن موقعًا واحدًا لتتبّع الرحلات يُظهر عدة رحلات بين 13 و15 نوفمبر ملغاة (تضارب؛ وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد التسيير الفعلي · الخطوط السعودية: سُجّل تسيير الرحلة SV540 أيام 1 و3 و7 و10 نوفمبر، وتظهر ملغاة يومَي 5 و6 نوفمبر، وتتضارب حالتها يوم 8 نوفمبر بين الإلغاء والتسيير (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات · طيران ناس: لم يتأكّد تسيير أي رحلات إلى الدوحة"
+    "ko": "카타르항공: 11/11 갱신 공지는 11/13부터 매일 운항 재개, 현재 공지 페이지는 이전(10/12 갱신) 중단 공지(재개일 없음)를 표시해 엇갈림, 항공편 추적 사이트 1곳은 11/13~11/15 여러 편을 결항으로 표시(항공사 공식 발표 아님), 실제 운항은 확인되지 않음 · 사우디아: SV540편 11/1·11/3·11/7·11/10 운항 기록, 11/5·11/6 결항 표시, 11/8은 결항·운항 표시 엇갈림(항공편 추적 사이트 기준, 11/5~11/10은 1곳 기준, 항공사 공식 발표 아님), 운항 재개 발표는 확인되지 않음 · 플라이나스: 도하 노선 운항 확인되지 않음",
+    "en": "Qatar Airways: the notice updated on 11 Nov says daily flights resume from 13 Nov, but the notice page currently displays the earlier suspension notice (updated 12 Oct; no resumption date), a conflict; one flight-tracking site shows several flights on 13–15 Nov as cancelled (not an official airline announcement); actual operation not confirmed · Saudia: flight SV540 recorded as operating on 1, 3, 7 and 10 Nov, shown as cancelled on 5 and 6 Nov, and shown both as cancelled and as operated on 8 Nov (according to flight-tracking sites, with 5–10 Nov based on one site; not an official airline announcement); no resumption announcement confirmed · flynas: no Doha flights confirmed",
+    "ar": "الخطوط الجوية القطرية: يفيد الإشعار المحدَّث في 11 نوفمبر باستئناف الرحلات اليومية اعتبارًا من 13 نوفمبر، لكن صفحة الإشعارات تعرض حاليًا إشعار التعليق السابق (المحدَّث في 12 أكتوبر، دون موعد للاستئناف)، في تضارب، ويُظهر موقع واحد لتتبّع الرحلات عدة رحلات بين 13 و15 نوفمبر ملغاة (وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد التسيير الفعلي · الخطوط السعودية: سُجّل تسيير الرحلة SV540 أيام 1 و3 و7 و10 نوفمبر، وتظهر ملغاة يومَي 5 و6 نوفمبر، وتتضارب حالتها يوم 8 نوفمبر بين الإلغاء والتسيير (وفق مواقع تتبّع الرحلات، والأيام من 5 إلى 10 نوفمبر وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات · طيران ناس: لم يتأكّد تسيير أي رحلات إلى الدوحة"
    },
    "times": {
     "ko": "사우디아 SV540 리야드 출발 12:40 → 도하 14:00(예정) · 공항은 10/25부터 국내선·사우디 국적 항공사 일부 국제선에 한해 부분 재개(공항 발표) · 리야드발 일부 항공편은 카심 공항에서 운항(주사우디 미국대사관)",
@@ -459,14 +459,14 @@
     "미정",
     "미정",
     "미정",
-    "예정",
-    "예정",
-    "예정",
-    "예정",
-    "예정",
-    "예정",
-    "예정",
-    "예정"
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정"
    ],
    "refs": [
     74,
@@ -648,13 +648,13 @@
     "미정",
     "미정",
     "미정",
-    "예정",
-    "예정",
-    "예정",
-    "예정",
-    "예정",
-    "예정",
-    "예정"
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정",
+    "미정"
    ],
    "refs": [
     24,
@@ -2036,16 +2036,16 @@
   {
    "n": 71,
    "name": {
-    "ko": "aviability 항공편 현황 (QR1175, 11/13 05:40경 확인)",
-    "en": "aviability flight status (QR1175, checked around 05:40, 13 Nov)",
-    "ar": "حالة الرحلات على aviability (الرحلة QR1175، تم التحقق نحو الساعة 05:40، 13 نوفمبر)"
+    "ko": "aviability 항공편 현황 (QR1175, 11/13 13:40경 확인)",
+    "en": "aviability flight status (QR1175, checked around 13:40, 13 Nov)",
+    "ar": "حالة الرحلات على aviability (الرحلة QR1175، تم التحقق نحو الساعة 13:40، 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 메디나→도하 QR1175: 이전 확인 포함 11/4~11/11 ‘게이트 도착’, 11/12(목)도 ‘게이트 도착’(04:42·06:49 표시), 11/13·11/14 ‘예정’(04:50 출발·06:50 도착). 결항 표시 없음. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Madinah→Doha QR1175: 4–11 Nov (including earlier checks) shown as ‘Arrived at gate’; Thu 12 Nov also ‘Arrived at gate’ (times shown 04:42 and 06:49); 13 and 14 Nov ‘Planned’ (dep. 04:50, arr. 06:50). No cancellations shown. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: من 4 إلى 11 نوفمبر (بما في ذلك عمليات تحقق سابقة) تظهر «وصلت إلى البوابة»، ويوم الخميس 12 نوفمبر أيضًا «وصلت إلى البوابة» (الأوقات المعروضة 04:42 و06:49)، ورحلتا 13 و14 نوفمبر «مخطط لهما» (المغادرة 04:50 والوصول 06:50). لا تظهر أي رحلة ملغاة. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 메디나→도하 QR1175: 이전 확인 포함 11/4~11/12 ‘게이트 도착’, 11/13(금)도 ‘게이트 도착’(04:50·06:55 표시), 11/14·11/15 ‘예정’(04:50 출발·06:50 도착). 결항 표시 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Madinah→Doha QR1175: 4–12 Nov (including earlier checks) shown as ‘Arrived at gate’; Fri 13 Nov also ‘Arrived at gate’ (times shown 04:50 and 06:55); 14 and 15 Nov ‘Planned’ (dep. 04:50, arr. 06:50). No cancellations shown. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: من 4 إلى 12 نوفمبر (بما في ذلك عمليات تحقق سابقة) تظهر «وصلت إلى البوابة»، ويوم الجمعة 13 نوفمبر أيضًا «وصلت إلى البوابة» (الأوقات المعروضة 04:50 و06:55)، ورحلتا 14 و15 نوفمبر «مخطط لهما» (المغادرة 04:50 والوصول 06:50). لا تظهر أي رحلة ملغاة. ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
   },
@@ -2084,16 +2084,16 @@
   {
    "n": 74,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/13 12:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 12:40, 13 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 12:40، 13 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/13 13:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 13:40, 13 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 13:40، 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최종 갱신 11/11 16:54(도하) 버전: 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 11/13 11:40경 확인 때 en-qa·en-sa 페이지가 이 버전을 표시했으나, 11/13 12:40경 확인 때는 en·en-qa·en-sa 페이지 모두 이전 버전(최종 갱신 10/12, 리야드·담맘·아브하 중단, 재개일 없음)을 표시함. 최종 갱신 시각이 가장 늦은 버전 기준으로 판단(같은 날 걸프뉴스도 11/13 리야드·11/14 담맘 재개를 보도).",
-    "en": "Version last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. At the check around 11:40 on 13 Nov, the en-qa and en-sa pages displayed this version, but at the check around 12:40 on 13 Nov, the en, en-qa and en-sa pages all displayed an older version (last updated 12 Oct, with Riyadh, Dammam and Abha suspended and no resumption date). Assessment is based on the version with the latest update time (Gulf News also reported on the same day the resumption of Riyadh on 13 Nov and Dammam on 14 Nov).",
-    "ar": "النسخة التي يعود آخر تحديث لها إلى 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا تذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. عند التحقق نحو الساعة 11:40 يوم 13 نوفمبر عرضت صفحتا en-qa وen-sa هذه النسخة، لكن عند التحقق نحو الساعة 12:40 يوم 13 نوفمبر عرضت صفحات en وen-qa وen-sa جميعها نسخة أقدم (آخر تحديث في 12 أكتوبر، مع تعليق الرياض والدمام وأبها ودون موعد للاستئناف). اعتُمد في التقييم على النسخة التي تحمل أحدث وقت تحديث (وأفادت غلف نيوز في اليوم نفسه أيضًا باستئناف الرياض في 13 نوفمبر والدمام في 14 نوفمبر)."
+    "ko": "최종 갱신 11/11 16:54(도하) 버전: 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 11/13 11:40경 확인 때 en-qa·en-sa 페이지가 이 버전을 표시했으나, 11/13 12:40경과 13:40경 확인 때는 en·en-qa·en-sa 페이지 모두 이전 버전(최종 갱신 10/12 16:54, 리야드·담맘·아브하 일시 중단, 재개일 없음)을 표시함. 두 공식 버전이 엇갈려 리야드·담맘 상태를 보수적으로 ‘미정’으로 둠(같은 날 걸프뉴스는 11/13 리야드·11/14 담맘 재개를 보도).",
+    "en": "Version last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. At the check around 11:40 on 13 Nov, the en-qa and en-sa pages displayed this version, but at the checks around 12:40 and 13:40 on 13 Nov, the en, en-qa and en-sa pages all displayed an older version (last updated 12 Oct 16:54, with Riyadh, Dammam and Abha temporarily suspended and no resumption date). Because the two official versions conflict, the Riyadh and Dammam status is conservatively set to ‘TBC’ (Gulf News reported on the same day the resumption of Riyadh on 13 Nov and Dammam on 14 Nov).",
+    "ar": "النسخة التي يعود آخر تحديث لها إلى 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا تذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. عند التحقق نحو الساعة 11:40 يوم 13 نوفمبر عرضت صفحتا en-qa وen-sa هذه النسخة، لكن عند التحقق نحو الساعتين 12:40 و13:40 يوم 13 نوفمبر عرضت صفحات en وen-qa وen-sa جميعها نسخة أقدم (آخر تحديث في 12 أكتوبر الساعة 16:54، مع تعليق مؤقت لرحلات الرياض والدمام وأبها ودون موعد للاستئناف). ونظرًا لتضارب النسختين الرسميتين، صُنّفت حالة الرياض والدمام بتحفّظ على أنها «غير مؤكدة» (وأفادت غلف نيوز في اليوم نفسه باستئناف الرياض في 13 نوفمبر والدمام في 14 نوفمبر)."
    },
    "url": "https://www.qatarairways.com/en-qa/travel-alerts.html"
   },
@@ -2339,9 +2339,9 @@
   },
   {
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1167, 11/13 12:40경 확인)",
-    "en": "Trip.com flight status (QR1167, checked around 12:40, 13 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1167، تم التحقق نحو الساعة 12:40 يوم 13 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1167, 11/13 13:40경 확인)",
+    "en": "Trip.com flight status (QR1167, checked around 13:40, 13 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1167، تم التحقق نحو الساعة 13:40 يوم 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공편 추적",
@@ -2350,7 +2350,7 @@
     "en": "Qatar Airways Riyadh→Doha QR1167 (scheduled 05:05 departure, 06:35 arrival): flights from 8 to 14 Nov all shown as ‘Canceled’; the 13 Nov flight (the resumption date) is also shown as ‘Canceled’, with no actual departure or arrival record. Conflicts with Qatar Airways’ official notice (resumption from 13 Nov). Not an official airline announcement",
     "ar": "رحلة الخطوط الجوية القطرية QR1167 من الرياض إلى الدوحة (الإقلاع المقرر 05:05، والوصول 06:35): تظهر رحلات الفترة من 8 إلى 14 نوفمبر جميعها «ملغاة (Canceled)»، وتظهر رحلة 13 نوفمبر (موعد الاستئناف) أيضًا «ملغاة» دون أي سجل فعلي للإقلاع أو الوصول. ويتعارض ذلك مع الإشعار الرسمي للخطوط الجوية القطرية (الاستئناف اعتبارًا من 13 نوفمبر). ليس إعلانًا رسميًا من شركة الطيران"
    },
-   "url": "https://ae.trip.com/flights/status-qr1167/",
+   "url": "https://in.trip.com/flights/status-qr1167/",
    "n": 90
   },
   {

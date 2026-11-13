@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-13T11:40:00+03:00",
+ "updated_at": "2026-11-13T12:40:00+03:00",
  "window_start": "2026-11-13",
  "pills": [
   {
@@ -122,7 +122,8 @@
     59,
     74,
     80,
-    92
+    92,
+    93
    ]
   },
   {
@@ -274,7 +275,8 @@
     60,
     74,
     80,
-    92
+    92,
+    93
    ]
   },
   {
@@ -470,7 +472,8 @@
     74,
     89,
     90,
-    91
+    91,
+    93
    ]
   },
   {
@@ -656,7 +659,8 @@
    "refs": [
     24,
     25,
-    74
+    74,
+    93
    ]
   },
   {
@@ -1280,9 +1284,9 @@
   {
    "n": 24,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1157, 11/13 04:40경 확인)",
-    "en": "Trip.com flight status (QR1157, checked around 04:40, 13 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1157، تم التحقق نحو الساعة 04:40 يوم 13 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1157, 11/13 12:40경 확인)",
+    "en": "Trip.com flight status (QR1157, checked around 12:40, 13 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1157، تم التحقق نحو الساعة 12:40 يوم 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공편 추적",
@@ -1456,16 +1460,16 @@
   {
    "n": 35,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1175, 11/1 08:40경 확인)",
-    "en": "Trip.com flight status (QR1175, checked around 08:40 on 1 Nov)",
-    "ar": "حالة الرحلة على Trip.com (QR1175، تم التحقق نحو الساعة 08:40 يوم 1 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1175, 11/13 12:40경 확인)",
+    "en": "Trip.com flight status (QR1175, checked around 12:40 on 13 Nov)",
+    "ar": "حالة الرحلة على Trip.com (QR1175، تم التحقق نحو الساعة 12:40 يوم 13 نوفمبر)"
    },
-   "date": "2026-11-01",
+   "date": "2026-11-13",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 메디나→도하 QR1175: 10/31 편 ‘도착’(예정 04:50·실제 06:03 출발, 실제 08:07 도착), 11/1 편 ‘도착’(예정 04:50·실제 04:58 출발, 예정 06:55·실제 06:42 도착, 13분 조기 도착) (항공사 공지 아님)",
-    "en": "Qatar Airways Madinah→Doha QR1175: 31 Oct flight ‘Arrived’ (departed 06:03, scheduled 04:50; arrived 08:07); 1 Nov flight ‘Arrived’ (departed 04:58, scheduled 04:50; arrived 06:42, scheduled 06:55, 13 minutes early) (not an airline notice)",
-    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: رحلة 31 أكتوبر «وصلت» (أقلعت الساعة 06:03 والموعد المجدول 04:50، ووصلت الساعة 08:07)، ورحلة 1 نوفمبر «وصلت» (أقلعت الساعة 04:58 والموعد المجدول 04:50، ووصلت الساعة 06:42 والموعد المجدول 06:55، أي قبل موعدها بـ13 دقيقة) (ليس إشعارًا من شركة الطيران)"
+    "ko": "카타르항공 메디나→도하 QR1175: 이전 확인(11/1) 기준 10/31·11/1 편 ‘도착’, 11/13 확인 기준 11/8~11/13 매일 ‘도착’(11/13: 예정 04:50·실제 04:56 출발, 예정 06:55·실제 06:50 도착), 11/14 편 ‘예정’. 결항 표시 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Madinah→Doha QR1175: as of the earlier check (1 Nov), the 31 Oct and 1 Nov flights were ‘Arrived’; as of the 13 Nov check, flights from 8 to 13 Nov were ‘Arrived’ every day (13 Nov: departed 04:56, scheduled 04:50; arrived 06:50, scheduled 06:55), and the 14 Nov flight is ‘Scheduled’. No cancellations shown. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: وفق التحقق السابق (1 نوفمبر) «وصلت» رحلتا 31 أكتوبر و1 نوفمبر، ووفق تحقق 13 نوفمبر «وصلت» الرحلات يوميًا من 8 إلى 13 نوفمبر (13 نوفمبر: أقلعت الساعة 04:56 والموعد المجدول 04:50، ووصلت الساعة 06:50 والموعد المجدول 06:55)، ورحلة 14 نوفمبر «مجدولة». لا تظهر أي إلغاءات. ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://ae.trip.com/flights/status-qr1175/"
   },
@@ -2080,16 +2084,16 @@
   {
    "n": 74,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/13 11:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 11:40, 13 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 11:40، 13 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/13 12:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 12:40, 13 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 12:40، 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/13 11:40경(도하) 확인, 최종 갱신 11/11 16:54(도하): 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. en-qa·en-sa 페이지가 이 버전을 표시했고, en 페이지는 이전 버전(최종 갱신 10/12, 리야드·담맘·아브하 중단)을 표시해 최종 갱신 시각이 가장 늦은 버전 기준으로 확인.",
-    "en": "Checked around 11:40 (Doha) on 13 Nov, last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. The en-qa and en-sa pages displayed this version, while the en page displayed an older version (last updated 12 Oct, with Riyadh, Dammam and Abha suspended), so the check was based on the version with the latest update time.",
-    "ar": "تم التحقق نحو الساعة 11:40 (بتوقيت الدوحة) في 13 نوفمبر، وآخر تحديث في 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): ينص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا يذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. عرضت صفحتا en-qa وen-sa هذه النسخة، بينما عرضت صفحة en نسخة أقدم (آخر تحديث في 12 أكتوبر، مع تعليق الرياض والدمام وأبها)، لذا اعتُمد في التحقق على النسخة التي تحمل أحدث وقت تحديث."
+    "ko": "최종 갱신 11/11 16:54(도하) 버전: 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 11/13 11:40경 확인 때 en-qa·en-sa 페이지가 이 버전을 표시했으나, 11/13 12:40경 확인 때는 en·en-qa·en-sa 페이지 모두 이전 버전(최종 갱신 10/12, 리야드·담맘·아브하 중단, 재개일 없음)을 표시함. 최종 갱신 시각이 가장 늦은 버전 기준으로 판단(같은 날 걸프뉴스도 11/13 리야드·11/14 담맘 재개를 보도).",
+    "en": "Version last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. At the check around 11:40 on 13 Nov, the en-qa and en-sa pages displayed this version, but at the check around 12:40 on 13 Nov, the en, en-qa and en-sa pages all displayed an older version (last updated 12 Oct, with Riyadh, Dammam and Abha suspended and no resumption date). Assessment is based on the version with the latest update time (Gulf News also reported on the same day the resumption of Riyadh on 13 Nov and Dammam on 14 Nov).",
+    "ar": "النسخة التي يعود آخر تحديث لها إلى 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا تذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. عند التحقق نحو الساعة 11:40 يوم 13 نوفمبر عرضت صفحتا en-qa وen-sa هذه النسخة، لكن عند التحقق نحو الساعة 12:40 يوم 13 نوفمبر عرضت صفحات en وen-qa وen-sa جميعها نسخة أقدم (آخر تحديث في 12 أكتوبر، مع تعليق الرياض والدمام وأبها ودون موعد للاستئناف). اعتُمد في التقييم على النسخة التي تحمل أحدث وقت تحديث (وأفادت غلف نيوز في اليوم نفسه أيضًا باستئناف الرياض في 13 نوفمبر والدمام في 14 نوفمبر)."
    },
    "url": "https://www.qatarairways.com/en-qa/travel-alerts.html"
   },
@@ -2335,9 +2339,9 @@
   },
   {
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1167, 11/13 11:40경 확인)",
-    "en": "Trip.com flight status (QR1167, checked around 11:40, 13 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1167، تم التحقق نحو الساعة 11:40 يوم 13 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1167, 11/13 12:40경 확인)",
+    "en": "Trip.com flight status (QR1167, checked around 12:40, 13 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1167، تم التحقق نحو الساعة 12:40 يوم 13 نوفمبر)"
    },
    "date": "2026-11-13",
    "kind": "항공편 추적",
@@ -2380,6 +2384,22 @@
     "en": "Published Fri 13 Nov: coalition spokesman Turki al-Maliki announced on X that a drone was intercepted and destroyed over the Eastern Province. No further details on the drone or any damage; no casualties or airport mentioned",
     "ar": "نُشر الجمعة 13 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي على منصة X اعتراض طائرة مسيّرة وتدميرها في المنطقة الشرقية. لا تفاصيل إضافية عن الطائرة المسيّرة أو أي أضرار، ودون ذكر إصابات أو المطار"
    }
+  },
+  {
+   "n": 93,
+   "name": {
+    "ko": "걸프뉴스 (Gulf News, 11/13 12:34 갱신)",
+    "en": "Gulf News (updated 12:34, 13 Nov)",
+    "ar": "غلف نيوز (تحديث 13 نوفمبر الساعة 12:34)"
+   },
+   "date": "2026-11-13",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/13(금) 12:34 갱신 항공편 현황 기사: 카타르항공이 11/13부터 리야드 매일 운항 재개, 담맘 매일 운항은 11/14 재개 예정, 아브하·타이프는 일시 중단 유지라고 정리. 에티하드는 리야드·담맘 11/19까지 중단, 사우디아·플라이아딜 리야드편은 카심 공항으로 옮겨 운항한다고 보도",
+    "en": "Flight status article updated 12:34 on Fri 13 Nov: summarises that Qatar Airways resumes daily Riyadh flights from 13 Nov, daily Dammam flights are scheduled to resume on 14 Nov, and Abha and Taif remain temporarily suspended. Reports that Etihad has suspended Riyadh and Dammam until 19 Nov, and that Saudia and flyadeal Riyadh flights have been moved to Qassim Airport",
+    "ar": "مقال عن حالة الرحلات حُدِّث يوم الجمعة 13 نوفمبر الساعة 12:34: يلخّص أن الخطوط الجوية القطرية تستأنف رحلاتها اليومية إلى الرياض اعتبارًا من 13 نوفمبر، وأن من المقرر استئناف الرحلات اليومية إلى الدمام في 14 نوفمبر، وأن أبها والطائف لا تزالان معلّقتين مؤقتًا. ويفيد بأن الاتحاد للطيران علّقت رحلاتها إلى الرياض والدمام حتى 19 نوفمبر، وأن رحلات الخطوط السعودية وطيران أديل من الرياض نُقلت إلى مطار القصيم"
+   },
+   "url": "https://gulfnews.com/business/aviation/uae-flights-status-update-latest-cancellations-and-delays-for-friday-november-13-1.500746024"
   }
  ]
 }

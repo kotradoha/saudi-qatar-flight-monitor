@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T05:50:00+03:00",
+ "updated_at": "2026-11-14T06:50:00+03:00",
  "window_start": "2026-11-14",
  "pills": [
   {
@@ -848,9 +848,9 @@
     "ar": "نجران"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 위협 계속: 나즈란 지역을 향한 미사일 요격·경보가 이어지고 있음(최근 11/8 나즈란주 경보 발령 후 해제, 사우디 민방위청) · 후티는 나즈란 공항의 군 수송기(10/27)와 나즈란 국가방위군 캠프(11/7)를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
-    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · threats continue: missile interceptions and alerts concerning the Najran region are ongoing (most recently an alert issued for Najran Province on 8 Nov and then lifted, Saudi Civil Defense) · the Houthis claimed attacks on a military transport aircraft at Najran airport (27 Oct) and a National Guard camp in Najran (7 Nov) (Houthi claims, not confirmed by Saudi Arabia)",
-    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · التهديد مستمر: تتواصل عمليات اعتراض الصواريخ والإنذارات المتعلقة بمنطقة نجران (وآخرها إنذار صدر لمنطقة نجران في 8 نوفمبر ثم رُفع، وفق الدفاع المدني السعودي) · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار نجران (27 أكتوبر) ومعسكر للحرس الوطني في نجران (7 نوفمبر) (ادعاءات حوثية لم تؤكدها السعودية)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초 나즈란 지역을 향한 미사일 요격·경보가 잇따랐음(연합군·사우디 민방위청 발표) · 후티는 나즈란 공항의 군 수송기(10/27)와 나즈란 국가방위군 캠프(11/7)를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
+    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · in early November, there were repeated missile interceptions and alerts concerning the Najran region (coalition and Saudi Civil Defense announcements) · the Houthis claimed attacks on a military transport aircraft at Najran airport (27 Oct) and a National Guard camp in Najran (7 Nov) (Houthi claims, not confirmed by Saudi Arabia)",
+    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · توالت في أوائل نوفمبر عمليات اعتراض الصواريخ والإنذارات المتعلقة بمنطقة نجران (وفق إعلانات التحالف والدفاع المدني السعودي) · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار نجران (27 أكتوبر) ومعسكر للحرس الوطني في نجران (7 نوفمبر) (ادعاءات حوثية لم تؤكدها السعودية)"
    },
    "refs": [
     4,
@@ -2063,16 +2063,16 @@
   {
    "n": 73,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/14 05:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 05:40 on 14 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 05:40 يوم 14 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/14 06:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 06:40 on 14 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 06:40 يوم 14 نوفمبر)"
    },
    "date": "2026-11-14",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최종 갱신 11/11 16:54(도하) 버전: 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 11/13 하루 동안 확인 시점·페이지(en·en-qa·en-sa)에 따라 이 버전과 이전 버전(최종 갱신 10/12 16:54, 리야드·담맘·아브하 일시 중단, 재개일 없음)이 번갈아 표시됐고(11/13 23:40경 en 확인 때는 10/12 버전), 11/14 00:40경 확인 때는 en·en-sa 페이지 모두, 01:40·02:40·03:40·04:40경 확인 때도 en 페이지가 11/11 버전을 표시했으나, 11/14 05:40경 확인 때는 en 페이지가 다시 10/12 버전을, en-sa 페이지는 11/11 버전을 표시함. 번갈아 표시된 이력이 있어 리야드·담맘 상태를 보수적으로 ‘미정’으로 둠(걸프뉴스는 11/13 리야드 재개·11/14 담맘 재개 예정을 보도).",
-    "en": "Version last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. Throughout 13 Nov, depending on the time of the check and the page (en, en-qa, en-sa), this version and an older version (last updated 12 Oct 16:54, with Riyadh, Dammam and Abha temporarily suspended and no resumption date) were displayed alternately (the en page showed the 12 Oct version at the check around 23:40 on 13 Nov); at the check around 00:40 on 14 Nov, both the en and en-sa pages displayed the 11 Nov version, and at the checks around 01:40, 02:40, 03:40 and 04:40 the en page also displayed the 11 Nov version, but at the check around 05:40 on 14 Nov the en page again displayed the 12 Oct version while the en-sa page displayed the 11 Nov version. Because of this history of alternating versions, the Riyadh and Dammam status is conservatively set to ‘TBC’ (Gulf News reported the resumption of Riyadh on 13 Nov and the planned resumption of Dammam on 14 Nov).",
-    "ar": "النسخة التي يعود آخر تحديث لها إلى 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا تذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. وطوال يوم 13 نوفمبر، عُرضت هذه النسخة ونسخة أقدم (آخر تحديث في 12 أكتوبر الساعة 16:54، مع تعليق مؤقت لرحلات الرياض والدمام وأبها ودون موعد للاستئناف) بالتناوب بحسب وقت التحقق والصفحة (en وen-qa وen-sa) (وعرضت صفحة en نسخة 12 أكتوبر عند التحقق نحو الساعة 23:40 يوم 13 نوفمبر)، وعند التحقق نحو الساعة 00:40 يوم 14 نوفمبر عرضت صفحتا en وen-sa كلتاهما نسخة 11 نوفمبر، وعند التحقق نحو الساعات 01:40 و02:40 و03:40 و04:40 عرضت صفحة en أيضًا نسخة 11 نوفمبر، غير أن صفحة en عرضت مجددًا نسخة 12 أكتوبر عند التحقق نحو الساعة 05:40 يوم 14 نوفمبر، فيما عرضت صفحة en-sa نسخة 11 نوفمبر. ونظرًا لعرض النسختين بالتناوب سابقًا، صُنّفت حالة الرياض والدمام بتحفّظ على أنها «غير مؤكدة» (وأفادت غلف نيوز باستئناف رحلات الرياض في 13 نوفمبر والاستئناف المقرر لرحلات الدمام في 14 نوفمبر)."
+    "ko": "최종 갱신 11/11 16:54(도하) 버전: 11/13부터 리야드(RUH) 매일 운항 재개, 담맘(DMM) 매일 운항도 11/14 재개, 아브하(AHB)·타이프(TIF) 출도착편은 일시 중단 유지라고 명시(재개일 미기재). 제다·메디나·얀부·타북·카심·하일·알울라 언급 없음. 11/13~11/14 확인 시점·페이지(en·en-qa·en-sa)에 따라 이 버전과 이전 버전(최종 갱신 10/12 16:54, 리야드·담맘·아브하 일시 중단, 재개일 없음)이 번갈아 표시됐고(가장 최근 이전 버전 표시는 11/14 05:40경 en 페이지), 11/14 06:40경 확인 때는 en 페이지가 11/11 버전을 표시함. 번갈아 표시된 이력이 있어 리야드·담맘 상태를 보수적으로 ‘미정’으로 둠(걸프뉴스는 11/13 리야드 재개·11/14 담맘 재개 예정을 보도).",
+    "en": "Version last updated 11 Nov 16:54 (Doha): states that daily Riyadh (RUH) flights resume from 13 Nov, daily Dammam (DMM) flights also resume on 14 Nov, and flights to and from Abha (AHB) and Taif (TIF) remain temporarily suspended (no resumption date given). No mention of Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail or AlUla. On 13–14 Nov, depending on the time of the check and the page (en, en-qa, en-sa), this version and an older version (last updated 12 Oct 16:54, with Riyadh, Dammam and Abha temporarily suspended and no resumption date) were displayed alternately (the older version was most recently displayed on the en page at the check around 05:40 on 14 Nov); at the check around 06:40 on 14 Nov, the en page displayed the 11 Nov version. Because of this history of alternating versions, the Riyadh and Dammam status is conservatively set to ‘TBC’ (Gulf News reported the resumption of Riyadh on 13 Nov and the planned resumption of Dammam on 14 Nov).",
+    "ar": "النسخة التي يعود آخر تحديث لها إلى 11 نوفمبر الساعة 16:54 (بتوقيت الدوحة): تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر، واستئناف الرحلات اليومية إلى الدمام (DMM) أيضًا في 14 نوفمبر، واستمرار التعليق المؤقت للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف). لا تذكر جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا. وفي يومي 13 و14 نوفمبر، عُرضت هذه النسخة ونسخة أقدم (آخر تحديث في 12 أكتوبر الساعة 16:54، مع تعليق مؤقت لرحلات الرياض والدمام وأبها ودون موعد للاستئناف) بالتناوب بحسب وقت التحقق والصفحة (en وen-qa وen-sa) (وكان آخر عرض للنسخة الأقدم على صفحة en عند التحقق نحو الساعة 05:40 يوم 14 نوفمبر)، وعند التحقق نحو الساعة 06:40 يوم 14 نوفمبر عرضت صفحة en نسخة 11 نوفمبر. ونظرًا لعرض النسختين بالتناوب سابقًا، صُنّفت حالة الرياض والدمام بتحفّظ على أنها «غير مؤكدة» (وأفادت غلف نيوز باستئناف رحلات الرياض في 13 نوفمبر والاستئناف المقرر لرحلات الدمام في 14 نوفمبر)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

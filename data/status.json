@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T19:40:00+03:00",
+ "updated_at": "2026-11-15T20:36:00+03:00",
  "window_start": "2026-11-15",
  "pills": [
   {
@@ -64,9 +64,9 @@
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 제다 노선은 하루 7회에서 4회로 줄었고(10/19 보도, 기간·해당 편 미발표) QR1183편은 10/26 이후 운항 기록이 없습니다. 서부 지역을 향한 요격도 이어지고 있습니다(최근 11/15 메카 지역 상공에서 드론 2기 요격, 연합군 발표, 피해 언급 없음). 11/9에는 메디나 지역 송유관이 공격받아 작은 화재가 났지만(사우디 국영통신·에너지부 관계자 발표, 부상자 없음; 후티는 부인해 엇갈림) 공항 영향은 보도되지 않았습니다.",
-    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ notice makes no mention of suspending flights in either city. However, the Jeddah route has been cut from seven to four flights a day (19 Oct reports; duration and affected flights not announced), and flight QR1183 has had no operating record since 26 Oct. Interceptions over the west also continue (most recently two drones intercepted over the Makkah region on 15 Nov, per the coalition; no damage mentioned). On 9 Nov a pipeline in the Madinah region was attacked, causing a small fire (Saudi Press Agency and a Ministry of Energy official; no injuries; the Houthis denied it, so accounts conflict), but no impact on airports has been reported.",
-    "ar": "<span class='grn'>تُعدّ جدة والمدينة المنورة أكثر الخيارات استقرارًا للسفر إلى الدوحة.</span> سُجّل تسيير رحلتي الخطوط الجوية القطرية QR1185 من جدة وQR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق للرحلات في المدينتين. غير أن رحلات خط جدة خُفِّضت من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر. وتتواصل كذلك عمليات الاعتراض في الغرب (آخرها اعتراض طائرتين مسيّرتين فوق منطقة مكة المكرمة في 15 نوفمبر، وفق التحالف، دون ذكر أضرار). وفي 9 نوفمبر تعرّض خط أنابيب في منطقة المدينة المنورة لهجوم أدى إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات؛ ونفى الحوثيون ذلك، فالروايات متضاربة)، ولم تُذكر أي آثار على المطارات."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 제다 노선은 하루 7회에서 4회로 줄었고(10/19 보도, 기간·해당 편 미발표) QR1183편은 10/26 이후 운항 기록이 없습니다. 서부 지역을 향한 요격도 이어지고 있습니다(최근 11/15 메카 지역 상공 드론 2기·메디나 지역 상공 드론 1기 요격, 연합군 발표, 피해 언급 없음; 후티는 메디나 쪽 발사를 부인해 엇갈림). 11/9에는 메디나 지역 송유관이 공격받아 작은 화재가 났지만(사우디 국영통신·에너지부 관계자 발표, 부상자 없음; 후티는 부인해 엇갈림) 공항 영향은 보도되지 않았습니다.",
+    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ notice makes no mention of suspending flights in either city. However, the Jeddah route has been cut from seven to four flights a day (19 Oct reports; duration and affected flights not announced), and flight QR1183 has had no operating record since 26 Oct. Interceptions over the west also continue (most recently two drones over the Makkah region and one over the Madinah region intercepted on 15 Nov, per the coalition; no damage mentioned; the Houthis denied launching towards Madinah, so accounts conflict). On 9 Nov a pipeline in the Madinah region was attacked, causing a small fire (Saudi Press Agency and a Ministry of Energy official; no injuries; the Houthis denied it, so accounts conflict), but no impact on airports has been reported.",
+    "ar": "<span class='grn'>تُعدّ جدة والمدينة المنورة أكثر الخيارات استقرارًا للسفر إلى الدوحة.</span> سُجّل تسيير رحلتي الخطوط الجوية القطرية QR1185 من جدة وQR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق للرحلات في المدينتين. غير أن رحلات خط جدة خُفِّضت من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر. وتتواصل كذلك عمليات الاعتراض في الغرب (آخرها اعتراض طائرتين مسيّرتين فوق منطقة مكة المكرمة وطائرة مسيّرة واحدة فوق منطقة المدينة المنورة في 15 نوفمبر، وفق التحالف، دون ذكر أضرار؛ ونفى الحوثيون الإطلاق باتجاه المدينة المنورة، فالروايات متضاربة). وفي 9 نوفمبر تعرّض خط أنابيب في منطقة المدينة المنورة لهجوم أدى إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات؛ ونفى الحوثيون ذلك، فالروايات متضاربة)، ولم تُذكر أي آثار على المطارات."
    },
    "refs": [
     8,
@@ -86,7 +86,9 @@
     64,
     66,
     85,
-    87
+    87,
+    88,
+    89
    ]
   },
   {
@@ -193,9 +195,9 @@
     "ar": "المغادرة من المدينة المنورة 04:50"
    },
    "note": {
-    "ko": "카타르항공 QR1175는 10/25 이후 매일 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에 운항 중단 언급 없음. 사우디아 SV540은 일부 날짜만 메디나 출발로 표시돼 정기 운항 여부는 확인되지 않음(항공편 추적 사이트 1곳 기준, 항공사 공식 발표 아님). 11/9 메디나 지역 송유관 피격으로 작은 화재(사우디 국영통신·에너지부 관계자 발표, 부상자 없음; 후티는 부인해 엇갈림), 공항 영향 보도 없음.",
-    "en": "Qatar Airways QR1175 has records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement); Qatar Airways’ notice makes no mention of a suspension. Saudia SV540 is shown departing from Madinah only on some dates, so whether it serves Madinah regularly is unconfirmed (according to one flight-tracking site, not an official airline announcement). On 9 Nov an attack on a pipeline in the Madinah region caused a small fire (Saudi Press Agency and a Ministry of Energy official; no injuries; the Houthis denied it, so accounts conflict); no impact on the airport reported.",
-    "ar": "سُجّل تسيير رحلة الخطوط الجوية القطرية QR1175 يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق. وتظهر رحلة الخطوط السعودية SV540 مغادِرةً من المدينة المنورة في بعض الأيام فقط، فلم يتأكّد تسييرها المنتظم منها (وفق موقع واحد لتتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). وفي 9 نوفمبر أدى هجوم على خط أنابيب في منطقة المدينة المنورة إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات؛ ونفى الحوثيون ذلك، فالروايات متضاربة)، ولم تُذكر أي آثار على المطار."
+    "ko": "카타르항공 QR1175는 10/25 이후 매일 운항 기록(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에 운항 중단 언급 없음. 사우디아 SV540은 일부 날짜만 메디나 출발로 표시돼 정기 운항 여부는 확인되지 않음(항공편 추적 사이트 1곳 기준, 항공사 공식 발표 아님). 11/9 메디나 지역 송유관 피격으로 작은 화재(사우디 국영통신·에너지부 관계자 발표, 부상자 없음; 후티는 부인해 엇갈림), 11/15에는 메디나 지역 상공에서 드론 1기가 요격됨(연합군 발표, 피해 언급 없음; 후티는 발사를 부인해 엇갈림). 공항 영향 보도 없음.",
+    "en": "Qatar Airways QR1175 has records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement); Qatar Airways’ notice makes no mention of a suspension. Saudia SV540 is shown departing from Madinah only on some dates, so whether it serves Madinah regularly is unconfirmed (according to one flight-tracking site, not an official airline announcement). On 9 Nov an attack on a pipeline in the Madinah region caused a small fire (Saudi Press Agency and a Ministry of Energy official; no injuries; the Houthis denied it, so accounts conflict); on 15 Nov a drone was intercepted over the Madinah region (per the coalition; no damage mentioned; the Houthis denied launching it, so accounts conflict). No impact on the airport reported.",
+    "ar": "سُجّل تسيير رحلة الخطوط الجوية القطرية QR1175 يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق. وتظهر رحلة الخطوط السعودية SV540 مغادِرةً من المدينة المنورة في بعض الأيام فقط، فلم يتأكّد تسييرها المنتظم منها (وفق موقع واحد لتتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). وفي 9 نوفمبر أدى هجوم على خط أنابيب في منطقة المدينة المنورة إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات؛ ونفى الحوثيون ذلك، فالروايات متضاربة)، وفي 15 نوفمبر اعتُرضت طائرة مسيّرة فوق منطقة المدينة المنورة (وفق التحالف، دون ذكر أضرار؛ ونفى الحوثيون إطلاقها، فالروايات متضاربة). ولم تُذكر أي آثار على المطار."
    },
    "refs": [
     16,
@@ -207,7 +209,9 @@
     59,
     62,
     64,
-    66
+    66,
+    88,
+    89
    ]
   },
   {
@@ -2286,6 +2290,38 @@
     "ar": "نُشر الساعة 17:37 يوم الأحد 15 نوفمبر: أعلن التحالف بقيادة السعودية، في بيان لمتحدثه الرسمي على منصة X، اعتراض وتدمير طائرتين مسيّرتين فوق منطقة مكة المكرمة، دون الكشف عن أهدافهما. دون ذكر أضرار أو إصابات أو مطارات"
    },
    "url": "https://thepeninsulaqatar.com/article/15/11/2026/saudi-led-coalition-intercepts-destroys-two-drones-over-makkah-region"
+  },
+  {
+   "n": 88,
+   "date": "2026-11-15",
+   "kind": "언론 보도",
+   "url": "https://www.siasat.com/madinah-alert-saudi-destroys-done-houthis-call-claim-a-lie-3578290/",
+   "name": {
+    "ko": "시아사트 데일리 (Siasat Daily, 11/15 22:05 IST)",
+    "en": "Siasat Daily (15 Nov, 22:05 IST)",
+    "ar": "سياست ديلي (Siasat Daily، 15 نوفمبر، 22:05 بتوقيت الهند)"
+   },
+   "what": {
+    "ko": "11/15(일) 게재: 연합군 대변인 투르키 알말리키가 X 성명에서 11/15 메디나 지역에서 드론 1기를 요격·파괴했다고 발표(앞서 메카 지역 드론 2기 요격도 발표). 메디나 건 피해·사상자·공항 영향 언급 없음. 후티 군 대변인 야히야 사리아는 해당 지역을 향해 드론을 발사하지 않았다며 사우디 발표를 부인(후티 측 주장)",
+    "en": "Published 15 Nov (Sun): coalition spokesman Turki al-Maliki said in a statement on X that a drone was intercepted and destroyed in the Madinah region on 15 Nov (after earlier announcing two drones intercepted in the Makkah region). No damage, casualties or airport impact mentioned for the Madinah incident. Houthi military spokesman Yahya Saree denied launching a drone towards the region (Houthi claim)",
+    "ar": "نُشر في 15 نوفمبر (الأحد): أعلن المتحدث باسم التحالف تركي المالكي في بيان على منصة X اعتراض طائرة مسيّرة وتدميرها في منطقة المدينة المنورة في 15 نوفمبر (بعد إعلانه في وقت سابق اعتراض طائرتين مسيّرتين في منطقة مكة المكرمة). ولم تُذكر أضرار أو إصابات أو آثار على المطار في حادثة المدينة المنورة. ونفى المتحدث العسكري باسم الحوثيين يحيى سريع إطلاق أي طائرة مسيّرة باتجاه المنطقة (ادعاء حوثي)"
+   }
+  },
+  {
+   "n": 89,
+   "date": "2026-11-15",
+   "kind": "언론 보도",
+   "url": "https://ua.news/en/dovkolo-svitu/koalitsiia-zaiavila-pro-perekhoplennia-trokh-droniv-nad-raionami-mekki-i-medini-anadolu-agency",
+   "name": {
+    "ko": "UA.NEWS (아나돌루통신 인용, 11/15 18:37)",
+    "en": "UA.NEWS (citing Anadolu Agency, 15 Nov, 18:37)",
+    "ar": "UA.NEWS (نقلًا عن وكالة الأناضول، 15 نوفمبر، 18:37)"
+   },
+   "what": {
+    "ko": "11/15(일) 게재, 아나돌루통신 인용: 연합군이 대변인 투르키 알말리키의 X 성명 두 건에서 메카 지역 상공 드론 2기와 메디나 지역 상공 드론 1기 등 드론 3기를 요격·파괴했다고 발표. 사상자·피해 정보 없음, 공항 영향 언급 없음",
+    "en": "Published 15 Nov (Sun), citing Anadolu Agency: the coalition said in two X statements by spokesman Turki al-Maliki that it intercepted and destroyed three drones, two over the Makkah region and one over the Madinah region. No information on casualties or damage; no airport impact mentioned",
+    "ar": "نُشر في 15 نوفمبر (الأحد) نقلًا عن وكالة الأناضول: أعلن التحالف في بيانين للمتحدث باسمه تركي المالكي على منصة X اعتراض ثلاث طائرات مسيّرة وتدميرها، اثنتان فوق منطقة مكة المكرمة وواحدة فوق منطقة المدينة المنورة. ولا معلومات عن إصابات أو أضرار، ولم تُذكر آثار على المطارات"
+   }
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T17:40:00+03:00",
+ "updated_at": "2026-11-15T18:40:00+03:00",
  "window_start": "2026-11-15",
  "pills": [
   {
@@ -52,21 +52,21 @@
     62,
     63,
     67,
+    70,
+    71,
+    72,
     73,
-    74,
-    75,
-    76,
-    80,
-    81,
-    88,
-    89
+    77,
+    78,
+    85,
+    86
    ]
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 제다 노선은 하루 7회에서 4회로 줄었고(10/19 보도, 기간·해당 편 미발표) QR1183편은 10/26 이후 운항 기록이 없습니다. 서부 지역을 향한 요격도 이어지고 있습니다(최근 11/11 메카 지역을 향한 탄도미사일 2발, 요격은 연합군·파편 낙하는 사우디 민방위청 발표, 피해 언급 없음). 11/9에는 메디나 지역 송유관이 공격받아 작은 화재가 났지만(사우디 국영통신·에너지부 관계자 발표, 부상자 없음; 후티는 부인해 엇갈림) 공항 영향은 보도되지 않았습니다.",
-    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ notice makes no mention of suspending flights in either city. However, the Jeddah route has been cut from seven to four flights a day (19 Oct reports; duration and affected flights not announced), and flight QR1183 has had no operating record since 26 Oct. Interceptions over the west also continue (most recently two ballistic missiles heading for the Makkah region on 11 Nov; interception per the coalition, falling debris per Saudi Civil Defence; no damage mentioned). On 9 Nov a pipeline in the Madinah region was attacked, causing a small fire (Saudi Press Agency and a Ministry of Energy official; no injuries; the Houthis denied it, so accounts conflict), but no impact on airports has been reported.",
-    "ar": "<span class='grn'>تُعدّ جدة والمدينة المنورة أكثر الخيارات استقرارًا للسفر إلى الدوحة.</span> سُجّل تسيير رحلتي الخطوط الجوية القطرية QR1185 من جدة وQR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق للرحلات في المدينتين. غير أن رحلات خط جدة خُفِّضت من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر. وتتواصل كذلك عمليات الاعتراض في الغرب (آخرها صاروخان باليستيان متجهان إلى منطقة مكة المكرمة في 11 نوفمبر؛ الاعتراض وفق التحالف، وسقوط الشظايا وفق الدفاع المدني السعودي، دون ذكر أضرار). وفي 9 نوفمبر تعرّض خط أنابيب في منطقة المدينة المنورة لهجوم أدى إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات؛ ونفى الحوثيون ذلك، فالروايات متضاربة)، ولم تُذكر أي آثار على المطارات."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 제다 노선은 하루 7회에서 4회로 줄었고(10/19 보도, 기간·해당 편 미발표) QR1183편은 10/26 이후 운항 기록이 없습니다. 서부 지역을 향한 요격도 이어지고 있습니다(최근 11/15 메카 지역 상공에서 드론 2기 요격, 연합군 발표, 피해 언급 없음). 11/9에는 메디나 지역 송유관이 공격받아 작은 화재가 났지만(사우디 국영통신·에너지부 관계자 발표, 부상자 없음; 후티는 부인해 엇갈림) 공항 영향은 보도되지 않았습니다.",
+    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ notice makes no mention of suspending flights in either city. However, the Jeddah route has been cut from seven to four flights a day (19 Oct reports; duration and affected flights not announced), and flight QR1183 has had no operating record since 26 Oct. Interceptions over the west also continue (most recently two drones intercepted over the Makkah region on 15 Nov, per the coalition; no damage mentioned). On 9 Nov a pipeline in the Madinah region was attacked, causing a small fire (Saudi Press Agency and a Ministry of Energy official; no injuries; the Houthis denied it, so accounts conflict), but no impact on airports has been reported.",
+    "ar": "<span class='grn'>تُعدّ جدة والمدينة المنورة أكثر الخيارات استقرارًا للسفر إلى الدوحة.</span> سُجّل تسيير رحلتي الخطوط الجوية القطرية QR1185 من جدة وQR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق للرحلات في المدينتين. غير أن رحلات خط جدة خُفِّضت من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر. وتتواصل كذلك عمليات الاعتراض في الغرب (آخرها اعتراض طائرتين مسيّرتين فوق منطقة مكة المكرمة في 15 نوفمبر، وفق التحالف، دون ذكر أضرار). وفي 9 نوفمبر تعرّض خط أنابيب في منطقة المدينة المنورة لهجوم أدى إلى حريق صغير (وفق وكالة الأنباء السعودية ومصدر مسؤول في وزارة الطاقة، دون وقوع إصابات؛ ونفى الحوثيون ذلك، فالروايات متضاربة)، ولم تُذكر أي آثار على المطارات."
    },
    "refs": [
     8,
@@ -85,8 +85,8 @@
     62,
     64,
     66,
-    71,
-    72
+    85,
+    87
    ]
   },
   {
@@ -102,15 +102,15 @@
     60,
     62,
     65,
-    77,
-    78,
-    79,
+    74,
+    75,
+    76,
+    81,
+    82,
+    83,
     84,
     85,
-    86,
-    87,
-    88,
-    89
+    86
    ]
   },
   {
@@ -150,9 +150,9 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1185 تغادر جدة 05:10 وتصل إلى الدوحة 07:30 (حسب الجدول) · لم تتأكّد مواعيد بقية الرحلات بعد التخفيض"
    },
    "note": {
-    "ko": "QR1185는 10/25 이후 매일 운항 기록, QR1183은 10/26 이후 운항 기록 없음(사이트에 따라 결항·예정 표시 엇갈림)(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공지에 제다 운항 중단 언급 없음, 감편 기간·해당 편 미발표. 메카 지역을 향한 요격이 이어지고 있음(최근 11/11 탄도미사일 2발, 요격은 연합군·파편 낙하는 사우디 민방위청 발표, 피해 언급 없음; 후티는 메카 겨냥을 부인해 엇갈림). 공항 영향 보도 없음.",
-    "en": "QR1185 has records of operating every day since 25 Oct; QR1183 has had no operating record since 26 Oct (sites differ, showing it as cancelled or scheduled) (according to flight-tracking sites, not an official airline announcement). Qatar Airways’ notice makes no mention of suspending Jeddah flights; duration of the reduction and affected flights not announced. Interceptions over the Makkah region continue (most recently two ballistic missiles on 11 Nov; interception per the coalition, falling debris per Saudi Civil Defence; no damage mentioned; the Houthis denied targeting Makkah, so accounts conflict). No impact on the airport reported.",
-    "ar": "سُجّل تسيير الرحلة QR1185 يوميًا منذ 25 أكتوبر، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر (تتباين المواقع بين عرضها ملغاة أو مجدولة) (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق لرحلات جدة، ولم تُعلن مدة التخفيض ولا الرحلات المعنية. وتتواصل عمليات الاعتراض في منطقة مكة المكرمة (آخرها صاروخان باليستيان في 11 نوفمبر؛ الاعتراض وفق التحالف، وسقوط الشظايا وفق الدفاع المدني السعودي، دون ذكر أضرار؛ ونفى الحوثيون استهداف مكة المكرمة، فالروايات متضاربة). ولم تُذكر أي آثار على المطار."
+    "ko": "QR1185는 10/25 이후 매일 운항 기록, QR1183은 10/26 이후 운항 기록 없음(사이트에 따라 결항·예정 표시 엇갈림)(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공지에 제다 운항 중단 언급 없음, 감편 기간·해당 편 미발표. 메카 지역을 향한 요격이 이어지고 있음(최근 11/15 드론 2기, 연합군 발표, 피해 언급 없음). 공항 영향 보도 없음.",
+    "en": "QR1185 has records of operating every day since 25 Oct; QR1183 has had no operating record since 26 Oct (sites differ, showing it as cancelled or scheduled) (according to flight-tracking sites, not an official airline announcement). Qatar Airways’ notice makes no mention of suspending Jeddah flights; duration of the reduction and affected flights not announced. Interceptions over the Makkah region continue (most recently two drones on 15 Nov, per the coalition; no damage mentioned). No impact on the airport reported.",
+    "ar": "سُجّل تسيير الرحلة QR1185 يوميًا منذ 25 أكتوبر، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر (تتباين المواقع بين عرضها ملغاة أو مجدولة) (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق لرحلات جدة، ولم تُعلن مدة التخفيض ولا الرحلات المعنية. وتتواصل عمليات الاعتراض في منطقة مكة المكرمة (آخرها طائرتان مسيّرتان في 15 نوفمبر، وفق التحالف، دون ذكر أضرار). ولم تُذكر أي آثار على المطار."
    },
    "refs": [
     8,
@@ -165,10 +165,8 @@
     44,
     58,
     62,
-    68,
-    70,
-    71,
-    72
+    85,
+    87
    ]
   },
   {
@@ -249,15 +247,15 @@
     60,
     62,
     65,
-    77,
-    78,
-    79,
+    74,
+    75,
+    76,
+    81,
+    82,
+    83,
     84,
     85,
-    86,
-    87,
-    88,
-    89
+    86
    ]
   },
   {
@@ -375,14 +373,14 @@
     62,
     63,
     67,
+    70,
+    71,
+    72,
     73,
-    74,
-    75,
-    76,
-    80,
-    81,
-    88,
-    89
+    77,
+    78,
+    85,
+    86
    ]
   },
   {
@@ -416,9 +414,9 @@
    "refs": [
     62,
     65,
-    69,
-    82,
-    83
+    68,
+    79,
+    80
    ]
   }
  ],
@@ -450,10 +448,10 @@
    ],
    "refs": [
     62,
-    73,
-    74,
-    75,
-    76
+    70,
+    71,
+    72,
+    73
    ]
   },
   {
@@ -639,11 +637,11 @@
    "refs": [
     20,
     62,
-    77,
-    78,
-    79,
-    84,
-    85
+    74,
+    75,
+    76,
+    81,
+    82
    ]
   },
   {
@@ -775,8 +773,8 @@
     5,
     24,
     62,
-    69,
-    70
+    68,
+    69
    ]
   },
   {
@@ -827,7 +825,7 @@
     39,
     41,
     55,
-    81
+    78
    ]
   },
   {
@@ -1876,16 +1874,16 @@
   {
    "n": 62,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/15 17:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 17:40 on 15 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 17:40 يوم 15 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/15 18:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 18:40 on 15 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 18:40 يوم 15 نوفمبر)"
    },
    "date": "2026-11-15",
    "kind": "항공사 공지",
    "what": {
-    "ko": "11/15 17:40경 확인(en 페이지, 15:40경·16:40경 확인 때와 동일): 최종 갱신 ‘11/15 16:54(도하)’로 표시된 버전(16:40경 확인 때에도 같은 시각으로 표시됨). 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시했고, 11/13~11/15 오후까지는 페이지에 따라 이 버전과 그 이전 버전(10/12 16:54, 리야드·담맘·아브하 일시 중단)이 번갈아 표시됐음. 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Checked around 17:40 on 15 Nov (en page; same as the checks around 15:40 and 16:40): version shown as last updated ‘15 Nov 16:54 (Doha)’ (the same time was already shown at the check around 16:40). Among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif remain temporarily suspended; from 13 Nov until the afternoon of 15 Nov, depending on the page, that version and an older one (12 Oct 16:54, Riyadh, Dammam and Abha temporarily suspended) were displayed alternately. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "تم التحقق نحو الساعة 17:40 يوم 15 نوفمبر (صفحة en، والمحتوى مطابق لما ظهر عند التحقق نحو الساعة 15:40 والساعة 16:40): نسخة يظهر أن آخر تحديث لها «15 نوفمبر 16:54 (بتوقيت الدوحة)» (وكان الوقت نفسه معروضًا عند التحقق نحو الساعة 16:40). ومن بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف؛ ومن 13 نوفمبر حتى بعد ظهر 15 نوفمبر عُرضت هذه النسخة ونسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت لرحلات الرياض والدمام وأبها) بالتناوب بحسب الصفحة. ولا تذكر أيٌّ من النسخ جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا."
+    "ko": "11/15 18:40경 확인(en 페이지, 15:40경~17:40경 확인 때와 동일): 최종 갱신 ‘11/15 16:54(도하)’로 표시된 버전(16:40경 확인 때에도 같은 시각으로 표시됨). 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시했고, 11/13~11/15 오후까지는 페이지에 따라 이 버전과 그 이전 버전(10/12 16:54, 리야드·담맘·아브하 일시 중단)이 번갈아 표시됐음. 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Checked around 18:40 on 15 Nov (en page; same as the checks from around 15:40 to 17:40): version shown as last updated ‘15 Nov 16:54 (Doha)’ (the same time was already shown at the check around 16:40). Among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif remain temporarily suspended; from 13 Nov until the afternoon of 15 Nov, depending on the page, that version and an older one (12 Oct 16:54, Riyadh, Dammam and Abha temporarily suspended) were displayed alternately. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "تم التحقق نحو الساعة 18:40 يوم 15 نوفمبر (صفحة en، والمحتوى مطابق لما ظهر عند عمليات التحقق من نحو الساعة 15:40 إلى 17:40): نسخة يظهر أن آخر تحديث لها «15 نوفمبر 16:54 (بتوقيت الدوحة)» (وكان الوقت نفسه معروضًا عند التحقق نحو الساعة 16:40). ومن بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف؛ ومن 13 نوفمبر حتى بعد ظهر 15 نوفمبر عُرضت هذه النسخة ونسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت لرحلات الرياض والدمام وأبها) بالتناوب بحسب الصفحة. ولا تذكر أيٌّ من النسخ جدة أو المدينة المنورة أو ينبع أو تبوك أو القصيم أو حائل أو العُلا."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -1972,22 +1970,6 @@
   {
    "n": 68,
    "name": {
-    "ko": "시아사트 (Siasat, 11/11)",
-    "en": "Siasat (11 Nov)",
-    "ar": "سياسات (Siasat، 11 نوفمبر)"
-   },
-   "date": "2026-11-11",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/11 17:10(UTC) 게재: 연합군 대변인 투르키 알말리키가 X에 11/11(수) 후티가 메카·남부 지역을 향해 발사한 드론 2기를 요격·파괴했다고 발표, 추가 세부 없음. 같은 날 리야드 지역을 향한 순항미사일 3발 요격도 언급. 후티 군 대변인 야히야 사리아는 메카·메디나 겨냥을 부인. 피해·사상자·공항 언급 없음",
-    "en": "Published 17:10 (UTC) on 11 Nov: coalition spokesman Turki al-Maliki announced on X that two drones launched by the Houthis towards the Makkah region and the Southern Region were intercepted and destroyed on Wednesday 11 Nov, with no further details. The same-day interception of three cruise missiles towards the Riyadh region is also mentioned. Houthi military spokesman Yahya Saree denied targeting Makkah and Madinah. No damage, casualties or airport mentioned",
-    "ar": "نُشر الساعة 17:10 (بتوقيت UTC) يوم 11 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي على منصة X اعتراض وتدمير طائرتين مسيّرتين أطلقهما الحوثيون باتجاه منطقة مكة المكرمة والمنطقة الجنوبية يوم الأربعاء 11 نوفمبر، دون تفاصيل إضافية. ويذكر الخبر أيضًا اعتراض 3 صواريخ كروز باتجاه منطقة الرياض في اليوم نفسه. ونفى المتحدث العسكري الحوثي يحيى سريع استهداف مكة المكرمة والمدينة المنورة. دون ذكر أضرار أو إصابات أو مطارات"
-   },
-   "url": "https://www.siasat.com/makkah-targeted-again-as-saudi-arabia-shoots-down-two-drones-3574758/"
-  },
-  {
-   "n": 69,
-   "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/11 경보 해제 기사)",
     "en": "Anadolu Agency (11 Nov, all-clear report)",
     "ar": "وكالة الأناضول (11 نوفمبر، خبر رفع التنبيهات)"
@@ -2002,7 +1984,7 @@
    "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-gives-all-clear-in-taif-yanbu-khamis-mushait-after-alerts/4121401"
   },
   {
-   "n": 70,
+   "n": 69,
    "name": {
     "ko": "로이터 (Reuters, Yahoo News 게재, 11/11 19:50 UTC)",
     "en": "Reuters (via Yahoo News, 11 Nov, 19:50 UTC)",
@@ -2018,38 +2000,6 @@
    "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-intercepts-houthi-missiles-195031157.html"
   },
   {
-   "n": 71,
-   "name": {
-    "ko": "아랍뉴스 (Arab News, 11/11 게재·11/12 갱신)",
-    "en": "Arab News (published 11 Nov, updated 12 Nov)",
-    "ar": "عرب نيوز (Arab News، نُشر في 11 نوفمبر وحُدِّث في 12 نوفمبر)"
-   },
-   "date": "2026-11-12",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/11 19:40(사우디) 게재, 11/12 02:52 갱신: 연합군이 11/11(수) 저녁 서부 지역에서 후티 탄도미사일 2발을 파괴했다고 발표. 사우디 민방위청은 11/12(목) 새벽 발표에서 메카 상공에서 파괴된 탄도미사일 2발의 파편이 사부하 마을에 떨어졌다고 밝힘. 피해·사상자 언급 없음, 공항 언급 없음",
-    "en": "Published 19:40 (Saudi time) on 11 Nov, updated 02:52 on 12 Nov: the coalition said two Houthi ballistic missiles were destroyed over the western region on the evening of Wed 11 Nov. In a statement early on Thu 12 Nov, Saudi Civil Defence said fragments of two ballistic missiles destroyed over Makkah fell in the village of Sabouha. No damage or casualties mentioned; no airport mentioned",
-    "ar": "نُشر الساعة 19:40 (بتوقيت السعودية) يوم 11 نوفمبر، وحُدِّث الساعة 02:52 يوم 12 نوفمبر: أعلن التحالف تدمير صاروخين باليستيين حوثيين في المنطقة الغربية مساء الأربعاء 11 نوفمبر. وأفاد الدفاع المدني السعودي في بيان فجر الخميس 12 نوفمبر بأن شظايا صاروخين باليستيين دُمّرا فوق مكة المكرمة سقطت في قرية صبوحة. دون ذكر أضرار أو إصابات، ودون ذكر للمطارات"
-   },
-   "url": "https://www.arabnews.com/saudi-arabia/debris-falls-on-makkah-region-after-houthi-missiles-destroyed-by-coalition-3011220"
-  },
-  {
-   "n": 72,
-   "name": {
-    "ko": "로이터 (Reuters, 타임스오브이스라엘 게재, 11/12)",
-    "en": "Reuters (via The Times of Israel, 12 Nov)",
-    "ar": "رويترز (عبر تايمز أوف إسرائيل، 12 نوفمبر)"
-   },
-   "date": "2026-11-12",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/12(목) 새벽 라이브블로그 게재, 로이터: 사우디 민방위청 성명에 따르면 후티가 메카 지역을 향해 발사한 탄도미사일 2발이 요격·파괴됐고 파편이 사부하 마을 등 메카 지역에 떨어짐. 피해·사상자 언급 없음",
-    "en": "Liveblog entry early on Thu 12 Nov, Reuters: according to a Saudi Civil Defence statement, two ballistic missiles launched by the Houthis towards the Makkah region were intercepted and destroyed, and debris fell in the Makkah area, including the village of Sabouha. No damage or casualties mentioned",
-    "ar": "مدخل في مدونة مباشرة فجر الخميس 12 نوفمبر، رويترز: وفق بيان للدفاع المدني السعودي، اعتُرض صاروخان باليستيان أطلقهما الحوثيون نحو منطقة مكة المكرمة ودُمّرا، وسقطت شظايا في منطقة مكة المكرمة، بما في ذلك قرية صبوحة. دون ذكر أضرار أو إصابات"
-   },
-   "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-says-debris-from-intercepted-houthi-missiles-fell-in-the-mecca-area/"
-  },
-  {
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1165, 11/15 17:40경 확인)",
     "en": "Trip.com flight status (QR1165, checked around 17:40, 15 Nov)",
@@ -2063,7 +2013,7 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1165 من الرياض إلى الدوحة (المغادرة المقررة 16:40 والوصول 18:10): بما في ذلك عمليات التحقق السابقة، جميع الرحلات من 9 إلى 15 نوفمبر معروضة على أنها «ملغاة (Cancelled)»، والرحلات من 13 نوفمبر (موعد الاستئناف) حتى 15 نوفمبر معروضة أيضًا على أنها «ملغاة» دون أي سجل فعلي للمغادرة أو الوصول (أظهر التحقق في 14 نوفمبر رحلتي 16 و18 نوفمبر أيضًا على أنهما «ملغاتان»، ولم يُظهر التحقق نحو الساعتين 16:40 و17:40 يوم 15 نوفمبر أي رحلات اعتبارًا من 16 نوفمبر). يتعارض ذلك مع الإشعار الرسمي للخطوط الجوية القطرية (الاستئناف في 13 نوفمبر). ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://www.trip.com/flights/status-qr1165/",
-   "n": 73
+   "n": 70
   },
   {
    "name": {
@@ -2079,7 +2029,7 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1167 من الرياض إلى الدوحة (الإقلاع المقرر 05:05، والوصول 06:35؛ و05:50 و07:20 لرحلة 15 نوفمبر): بما في ذلك عمليات التحقق السابقة، تظهر رحلات الفترة من 8 إلى 16 نوفمبر ورحلة 18 نوفمبر جميعها «ملغاة (Canceled)»، ورحلات 13 نوفمبر (موعد الاستئناف) و14 نوفمبر (التي مرّ موعد إقلاعها المقرر) و15 نوفمبر (الإقلاع المقرر 05:50) أيضًا «ملغاة» دون أي سجل فعلي للإقلاع أو الوصول. ويتعارض ذلك مع الإشعار الرسمي للخطوط الجوية القطرية (الاستئناف اعتبارًا من 13 نوفمبر). ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://ae.trip.com/flights/status-qr1167/",
-   "n": 74
+   "n": 71
   },
   {
    "name": {
@@ -2095,10 +2045,10 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1173 من الرياض إلى الدوحة: تظهر رحلات الفترة من 7 إلى 12 نوفمبر جميعها «ملغاة (Canceled)». وظهرت رحلة 13 نوفمبر (الإقلاع المقرر 21:10، والوصول 22:40) في عمليات التحقق السابقة «ملغاة» ثم «مجدولة» ثم «متأخرة»، وعند التحقق نحو الساعة 00:40 يوم 14 نوفمبر أظهرتها الصفحة النيوزيلندية للموقع (nz.trip.com) «وصلت (Arrived)» (الإقلاع الفعلي 23:22، والوصول 00:34 يوم 14 نوفمبر). وفي الوقت نفسه كانت الصفحة الفلبينية (ph.trip.com) لا تزال تُظهرها «مجدولة» والصفحة الكندية (ca.trip.com) «متأخرة»، أي أن التحديث يتفاوت بين الصفحات. ولا يوجد إدخال لرحلة 14 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://nz.trip.com/flights/status-qr1173/",
-   "n": 75
+   "n": 72
   },
   {
-   "n": 76,
+   "n": 73,
    "name": {
     "ko": "aviability 항공편 현황 (QR1173, 11/15 00:37경 확인)",
     "en": "aviability flight status (QR1173, checked around 00:37, 15 Nov)",
@@ -2114,7 +2064,7 @@
    "url": "https://aviability.com/en/flight/qr1173-qatar-airways/ruh-doh"
   },
   {
-   "n": 77,
+   "n": 74,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1151, 11/15 15:40경 확인)",
     "en": "Trip.com flight status (QR1151, checked around 15:40, 15 Nov)",
@@ -2130,7 +2080,7 @@
    "url": "https://www.trip.com/flights/status-qr1151/"
   },
   {
-   "n": 78,
+   "n": 75,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1155, 11/14 22:36경 확인)",
     "en": "Trip.com flight status (QR1155, checked around 22:36, 14 Nov)",
@@ -2146,7 +2096,7 @@
    "url": "https://www.trip.com/flights/status-qr1155/"
   },
   {
-   "n": 79,
+   "n": 76,
    "name": {
     "ko": "Trip.com 항공편 현황 (QR1157, 11/15 05:40경 확인)",
     "en": "Trip.com flight status (QR1157, checked around 05:40, 15 Nov)",
@@ -2162,7 +2112,7 @@
    "url": "https://www.trip.com/flights/status-qr1157/"
   },
   {
-   "n": 80,
+   "n": 77,
    "date": "2026-11-13",
    "kind": "언론 보도",
    "name": {
@@ -2178,7 +2128,7 @@
    }
   },
   {
-   "n": 81,
+   "n": 78,
    "date": "2026-11-13",
    "kind": "언론 보도",
    "name": {
@@ -2194,7 +2144,7 @@
    }
   },
   {
-   "n": 82,
+   "n": 79,
    "name": {
     "ko": "비즈니스 레코더 (Business Recorder, 로이터 인용, 11/14)",
     "en": "Business Recorder (citing Reuters, 14 Nov)",
@@ -2210,7 +2160,7 @@
    "url": "https://www.brecorder.com/news/40448918/saudi-led-coalition-says-it-destroyed-houthi-drones-launched-towards-riyadh-southern-region"
   },
   {
-   "n": 83,
+   "n": 80,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/14 16:19 갱신)",
     "en": "Arab News (updated 16:19, 14 Nov)",
@@ -2226,7 +2176,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/coalition-says-it-destroyed-houthi-drones-launched-towards-riyadh-southern-region-3011857"
   },
   {
-   "n": 84,
+   "n": 81,
    "name": {
     "ko": "aviability 항공편 현황 (QR1155, 11/14 22:36경 확인)",
     "en": "aviability flight status (QR1155, checked around 22:36, 14 Nov)",
@@ -2242,7 +2192,7 @@
    "url": "https://aviability.com/en/flight/qr1155-qatar-airways/dmm-doh"
   },
   {
-   "n": 85,
+   "n": 82,
    "name": {
     "ko": "aviability 항공편 현황 (QR1151, 11/15 15:40경 확인)",
     "en": "aviability flight status (QR1151, checked around 15:40, 15 Nov)",
@@ -2258,7 +2208,7 @@
    "url": "https://aviability.com/en/flight/qr1151-qatar-airways"
   },
   {
-   "n": 86,
+   "n": 83,
    "name": {
     "ko": "FlightStats 항공편 현황 (QR1151, 11/15 15:40경 확인)",
     "en": "FlightStats flight status (QR1151, checked around 15:40, 15 Nov)",
@@ -2274,7 +2224,7 @@
    "url": "https://www.flightstats.com/v2/flight-tracker/QR/1151"
   },
   {
-   "n": 87,
+   "n": 84,
    "name": {
     "ko": "aviability 항공편 현황 (QR1157, 11/15 03:40경 확인)",
     "en": "aviability flight status (QR1157, checked around 03:40 on 15 Nov)",
@@ -2290,23 +2240,23 @@
    "url": "https://aviability.com/en/flight/qr1157-qatar-airways"
   },
   {
-   "n": 88,
+   "n": 85,
    "date": "2026-11-15",
    "kind": "언론 보도",
    "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-2-houthi-missiles-targeting-riyadh-3-drones-in-eastern-province-3011963",
    "name": {
-    "ko": "아랍뉴스 (Arab News, 11/15 06:34)",
-    "en": "Arab News (15 Nov, 06:34)",
-    "ar": "عرب نيوز (15 نوفمبر، 06:34)"
+    "ko": "아랍뉴스 (Arab News, 11/15 06:34 게재·16:41 갱신)",
+    "en": "Arab News (15 Nov, published 06:34, updated 16:41)",
+    "ar": "عرب نيوز (15 نوفمبر، نُشر 06:34 وحُدِّث 16:41)"
    },
    "what": {
-    "ko": "11/15(일) 06:34 게재: 연합군 대변인 투르키 알말리키가 X에 리야드를 향한 후티 탄도미사일 2발과 동부 지역을 향한 드론 3기를 요격·파괴했다고 발표. 민방위 경보(04:08) 뒤 폭발음 3회, 이후 해제. 이번 공격의 피해·사상자·공항 영향 언급 없음",
-    "en": "Published 06:34 on Sun 15 Nov: coalition spokesman Turki Al-Maliki announced on X the interception and destruction of two Houthi ballistic missiles aimed at Riyadh and three drones aimed at the Eastern Province. Three loud explosions were heard after a Civil Defense alert (04:08), followed by an all-clear. No damage, casualties or airport impact mentioned for this attack",
-    "ar": "نُشر الساعة 06:34 يوم الأحد 15 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي عبر منصة X اعتراض وتدمير صاروخين باليستيين حوثيين استهدفا الرياض وثلاث طائرات مسيّرة استهدفت المنطقة الشرقية. وسُمعت ثلاثة انفجارات قوية بعد إنذار الدفاع المدني (04:08)، ثم أُعلن زوال الخطر. لم يُذكر أي ضرر أو إصابات أو تأثير على المطارات جراء هذا الهجوم"
+    "ko": "11/15(일) 06:34 게재: 연합군 대변인 투르키 알말리키가 X에 리야드를 향한 후티 탄도미사일 2발과 동부 지역을 향한 드론 3기를 요격·파괴했다고 발표. 민방위 경보(04:08) 뒤 폭발음 3회, 이후 해제. 이번 공격의 피해·사상자·공항 영향 언급 없음. 16:41 갱신본: 오후에 메카 지역에서 후티 드론 2기가 요격됐다고 연합군이 발표했다고 추가(피해·사상자 언급 없음)",
+    "en": "Published 06:34 on Sun 15 Nov: coalition spokesman Turki Al-Maliki announced on X the interception and destruction of two Houthi ballistic missiles aimed at Riyadh and three drones aimed at the Eastern Province. Three loud explosions were heard after a Civil Defense alert (04:08), followed by an all-clear. No damage, casualties or airport impact mentioned for this attack. Updated at 16:41: adds that the coalition announced two Houthi drones were intercepted in the Makkah region in the afternoon (no damage or casualties mentioned)",
+    "ar": "نُشر الساعة 06:34 يوم الأحد 15 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي عبر منصة X اعتراض وتدمير صاروخين باليستيين حوثيين استهدفا الرياض وثلاث طائرات مسيّرة استهدفت المنطقة الشرقية. وسُمعت ثلاثة انفجارات قوية بعد إنذار الدفاع المدني (04:08)، ثم أُعلن زوال الخطر. لم يُذكر أي ضرر أو إصابات أو تأثير على المطارات جراء هذا الهجوم. وأضافت النسخة المحدَّثة الساعة 16:41 أن التحالف أعلن اعتراض طائرتين مسيّرتين حوثيتين في منطقة مكة المكرمة بعد الظهر (دون ذكر أضرار أو إصابات)"
    }
   },
   {
-   "n": 89,
+   "n": 86,
    "date": "2026-11-15",
    "kind": "언론 보도",
    "url": "https://theprint.in/world/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province/3099074/",
@@ -2320,6 +2270,22 @@
     "en": "Published Sun 15 Nov, Reuters: the Saudi-led coalition said on 15 Nov it had intercepted two Houthi ballistic missiles launched towards Riyadh and three drones in the Eastern Province. No damage, casualties or airport mentioned",
     "ar": "نُشر يوم الأحد 15 نوفمبر، رويترز: أعلن التحالف بقيادة السعودية في 15 نوفمبر اعتراض صاروخين باليستيين حوثيين أُطلقا نحو الرياض وثلاث طائرات مسيّرة في المنطقة الشرقية. لم تُذكر أضرار أو إصابات أو مطارات"
    }
+  },
+  {
+   "n": 87,
+   "name": {
+    "ko": "더페닌슐라 (The Peninsula, 11/15 17:37)",
+    "en": "The Peninsula (15 Nov, 17:37)",
+    "ar": "ذا بينينسولا (The Peninsula، 15 نوفمبر، 17:37)"
+   },
+   "date": "2026-11-15",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/15(일) 17:37 게재: 사우디 주도 연합군이 공식 대변인 X 성명에서 메카 지역 상공에서 드론 2기를 요격·파괴했다고 발표. 드론의 목표는 밝히지 않음. 피해·사상자·공항 언급 없음",
+    "en": "Published 17:37 on Sun 15 Nov: the Saudi-led coalition said in a statement on X by its official spokesman that two drones were intercepted and destroyed over the Makkah region. The drones’ intended targets were not given. No damage, casualties or airport mentioned",
+    "ar": "نُشر الساعة 17:37 يوم الأحد 15 نوفمبر: أعلن التحالف بقيادة السعودية، في بيان لمتحدثه الرسمي على منصة X، اعتراض وتدمير طائرتين مسيّرتين فوق منطقة مكة المكرمة، دون الكشف عن أهدافهما. دون ذكر أضرار أو إصابات أو مطارات"
+   },
+   "url": "https://thepeninsulaqatar.com/article/15/11/2026/saudi-led-coalition-intercepts-destroys-two-drones-over-makkah-region"
   }
  ]
 }

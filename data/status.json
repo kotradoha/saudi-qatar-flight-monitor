@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T10:41:00+03:00",
+ "updated_at": "2026-11-19T11:50:00+03:00",
  "window_start": "2026-11-19",
  "pills": [
   {
@@ -76,7 +76,8 @@
     89,
     90,
     92,
-    93
+    93,
+    95
    ]
   },
   {
@@ -369,9 +370,9 @@
     "ar": "الموعد المقرر لرحلة الخطوط السعودية SV540: الإقلاع من الرياض 12:40 والوصول إلى الدوحة 14:00 · أُعيد فتح المطار جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط (وفق إعلان المطار) · تُسيَّر بعض الرحلات التي تتخذ من الرياض مقرًا لها من مطار القصيم (وفق السفارة الأمريكية في السعودية)"
    },
    "note": {
-    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 이후 공격을 거듭 주장(최근 11/15 탄도미사일 2발로 공항을 겨냥했다고 주장, 후티 측 주장, 확인되지 않음). 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있음(최근 11/19 새벽 리야드를 향한 미사일 위협에 대응하는 과정에서 파편이 떨어져 재산 피해 발생, 피해 규모 조사 중, 연합군 발표; 로이터·AFP는 소식통을 인용해 금융지구 국부펀드(PIF) 타워 손상을 보도, 당국 확인 없음; 사상자·공항 영향 발표 없음; 11/18에는 큰 폭발음을 듣고 공항 인근에서 연기를 봤다는 주민 증언이 외신에 보도됐으나 피해·공항 영향 발표 없음). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
-    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned against using it, and have since repeatedly claimed attacks on it (most recently on 15 Nov, claiming to have targeted the airport with two ballistic missiles; Houthi claims, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, while the coalition was responding to a missile threat towards Riyadh before dawn on 19 Nov, falling debris caused material damage whose extent is being assessed, coalition statement; Reuters and AFP, citing sources, reported damage to the Public Investment Fund (PIF) tower in the financial district, not confirmed by the authorities; no casualties or airport impact announced; on 18 Nov foreign media reported residents hearing a loud explosion and seeing smoke near the airport, but no damage or impact on the airport has been announced). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
-    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 15 نوفمبر بادّعاء استهداف المطار بصاروخين باليستيين؛ ادعاءات حوثية لم تتأكّد). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها التعامل فجر 19 نوفمبر مع تهديد صاروخي باتجاه الرياض، إذ تسبب سقوط الحطام في أضرار مادية لا يزال حجمها قيد التقييم، وفق بيان التحالف؛ ونقلت رويترز ووكالة الصحافة الفرنسية عن مصادر تضرر برج صندوق الاستثمارات العامة في الحي المالي، دون تأكيد من السلطات؛ ولم يُعلَن عن إصابات أو تأثير على المطار؛ ونقلت وسائل إعلام أجنبية في 18 نوفمبر عن سكان أنهم سمعوا دوي انفجار قوي وشاهدوا دخانًا قرب المطار، لكن لم يُعلَن عن أضرار أو تأثير على المطار). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
+    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 이후 공격을 거듭 주장(최근 11/19 리야드 국제공항·금융 중심지를 겨냥했다고 주장, 후티 측 주장, 확인되지 않음). 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있음(최근 11/19 새벽 리야드를 향한 미사일 위협에 대응하는 과정에서 파편이 떨어져 재산 피해 발생, 피해 규모 조사 중, 연합군 발표; 로이터·AFP는 소식통을 인용해 금융지구 국부펀드(PIF) 타워 손상을 보도, 당국 확인 없음; 사상자·공항 영향 발표 없음; 11/18에는 큰 폭발음을 듣고 공항 인근에서 연기를 봤다는 주민 증언이 외신에 보도됐으나 피해·공항 영향 발표 없음). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
+    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned against using it, and have since repeatedly claimed attacks on it (most recently on 19 Nov, claiming to have targeted Riyadh international airport and the financial centre; Houthi claims, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, while the coalition was responding to a missile threat towards Riyadh before dawn on 19 Nov, falling debris caused material damage whose extent is being assessed, coalition statement; Reuters and AFP, citing sources, reported damage to the Public Investment Fund (PIF) tower in the financial district, not confirmed by the authorities; no casualties or airport impact announced; on 18 Nov foreign media reported residents hearing a loud explosion and seeing smoke near the airport, but no damage or impact on the airport has been announced). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
+    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 19 نوفمبر بادّعاء استهداف مطار الرياض الدولي والمركز المالي؛ ادعاءات حوثية لم تتأكّد). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها التعامل فجر 19 نوفمبر مع تهديد صاروخي باتجاه الرياض، إذ تسبب سقوط الحطام في أضرار مادية لا يزال حجمها قيد التقييم، وفق بيان التحالف؛ ونقلت رويترز ووكالة الصحافة الفرنسية عن مصادر تضرر برج صندوق الاستثمارات العامة في الحي المالي، دون تأكيد من السلطات؛ ولم يُعلَن عن إصابات أو تأثير على المطار؛ ونقلت وسائل إعلام أجنبية في 18 نوفمبر عن سكان أنهم سمعوا دوي انفجار قوي وشاهدوا دخانًا قرب المطار، لكن لم يُعلَن عن أضرار أو تأثير على المطار). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
    },
    "refs": [
     10,
@@ -394,14 +395,13 @@
     69,
     70,
     74,
-    82,
-    83,
     86,
     88,
     89,
     90,
     92,
-    93
+    93,
+    95
    ]
   },
   {
@@ -1898,16 +1898,16 @@
   {
    "n": 62,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/19 10:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 10:40, 19 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 10:40، 19 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/19 11:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 11:40, 19 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 11:40، 19 نوفمبر)"
    },
    "date": "2026-11-19",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/19 10:40경 en 페이지 등에서 거듭 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed, including on the en page around 10:40 on 19 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا، ومن ذلك على صفحة en نحو الساعة 10:40 يوم 19 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/19 11:40경 en 페이지 등에서 거듭 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed, including on the en page around 11:40 on 19 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا، ومن ذلك على صفحة en نحو الساعة 11:40 يوم 19 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2106,16 +2106,16 @@
   {
    "n": 75,
    "name": {
-    "ko": "aviability 항공편 현황 (QR1155, 11/18 00:36경 확인)",
-    "en": "aviability flight status (QR1155, checked around 00:36, 18 Nov)",
-    "ar": "حالة الرحلات على aviability (QR1155، تم التحقق نحو الساعة 00:36 يوم 18 نوفمبر)"
+    "ko": "aviability 항공편 현황 (QR1155, 11/19 11:40경 확인)",
+    "en": "aviability flight status (QR1155, checked around 11:40, 19 Nov)",
+    "ar": "حالة الرحلات على aviability (QR1155، تم التحقق نحو الساعة 11:40 يوم 19 نوفمبر)"
    },
-   "date": "2026-11-18",
+   "date": "2026-11-19",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 담맘→도하 QR1155(예정 22:30 출발·23:35 도착): 이전 확인(11/14 22:36경) 때 11/14(토) 편 ‘결항(The flight was canceled)’ 표시, 실제 출발·도착 시각 없음(페이지 최종 갱신 11/14 19:20 UTC). 11/16 00:36경 확인 때 11/15(일) 편 ‘출도착 미확인(Departure and arrival unconfirmed)’, 실제 시각 없음. 11/17 00:36경 확인 때 11/16(월) 편도 예정 도착 시각(23:35)이 지났으나 출발·도착 모두 확인되지 않았다고 표시, 이륙·착륙 시각 없음. 11/18 00:36경 확인 때 11/17(화) 편도 ‘출도착 미확인’, 실제 시각 없음, 결항·회항 표시도 없음. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Dammam→Doha QR1155 (scheduled 22:30 departure, 23:35 arrival): at the earlier check (around 22:36 on 14 Nov), the 14 Nov (Sat) flight was shown as cancelled (‘The flight was canceled’), with no actual departure or arrival times (page last updated 14 Nov 19:20 UTC). At the check around 00:36 on 16 Nov, the 15 Nov (Sun) flight was shown as ‘Departure and arrival unconfirmed’, with no actual times. At the check around 00:36 on 17 Nov, the page said of the 16 Nov (Mon) flight that the expected arrival time (23:35) had passed but neither departure nor arrival had been confirmed, with no take-off or landing times. At the check around 00:36 on 18 Nov, the 17 Nov (Tue) flight was also shown as ‘Departure and arrival unconfirmed’, with no actual times and no cancellation or diversion shown. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1155 من الدمام إلى الدوحة (الإقلاع المقرر 22:30، والوصول 23:35): عند التحقق السابق (نحو الساعة 22:36 يوم 14 نوفمبر) ظهرت رحلة 14 نوفمبر (السبت) «ملغاة» (The flight was canceled)، دون أوقات فعلية للإقلاع أو الوصول (آخر تحديث للصفحة 14 نوفمبر الساعة 19:20 بالتوقيت العالمي). وعند التحقق نحو الساعة 00:36 يوم 16 نوفمبر ظهرت رحلة 15 نوفمبر (الأحد) بحالة «الإقلاع والوصول غير مؤكدين» (Departure and arrival unconfirmed)، دون أوقات فعلية. وعند التحقق نحو الساعة 00:36 يوم 17 نوفمبر أفادت الصفحة بشأن رحلة 16 نوفمبر (الاثنين) بأن موعد الوصول المتوقع (23:35) قد انقضى دون تأكيد الإقلاع أو الوصول، ودون أوقات للإقلاع أو الهبوط. وعند التحقق نحو الساعة 00:36 يوم 18 نوفمبر ظهرت رحلة 17 نوفمبر (الثلاثاء) أيضًا بحالة «الإقلاع والوصول غير مؤكدين»، دون أوقات فعلية ودون إشارة إلى إلغاء أو تحويل. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 담맘→도하 QR1155(예정 22:30 출발·23:35 도착): 이전 확인(11/14 22:36경) 때 11/14(토) 편 ‘결항(The flight was canceled)’ 표시, 실제 출발·도착 시각 없음(페이지 최종 갱신 11/14 19:20 UTC). 11/16 00:36경 확인 때 11/15(일) 편 ‘출도착 미확인(Departure and arrival unconfirmed)’, 실제 시각 없음. 11/17 00:36경 확인 때 11/16(월) 편도 예정 도착 시각(23:35)이 지났으나 출발·도착 모두 확인되지 않았다고 표시, 이륙·착륙 시각 없음. 11/18 00:36경 확인 때 11/17(화) 편도 ‘출도착 미확인’, 실제 시각 없음, 결항·회항 표시도 없음. 11/19 11:40경 확인 때 11/18(수) 편도 ‘출도착 미확인’, 이륙·착륙 시각 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Dammam→Doha QR1155 (scheduled 22:30 departure, 23:35 arrival): at the earlier check (around 22:36 on 14 Nov), the 14 Nov (Sat) flight was shown as cancelled (‘The flight was canceled’), with no actual departure or arrival times (page last updated 14 Nov 19:20 UTC). At the check around 00:36 on 16 Nov, the 15 Nov (Sun) flight was shown as ‘Departure and arrival unconfirmed’, with no actual times. At the check around 00:36 on 17 Nov, the page said of the 16 Nov (Mon) flight that the expected arrival time (23:35) had passed but neither departure nor arrival had been confirmed, with no take-off or landing times. At the check around 00:36 on 18 Nov, the 17 Nov (Tue) flight was also shown as ‘Departure and arrival unconfirmed’, with no actual times and no cancellation or diversion shown. At the check around 11:40 on 19 Nov, the 18 Nov (Wed) flight was also shown with departure and arrival not confirmed, with no take-off or landing times. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1155 من الدمام إلى الدوحة (الإقلاع المقرر 22:30، والوصول 23:35): عند التحقق السابق (نحو الساعة 22:36 يوم 14 نوفمبر) ظهرت رحلة 14 نوفمبر (السبت) «ملغاة» (The flight was canceled)، دون أوقات فعلية للإقلاع أو الوصول (آخر تحديث للصفحة 14 نوفمبر الساعة 19:20 بالتوقيت العالمي). وعند التحقق نحو الساعة 00:36 يوم 16 نوفمبر ظهرت رحلة 15 نوفمبر (الأحد) بحالة «الإقلاع والوصول غير مؤكدين» (Departure and arrival unconfirmed)، دون أوقات فعلية. وعند التحقق نحو الساعة 00:36 يوم 17 نوفمبر أفادت الصفحة بشأن رحلة 16 نوفمبر (الاثنين) بأن موعد الوصول المتوقع (23:35) قد انقضى دون تأكيد الإقلاع أو الوصول، ودون أوقات للإقلاع أو الهبوط. وعند التحقق نحو الساعة 00:36 يوم 18 نوفمبر ظهرت رحلة 17 نوفمبر (الثلاثاء) أيضًا بحالة «الإقلاع والوصول غير مؤكدين»، دون أوقات فعلية ودون إشارة إلى إلغاء أو تحويل. وعند التحقق نحو الساعة 11:40 يوم 19 نوفمبر ظهرت رحلة 18 نوفمبر (الأربعاء) أيضًا دون تأكيد الإقلاع والوصول، ودون أوقات للإقلاع أو الهبوط. ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://aviability.com/en/flight/qr1155-qatar-airways/dmm-doh"
   },
@@ -2422,6 +2422,22 @@
     "ar": "نُشر في 19 نوفمبر (الخميس): أعلن المتحدث باسم التحالف اللواء تركي المالكي عبر منصة X أن الدفاعات الجوية اعترضت ودمّرت أربعة صواريخ باليستية أطلقها الحوثيون باتجاه المنطقة الجنوبية صباح 19 نوفمبر، وأعلن الدفاع المدني السعودي زوال الخطر في أبها وخميس مشيط. لا ذكر لأضرار أو للمطارات"
    },
    "url": "https://www.jns.org/news/world/saudi-led-coalition-intercepts-four-houthi-ballistic-missiles"
+  },
+  {
+   "n": 95,
+   "name": {
+    "ko": "알자지라 (Al Jazeera, 11/19)",
+    "en": "Al Jazeera (19 Nov)",
+    "ar": "الجزيرة (19 نوفمبر)"
+   },
+   "date": "2026-11-19",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/19(목) 게재: 연합군 대변인 투르키 알말리키 소장이 X에서 리야드를 향한 후티 미사일 위협에 대응했고 파편이 떨어져 재산 피해가 보고됐으며 규모는 파악 중이라고 발표, 이후 남부 지역을 향한 탄도미사일 4발 요격·파괴를 발표. 후티는 11/19 리야드 국제공항과 금융 중심지 등 리야드의 주요 시설을 겨냥했다고 주장(후티 측 주장), 남부 카미스무샤이트·아브하도 겨냥했다고 주장. 사상자·공항 운영 영향 언급 없음",
+    "en": "Published 19 Nov (Thu): coalition spokesman Maj-Gen Turki al-Maliki said on X that the coalition dealt with a Houthi missile threat towards Riyadh and that falling debris caused reported material damage whose extent is being determined, and later announced the interception and destruction of four ballistic missiles fired towards the southern region. The Houthis claimed to have targeted vital sites in Riyadh on 19 Nov, including the international airport and the financial centre (Houthi claim), and also claimed Khamis Mushait and Abha in the south. No casualties or impact on airport operations mentioned",
+    "ar": "نُشر في 19 نوفمبر (الخميس): أعلن المتحدث باسم التحالف اللواء تركي المالكي عبر منصة X أن التحالف تعامل مع تهديد صاروخي حوثي باتجاه الرياض، وأن سقوط الحطام أدى إلى أضرار مادية مُبلَّغ عنها لا يزال حجمها قيد التحديد، ثم أعلن اعتراض أربعة صواريخ باليستية أُطلقت باتجاه المنطقة الجنوبية وتدميرها. وادّعى الحوثيون أنهم استهدفوا في 19 نوفمبر مواقع حيوية في الرياض، منها المطار الدولي والمركز المالي (ادعاء حوثي)، كما ادّعوا استهداف خميس مشيط وأبها في الجنوب. ولم يُذكر وقوع إصابات أو تأثير على عمل المطار"
+   },
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
   }
  ]
 }

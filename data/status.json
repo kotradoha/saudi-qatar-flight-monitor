@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T19:36:00+03:00",
+ "updated_at": "2026-11-19T20:50:00+03:00",
  "window_start": "2026-11-19",
  "pills": [
   {
@@ -10,8 +10,8 @@
    },
    "refs": [
     88,
-    91,
-    94
+    90,
+    93
    ]
   },
   {
@@ -47,9 +47,9 @@
  "key_points": [
   {
    "html": {
-    "ko": "<span class='red'>리야드→도하 직항은 아직 불안정합니다.</span> 카타르항공은 11/11 공지에서 11/13부터 리야드 노선 매일 운항 재개를 밝혔고(11/15 갱신 공지는 사우디에서 아브하·타이프만 중단으로 명시), QR1173편은 11/13~11/17 매일 지연 운항한 기록이 있지만 다른 편(QR1165·QR1167)은 결항으로 표시됩니다(항공편 추적 사이트 기준, 일부는 1곳 기준, 항공사 공식 발표 아님). 사우디아 SV540편은 불규칙하게 운항하며(항공편 추적 사이트 기준, 일부 1곳 기준, 항공사 공식 발표 아님) 운항 재개 발표는 확인되지 않았습니다. 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있고(최근 11/19 사우디 민방위청은 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해를 입었고 부상자는 없다고 발표, 아랍뉴스는 여러 층과 인근 건물 피해를 보도; 연합군은 새벽 리야드를 향한 후티 미사일 위협 대응 과정에서 떨어진 파편으로 재산 피해가 났다고 발표; 로이터는 소식통을 인용해 국부펀드(PIF) 타워로 보도; 공항 영향 발표 없음), 후티는 리야드 공항 공격을 거듭 주장합니다(후티 측 주장, 확인되지 않음). 예약했더라도 항공사에 운항 여부를 꼭 확인하세요.",
-    "en": "<span class='red'>Direct flights from Riyadh to Doha remain unstable.</span> Qatar Airways’ notice of 11 Nov said daily flights on the Riyadh route would resume from 13 Nov (the notice updated on 15 Nov lists only Abha and Taif as suspended in Saudi Arabia), and flight QR1173 has records of operating late every day from 13 to 17 Nov, but other flights (QR1165, QR1167) are shown as cancelled (according to flight-tracking sites, partly based on one site; not an official airline announcement). Saudia flight SV540 operates irregularly (according to flight-tracking sites, partly based on one site; not an official airline announcement), and no announcement of resumed flights has been confirmed. Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, on 19 Nov Saudi Civil Defense said a tower in the King Abdullah Financial District suffered material damage in a Houthi attack, with no injuries, and Arab News reported damage to several floors and to neighbouring buildings; the coalition said debris that fell while it was responding to a Houthi missile threat towards Riyadh before dawn caused material damage; Reuters, citing sources, reported it was the Public Investment Fund (PIF) tower; no airport impact announced), and the Houthis repeatedly claim attacks on Riyadh airport (Houthi claims, not confirmed). Even if you have a booking, always check with the airline that the flight will operate.",
-    "ar": "<span class='red'>لا تزال الرحلات المباشرة من الرياض إلى الدوحة غير مستقرة.</span> أفاد إشعار الخطوط الجوية القطرية في 11 نوفمبر باستئناف الرحلات اليومية على خط الرياض اعتبارًا من 13 نوفمبر (ولا يذكر الإشعار المحدَّث في 15 نوفمبر من المدن السعودية معلَّقةً سوى أبها والطائف)، وسُجّل تسيير الرحلة QR1173 متأخرةً يوميًا من 13 إلى 17 نوفمبر، غير أن رحلات أخرى (QR1165 وQR1167) تظهر ملغاة (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران). وتُسيَّر رحلة الخطوط السعودية SV540 على نحو غير منتظم (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات. وتتواصل منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها في 19 نوفمبر، إذ أعلن الدفاع المدني السعودي تعرّض أحد أبراج مركز الملك عبدالله المالي لهجوم حوثي نتجت عنه أضرار مادية دون إصابات، وأفادت عرب نيوز بتضرر عدة طوابق ومبانٍ مجاورة؛ وقال التحالف إن حطامًا سقط أثناء التعامل فجرًا مع تهديد صاروخي حوثي باتجاه الرياض وتسبب في أضرار مادية؛ ونقلت رويترز عن مصادر أن المبنى المتضرر هو برج صندوق الاستثمارات العامة؛ ولم يُعلَن عن تأثير على المطار)، ويكرّر الحوثيون ادعاء مهاجمة مطار الرياض (ادعاءات حوثية لم تتأكّد). وحتى إن كان لديك حجز، يُرجى التأكد لدى شركة الطيران من تسيير الرحلة."
+    "ko": "<span class='red'>리야드→도하 직항은 아직 불안정합니다.</span> 카타르항공은 11/11 공지에서 11/13부터 리야드 노선 매일 운항 재개를 밝혔고(11/15 갱신 공지는 사우디에서 아브하·타이프만 중단으로 명시), QR1173편은 11/13~11/17 매일 지연 운항한 기록이 있지만 다른 편(QR1165·QR1167)은 결항으로 표시됩니다(항공편 추적 사이트 기준, 일부는 1곳 기준, 항공사 공식 발표 아님). 사우디아 SV540편은 불규칙하게 운항하며(항공편 추적 사이트 기준, 일부 1곳 기준, 항공사 공식 발표 아님) 운항 재개 발표는 확인되지 않았습니다. 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있고(최근 11/19 사우디 민방위청은 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해를 입었고 부상자는 없다고 발표, 공항 영향 발표 없음), 후티는 리야드 공항 공격을 거듭 주장합니다(후티 측 주장, 확인되지 않음). 예약했더라도 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>Direct flights from Riyadh to Doha remain unstable.</span> Qatar Airways’ notice of 11 Nov said daily flights on the Riyadh route would resume from 13 Nov (the notice updated on 15 Nov lists only Abha and Taif as suspended in Saudi Arabia), and flight QR1173 has records of operating late every day from 13 to 17 Nov, but other flights (QR1165, QR1167) are shown as cancelled (according to flight-tracking sites, partly based on one site; not an official airline announcement). Saudia flight SV540 operates irregularly (according to flight-tracking sites, partly based on one site; not an official airline announcement), and no announcement of resumed flights has been confirmed. Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, on 19 Nov Saudi Civil Defense said a tower in the King Abdullah Financial District suffered material damage in a Houthi attack, with no injuries; no airport impact announced), and the Houthis repeatedly claim attacks on Riyadh airport (Houthi claims, not confirmed). Even if you have a booking, always check with the airline that the flight will operate.",
+    "ar": "<span class='red'>لا تزال الرحلات المباشرة من الرياض إلى الدوحة غير مستقرة.</span> أفاد إشعار الخطوط الجوية القطرية في 11 نوفمبر باستئناف الرحلات اليومية على خط الرياض اعتبارًا من 13 نوفمبر (ولا يذكر الإشعار المحدَّث في 15 نوفمبر من المدن السعودية معلَّقةً سوى أبها والطائف)، وسُجّل تسيير الرحلة QR1173 متأخرةً يوميًا من 13 إلى 17 نوفمبر، غير أن رحلات أخرى (QR1165 وQR1167) تظهر ملغاة (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران). وتُسيَّر رحلة الخطوط السعودية SV540 على نحو غير منتظم (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات. وتتواصل منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها في 19 نوفمبر، إذ أعلن الدفاع المدني السعودي تعرّض أحد أبراج مركز الملك عبدالله المالي لهجوم حوثي نتجت عنه أضرار مادية دون إصابات؛ ولم يُعلَن عن تأثير على المطار)، ويكرّر الحوثيون ادعاء مهاجمة مطار الرياض (ادعاءات حوثية لم تتأكّد). وحتى إن كان لديك حجز، يُرجى التأكد لدى شركة الطيران من تسيير الرحلة."
    },
    "refs": [
     13,
@@ -72,11 +72,9 @@
     82,
     83,
     86,
-    88,
-    89,
-    91,
-    93,
-    94
+    90,
+    92,
+    93
    ]
   },
   {
@@ -369,9 +367,9 @@
     "ar": "الموعد المقرر لرحلة الخطوط السعودية SV540: الإقلاع من الرياض 12:40 والوصول إلى الدوحة 14:00 · أُعيد فتح المطار جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط (وفق إعلان المطار) · تُسيَّر بعض الرحلات التي تتخذ من الرياض مقرًا لها من مطار القصيم (وفق السفارة الأمريكية في السعودية)"
    },
    "note": {
-    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 이후 공격을 거듭 주장(최근 11/19 리야드 국제공항·금융 중심지를 겨냥했다고 주장, 후티 측 주장, 확인되지 않음). 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있음(최근 11/19 사우디 민방위청은 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해를 입었고 부상자는 없다고 발표, 아랍뉴스는 여러 층과 인근 건물 피해를 보도; 연합군은 새벽 리야드를 향한 후티 미사일 위협 대응 과정에서 떨어진 파편으로 재산 피해가 났다고 발표; 로이터는 소식통을 인용해 국부펀드(PIF) 타워로 보도; 공항 영향 발표 없음). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
-    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned against using it, and have since repeatedly claimed attacks on it (most recently on 19 Nov, claiming to have targeted Riyadh international airport and the financial centre; Houthi claims, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, on 19 Nov Saudi Civil Defense said a tower in the King Abdullah Financial District suffered material damage in a Houthi attack, with no injuries, and Arab News reported damage to several floors and to neighbouring buildings; the coalition said debris that fell while it was responding to a Houthi missile threat towards Riyadh before dawn caused material damage; Reuters, citing sources, reported it was the Public Investment Fund (PIF) tower; no airport impact announced). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
-    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 19 نوفمبر بادّعاء استهداف مطار الرياض الدولي والمركز المالي؛ ادعاءات حوثية لم تتأكّد). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها في 19 نوفمبر، إذ أعلن الدفاع المدني السعودي تعرّض أحد أبراج مركز الملك عبدالله المالي لهجوم حوثي نتجت عنه أضرار مادية دون إصابات، وأفادت عرب نيوز بتضرر عدة طوابق ومبانٍ مجاورة؛ وقال التحالف إن حطامًا سقط أثناء التعامل فجرًا مع تهديد صاروخي حوثي باتجاه الرياض وتسبب في أضرار مادية؛ ونقلت رويترز عن مصادر أن المبنى المتضرر هو برج صندوق الاستثمارات العامة؛ ولم يُعلَن عن تأثير على المطار). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
+    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 이후 공격을 거듭 주장(최근 11/19 리야드 국제공항·금융 중심지를 겨냥했다고 주장, 후티 측 주장, 확인되지 않음). 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있음(최근 11/19 사우디 민방위청은 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해를 입었고 부상자는 없다고 발표, 공항 영향 발표 없음). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
+    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned against using it, and have since repeatedly claimed attacks on it (most recently on 19 Nov, claiming to have targeted Riyadh international airport and the financial centre; Houthi claims, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, on 19 Nov Saudi Civil Defense said a tower in the King Abdullah Financial District suffered material damage in a Houthi attack, with no injuries; no airport impact announced). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
+    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 19 نوفمبر بادّعاء استهداف مطار الرياض الدولي والمركز المالي؛ ادعاءات حوثية لم تتأكّد). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها في 19 نوفمبر، إذ أعلن الدفاع المدني السعودي تعرّض أحد أبراج مركز الملك عبدالله المالي لهجوم حوثي نتجت عنه أضرار مادية دون إصابات؛ ولم يُعلَن عن تأثير على المطار). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
    },
    "refs": [
     10,
@@ -395,11 +393,9 @@
     70,
     74,
     86,
-    88,
-    89,
-    91,
-    93,
-    94
+    90,
+    92,
+    93
    ]
   },
   {
@@ -434,9 +430,9 @@
     62,
     64,
     66,
+    89,
     90,
-    91,
-    92
+    91
    ]
   }
  ],
@@ -1896,16 +1892,16 @@
   {
    "n": 62,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/19 18:36경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 18:36, 19 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 18:36، 19 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/19 20:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 20:40, 19 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 20:40، 19 نوفمبر)"
    },
    "date": "2026-11-19",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/19 18:36경 en 페이지에서 거듭 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed, including on the en page around 18:36 on 19 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا، ومن ذلك على صفحة en نحو الساعة 18:36 يوم 19 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/19 20:40경 en 페이지에서 거듭 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed, including on the en page around 20:40 on 19 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا، ومن ذلك على صفحة en نحو الساعة 20:40 يوم 19 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2329,22 +2325,6 @@
    "n": 89,
    "date": "2026-11-19",
    "kind": "언론 보도",
-   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-forces-responded-houthi-missile-threat",
-   "name": {
-    "ko": "미들이스트아이 (Middle East Eye, 11/19 02:50 GMT)",
-    "en": "Middle East Eye (19 Nov, 02:50 GMT)",
-    "ar": "ميدل إيست آي (19 نوفمبر، 02:50 بتوقيت غرينتش)"
-   },
-   "what": {
-    "ko": "11/19(목) 02:50 GMT 게재 라이브 블로그: 사우디 주도 연합군이 리야드를 겨냥한 후티 미사일 위협에 대응했다고 밝히며, 초기 평가상 떨어진 파편으로 재산 피해가 발생했고 당국이 조사 중이라고 전함. 사상자·공항 언급 없음",
-    "en": "Live blog entry published 19 Nov (Thu) 02:50 GMT: the Saudi-led coalition said its forces responded to a Houthi missile threat targeting Riyadh; an initial assessment indicated falling debris caused material damage, and authorities are investigating. No casualties or airport mentioned",
-    "ar": "تدوينة في مدونة مباشرة نُشرت في 19 نوفمبر (الخميس) الساعة 02:50 بتوقيت غرينتش: قال التحالف بقيادة السعودية إن قواته تصدّت لتهديد صاروخي حوثي استهدف الرياض، وإن التقييم الأولي يشير إلى أن سقوط الحطام تسبب في أضرار مادية، والسلطات تحقق في ذلك. دون ذكر إصابات أو مطار"
-   }
-  },
-  {
-   "n": 90,
-   "date": "2026-11-19",
-   "kind": "언론 보도",
    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/19/houthi-missile-threat-towards-riyadh-causes-damage-saudi-led-coalition-says",
    "name": {
     "ko": "로이터 (Reuters, Internazionale 게재, 11/19)",
@@ -2358,7 +2338,7 @@
    }
   },
   {
-   "n": 91,
+   "n": 90,
    "name": {
     "ko": "더내셔널 (The National, 로이터 인용, 11/19)",
     "en": "The National (citing Reuters, 19 Nov)",
@@ -2374,7 +2354,7 @@
    "url": "https://www.thenationalnews.com/news/gulf/2026/11/19/saudi-sovereign-wealth-fund-tower-in-riyadh-damaged-in-houthi-strike/"
   },
   {
-   "n": 92,
+   "n": 91,
    "name": {
     "ko": "JNS (11/19, 연합군 발표)",
     "en": "JNS (19 Nov, coalition statement)",
@@ -2390,7 +2370,7 @@
    "url": "https://www.jns.org/news/world/saudi-led-coalition-intercepts-four-houthi-ballistic-missiles"
   },
   {
-   "n": 93,
+   "n": 92,
    "name": {
     "ko": "알자지라 (Al Jazeera, 11/19)",
     "en": "Al Jazeera (19 Nov)",
@@ -2406,7 +2386,7 @@
    "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
   },
   {
-   "n": 94,
+   "n": 93,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/19 18:24, 사우디 민방위청 발표)",
     "en": "Arab News (19 Nov 18:24, Saudi Civil Defense statement)",

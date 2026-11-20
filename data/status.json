@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T17:40:00+03:00",
+ "updated_at": "2026-11-20T18:42:00+03:00",
  "window_start": "2026-11-20",
  "pills": [
   {
@@ -47,9 +47,9 @@
  "key_points": [
   {
    "html": {
-    "ko": "<span class='red'>리야드→도하 직항은 아직 불안정합니다.</span> 카타르항공은 11/11 공지에서 11/13부터 리야드 노선 매일 운항 재개를 밝혔고(11/15 갱신 공지는 사우디에서 아브하·타이프만 중단으로 명시), QR1173편은 11/13~11/19 매일 지연 운항한 기록이 있지만 다른 편(QR1165·QR1167)은 결항으로 표시됩니다(항공편 추적 사이트 기준, 일부는 1곳 기준, 항공사 공식 발표 아님). 사우디아 SV540편은 불규칙하게 운항하며(항공편 추적 사이트 기준, 일부 1곳 기준, 항공사 공식 발표 아님) 운항 재개 발표는 확인되지 않았습니다. 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있고(최근 11/19 사우디 민방위청은 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해를 입었고 부상자는 없다고 발표, 공항 영향 발표 없음), 후티는 리야드 공항 공격을 거듭 주장합니다(후티 측 주장, 확인되지 않음). 예약했더라도 항공사에 운항 여부를 꼭 확인하세요.",
-    "en": "<span class='red'>Direct flights from Riyadh to Doha remain unstable.</span> Qatar Airways’ notice of 11 Nov said daily flights on the Riyadh route would resume from 13 Nov (the notice updated on 15 Nov lists only Abha and Taif as suspended in Saudi Arabia), and flight QR1173 has records of operating late every day from 13 to 19 Nov, but other flights (QR1165, QR1167) are shown as cancelled (according to flight-tracking sites, partly based on one site; not an official airline announcement). Saudia flight SV540 operates irregularly (according to flight-tracking sites, partly based on one site; not an official airline announcement), and no announcement of resumed flights has been confirmed. Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, on 19 Nov Saudi Civil Defense said a tower in the King Abdullah Financial District suffered material damage in a Houthi attack, with no injuries; no airport impact announced), and the Houthis repeatedly claim attacks on Riyadh airport (Houthi claims, not confirmed). Even if you have a booking, always check with the airline that the flight will operate.",
-    "ar": "<span class='red'>لا تزال الرحلات المباشرة من الرياض إلى الدوحة غير مستقرة.</span> أفاد إشعار الخطوط الجوية القطرية في 11 نوفمبر باستئناف الرحلات اليومية على خط الرياض اعتبارًا من 13 نوفمبر (ولا يذكر الإشعار المحدَّث في 15 نوفمبر من المدن السعودية معلَّقةً سوى أبها والطائف)، وسُجّل تسيير الرحلة QR1173 متأخرةً يوميًا من 13 إلى 19 نوفمبر، غير أن رحلات أخرى (QR1165 وQR1167) تظهر ملغاة (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران). وتُسيَّر رحلة الخطوط السعودية SV540 على نحو غير منتظم (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات. وتتواصل منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها في 19 نوفمبر، إذ أعلن الدفاع المدني السعودي تعرّض أحد أبراج مركز الملك عبدالله المالي لهجوم حوثي نتجت عنه أضرار مادية دون إصابات؛ ولم يُعلَن عن تأثير على المطار)، ويكرّر الحوثيون ادعاء مهاجمة مطار الرياض (ادعاءات حوثية لم تتأكّد). وحتى إن كان لديك حجز، يُرجى التأكد لدى شركة الطيران من تسيير الرحلة."
+    "ko": "<span class='red'>리야드→도하 직항은 아직 불안정합니다.</span> 카타르항공은 11/11 공지에서 11/13부터 리야드 노선 매일 운항 재개를 밝혔고(11/15 갱신 공지는 사우디에서 아브하·타이프만 중단으로 명시), QR1173편은 11/13~11/19 매일 지연 운항한 기록이 있지만 다른 편(QR1165·QR1167)은 결항으로 표시됩니다(항공편 추적 사이트 기준, 일부는 1곳 기준, 항공사 공식 발표 아님). 사우디아 SV540편은 불규칙하게 운항하며(항공편 추적 사이트 기준, 일부 1곳 기준, 항공사 공식 발표 아님) 운항 재개 발표는 확인되지 않았습니다. 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있고(최근 11/20 리야드 지역 드론 요격, 연합군 발표, 피해 언급 없음; 11/19에는 사우디 민방위청이 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해를 입었고 부상자는 없다고 발표, 공항 영향 발표 없음), 후티는 리야드 공항 공격을 거듭 주장하며(후티 측 주장, 확인되지 않음) 11/20에는 항공사들에 메카·메디나 상공을 제외한 사우디 영공을 피하라고 경고했습니다(후티 측 경고). 예약했더라도 항공사에 운항 여부를 꼭 확인하세요.",
+    "en": "<span class='red'>Direct flights from Riyadh to Doha remain unstable.</span> Qatar Airways’ notice of 11 Nov said daily flights on the Riyadh route would resume from 13 Nov (the notice updated on 15 Nov lists only Abha and Taif as suspended in Saudi Arabia), and flight QR1173 has records of operating late every day from 13 to 19 Nov, but other flights (QR1165, QR1167) are shown as cancelled (according to flight-tracking sites, partly based on one site; not an official airline announcement). Saudia flight SV540 operates irregularly (according to flight-tracking sites, partly based on one site; not an official airline announcement), and no announcement of resumed flights has been confirmed. Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently a drone intercepted over the Riyadh region on 20 Nov, per the coalition, no damage mentioned; on 19 Nov Saudi Civil Defense said a tower in the King Abdullah Financial District suffered material damage in a Houthi attack, with no injuries; no airport impact announced). The Houthis repeatedly claim attacks on Riyadh airport (Houthi claims, not confirmed), and on 20 Nov warned airlines to avoid Saudi airspace except over Makkah and Madinah (Houthi warning). Even if you have a booking, always check with the airline that the flight will operate.",
+    "ar": "<span class='red'>لا تزال الرحلات المباشرة من الرياض إلى الدوحة غير مستقرة.</span> أفاد إشعار الخطوط الجوية القطرية في 11 نوفمبر باستئناف الرحلات اليومية على خط الرياض اعتبارًا من 13 نوفمبر (ولا يذكر الإشعار المحدَّث في 15 نوفمبر من المدن السعودية معلَّقةً سوى أبها والطائف)، وسُجّل تسيير الرحلة QR1173 متأخرةً يوميًا من 13 إلى 19 نوفمبر، غير أن رحلات أخرى (QR1165 وQR1167) تظهر ملغاة (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران). وتُسيَّر رحلة الخطوط السعودية SV540 على نحو غير منتظم (وفق مواقع تتبّع الرحلات، وبعضها وفق موقع واحد، وليس إعلانًا رسميًا من شركة الطيران)، ولم يتأكّد صدور إعلان باستئناف الرحلات. وتتواصل منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها اعتراض طائرة مسيّرة فوق منطقة الرياض في 20 نوفمبر، وفق التحالف، دون ذكر أضرار؛ وفي 19 نوفمبر أعلن الدفاع المدني السعودي تعرّض أحد أبراج مركز الملك عبدالله المالي لهجوم حوثي نتجت عنه أضرار مادية دون إصابات؛ ولم يُعلَن عن تأثير على المطار)، ويكرّر الحوثيون ادعاء مهاجمة مطار الرياض (ادعاءات حوثية لم تتأكّد)، وفي 20 نوفمبر دعوا شركات الطيران إلى تجنّب الأجواء السعودية باستثناء أجواء مكة المكرمة والمدينة المنورة (تحذير حوثي). وحتى إن كان لديك حجز، يُرجى التأكد لدى شركة الطيران من تسيير الرحلة."
    },
    "refs": [
     13,
@@ -74,14 +74,18 @@
     86,
     89,
     90,
-    91
+    91,
+    93,
+    94,
+    95,
+    96
    ]
   },
   {
    "html": {
-    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 제다 노선은 하루 7회에서 4회로 줄었고(10/19 보도, 기간·해당 편 미발표) QR1183편은 10/26 이후 운항 기록이 없습니다. 서부 지역을 향한 요격도 이어지고 있습니다(최근 11/16 메카·리야드를 향한 드론 2기, 11/15 메디나 지역 상공 드론 2기 요격, 연합군 발표, 피해 언급 없음; 후티는 11/15 메디나 쪽 발사를 부인해 엇갈림).",
-    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ notice makes no mention of suspending flights in either city. However, the Jeddah route has been cut from seven to four flights a day (19 Oct reports; duration and affected flights not announced), and flight QR1183 has had no operating record since 26 Oct. Interceptions over the west also continue (most recently two drones heading for Makkah and Riyadh intercepted on 16 Nov and two over the Madinah region on 15 Nov, per the coalition; no damage mentioned; the Houthis denied launching towards Madinah on 15 Nov, so accounts conflict).",
-    "ar": "<span class='grn'>تُعدّ جدة والمدينة المنورة أكثر الخيارات استقرارًا للسفر إلى الدوحة.</span> سُجّل تسيير رحلتي الخطوط الجوية القطرية QR1185 من جدة وQR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق للرحلات في المدينتين. غير أن رحلات خط جدة خُفِّضت من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر. وتتواصل كذلك عمليات الاعتراض في الغرب (آخرها اعتراض طائرتين مسيّرتين متجهتين إلى مكة المكرمة والرياض في 16 نوفمبر، وطائرتين مسيّرتين فوق منطقة المدينة المنورة في 15 نوفمبر، وفق التحالف، دون ذكر أضرار؛ ونفى الحوثيون الإطلاق باتجاه المدينة المنورة في 15 نوفمبر، فالروايات متضاربة)."
+    "ko": "<span class='grn'>도하행은 제다·메디나가 가장 안정적입니다.</span> 제다 카타르항공 QR1185와 메디나 QR1175는 10/25 이후 매일 운항 기록이 있고(항공편 추적 사이트 기준, 항공사 공식 발표 아님), 카타르항공 공지에도 두 도시 운항 중단 언급은 없습니다. 다만 제다 노선은 하루 7회에서 4회로 줄었고(10/19 보도, 기간·해당 편 미발표) QR1183편은 10/26 이후 운항 기록이 없습니다. 서부 지역을 향한 요격도 이어지고 있습니다(최근 11/16 메카·리야드를 향한 드론 2기, 11/15 메디나 지역 상공 드론 2기 요격, 연합군 발표, 피해 언급 없음; 후티는 11/15 메디나 쪽 발사를 부인해 엇갈림). 후티는 11/20 예멘 호데이다 항이 공격받으면 제다 항 등 사우디 홍해 항구를 표적으로 삼겠다고 위협했고, 연합군은 같은 날 호데이다 항을 공격했다고 발표했습니다(공항 영향 보도 없음).",
+    "en": "<span class='grn'>Jeddah and Madinah are the most stable options for Doha.</span> Qatar Airways QR1185 from Jeddah and QR1175 from Madinah have records of operating every day since 25 Oct (according to flight-tracking sites, not an official airline announcement), and Qatar Airways’ notice makes no mention of suspending flights in either city. However, the Jeddah route has been cut from seven to four flights a day (19 Oct reports; duration and affected flights not announced), and flight QR1183 has had no operating record since 26 Oct. Interceptions over the west also continue (most recently two drones heading for Makkah and Riyadh intercepted on 16 Nov and two over the Madinah region on 15 Nov, per the coalition; no damage mentioned; the Houthis denied launching towards Madinah on 15 Nov, so accounts conflict). On 20 Nov the Houthis threatened to target Jeddah port and other Saudi Red Sea ports if Yemen’s Hodeidah port were struck, and the coalition said the same day that it had struck Hodeidah port (no airport impact reported).",
+    "ar": "<span class='grn'>تُعدّ جدة والمدينة المنورة أكثر الخيارات استقرارًا للسفر إلى الدوحة.</span> سُجّل تسيير رحلتي الخطوط الجوية القطرية QR1185 من جدة وQR1175 من المدينة المنورة يوميًا منذ 25 أكتوبر (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران)، ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق للرحلات في المدينتين. غير أن رحلات خط جدة خُفِّضت من 7 رحلات إلى 4 رحلات يوميًا (تقارير 19 أكتوبر، دون إعلان المدة أو الرحلات المعنية)، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر. وتتواصل كذلك عمليات الاعتراض في الغرب (آخرها اعتراض طائرتين مسيّرتين متجهتين إلى مكة المكرمة والرياض في 16 نوفمبر، وطائرتين مسيّرتين فوق منطقة المدينة المنورة في 15 نوفمبر، وفق التحالف، دون ذكر أضرار؛ ونفى الحوثيون الإطلاق باتجاه المدينة المنورة في 15 نوفمبر، فالروايات متضاربة). وفي 20 نوفمبر هدّد الحوثيون باستهداف ميناء جدة وموانئ سعودية أخرى على البحر الأحمر إذا تعرّض ميناء الحديدة اليمني للقصف، وأعلن التحالف في اليوم نفسه أنه قصف ميناء الحديدة (دون تقارير عن تأثير على المطار)."
    },
    "refs": [
     8,
@@ -101,7 +105,9 @@
     79,
     81,
     84,
-    85
+    85,
+    95,
+    96
    ]
   },
   {
@@ -165,9 +171,9 @@
     "ar": "رحلة الخطوط الجوية القطرية QR1185 تغادر جدة 05:10 وتصل إلى الدوحة 07:30 (حسب الجدول) · لم تتأكّد مواعيد بقية الرحلات بعد التخفيض"
    },
    "note": {
-    "ko": "QR1185는 10/25 이후 매일 운항 기록, QR1183은 10/26 이후 운항 기록 없음(사이트에 따라 결항·예정 표시 엇갈림)(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공지에 제다 운항 중단 언급 없음, 감편 기간·해당 편 미발표. 메카 지역을 향한 요격이 이어지고 있음(최근 11/16 메카·리야드를 향한 드론 2기, 연합군 발표, 피해 언급 없음). 공항 영향 보도 없음.",
-    "en": "QR1185 has records of operating every day since 25 Oct; QR1183 has had no operating record since 26 Oct (sites differ, showing it as cancelled or scheduled) (according to flight-tracking sites, not an official airline announcement). Qatar Airways’ notice makes no mention of suspending Jeddah flights; duration of the reduction and affected flights not announced. Interceptions over the Makkah region continue (most recently two drones heading for Makkah and Riyadh on 16 Nov, per the coalition; no damage mentioned). No impact on the airport reported.",
-    "ar": "سُجّل تسيير الرحلة QR1185 يوميًا منذ 25 أكتوبر، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر (تتباين المواقع بين عرضها ملغاة أو مجدولة) (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق لرحلات جدة، ولم تُعلن مدة التخفيض ولا الرحلات المعنية. وتتواصل عمليات الاعتراض في منطقة مكة المكرمة (آخرها طائرتان مسيّرتان متجهتان إلى مكة المكرمة والرياض في 16 نوفمبر، وفق التحالف، دون ذكر أضرار). ولم تُذكر أي آثار على المطار."
+    "ko": "QR1185는 10/25 이후 매일 운항 기록, QR1183은 10/26 이후 운항 기록 없음(사이트에 따라 결항·예정 표시 엇갈림)(항공편 추적 사이트 기준, 항공사 공식 발표 아님). 카타르항공 공지에 제다 운항 중단 언급 없음, 감편 기간·해당 편 미발표. 메카 지역을 향한 요격이 이어지고 있음(최근 11/16 메카·리야드를 향한 드론 2기, 연합군 발표, 피해 언급 없음). 후티는 11/20 호데이다 항이 공격받으면 제다 항 등 사우디 홍해 항구를 공격하겠다고 위협(후티 측 경고). 공항 영향 보도 없음.",
+    "en": "QR1185 has records of operating every day since 25 Oct; QR1183 has had no operating record since 26 Oct (sites differ, showing it as cancelled or scheduled) (according to flight-tracking sites, not an official airline announcement). Qatar Airways’ notice makes no mention of suspending Jeddah flights; duration of the reduction and affected flights not announced. Interceptions over the Makkah region continue (most recently two drones heading for Makkah and Riyadh on 16 Nov, per the coalition; no damage mentioned). On 20 Nov the Houthis threatened to attack Jeddah port and other Saudi Red Sea ports if Hodeidah port were struck (Houthi warning). No impact on the airport reported.",
+    "ar": "سُجّل تسيير الرحلة QR1185 يوميًا منذ 25 أكتوبر، ولا يوجد سجل لتسيير الرحلة QR1183 منذ 26 أكتوبر (تتباين المواقع بين عرضها ملغاة أو مجدولة) (وفق مواقع تتبّع الرحلات، وليس إعلانًا رسميًا من شركة الطيران). ولا يذكر إشعار الخطوط الجوية القطرية أي تعليق لرحلات جدة، ولم تُعلن مدة التخفيض ولا الرحلات المعنية. وتتواصل عمليات الاعتراض في منطقة مكة المكرمة (آخرها طائرتان مسيّرتان متجهتان إلى مكة المكرمة والرياض في 16 نوفمبر، وفق التحالف، دون ذكر أضرار). وفي 20 نوفمبر هدّد الحوثيون بمهاجمة ميناء جدة وموانئ سعودية أخرى على البحر الأحمر إذا قُصف ميناء الحديدة (تحذير حوثي). ولم تُذكر أي آثار على المطار."
    },
    "refs": [
     8,
@@ -181,7 +187,9 @@
     58,
     62,
     84,
-    85
+    85,
+    95,
+    96
    ]
   },
   {
@@ -367,9 +375,9 @@
     "ar": "الموعد المقرر لرحلة الخطوط السعودية SV540: الإقلاع من الرياض 12:40 والوصول إلى الدوحة 14:00 · أُعيد فتح المطار جزئيًا اعتبارًا من 25 أكتوبر للرحلات الداخلية وبعض الرحلات الدولية لشركات الطيران السعودية فقط (وفق إعلان المطار) · تُسيَّر بعض الرحلات التي تتخذ من الرياض مقرًا لها من مطار القصيم (وفق السفارة الأمريكية في السعودية)"
    },
    "note": {
-    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 이후 공격을 거듭 주장(최근 11/19 리야드 국제공항·금융 중심지를 겨냥했다고 주장, 후티 측 주장, 확인되지 않음). 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있음(최근 11/19 사우디 민방위청은 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해를 입었고 부상자는 없다고 발표, 공항 영향 발표 없음). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
-    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned against using it, and have since repeatedly claimed attacks on it (most recently on 19 Nov, claiming to have targeted Riyadh international airport and the financial centre; Houthi claims, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently, on 19 Nov Saudi Civil Defense said a tower in the King Abdullah Financial District suffered material damage in a Houthi attack, with no injuries; no airport impact announced). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
-    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 19 نوفمبر بادّعاء استهداف مطار الرياض الدولي والمركز المالي؛ ادعاءات حوثية لم تتأكّد). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها في 19 نوفمبر، إذ أعلن الدفاع المدني السعودي تعرّض أحد أبراج مركز الملك عبدالله المالي لهجوم حوثي نتجت عنه أضرار مادية دون إصابات؛ ولم يُعلَن عن تأثير على المطار). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
+    "ko": "후티는 10/24 리야드 공항을 ‘군사 목표’로 지칭하며 이용하지 말라고 경고했고, 이후 공격을 거듭 주장(최근 11/19 리야드 국제공항·금융 중심지를 겨냥했다고 주장, 후티 측 주장, 확인되지 않음). 리야드를 향한 미사일·드론 요격이 11/6부터 이어지고 있음(최근 11/20 리야드 지역 드론 요격, 연합군 발표, 피해 언급 없음; 11/19 킹압둘라 금융지구 타워 1동이 후티 공격으로 재산 피해·부상자 없음, 사우디 민방위청 발표, 공항 영향 발표 없음). 후티는 11/20 항공사들에 메카·메디나 상공을 제외한 사우디 영공을 피하라고 경고(후티 측 경고). 예약 사이트 판매편도 항공사에 운항 여부를 꼭 확인. 대안: 육로 또는 국내선으로 제다 이동",
+    "en": "On 24 Oct the Houthis called Riyadh airport a ‘military target’ and warned against using it, and have since repeatedly claimed attacks on it (most recently on 19 Nov, claiming to have targeted Riyadh international airport and the financial centre; Houthi claims, not confirmed). Interceptions of missiles and drones heading for Riyadh have continued since 6 Nov (most recently a drone intercepted over the Riyadh region on 20 Nov, per the coalition, no damage mentioned; 19 Nov: material damage to a King Abdullah Financial District tower in a Houthi attack, no injuries, per Saudi Civil Defense; no airport impact announced). On 20 Nov the Houthis warned airlines to avoid Saudi airspace except over Makkah and Madinah (Houthi warning). Even for flights on sale on booking sites, always check with the airline that they will operate. Alternatives: travel by road, or take a domestic flight to Jeddah",
+    "ar": "وصف الحوثيون في 24 أكتوبر مطار الرياض بأنه ‘هدف عسكري’ وحذّروا من استخدامه، ثم كرّروا ادعاء مهاجمته (آخرها في 19 نوفمبر بادّعاء استهداف مطار الرياض الدولي والمركز المالي؛ ادعاءات حوثية لم تتأكّد). وتتوالى منذ 6 نوفمبر عمليات اعتراض صواريخ وطائرات مسيّرة متجهة إلى الرياض (آخرها اعتراض طائرة مسيّرة فوق منطقة الرياض في 20 نوفمبر، وفق التحالف، دون ذكر أضرار؛ وفي 19 نوفمبر لحقت أضرار مادية بأحد أبراج مركز الملك عبدالله المالي جراء هجوم حوثي دون إصابات، وفق الدفاع المدني السعودي؛ ولم يُعلَن عن تأثير على المطار). وفي 20 نوفمبر دعا الحوثيون شركات الطيران إلى تجنّب الأجواء السعودية باستثناء أجواء مكة المكرمة والمدينة المنورة (تحذير حوثي). ويُرجى التأكد لدى شركة الطيران من تسيير الرحلات حتى لو كانت معروضة للبيع في مواقع الحجز. البدائل: السفر برًّا، أو التوجّه إلى جدة على متن رحلة داخلية."
    },
    "refs": [
     10,
@@ -395,7 +403,11 @@
     86,
     89,
     90,
-    91
+    91,
+    93,
+    94,
+    95,
+    96
    ]
   },
   {
@@ -1843,16 +1855,16 @@
   {
    "n": 59,
    "name": {
-    "ko": "aviability 항공편 현황 (QR1175, 11/19 17:40경 확인)",
-    "en": "aviability flight status (QR1175, checked around 17:40, 19 Nov)",
-    "ar": "حالة الرحلات على aviability (QR1175، تم التحقق نحو الساعة 17:40 يوم 19 نوفمبر)"
+    "ko": "aviability 항공편 현황 (QR1175, 11/20 18:40경 확인)",
+    "en": "aviability flight status (QR1175, checked around 18:40, 20 Nov)",
+    "ar": "حالة الرحلات على aviability (QR1175، تم التحقق نحو الساعة 18:40 يوم 20 نوفمبر)"
    },
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 메디나→도하 QR1175: 이전 확인 포함 11/4~11/17 ‘게이트 도착’, 11/18(수)도 ‘게이트 도착’(04:44·06:53 표시), 11/19·11/20 ‘예정’(04:50 출발·06:55 도착). 결항 표시 없음. 항공사 공식 발표 아님. 11/19 17:40경 확인 때 11/19(목) 편도 ‘게이트 도착’(05:01·07:10 표시), 11/20·11/21 편 ‘예정’. 결항 표시 없음. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Madinah→Doha QR1175: 4–17 Nov (including earlier checks) shown as ‘Arrived at gate’; Wed 18 Nov also ‘Arrived at gate’ (times shown 04:44 and 06:53); 19 and 20 Nov ‘Planned’ (dep. 04:50, arr. 06:55). No cancellations shown. Not an official airline announcement. At the check around 17:40 on 19 Nov, the Thu 19 Nov flight was also ‘Arrived at gate’ (05:01 and 07:10 shown); 20 and 21 Nov ‘Planned’. No cancellations shown. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: من 4 إلى 17 نوفمبر (بما في ذلك عمليات تحقق سابقة) تظهر «وصلت إلى البوابة»، ويوم الأربعاء 18 نوفمبر أيضًا «وصلت إلى البوابة» (الأوقات المعروضة 04:44 و06:53)، ورحلتا 19 و20 نوفمبر «مخطط لهما» (المغادرة 04:50 والوصول 06:55). لا تظهر أي رحلة ملغاة. ليس إعلانًا رسميًا من شركة الطيران. وعند التحقق نحو الساعة 17:40 يوم 19 نوفمبر، ظهرت رحلة الخميس 19 نوفمبر أيضًا «وصلت إلى البوابة» (05:01 و07:10)، ورحلتا 20 و21 نوفمبر «مخطَّطتان». لا تظهر أي إلغاءات. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 메디나→도하 QR1175: 이전 확인 포함 11/4~11/19 매일 ‘게이트 도착’(11/19: 05:01·07:10 표시), 11/20(금)도 ‘게이트 도착’(04:48·06:45 표시), 11/21·11/22 ‘예정’(04:50 출발·06:55 도착). 결항 표시 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Madinah→Doha QR1175: every day from 4 to 19 Nov (including earlier checks) shown as ‘Arrived at gate’ (19 Nov: 05:01 and 07:10 shown); Fri 20 Nov also ‘Arrived at gate’ (04:48 and 06:45 shown); 21 and 22 Nov ‘Planned’ (dep. 04:50, arr. 06:55). No cancellations shown. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1175 من المدينة المنورة إلى الدوحة: تظهر «وصلت إلى البوابة» يوميًا من 4 إلى 19 نوفمبر (بما في ذلك عمليات تحقق سابقة) (19 نوفمبر: 05:01 و07:10)، ورحلة الجمعة 20 نوفمبر أيضًا «وصلت إلى البوابة» (04:48 و06:45)، ورحلتا 21 و22 نوفمبر «مخطَّطتان» (المغادرة 04:50 والوصول 06:55). لا تظهر أي إلغاءات. ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://aviability.com/en/flight/qr1175-qatar-airways"
   },
@@ -2383,6 +2395,70 @@
     "en": "Published 03:33 UTC on 20 Nov (Fri): the coalition said it intercepted and destroyed a Houthi ballistic missile launched toward the Southern Region. Saudi Civil Defense said drones had been intercepted and issued early-warning alerts for areas including Jazan, Abha and Khamis Mushait, later lifted. No damage, casualties or airport mentioned",
     "ar": "نُشر في 20 نوفمبر (الجمعة) الساعة 03:33 بتوقيت UTC: أعلن التحالف اعتراض وتدمير صاروخ باليستي حوثي أُطلق باتجاه المنطقة الجنوبية. وقال الدفاع المدني السعودي إنه جرى اعتراض طائرات مسيّرة، وأصدر إنذارات مبكرة لمناطق منها جازان وأبها وخميس مشيط ثم رفعها. دون ذكر أضرار أو إصابات أو مطارات"
    }
+  },
+  {
+   "date": "2026-11-20",
+   "kind": "언론 보도",
+   "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-shoots-down-houthi-drones-and-missile-3013163",
+   "name": {
+    "ko": "아랍뉴스 (Arab News, 11/20 14:16 UTC)",
+    "en": "Arab News (14:16 UTC, 20 Nov)",
+    "ar": "عرب نيوز (14:16 بتوقيت UTC، 20 نوفمبر)"
+   },
+   "what": {
+    "ko": "11/20(금) 14:16 UTC 게재(14:21 갱신): 연합군이 남부 지역 상공의 드론 4기와 탄도미사일 1발, 리야드 지역 상공의 드론 1기를 요격했다고 발표. 사우디 민방위청은 지잔·카미스무샤이트·아브하 등에 경보. 피해·사상자·공항 언급 없음",
+    "en": "Published 14:16 UTC on 20 Nov (Fri) (updated 14:21): the coalition said it intercepted four drones and a ballistic missile over the Southern Region and one drone over the Riyadh region. Saudi Civil Defense issued alerts for areas including Jazan, Khamis Mushait and Abha. No damage, casualties or airport mentioned",
+    "ar": "نُشر في 20 نوفمبر (الجمعة) الساعة 14:16 بتوقيت UTC (حُدِّث 14:21): أعلن التحالف اعتراض أربع طائرات مسيّرة وصاروخ باليستي فوق المنطقة الجنوبية، وطائرة مسيّرة واحدة فوق منطقة الرياض. وأصدر الدفاع المدني السعودي إنذارات لمناطق منها جازان وخميس مشيط وأبها. دون ذكر أضرار أو إصابات أو مطارات"
+   },
+   "n": 93
+  },
+  {
+   "date": "2026-11-20",
+   "kind": "언론 보도",
+   "url": "https://www.wsbtv.com/news/world/saudi-arabia/Z5LP6WO6P46LVBK3NOCZKL3KWM/",
+   "name": {
+    "ko": "AP 통신 (WSB-TV 게재, 11/20 09:48 UTC)",
+    "en": "AP (via WSB-TV, 09:48 UTC, 20 Nov)",
+    "ar": "أسوشيتد برس (عبر WSB-TV، 09:48 بتوقيت UTC، 20 نوفمبر)"
+   },
+   "what": {
+    "ko": "11/20(금) 09:48 UTC 게재: 연합군이 드론 5기와 탄도미사일 1발을 요격했다고 발표, 리야드도 표적 가운데 하나. 후티는 11/19 사우디 공항·공군기지·리야드 금융 중심지를 겨냥했다고 주장했으나 11/20 공격은 즉시 주장하지 않음. 피해·공항 영향 언급 없음",
+    "en": "Published 09:48 UTC on 20 Nov (Fri): the coalition said it intercepted five drones and a ballistic missile, with Riyadh among the targets. The Houthis claimed on 19 Nov to have targeted Saudi airports, air bases and Riyadh’s financial centre, but did not immediately claim the 20 Nov attacks. No damage or airport impact mentioned",
+    "ar": "نُشر في 20 نوفمبر (الجمعة) الساعة 09:48 بتوقيت UTC: أعلن التحالف اعتراض خمس طائرات مسيّرة وصاروخ باليستي، وكانت الرياض من بين الأهداف. وادّعى الحوثيون في 19 نوفمبر استهداف مطارات وقواعد جوية سعودية والمركز المالي في الرياض، لكنهم لم يتبنّوا فورًا هجمات 20 نوفمبر. دون ذكر أضرار أو تأثير على المطارات"
+   },
+   "n": 94
+  },
+  {
+   "date": "2026-11-20",
+   "kind": "언론 보도",
+   "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports",
+   "name": {
+    "ko": "알자지라 (Al Jazeera, 11/20)",
+    "en": "Al Jazeera (20 Nov)",
+    "ar": "الجزيرة (20 نوفمبر)"
+   },
+   "what": {
+    "ko": "11/20(금) 게재: 후티 군 대변인 야흐야 사리가 X에서 호데이다 항이 공격받으면 제다 항과 사우디 홍해 모든 항구가 표적이 된다고 위협하고, 항공사들에 ‘앞으로 몇 시간 동안 작전 무대가 될 것’이라며 메카·메디나 인근을 제외한 사우디 영공을 피하라고 경고. 연합군은 호데이다 항의 작전 능력을 공격했다고 발표. 공항 폐쇄·결항 언급 없음",
+    "en": "Published 20 Nov (Fri): Houthi military spokesman Yahya Saree said on X that Jeddah port and all Saudi Red Sea ports would become targets if Hodeidah port were struck, and warned airlines to avoid Saudi airspace, except near Makkah and Madinah, as it ‘will be the scene of our operations in the coming hours’. The coalition said it struck Hodeidah port’s operational capabilities. No airport closure or cancellations mentioned",
+    "ar": "نُشر في 20 نوفمبر (الجمعة): هدّد المتحدث العسكري الحوثي يحيى سريع عبر منصة X بأن ميناء جدة وجميع الموانئ السعودية على البحر الأحمر ستصبح أهدافًا إذا قُصف ميناء الحديدة، وحذّر شركات الطيران من الأجواء السعودية باستثناء محيط مكة المكرمة والمدينة المنورة لأنها «ستكون مسرحًا لعملياتنا خلال الساعات المقبلة». وأعلن التحالف استهداف القدرات التشغيلية لميناء الحديدة. دون ذكر إغلاق مطارات أو إلغاء رحلات"
+   },
+   "n": 95
+  },
+  {
+   "date": "2026-11-20",
+   "kind": "언론 보도",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/evacuate-immediately-houthis-threaten-target-saudi-red-sea-ports",
+   "name": {
+    "ko": "미들이스트아이 (Middle East Eye, 11/20 11:53 GMT)",
+    "en": "Middle East Eye (11:53 GMT, 20 Nov)",
+    "ar": "ميدل إيست آي (11:53 بتوقيت غرينتش، 20 نوفمبر)"
+   },
+   "what": {
+    "ko": "11/20(금) 11:53 GMT 게재: 후티 대변인 사리가 연합군이 호데이다 항을 폭격하면 ‘제다 항과 홍해 연안 사우디 모든 항구’를 표적으로 삼겠다며 항구 직원·인근 주민에게 즉시 대피를 촉구하고, 사우디 영공이 ‘안전하지 않으며’ 앞으로 몇 시간 동안 작전 무대가 될 것이라고 밝힘(메카·메디나 상공 제외). 항공사·공항 반응 언급 없음",
+    "en": "Published 11:53 GMT on 20 Nov (Fri): Houthi spokesman Saree said ‘Jeddah port and all Saudi ports on the Red Sea coast’ would be targets if the coalition bombed Hodeidah port, urged port staff and nearby residents to evacuate immediately, and said Saudi airspace was ‘unsafe’ and would be an arena for operations in the coming hours (excluding airspace over Makkah and Madinah). No airline or airport reaction mentioned",
+    "ar": "نُشر في 20 نوفمبر (الجمعة) الساعة 11:53 بتوقيت غرينتش: قال المتحدث الحوثي سريع إن «ميناء جدة وجميع الموانئ السعودية على ساحل البحر الأحمر» ستكون أهدافًا إذا قصف التحالف ميناء الحديدة، ودعا العاملين في الموانئ والسكان المجاورين إلى الإخلاء فورًا، وقال إن الأجواء السعودية «غير آمنة» وستكون ساحة للعمليات خلال الساعات المقبلة (باستثناء أجواء مكة المكرمة والمدينة المنورة). دون ذكر ردّ من شركات الطيران أو المطارات"
+   },
+   "n": 96
   }
  ]
 }

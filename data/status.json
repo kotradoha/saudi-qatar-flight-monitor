@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T21:36:00+03:00",
+ "updated_at": "2026-11-20T22:36:00+03:00",
  "window_start": "2026-11-20",
  "pills": [
   {
@@ -838,9 +838,9 @@
     "ar": "جازان"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 비상 경보가 잇따르고 있음(최근 11/20 조기경보 발령, 사우디 민방위청) · 후티는 11/2 지잔 공항의 군 수송기를, 11/13 지잔주 사우디군을 탄도미사일로 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
-    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · emergency alerts have been issued repeatedly since early November (most recently early warnings issued on 20 Nov; Saudi Civil Defense) · the Houthis claimed attacks on a military transport aircraft at Jazan airport on 2 Nov and on Saudi forces in Jazan province with ballistic missiles on 13 Nov (Houthi claims, not confirmed by Saudi Arabia)",
-    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى إنذارات الطوارئ منذ أوائل نوفمبر (آخرها إصدار إنذارات مبكرة في 20 نوفمبر، الدفاع المدني السعودي) · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر، ومهاجمة القوات السعودية في منطقة جازان بصواريخ باليستية في 13 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 비상 경보가 잇따르고 있음(최근 11/20 저녁 지잔 지역을 향한 탄도미사일 2발 요격 후 알슈카이크 지역에 파편 낙하, 연합군 발표, 피해 규모 미발표) · 후티는 11/2 지잔 공항의 군 수송기를, 11/13 지잔주 사우디군을 탄도미사일로 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
+    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · emergency alerts have been issued repeatedly since early November (most recently, on the evening of 20 Nov, 2 ballistic missiles fired towards the Jazan region were intercepted and debris fell in the Al-Shuqaiq area; coalition statement, extent of damage not announced) · the Houthis claimed attacks on a military transport aircraft at Jazan airport on 2 Nov and on Saudi forces in Jazan province with ballistic missiles on 13 Nov (Houthi claims, not confirmed by Saudi Arabia)",
+    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى إنذارات الطوارئ منذ أوائل نوفمبر (آخرها اعتراض صاروخين باليستيين أُطلقا باتجاه منطقة جازان مساء 20 نوفمبر وسقوط شظايا في منطقة الشقيق، بيان التحالف، ولم يُعلن حجم الأضرار) · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر، ومهاجمة القوات السعودية في منطقة جازان بصواريخ باليستية في 13 نوفمبر (ادعاءات حوثية لم تؤكدها السعودية)"
    },
    "refs": [
     4,
@@ -852,7 +852,8 @@
     74,
     86,
     87,
-    92
+    92,
+    93
    ]
   },
   {
@@ -2399,16 +2400,16 @@
   {
    "date": "2026-11-20",
    "kind": "언론 보도",
-   "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-shoots-down-houthi-drones-and-missile-3013163",
+   "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-shoots-down-houthi-drones-and-missiles-3013163",
    "name": {
-    "ko": "아랍뉴스 (Arab News, 11/20 14:16 UTC)",
-    "en": "Arab News (14:16 UTC, 20 Nov)",
-    "ar": "عرب نيوز (14:16 بتوقيت UTC، 20 نوفمبر)"
+    "ko": "아랍뉴스 (Arab News, 11/20 15:58 UTC 갱신)",
+    "en": "Arab News (updated 20 Nov, 15:58 UTC)",
+    "ar": "عرب نيوز (حُدِّث في 20 نوفمبر، 15:58 بتوقيت UTC)"
    },
    "what": {
-    "ko": "11/20(금) 14:16 UTC 게재(14:21 갱신): 연합군이 남부 지역 상공의 드론 4기와 탄도미사일 1발, 리야드 지역 상공의 드론 1기를 요격했다고 발표. 사우디 민방위청은 지잔·카미스무샤이트·아브하 등에 경보. 피해·사상자·공항 언급 없음",
-    "en": "Published 14:16 UTC on 20 Nov (Fri) (updated 14:21): the coalition said it intercepted four drones and a ballistic missile over the Southern Region and one drone over the Riyadh region. Saudi Civil Defense issued alerts for areas including Jazan, Khamis Mushait and Abha. No damage, casualties or airport mentioned",
-    "ar": "نُشر في 20 نوفمبر (الجمعة) الساعة 14:16 بتوقيت UTC (حُدِّث 14:21): أعلن التحالف اعتراض أربع طائرات مسيّرة وصاروخ باليستي فوق المنطقة الجنوبية، وطائرة مسيّرة واحدة فوق منطقة الرياض. وأصدر الدفاع المدني السعودي إنذارات لمناطق منها جازان وخميس مشيط وأبها. دون ذكر أضرار أو إصابات أو مطارات"
+    "ko": "11/20(금) 14:16 UTC 게재·15:58 UTC 갱신: 연합군 발표로 11/20 하루 드론 5기·탄도미사일 3발 요격. 이른 아침 남부 지역 상공 드론 4기·탄도미사일 1발과 리야드 지역 상공 드론 1기, 저녁에는 지잔 지역을 향한 탄도미사일 2발을 요격·파괴했으나 알슈카이크 지역에 파편이 떨어졌고 관계 당국이 현장으로 향하고 있다고 발표. 사우디 민방위청은 지잔주·카미스무샤이트·아브하 등에 경보. 피해 규모·사상자·공항 영향 언급 없음",
+    "en": "Published 14:16 UTC and updated 15:58 UTC on Fri 20 Nov: the coalition said 5 drones and 3 ballistic missiles were intercepted on 20 Nov — early in the morning 4 drones and 1 ballistic missile over the southern region and 1 drone over the Riyadh region, and in the evening 2 ballistic missiles fired towards the Jazan region, which were intercepted and destroyed, though debris fell in the Al-Shuqaiq area and the relevant authorities were heading to the site. Saudi Civil Defense issued alerts for Jazan province, Khamis Mushait, Abha and elsewhere. No mention of the extent of damage, casualties or airport impact",
+    "ar": "نُشر في 14:16 بتوقيت UTC وحُدِّث في 15:58 بتوقيت UTC يوم الجمعة 20 نوفمبر: أعلن التحالف اعتراض 5 طائرات مسيّرة و3 صواريخ باليستية في 20 نوفمبر؛ في الصباح الباكر 4 مسيّرات وصاروخ باليستي واحد فوق المنطقة الجنوبية ومسيّرة واحدة فوق منطقة الرياض، وفي المساء صاروخان باليستيان أُطلقا باتجاه منطقة جازان جرى اعتراضهما وتدميرهما، غير أن شظايا سقطت في منطقة الشقيق، وأضاف أن الجهات المختصة في طريقها إلى الموقع. وأصدر الدفاع المدني السعودي تحذيرات لمنطقة جازان وخميس مشيط وأبها وغيرها. لم يُذكر حجم الأضرار أو وقوع إصابات أو أي تأثير على المطارات"
    },
    "n": 93
   },

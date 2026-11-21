@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T14:38:00+03:00",
+ "updated_at": "2026-11-21T15:40:00+03:00",
  "window_start": "2026-11-21",
  "pills": [
   {
@@ -1541,16 +1541,16 @@
   {
    "n": 40,
    "name": {
-    "ko": "aviability 항공편 현황 (SV540, 11/16 20:36경 확인)",
-    "en": "aviability flight status (SV540, checked around 20:36 on 16 Nov)",
-    "ar": "حالة الرحلات على aviability (SV540، تم التحقق منها نحو الساعة 20:36 يوم 16 نوفمبر)"
+    "ko": "aviability 항공편 현황 (SV540, 11/21 15:40경 확인)",
+    "en": "aviability flight status (SV540, checked around 15:40 on 21 Nov)",
+    "ar": "حالة الرحلات على aviability (SV540، تم التحقق منها نحو الساعة 15:40 يوم 21 نوفمبر)"
    },
-   "date": "2026-11-16",
+   "date": "2026-11-21",
    "kind": "항공편 추적",
    "what": {
-    "ko": "사우디아 SV540 리야드→도하: 이전 확인 때 11/3(화) 편 게이트 출발 12:36·이륙 12:41, 도하 착륙 13:46·게이트 도착 13:51 표시. 11/16 20:36경 확인 때 11/16(월) 편 리야드(2터미널) 출발 ‘착륙(Landed)’(예정 12:40 출발·14:00 도착, 실제 이륙 12:49·착륙 14:01) 표시, 11/14·11/18 편은 상세 정보 없음. 항공사 공식 발표 아님.",
-    "en": "Saudia SV540 Riyadh→Doha: an earlier check showed the Tue 3 Nov flight with gate departure 12:36, take-off 12:41, landing in Doha 13:46 and gate arrival 13:51. At the check around 20:36 on 16 Nov, the Mon 16 Nov flight from Riyadh (Terminal 2) was shown as ‘Landed’ (scheduled departure 12:40, arrival 14:00; actual take-off 12:49, landing 14:01); no details shown for the 14 Nov and 18 Nov flights. Not an official airline announcement.",
-    "ar": "رحلة الخطوط السعودية SV540 من الرياض إلى الدوحة: أظهر تحقق سابق رحلة الثلاثاء 3 نوفمبر بمغادرة من البوابة 12:36 وإقلاع 12:41 وهبوط في الدوحة 13:46 ووصول إلى البوابة 13:51. وعند التحقق نحو الساعة 20:36 يوم 16 نوفمبر ظهرت رحلة الاثنين 16 نوفمبر من الرياض (الصالة 2) بحالة «هبطت» (المغادرة المقررة 12:40 والوصول المقرر 14:00؛ الإقلاع الفعلي 12:49 والهبوط 14:01)، ولا توجد تفاصيل لرحلتي 14 و18 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران."
+    "ko": "사우디아 SV540 리야드→도하: 이전 확인 때 11/3(화) 편 게이트 출발 12:36·이륙 12:41, 도하 착륙 13:46·게이트 도착 13:51 표시. 11/16 20:36경 확인 때 11/16(월) 편 리야드(2터미널) 출발 ‘착륙(Landed)’(예정 12:40 출발·14:00 도착, 실제 이륙 12:49·착륙 14:01) 표시, 11/14·11/18 편은 상세 정보 없음. 11/21 15:40경 확인 때 11/21(토) 편 리야드(2터미널) 출발 ‘게이트 도착(Arrived at gate)’(예정 12:40 출발·14:00 도착, 실제 이륙 13:13·착륙 14:24·게이트 도착 14:31, 31분 지연) 표시. 항공사 공식 발표 아님.",
+    "en": "Saudia SV540 Riyadh→Doha: an earlier check showed the Tue 3 Nov flight with gate departure 12:36, take-off 12:41, landing in Doha 13:46 and gate arrival 13:51. At the check around 20:36 on 16 Nov, the Mon 16 Nov flight from Riyadh (Terminal 2) was shown as ‘Landed’ (scheduled departure 12:40, arrival 14:00; actual take-off 12:49, landing 14:01); no details shown for the 14 Nov and 18 Nov flights. At the check around 15:40 on 21 Nov, the Sat 21 Nov flight from Riyadh (Terminal 2) was shown as ‘Arrived at gate’ (scheduled departure 12:40, arrival 14:00; actual take-off 13:13, landing 14:24, gate arrival 14:31, 31 minutes late). Not an official airline announcement.",
+    "ar": "رحلة الخطوط السعودية SV540 من الرياض إلى الدوحة: أظهر تحقق سابق رحلة الثلاثاء 3 نوفمبر بمغادرة من البوابة 12:36 وإقلاع 12:41 وهبوط في الدوحة 13:46 ووصول إلى البوابة 13:51. وعند التحقق نحو الساعة 20:36 يوم 16 نوفمبر ظهرت رحلة الاثنين 16 نوفمبر من الرياض (الصالة 2) بحالة «هبطت» (المغادرة المقررة 12:40 والوصول المقرر 14:00؛ الإقلاع الفعلي 12:49 والهبوط 14:01)، ولا توجد تفاصيل لرحلتي 14 و18 نوفمبر. وعند التحقق نحو الساعة 15:40 يوم 21 نوفمبر ظهرت رحلة السبت 21 نوفمبر من الرياض (الصالة 2) بحالة «وصلت إلى البوابة» (المغادرة المقررة 12:40 والوصول المقرر 14:00؛ الإقلاع الفعلي 13:13 والهبوط 14:24 والوصول إلى البوابة 14:31، بتأخير 31 دقيقة). ليس إعلانًا رسميًا من شركة الطيران."
    },
    "url": "https://aviability.com/en/flight/sv540-saudia/ruh-doh"
   },
@@ -1893,16 +1893,16 @@
   {
    "n": 62,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/21 13:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 13:40, 21 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 13:40، 21 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/21 15:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 15:40, 21 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 15:40، 21 نوفمبر)"
    },
    "date": "2026-11-21",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/21 13:40경 en 페이지에서 거듭 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed, including on the en page around 13:40 on 21 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا، ومن ذلك على صفحة en نحو الساعة 13:40 يوم 21 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/21 15:40경 en 페이지에서 거듭 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed, including on the en page around 15:40 on 21 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا، ومن ذلك على صفحة en نحو الساعة 15:40 يوم 21 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

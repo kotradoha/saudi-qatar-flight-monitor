@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T10:39:00+03:00",
+ "updated_at": "2026-11-23T11:40:00+03:00",
  "window_start": "2026-11-23",
  "pills": [
   {
@@ -1451,16 +1451,16 @@
   {
    "n": 34,
    "name": {
-    "ko": "aviability 항공편 현황 (QR1195, 11/21 20:40경 확인)",
-    "en": "aviability flight status (QR1195, checked around 20:40 on 21 Nov)",
-    "ar": "aviability لحالة الرحلات (QR1195، تم التحقق نحو الساعة 20:40 يوم 21 نوفمبر)"
+    "ko": "aviability 항공편 현황 (QR1195, 11/23 11:40경 확인)",
+    "en": "aviability flight status (QR1195, checked around 11:40 on 23 Nov)",
+    "ar": "aviability لحالة الرحلات (QR1195، تم التحقق نحو الساعة 11:40 يوم 23 نوفمبر)"
    },
-   "date": "2026-11-21",
+   "date": "2026-11-23",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 부라이다(카심)→도하 QR1195: 10/30 편(11:50→13:25)과 11/1 편(11:05→13:07) 모두 ‘게이트 도착’ 표시. 11/1 편 출발 표시 시각 11:05는 예정 시각과 같아 실제 시각인지 불명. 10/25~10/29·10/31 편 기록 없음 (항공사 공지 아님). 11/21 20:40경 확인 때 11/19(목) 편(12:20·13:41), 11/20(금) 편(11:55·13:23), 11/21(토) 편(11:57·13:22) 모두 ‘게이트 도착’, 11/22(일) 편 ‘예정’(11:05·12:40) 표시 — 공식 일정(일·금)에 없는 목·토 편도 도착으로 표시. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Buraidah (Qassim) → Doha QR1195: the 30 Oct flight (11:50 → 13:25) and the 1 Nov flight (11:05 → 13:07) both shown as “arrived at gate”. The 11:05 departure time shown for 1 Nov is the same as the scheduled time, so it is unclear whether it is the actual time. No records for 25–29 Oct or 31 Oct (not an airline notice). At the check around 20:40 on 21 Nov, the Thu 19 Nov (12:20, 13:41), Fri 20 Nov (11:55, 13:23) and Sat 21 Nov (11:57, 13:22) flights were all shown as “arrived at gate”, and the Sun 22 Nov flight as “planned” (11:05, 12:40) — Thursday and Saturday flights, which are not in the official schedule (Sundays and Fridays), are also shown as arrived. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1195 من بريدة (القصيم) إلى الدوحة: تظهر رحلتا 30 أكتوبر (11:50 → 13:25) و1 نوفمبر (11:05 → 13:07) كلتاهما بحالة «وصلت إلى البوابة». ووقت الإقلاع المعروض لرحلة 1 نوفمبر (11:05) مطابق للموعد المقرر، فلا يُعرف ما إذا كان الوقت الفعلي. ولا سجلات لرحلات 25–29 أكتوبر و31 أكتوبر (ليس إشعارًا من شركة الطيران). وعند التحقق نحو الساعة 20:40 يوم 21 نوفمبر، ظهرت رحلات الخميس 19 نوفمبر (12:20، 13:41) والجمعة 20 نوفمبر (11:55، 13:23) والسبت 21 نوفمبر (11:57، 13:22) كلها بحالة «وصلت إلى البوابة»، ورحلة الأحد 22 نوفمبر بحالة «مخطط لها» (11:05، 12:40) — أي أن رحلتي الخميس والسبت، غير الواردتين في الجدول الرسمي (الأحد والجمعة)، تظهران أيضًا بحالة الوصول. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 부라이다(카심)→도하 QR1195: 10/30 편(11:50→13:25)과 11/1 편(11:05→13:07) 모두 ‘게이트 도착’ 표시. 11/1 편 출발 표시 시각 11:05는 예정 시각과 같아 실제 시각인지 불명. 10/25~10/29·10/31 편 기록 없음 (항공사 공지 아님). 11/21 20:40경 확인 때 11/19(목) 편(12:20·13:41), 11/20(금) 편(11:55·13:23), 11/21(토) 편(11:57·13:22) 모두 ‘게이트 도착’, 11/22(일) 편 ‘예정’(11:05·12:40) 표시 — 공식 일정(일·금)에 없는 목·토 편도 도착으로 표시. 11/23 11:40경 확인 때 11/22(일) 편도 ‘게이트 도착’(11:47·13:12 표시), 11/23(월) 편 ‘출발 예정’(11:50·13:25) 표시. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Buraidah (Qassim) → Doha QR1195: the 30 Oct flight (11:50 → 13:25) and the 1 Nov flight (11:05 → 13:07) both shown as “arrived at gate”. The 11:05 departure time shown for 1 Nov is the same as the scheduled time, so it is unclear whether it is the actual time. No records for 25–29 Oct or 31 Oct (not an airline notice). At the check around 20:40 on 21 Nov, the Thu 19 Nov (12:20, 13:41), Fri 20 Nov (11:55, 13:23) and Sat 21 Nov (11:57, 13:22) flights were all shown as “arrived at gate”, and the Sun 22 Nov flight as “planned” (11:05, 12:40) — Thursday and Saturday flights, which are not in the official schedule (Sundays and Fridays), are also shown as arrived. At the check around 11:40 on 23 Nov, the Sun 22 Nov flight was also shown as “arrived at gate” (11:47, 13:12), and the Mon 23 Nov flight as “departure expected” (11:50, 13:25). Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1195 من بريدة (القصيم) إلى الدوحة: تظهر رحلتا 30 أكتوبر (11:50 → 13:25) و1 نوفمبر (11:05 → 13:07) كلتاهما بحالة «وصلت إلى البوابة». ووقت الإقلاع المعروض لرحلة 1 نوفمبر (11:05) مطابق للموعد المقرر، فلا يُعرف ما إذا كان الوقت الفعلي. ولا سجلات لرحلات 25–29 أكتوبر و31 أكتوبر (ليس إشعارًا من شركة الطيران). وعند التحقق نحو الساعة 20:40 يوم 21 نوفمبر، ظهرت رحلات الخميس 19 نوفمبر (12:20، 13:41) والجمعة 20 نوفمبر (11:55، 13:23) والسبت 21 نوفمبر (11:57، 13:22) كلها بحالة «وصلت إلى البوابة»، ورحلة الأحد 22 نوفمبر بحالة «مخطط لها» (11:05، 12:40) — أي أن رحلتي الخميس والسبت، غير الواردتين في الجدول الرسمي (الأحد والجمعة)، تظهران أيضًا بحالة الوصول. وعند التحقق نحو الساعة 11:40 يوم 23 نوفمبر، ظهرت رحلة الأحد 22 نوفمبر أيضًا بحالة «وصلت إلى البوابة» (11:47، 13:12)، ورحلة الاثنين 23 نوفمبر بحالة «الإقلاع متوقع» (11:50، 13:25). ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://aviability.com/en/flight/qr1195-qatar-airways"
   },
@@ -1611,16 +1611,16 @@
   {
    "n": 44,
    "name": {
-    "ko": "Trip.com 항공편 현황 (QR1183, 11/19 04:45경 확인)",
-    "en": "Trip.com flight status (QR1183, checked around 04:45 on 19 Nov)",
-    "ar": "حالة الرحلات على Trip.com (QR1183، جرى التحقق نحو الساعة 04:45 يوم 19 نوفمبر)"
+    "ko": "Trip.com 항공편 현황 (QR1183, 11/23 11:40경 확인)",
+    "en": "Trip.com flight status (QR1183, checked around 11:40 on 23 Nov)",
+    "ar": "حالة الرحلات على Trip.com (QR1183، جرى التحقق نحو الساعة 11:40 يوم 23 نوفمبر)"
    },
-   "date": "2026-11-19",
+   "date": "2026-11-23",
    "kind": "항공편 추적",
    "what": {
-    "ko": "카타르항공 제다→도하 QR1183(예정 04:10 출발·06:30 도착): 이전 확인 포함 10/30~11/7 편, 11/10~11/12 편, 11/15~11/17(화) 편, 11/19(목)·11/20(금) 편 모두 ‘결항’ 표시, ‘도착’ 기록·실제 시각 없음, 11/13·11/14·11/18 편은 표시 없음. 항공사 공식 발표 아님",
-    "en": "Qatar Airways Jeddah→Doha QR1183 (scheduled 04:10 departure, 06:30 arrival): including earlier checks, the 30 Oct–7 Nov, 10–12 Nov, 15–17 Nov (Tue) and 19 (Thu)–20 (Fri) Nov flights all shown as ‘Cancelled’, with no ‘Arrived’ record or actual times; no status shown for the 13, 14 and 18 Nov flights. Not an official airline announcement",
-    "ar": "رحلة الخطوط الجوية القطرية QR1183 من جدة إلى الدوحة (الإقلاع المقرر 04:10 والوصول 06:30): بما في ذلك تحققات سابقة، رحلات 30 أكتوبر إلى 7 نوفمبر و10 إلى 12 نوفمبر و15 إلى 17 نوفمبر (الثلاثاء) و19 (الخميس) إلى 20 (الجمعة) نوفمبر مُدرجة جميعها على أنها «ملغاة»، دون أي سجل «وصول» أو أوقات فعلية، ولا تظهر أي حالة لرحلات 13 و14 و18 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران"
+    "ko": "카타르항공 제다→도하 QR1183(예정 04:10 출발·06:30 도착): 이전 확인 포함 10/30~11/7 편, 11/10~11/12 편, 11/15~11/17(화) 편, 11/19(목)~11/21(토) 편 모두 ‘결항’ 표시, ‘도착’ 기록·실제 시각 없음, 11/13·11/14·11/18·11/22·11/23 편은 표시 없음. 항공사 공식 발표 아님",
+    "en": "Qatar Airways Jeddah→Doha QR1183 (scheduled 04:10 departure, 06:30 arrival): including earlier checks, the 30 Oct–7 Nov, 10–12 Nov, 15–17 Nov (Tue) and 19 (Thu)–21 (Sat) Nov flights all shown as ‘Cancelled’, with no ‘Arrived’ record or actual times; no status shown for the 13, 14, 18, 22 and 23 Nov flights. Not an official airline announcement",
+    "ar": "رحلة الخطوط الجوية القطرية QR1183 من جدة إلى الدوحة (الإقلاع المقرر 04:10 والوصول 06:30): بما في ذلك تحققات سابقة، رحلات 30 أكتوبر إلى 7 نوفمبر و10 إلى 12 نوفمبر و15 إلى 17 نوفمبر (الثلاثاء) و19 (الخميس) إلى 21 (السبت) نوفمبر مُدرجة جميعها على أنها «ملغاة»، دون أي سجل «وصول» أو أوقات فعلية، ولا تظهر أي حالة لرحلات 13 و14 و18 و22 و23 نوفمبر. ليس إعلانًا رسميًا من شركة الطيران"
    },
    "url": "https://us.trip.com/flights/status-qr1183/"
   },
@@ -1883,18 +1883,18 @@
   {
    "n": 61,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/23 09:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 09:40, 23 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 09:40، 23 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/23 11:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 11:40, 23 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 11:40، 23 نوفمبر)"
    },
    "date": "2026-11-23",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/23 09:40경 en-sd·en 페이지 모두 같은 버전으로 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed around 09:40 on 23 Nov, with the en-sd and en pages both showing the same version): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها نحو الساعة 09:40 يوم 23 نوفمبر، وكانت صفحتا en-sd وen تعرضان النسخة نفسها): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/23 11:40경 en 페이지에서 같은 버전으로 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed on the en page around 11:40 on 23 Nov as the same version): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها على صفحة en نحو الساعة 11:40 يوم 23 نوفمبر وكانت النسخة نفسها): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
    },
-   "url": "https://www.qatarairways.com/en-sd/travel-alerts.html"
+   "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
   {
    "n": 62,

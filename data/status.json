@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T06:40:00+03:00",
+ "updated_at": "2026-11-24T07:50:00+03:00",
  "window_start": "2026-11-24",
  "pills": [
   {
@@ -430,14 +430,14 @@
     "ar": "معلّق حاليًا (دون إعلان موعد للاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공지에 아브하 출도착편 일시 중단 명시(재개일 미발표). 남부 지역을 향한 요격·경보가 이어지고 있음(최근 11/22 남부 지역을 향한 드론 1기 요격, 연합군 발표, 피해 언급 없음).",
-    "en": "Qatar Airways’ notice states that flights to and from Abha are temporarily suspended (no resumption date announced). Interceptions and alerts concerning the Southern Region continue (most recently on 22 Nov a drone heading for the Southern Region was intercepted, according to the coalition; no damage mentioned).",
-    "ar": "ينصّ إشعار الخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (دون إعلان موعد للاستئناف). وتتواصل عمليات الاعتراض والإنذارات المتعلقة بالمنطقة الجنوبية (آخرها في 22 نوفمبر اعتراض طائرة مسيّرة متجهة إلى المنطقة الجنوبية وفق التحالف، دون ذكر أضرار)."
+    "ko": "카타르항공 공지에 아브하 출도착편 일시 중단 명시(재개일 미발표). 남부 지역을 향한 요격·경보가 이어지고 있음(최근 11/24 남부 지역을 향한 드론 1기 요격, 연합군 발표, 피해 언급 없음).",
+    "en": "Qatar Airways’ notice states that flights to and from Abha are temporarily suspended (no resumption date announced). Interceptions and alerts concerning the Southern Region continue (most recently on 24 Nov a drone heading for the Southern Region was intercepted, according to the coalition; no damage mentioned).",
+    "ar": "ينصّ إشعار الخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (دون إعلان موعد للاستئناف). وتتواصل عمليات الاعتراض والإنذارات المتعلقة بالمنطقة الجنوبية (آخرها في 24 نوفمبر اعتراض طائرة مسيّرة متجهة إلى المنطقة الجنوبية وفق التحالف، دون ذكر أضرار)."
    },
    "refs": [
     61,
     86,
-    97
+    100
    ]
   }
  ],
@@ -2502,6 +2502,22 @@
     "ko": "아나돌루통신: 연합군이 남부 지역을 향한 후티 드론 1기를 요격했다고 발표(앞서 리야드 지역 드론 1기 요격), 위치·피해·사상자 언급 없음. 후티 대변인 사레아는 서부 라비그 정유시설 ‘직접 타격’과 알다와시르 레이더 공격을 주장, 사우디 측 즉각 논평 없음",
     "en": "Anadolu Agency: the coalition said it intercepted a Houthi drone heading for the southern region (after an earlier drone towards the Riyadh region); no location, damage or casualties mentioned. Houthi spokesman Saree claimed a ‘direct hit’ on the Rabigh oil refinery in the west and an attack on a radar in Al-Dawasir; no immediate comment from Riyadh",
     "ar": "وكالة الأناضول: أعلن التحالف اعتراض طائرة مسيّرة حوثية متجهة إلى المنطقة الجنوبية (بعد اعتراض مسيّرة سابقة باتجاه منطقة الرياض)، دون ذكر الموقع أو أضرار أو إصابات. وادّعى المتحدث باسم الحوثيين سريع «إصابة مباشرة» لمصفاة رابغ للنفط في الغرب ومهاجمة رادار في الدواسر، دون تعليق فوري من الرياض"
+   }
+  },
+  {
+   "n": 100,
+   "date": "2026-11-24",
+   "kind": "언론 보도",
+   "url": "https://www.anews.com.tr/middle-east/2026/11/24/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia",
+   "name": {
+    "ko": "에이뉴스 (A News, 아나돌루통신 기사, 11/24 06:53)",
+    "en": "A News (Anadolu Agency report, 24 Nov 06:53)",
+    "ar": "إيه نيوز (تقرير وكالة الأناضول، 24 نوفمبر 06:53)"
+   },
+   "what": {
+    "ko": "11/24(화) 새벽: 연합군 대변인 투르키 알말리키가 X 성명에서 후티가 남부 지역을 향해 발사한 드론 1기를 요격·파괴했다고 발표. 위치·피해·사상자 언급 없음",
+    "en": "Early on 24 Nov (Tue): coalition spokesman Turki al-Maliki said in a statement on X that a drone launched by the Houthis towards the Southern Region was intercepted and destroyed. No location, damage or casualties mentioned",
+    "ar": "فجر 24 نوفمبر (الثلاثاء): أعلن المتحدث باسم التحالف تركي المالكي في بيان على منصة X اعتراض وتدمير طائرة مسيّرة أطلقها الحوثيون باتجاه المنطقة الجنوبية. دون ذكر الموقع أو أضرار أو إصابات"
    }
   }
  ]

@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-25T19:40:00+03:00",
+ "updated_at": "2026-11-25T20:40:00+03:00",
  "window_start": "2026-11-25",
  "pills": [
+  {
+   "text": {
+    "ko": "<b>11/25(수) 지잔 항 피격 — 경미한 피해</b>: 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났고 민간인 사상자는 없음 (연합군 대변인 발표, 발사체 종류 확인 중, 공항·항공편 영향 언급 없음)",
+    "en": "<b>25 Nov (Wed) Jazan port hit — minor damage</b>: a Houthi projectile fell on Jazan port, causing minor damage with no civilian casualties (coalition spokesman statement; type of projectile being determined; no mention of airport or flight impact)",
+    "ar": "<b>25 نوفمبر (الأربعاء) إصابة ميناء جازان — أضرار طفيفة</b>: سقط مقذوف أطلقه الحوثيون في ميناء جازان وأحدث أضرارًا طفيفة دون إصابات بين المدنيين (بيان المتحدث باسم التحالف، والعمل جارٍ لتحديد نوع المقذوف، دون ذكر أي تأثير على المطار أو الرحلات)"
+   },
+   "refs": [
+    105,
+    106,
+    107
+   ]
+  },
   {
    "text": {
     "ko": "<b>11/24(화) 리야드 금융지구 타워 피격 — 11명 부상</b>: 리야드 금융지구의 타워 1동이 후티 공격을 받아 11명이 부상했고 사망자·피해 규모는 발표되지 않음 (사우디 민방위청 발표; 연합군 대변인은 ‘테러 공격’이라며 당국이 현장 조사 중이라고 발표, 공항·항공편 영향 언급 없음)",
@@ -9,9 +21,9 @@
     "ar": "<b>24 نوفمبر (الثلاثاء) استهداف برج في الحي المالي بالرياض — 11 مصابًا</b>: تعرّض أحد أبراج الحي المالي في الرياض لهجوم حوثي أسفر عن إصابة 11 شخصًا، ولم يُعلَن عن وفيات أو حجم الأضرار (بيان الدفاع المدني السعودي؛ ووصفه المتحدث باسم التحالف بأنه «هجوم إرهابي» وقال إن الجهات المختصة تُجري تحقيقًا في الموقع، دون ذكر أي تأثير على المطار أو الرحلات)"
    },
    "refs": [
-    97,
-    98,
-    99
+    95,
+    96,
+    97
    ]
   },
   {
@@ -73,11 +85,11 @@
     80,
     81,
     83,
+    85,
     86,
-    87,
-    97,
-    98,
-    99
+    95,
+    96,
+    97
    ]
   },
   {
@@ -102,17 +114,17 @@
     58,
     61,
     77,
+    88,
+    89,
     90,
     91,
     92,
     93,
-    94,
-    95,
+    98,
     100,
-    102,
+    101,
     103,
-    105,
-    106
+    104
    ]
   },
   {
@@ -137,9 +149,9 @@
     76,
     77,
     78,
-    101,
-    102,
-    104
+    99,
+    100,
+    102
    ]
   },
   {
@@ -194,17 +206,17 @@
     44,
     57,
     61,
+    88,
+    89,
     90,
     91,
     92,
     93,
-    94,
-    95,
+    98,
     100,
-    102,
+    101,
     103,
-    105,
-    106
+    104
    ]
   },
   {
@@ -244,8 +256,8 @@
     56,
     58,
     61,
-    90,
-    91
+    88,
+    89
    ]
   },
   {
@@ -294,9 +306,9 @@
     76,
     77,
     78,
-    101,
-    102,
-    104
+    99,
+    100,
+    102
    ]
   },
   {
@@ -421,11 +433,11 @@
     72,
     81,
     83,
+    85,
     86,
-    87,
-    97,
-    98,
-    99
+    95,
+    96,
+    97
    ]
   },
   {
@@ -459,7 +471,7 @@
    "refs": [
     61,
     84,
-    96
+    94
    ]
   }
  ],
@@ -854,9 +866,9 @@
     "ar": "جازان"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 비상 경보가 잇따르고 있음(최근 11/20 저녁 지잔 지역을 향한 탄도미사일 2발 요격 후 알슈카이크 지역에 파편 낙하, 연합군 발표, 피해 규모 미발표) · 후티는 11/2 지잔 공항의 군 수송기를 공격했다고 주장했고, 11/20에는 알슈카이크 발전소와 지잔 항을 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
-    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · emergency alerts have been issued repeatedly since early November (most recently, on the evening of 20 Nov, 2 ballistic missiles fired towards the Jazan region were intercepted and debris fell in the Al-Shuqaiq area; coalition statement, extent of damage not announced) · the Houthis claimed an attack on a military transport aircraft at Jazan airport on 2 Nov, and on 20 Nov claimed attacks on the Al-Shuqaiq power station and Jazan port (Houthi claims, not confirmed by Saudi Arabia)",
-    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى إنذارات الطوارئ منذ أوائل نوفمبر (آخرها اعتراض صاروخين باليستيين أُطلقا باتجاه منطقة جازان مساء 20 نوفمبر وسقوط شظايا في منطقة الشقيق، بيان التحالف، ولم يُعلن حجم الأضرار) · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر، وادّعوا في 20 نوفمبر مهاجمة محطة الشقيق للكهرباء وميناء جازان (ادعاءات حوثية لم تؤكدها السعودية)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 요격·비상 경보가 잇따르고 있으며, 11/25에는 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났음(연합군 발표, 민간인 사상자 없음, 공항 영향 언급 없음) · 후티는 11/2 지잔 공항의 군 수송기를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
+    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · interceptions and emergency alerts have continued since early November, and on 25 Nov a Houthi projectile fell on Jazan port, causing minor damage (coalition statement; no civilian casualties; no mention of airport impact) · the Houthis claimed an attack on a military transport aircraft at Jazan airport on 2 Nov (Houthi claim, not confirmed by Saudi Arabia)",
+    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى عمليات الاعتراض وإنذارات الطوارئ منذ أوائل نوفمبر، وفي 25 نوفمبر سقط مقذوف أطلقه الحوثيون في ميناء جازان وأحدث أضرارًا طفيفة (بيان التحالف، دون إصابات بين المدنيين، ودون ذكر أي تأثير على المطار) · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر (ادعاء حوثي لم تؤكده السعودية)"
    },
    "refs": [
     4,
@@ -868,8 +880,9 @@
     81,
     82,
     84,
-    85,
-    88
+    105,
+    106,
+    107
    ]
   },
   {
@@ -892,7 +905,7 @@
     60,
     81,
     82,
-    89
+    87
    ]
   },
   {
@@ -1905,16 +1918,16 @@
   {
    "n": 61,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/25 19:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 19:40, 25 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 19:40 يوم 25 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/25 20:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 20:40, 25 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 20:40 يوم 25 نوفمبر)"
    },
    "date": "2026-11-25",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/25 새벽~오전 여러 차례·11:40경·13:40경·15:40경 en 페이지, 16:40경 en-sg 페이지, 17:40경·19:40경 en 페이지에서 같은 버전으로 재확인; 11/24~11/25 일부 확인 때는 en 페이지가 아래 10/12 옛 버전을 표시): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed as the same version on the en page several times in the early hours and morning of 25 Nov and around 11:40, 13:40 and 15:40, on the en-sg page around 16:40, and on the en page around 17:40 and 19:40; at some checks on 24–25 Nov the en page showed the older 12 Oct version described below): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها على صفحة en عدة مرات في الساعات الأولى وصباح 25 نوفمبر ونحو الساعات 11:40 و13:40 و15:40، وعلى صفحة en-sg نحو الساعة 16:40، وعلى صفحة en نحو الساعتين 17:40 و19:40، وكانت النسخة نفسها، وعند بعض عمليات التحقق يومي 24 و25 نوفمبر عرضت صفحة en النسخة الأقدم المؤرخة 12 أكتوبر المذكورة أدناه): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/25 새벽~오전 여러 차례·11:40경·13:40경·15:40경 en 페이지, 16:40경 en-sg 페이지, 17:40경·19:40경·20:40경 en 페이지에서 같은 버전으로 재확인; 11/24~11/25 일부 확인 때는 en 페이지가 아래 10/12 옛 버전을 표시): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed as the same version on the en page several times in the early hours and morning of 25 Nov and around 11:40, 13:40 and 15:40, on the en-sg page around 16:40, and on the en page around 17:40, 19:40 and 20:40; at some checks on 24–25 Nov the en page showed the older 12 Oct version described below): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها على صفحة en عدة مرات في الساعات الأولى وصباح 25 نوفمبر ونحو الساعات 11:40 و13:40 و15:40، وعلى صفحة en-sg نحو الساعة 16:40، وعلى صفحة en نحو الساعات 17:40 و19:40 و20:40، وكانت النسخة نفسها، وعند بعض عمليات التحقق يومي 24 و25 نوفمبر عرضت صفحة en النسخة الأقدم المؤرخة 12 أكتوبر المذكورة أدناه): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي نسخة."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2289,22 +2302,6 @@
   {
    "date": "2026-11-20",
    "kind": "언론 보도",
-   "url": "https://www.arabnews.com/saudi-arabia/saudi-arabia-shoots-down-houthi-drones-and-missiles-3013163",
-   "name": {
-    "ko": "아랍뉴스 (Arab News, 11/20 15:58 UTC 갱신)",
-    "en": "Arab News (updated 20 Nov, 15:58 UTC)",
-    "ar": "عرب نيوز (حُدِّث في 20 نوفمبر، 15:58 بتوقيت UTC)"
-   },
-   "what": {
-    "ko": "11/20(금) 14:16 UTC 게재·15:58 UTC 갱신: 연합군 발표로 11/20 하루 드론 5기·탄도미사일 3발 요격. 이른 아침 남부 지역 상공 드론 4기·탄도미사일 1발과 리야드 지역 상공 드론 1기, 저녁에는 지잔 지역을 향한 탄도미사일 2발을 요격·파괴했으나 알슈카이크 지역에 파편이 떨어졌고 관계 당국이 현장으로 향하고 있다고 발표. 사우디 민방위청은 지잔주·카미스무샤이트·아브하 등에 경보. 피해 규모·사상자·공항 영향 언급 없음",
-    "en": "Published 14:16 UTC and updated 15:58 UTC on Fri 20 Nov: the coalition said 5 drones and 3 ballistic missiles were intercepted on 20 Nov — early in the morning 4 drones and 1 ballistic missile over the southern region and 1 drone over the Riyadh region, and in the evening 2 ballistic missiles fired towards the Jazan region, which were intercepted and destroyed, though debris fell in the Al-Shuqaiq area and the relevant authorities were heading to the site. Saudi Civil Defense issued alerts for Jazan province, Khamis Mushait, Abha and elsewhere. No mention of the extent of damage, casualties or airport impact",
-    "ar": "نُشر في 14:16 بتوقيت UTC وحُدِّث في 15:58 بتوقيت UTC يوم الجمعة 20 نوفمبر: أعلن التحالف اعتراض 5 طائرات مسيّرة و3 صواريخ باليستية في 20 نوفمبر؛ في الصباح الباكر 4 مسيّرات وصاروخ باليستي واحد فوق المنطقة الجنوبية ومسيّرة واحدة فوق منطقة الرياض، وفي المساء صاروخان باليستيان أُطلقا باتجاه منطقة جازان جرى اعتراضهما وتدميرهما، غير أن شظايا سقطت في منطقة الشقيق، وأضاف أن الجهات المختصة في طريقها إلى الموقع. وأصدر الدفاع المدني السعودي تحذيرات لمنطقة جازان وخميس مشيط وأبها وغيرها. لم يُذكر حجم الأضرار أو وقوع إصابات أو أي تأثير على المطارات"
-   },
-   "n": 85
-  },
-  {
-   "date": "2026-11-20",
-   "kind": "언론 보도",
    "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports",
    "name": {
     "ko": "알자지라 (Al Jazeera, 11/20)",
@@ -2316,7 +2313,7 @@
     "en": "Published 20 Nov (Fri): Houthi military spokesman Yahya Saree said on X that Jeddah port and all Saudi Red Sea ports would become targets if Hodeidah port were struck, and warned airlines to avoid Saudi airspace, except near Makkah and Madinah, as it ‘will be the scene of our operations in the coming hours’. The coalition said it struck Hodeidah port’s operational capabilities. No airport closure or cancellations mentioned",
     "ar": "نُشر في 20 نوفمبر (الجمعة): هدّد المتحدث العسكري الحوثي يحيى سريع عبر منصة X بأن ميناء جدة وجميع الموانئ السعودية على البحر الأحمر ستصبح أهدافًا إذا قُصف ميناء الحديدة، وحذّر شركات الطيران من الأجواء السعودية باستثناء محيط مكة المكرمة والمدينة المنورة لأنها «ستكون مسرحًا لعملياتنا خلال الساعات المقبلة». وأعلن التحالف استهداف القدرات التشغيلية لميناء الحديدة. دون ذكر إغلاق مطارات أو إلغاء رحلات"
    },
-   "n": 86
+   "n": 85
   },
   {
    "date": "2026-11-20",
@@ -2332,26 +2329,10 @@
     "en": "Published 11:53 GMT on 20 Nov (Fri): Houthi spokesman Saree said ‘Jeddah port and all Saudi ports on the Red Sea coast’ would be targets if the coalition bombed Hodeidah port, urged port staff and nearby residents to evacuate immediately, and said Saudi airspace was ‘unsafe’ and would be an arena for operations in the coming hours (excluding airspace over Makkah and Madinah). No airline or airport reaction mentioned",
     "ar": "نُشر في 20 نوفمبر (الجمعة) الساعة 11:53 بتوقيت غرينتش: قال المتحدث الحوثي سريع إن «ميناء جدة وجميع الموانئ السعودية على ساحل البحر الأحمر» ستكون أهدافًا إذا قصف التحالف ميناء الحديدة، ودعا العاملين في الموانئ والسكان المجاورين إلى الإخلاء فورًا، وقال إن الأجواء السعودية «غير آمنة» وستكون ساحة للعمليات خلال الساعات المقبلة (باستثناء أجواء مكة المكرمة والمدينة المنورة). دون ذكر ردّ من شركات الطيران أو المطارات"
    },
-   "n": 87
+   "n": 86
   },
   {
-   "n": 88,
-   "name": {
-    "ko": "로이터 (Reuters, 예루살렘포스트 게재, 11/20)",
-    "en": "Reuters (via The Jerusalem Post, 20 Nov)",
-    "ar": "رويترز (عبر جيروزاليم بوست، 20 نوفمبر)"
-   },
-   "date": "2026-11-20",
-   "kind": "언론 보도",
-   "what": {
-    "ko": "11/20(금) 게재, 로이터: 연합군은 후티가 지잔을 향해 발사한 탄도미사일 2발을 요격·파괴했고 파편이 알슈카이크 지역에 떨어졌다고 발표. 후티는 알슈카이크 발전소와 지잔의 항구를 공격했다고 주장(후티 측 주장). 연합군은 호데이다 항을 공격했다고 발표. 사상자·공항 영향 언급 없음",
-    "en": "Published 20 Nov (Fri), Reuters: the coalition said it intercepted and destroyed 2 ballistic missiles fired by the Houthis towards Jazan, with debris falling in the Al-Shuqaiq area. The Houthis claimed attacks on a power station in Al-Shuqaiq and a port in Jazan (Houthi claim). The coalition said it struck Hodeidah port. No casualties or airport impact mentioned",
-    "ar": "نُشر يوم 20 نوفمبر (الجمعة)، رويترز: أعلن التحالف اعتراض وتدمير صاروخين باليستيين أطلقهما الحوثيون باتجاه جازان وسقوط شظايا في منطقة الشقيق. وادّعى الحوثيون مهاجمة محطة كهرباء في الشقيق وميناء في جازان (ادعاء حوثي). وأعلن التحالف ضرب ميناء الحديدة. لم يُذكر سقوط ضحايا أو تأثير على المطارات"
-   },
-   "url": "https://www.jpost.com/middle-east/article-915608"
-  },
-  {
-   "n": 89,
+   "n": 87,
    "date": "2026-11-21",
    "kind": "언론 보도",
    "url": "https://www.arabnews.com/saudi-arabia/coalition-air-defenses-intercept-3-houthi-ballistic-missiles-targeting-riyadh-3013264",
@@ -2367,7 +2348,7 @@
    }
   },
   {
-   "n": 90,
+   "n": 88,
    "date": "2026-11-22",
    "kind": "언론 보도",
    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-region/",
@@ -2383,7 +2364,7 @@
    }
   },
   {
-   "n": 91,
+   "n": 89,
    "date": "2026-11-22",
    "kind": "언론 보도",
    "url": "https://www.usmuslims.com/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-383069h.htm",
@@ -2399,7 +2380,7 @@
    }
   },
   {
-   "n": 92,
+   "n": 90,
    "date": "2026-11-22",
    "kind": "언론 보도",
    "url": "https://www.siasat.com/potential-danger-alert-issued-for-makkah-residents-3583621/",
@@ -2415,7 +2396,7 @@
    }
   },
   {
-   "n": 93,
+   "n": 91,
    "date": "2026-11-22",
    "kind": "언론 보도",
    "url": "https://houseofsaud.com/houthi-missile-mecca-iran-bahrain-fire-nov22/",
@@ -2431,7 +2412,7 @@
    }
   },
   {
-   "n": 94,
+   "n": 92,
    "date": "2026-11-23",
    "kind": "언론 보도",
    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/23/saudi-led-coalition-says-intercepted-houthi-missile-in-western-region",
@@ -2447,7 +2428,7 @@
    }
   },
   {
-   "n": 95,
+   "n": 93,
    "date": "2026-11-23",
    "kind": "언론 보도",
    "url": "https://www.bernama.com/en/world/news.php?id=2637965",
@@ -2463,7 +2444,7 @@
    }
   },
   {
-   "n": 96,
+   "n": 94,
    "date": "2026-11-24",
    "kind": "언론 보도",
    "url": "https://www.anews.com.tr/middle-east/2026/11/24/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia",
@@ -2479,7 +2460,7 @@
    }
   },
   {
-   "n": 97,
+   "n": 95,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/24 18:08)",
     "en": "Arab News (24 Nov, 18:08)",
@@ -2495,7 +2476,7 @@
    "url": "https://www.arabnews.pk/saudi-arabia/coalition-says-tower-in-riyadhs-financial-district-subjected-to-terrorist-attack-3007921"
   },
   {
-   "n": 98,
+   "n": 96,
    "kind": "언론 보도",
    "date": "2026-11-24",
    "url": "https://www.arabnews.com/saudi-arabia/11-injured-after-houthi-attack-on-tower-in-riyadhs-financial-district-3013857",
@@ -2511,7 +2492,7 @@
    }
   },
   {
-   "n": 99,
+   "n": 97,
    "kind": "언론 보도",
    "date": "2026-11-24",
    "url": "https://gulfnews.com/world/gulf/saudi/saudi-civil-defence-says-11-injured-in-houthi-attack-on-financial-district-1.500759629",
@@ -2527,7 +2508,7 @@
    }
   },
   {
-   "n": 100,
+   "n": 98,
    "date": "2026-11-25",
    "kind": "항공편 추적",
    "url": "https://aviability.com/en/flight/qr1185-qatar-airways",
@@ -2543,7 +2524,7 @@
    }
   },
   {
-   "n": 101,
+   "n": 99,
    "name": {
     "ko": "미들이스트아이 (Middle East Eye, 11/25 03:06 GMT)",
     "en": "Middle East Eye (25 Nov, 03:06 GMT)",
@@ -2559,7 +2540,7 @@
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-downed-four-drones-over-kingdoms-eastern"
   },
   {
-   "n": 102,
+   "n": 100,
    "name": {
     "ko": "Gulf News (실시간 기사, 11/25 09:41 갱신, 시간대 미표시)",
     "en": "Gulf News (live report, updated 09:41, 25 Nov, time zone not shown)",
@@ -2575,7 +2556,7 @@
    "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
   },
   {
-   "n": 103,
+   "n": 101,
    "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/25)",
     "en": "Anadolu Agency (25 Nov)",
@@ -2591,7 +2572,7 @@
    "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-4-drones-over-eastern-province/4136591"
   },
   {
-   "n": 104,
+   "n": 102,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://theprint.in/world/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/3108644/",
@@ -2607,7 +2588,7 @@
    }
   },
   {
-   "n": 105,
+   "n": 103,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://www.yahoo.com/news/world/articles/yemens-houthis-threaten-target-jeddah-024339735.html",
@@ -2623,7 +2604,7 @@
    }
   },
   {
-   "n": 106,
+   "n": 104,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
@@ -2637,6 +2618,54 @@
     "en": "Published Wed 25 Nov: after the coalition strike on Hodeidah port, Houthi spokesman Saree warned employees at Saudi Red Sea ports including Jeddah to evacuate and told shipping companies to withdraw vessels. Coalition spokesman Al-Maliki said four drones were intercepted over Ras Tanura, debris fell, and the initial assessment found no casualties. No airport impact mentioned",
     "ar": "نُشر الأربعاء 25 نوفمبر: بعد قصف التحالف لميناء الحديدة، حذّر المتحدث باسم الحوثيين سريع العاملين في الموانئ السعودية على البحر الأحمر ومنها جدة من ضرورة الإخلاء، وطالب شركات الشحن بسحب سفنها. وأعلن المتحدث باسم التحالف المالكي اعتراض أربع مسيّرات فوق رأس تنورة وسقوط شظايا، دون إصابات وفق التقييم الأولي. لم يُذكر أي تأثير على المطارات"
    }
+  },
+  {
+   "n": 105,
+   "name": {
+    "ko": "아나돌루통신 (Anadolu Agency, 11/25)",
+    "en": "Anadolu Agency (25 Nov)",
+    "ar": "وكالة الأناضول (25 نوفمبر)"
+   },
+   "date": "2026-11-25",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/25(수) 게재: 연합군 대변인 투르키 알말리키 소장이 X 성명에서 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났고 민간인 부상자는 없으며, 당국이 발사체 종류를 확인 중이라고 발표. 지잔 공항·항공편 영향 언급 없음",
+    "en": "Published Wed 25 Nov: coalition spokesman Maj. Gen. Turki al-Maliki said in a statement on X that a Houthi projectile landed at Jazan port, causing minor damage and no civilian injuries, and that authorities were working to identify the type of projectile. No mention of impact on Jazan airport or flights",
+    "ar": "نُشر الأربعاء 25 نوفمبر: أعلن المتحدث باسم التحالف اللواء تركي المالكي في بيان على منصة X أن مقذوفًا أطلقه الحوثيون سقط في ميناء جازان وأحدث أضرارًا طفيفة دون إصابات بين المدنيين، وأن الجهات المختصة تعمل على تحديد نوع المقذوف. لم يُذكر أي تأثير على مطار جازان أو الرحلات"
+   },
+   "url": "https://www.aa.com.tr/en/middle-east/houthi-projectile-hits-saudi-arabias-jazan-port-causes-minor-damage-coalition/4137807"
+  },
+  {
+   "n": 106,
+   "name": {
+    "ko": "아랍뉴스 (Arab News, 11/25 16:56 UTC 게재)",
+    "en": "Arab News (published 16:56 UTC, 25 Nov)",
+    "ar": "عرب نيوز (نُشر 16:56 بالتوقيت العالمي، 25 نوفمبر)"
+   },
+   "date": "2026-11-25",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/25(수) 게재: 연합군은 후티 발사체가 지잔 항을 타격해 경미한 피해가 났다고 발표했고 피해에 관한 추가 세부 내용은 밝히지 않음. 민간인 사상자 보고 없음. 지잔 공항·항공편 영향 언급 없음",
+    "en": "Published Wed 25 Nov: the coalition said a Houthi projectile hit Jazan port, causing minor damage, and gave no further details of the damage. No civilian casualties were reported. No mention of impact on Jazan airport or flights",
+    "ar": "نُشر الأربعاء 25 نوفمبر: أعلن التحالف أن مقذوفًا حوثيًا أصاب ميناء جازان وأحدث أضرارًا طفيفة، ولم يقدّم تفاصيل إضافية عن الأضرار. ولم يُبلَّغ عن إصابات بين المدنيين. لم يُذكر أي تأثير على مطار جازان أو الرحلات"
+   },
+   "url": "https://www.arabnews.com/saudi-arabia/houthi-projectile-hits-saudi-arabias-jazan-port-coalition-says-3014031"
+  },
+  {
+   "n": 107,
+   "name": {
+    "ko": "타임스오브이스라엘 (Times of Israel, AFP 기사, 11/25)",
+    "en": "Times of Israel (AFP report, 25 Nov)",
+    "ar": "تايمز أوف إسرائيل (تقرير وكالة فرانس برس، 25 نوفمبر)"
+   },
+   "date": "2026-11-25",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/25(수) 라이브블로그 ‘6:51 pm’ 게재 표시(시간대 미표시), AFP: 연합군 대변인 투르키 알말리키가 X에서 후티 발사체가 지잔 항에 떨어졌으며 경미한 피해, 민간인 사상자 없음, 발사체 종류를 확인 중이라고 밝힘. 공항 영향 언급 없음",
+    "en": "Liveblog entry marked ‘6:51 pm’ on Wed 25 Nov (time zone not shown), AFP: coalition spokesman Turki al-Maliki wrote on X that a Houthi projectile fell on Jazan port, with minor damage and no civilian casualties, and that efforts were under way to determine the type of projectile. No airport impact mentioned",
+    "ar": "مدخل في مدوّنة مباشرة بتوقيت «6:51 مساءً» يوم الأربعاء 25 نوفمبر (دون ذكر المنطقة الزمنية)، وكالة فرانس برس: كتب المتحدث باسم التحالف تركي المالكي على منصة X أن مقذوفًا أطلقه الحوثيون سقط في ميناء جازان، مع أضرار طفيفة ودون إصابات بين المدنيين، وأن العمل جارٍ لتحديد نوع المقذوف. لم يُذكر أي تأثير على المطار"
+   },
+   "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-houthi-projectile-hit-jazan-port-no-injuries-reported"
   }
  ]
 }

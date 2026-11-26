@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T18:40:00+03:00",
+ "updated_at": "2026-11-26T19:50:00+03:00",
  "window_start": "2026-11-26",
  "pills": [
   {
@@ -860,9 +860,9 @@
     "ar": "جازان"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 요격·비상 경보가 잇따르고 있으며, 11/25에는 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났음(연합군 발표, 민간인 사상자 없음, 공항 영향 언급 없음) · 후티는 11/2 지잔 공항의 군 수송기를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
-    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · interceptions and emergency alerts have continued since early November, and on 25 Nov a Houthi projectile fell on Jazan port, causing minor damage (coalition statement; no civilian casualties; no mention of airport impact) · the Houthis claimed an attack on a military transport aircraft at Jazan airport on 2 Nov (Houthi claim, not confirmed by Saudi Arabia)",
-    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى عمليات الاعتراض وإنذارات الطوارئ منذ أوائل نوفمبر، وفي 25 نوفمبر سقط مقذوف أطلقه الحوثيون في ميناء جازان وأحدث أضرارًا طفيفة (بيان التحالف، دون إصابات بين المدنيين، ودون ذكر أي تأثير على المطار) · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر (ادعاء حوثي لم تؤكده السعودية)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 요격·비상 경보가 잇따르고 있으며, 연합군 발표에 따르면 11/25에는 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났고(민간인 사상자 없음), 11/26에는 후티가 지잔 정유시설을 공격함(피해·사상자 언급 없음). 두 발표 모두 공항 영향 언급 없음 · 후티는 11/2 지잔 공항의 군 수송기를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
+    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · interceptions and emergency alerts have continued since early November; according to coalition statements, on 25 Nov a Houthi projectile fell on Jazan port, causing minor damage (no civilian casualties), and on 26 Nov the Houthis attacked the Jazan refinery (no mention of damage or casualties); neither statement mentions airport impact · the Houthis claimed an attack on a military transport aircraft at Jazan airport on 2 Nov (Houthi claim, not confirmed by Saudi Arabia)",
+    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى عمليات الاعتراض وإنذارات الطوارئ منذ أوائل نوفمبر؛ ووفق بيانات التحالف، سقط في 25 نوفمبر مقذوف أطلقه الحوثيون في ميناء جازان وأحدث أضرارًا طفيفة (دون إصابات بين المدنيين)، وفي 26 نوفمبر هاجم الحوثيون مصفاة جازان (دون ذكر أضرار أو إصابات)؛ ولم يذكر أيٌّ من البيانين أي تأثير على المطار · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر (ادعاء حوثي لم تؤكده السعودية)"
    },
    "refs": [
     4,
@@ -876,7 +876,9 @@
     84,
     102,
     103,
-    104
+    104,
+    111,
+    112
    ]
   },
   {
@@ -1912,16 +1914,16 @@
   {
    "n": 61,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/26 18:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 18:40, 26 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 18:40 يوم 26 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/26 19:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 19:40, 26 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 19:40 يوم 26 نوفمبر)"
    },
    "date": "2026-11-26",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/26 18:40경 en 페이지에서 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed on the en page around 18:40 on 26 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها على صفحة en نحو الساعة 18:40 يوم 26 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/26 18:40경 en 페이지에서 재확인; 11/26 19:40경 확인 때 en 페이지는 옛 10/12 버전을 표시): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed on the en page around 18:40 on 26 Nov; at the check around 19:40 on 26 Nov the en page showed the old 12 Oct version): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها على صفحة en نحو الساعة 18:40 يوم 26 نوفمبر؛ وعند التحقق نحو الساعة 19:40 يوم 26 نوفمبر عرضت صفحة en النسخة القديمة المؤرخة 12 أكتوبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2708,6 +2710,38 @@
     "en": "Published and updated on Wednesday 25 Nov: coalition spokesman Turki al-Maliki said on X that air defenses intercepted and destroyed a Houthi cruise missile launched toward the western region and a drone near Jeddah Islamic Port, with no civilian injuries from debris. The cruise missile's target and any casualties or damage from its interception were not reported. No mention of airports or flights.",
     "ar": "نُشر وحُدّث يوم الأربعاء 25 نوفمبر: أعلن المتحدث باسم التحالف تركي المالكي على منصة X أن الدفاعات الجوية اعترضت ودمّرت صاروخ كروز حوثيًا أُطلق نحو المنطقة الغربية وطائرة مسيّرة قرب ميناء جدة الإسلامي، دون إصابة أي مدني جراء الشظايا. ولم يُذكر هدف صاروخ الكروز ولا أي إصابات أو أضرار ناجمة عن اعتراضه. لا ذكر للمطارات أو الرحلات."
    }
+  },
+  {
+   "n": 111,
+   "name": {
+    "ko": "아랍뉴스 (Arab News, 11/26 18:19)",
+    "en": "Arab News (26 Nov 18:19)",
+    "ar": "عرب نيوز (26 نوفمبر 18:19)"
+   },
+   "date": "2026-11-26",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/26(목) 18:19 게재(18:44 갱신): 연합군은 후티가 사우디 홍해 연안의 지잔 정유시설을 공격했다고 밝힌 직후 예멘 호데이다 항의 후티 미사일 시설을 타격했다고 발표. 정유시설 피해·사상자 언급 없음. 공항·항공편 영향 언급 없음",
+    "en": "Published Thu 26 Nov 18:19 (updated 18:44): the coalition said it struck the Houthi missile site at Yemen's Hodeidah port shortly after saying the Houthis had attacked the Jazan refinery on the Kingdom's Red Sea coast. No mention of refinery damage or casualties. No mention of airport or flight impact",
+    "ar": "نُشر الخميس 26 نوفمبر الساعة 18:19 (حُدّث 18:44): أعلن التحالف أنه استهدف موقع الصواريخ الحوثي في ميناء الحديدة باليمن بعد وقت قصير من إعلانه أن الحوثيين هاجموا مصفاة جازان على ساحل المملكة على البحر الأحمر. لم تُذكر أضرار في المصفاة أو إصابات، ولم يُذكر أي تأثير على المطار أو الرحلات"
+   },
+   "url": "https://www.arabnews.com/saudi-arabia/coalition-strikes-houthi-missile-site-after-attack-on-saudi-arabias-jazan-refinery-3014153"
+  },
+  {
+   "n": 112,
+   "name": {
+    "ko": "로이터 (Reuters, Jerusalem Post 게재, 11/26 18:30)",
+    "en": "Reuters (published by The Jerusalem Post, 26 Nov 18:30)",
+    "ar": "رويترز (نشرتها جيروزاليم بوست، 26 نوفمبر 18:30)"
+   },
+   "date": "2026-11-26",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/26(목) 게재: 사우디 주도 연합군은 후티가 사우디 남서부 지잔의 아람코 지잔 정유시설을 공격했다고 발표. 피해·사상자 언급 없음. 공항·항공편 영향 언급 없음",
+    "en": "Published Thu 26 Nov: the Saudi-led coalition said the Houthis had attacked Saudi Aramco's Jazan refinery in the southwestern city of Jazan. No mention of damage or casualties. No mention of airport or flight impact",
+    "ar": "نُشر الخميس 26 نوفمبر: أعلن التحالف بقيادة السعودية أن الحوثيين هاجموا مصفاة جازان التابعة لأرامكو السعودية في مدينة جازان جنوب غربي المملكة. لم تُذكر أضرار أو إصابات، ولم يُذكر أي تأثير على المطار أو الرحلات"
+   },
+   "url": "https://www.jpost.com/middle-east/article-916252"
   }
  ]
 }

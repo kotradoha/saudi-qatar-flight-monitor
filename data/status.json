@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-26T20:37:00+03:00",
+ "updated_at": "2026-11-26T21:55:00+03:00",
  "window_start": "2026-11-26",
  "pills": [
+  {
+   "text": {
+    "ko": "<b>11/26(목) 지잔 정유시설 피격 — 1명 사망</b>: 공중 발사체가 지잔 정유시설을 타격해 화재(진화)와 일부 운영 일시 중단, 근로자 1명 사망·여러 명 부상 (사우디 에너지부 발표, 후티 공격은 연합군 발표, 공항·항공편 영향 언급 없음)",
+    "en": "<b>26 Nov (Thu) Jazan refinery hit — 1 killed</b>: an aerial projectile struck the Jazan refinery, causing a fire (brought under control) and a temporary halt to some operations; 1 worker killed and several injured (Saudi Ministry of Energy statement; Houthi attack per coalition statement; no mention of airport or flight impact)",
+    "ar": "<b>26 نوفمبر (الخميس) استهداف مصفاة جازان — وفاة شخص واحد</b>: أصاب مقذوف جوي مصفاة جازان وتسبب في حريق (جرت السيطرة عليه) وتوقف مؤقت لبعض العمليات، ووفاة عامل واحد وإصابة عدد من العمال (بيان وزارة الطاقة السعودية، والهجوم الحوثي وفق بيان التحالف، دون ذكر أي تأثير على المطار أو الرحلات)"
+   },
+   "refs": [
+    111,
+    112,
+    113
+   ]
+  },
   {
    "text": {
     "ko": "<b>11/25(수) 지잔 항 피격 — 경미한 피해</b>: 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났고 민간인 사상자는 없음 (연합군 대변인 발표, 발사체 종류 확인 중, 공항·항공편 영향 언급 없음)",
@@ -860,9 +872,9 @@
     "ar": "جازان"
    },
    "note": {
-    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 요격·비상 경보가 잇따르고 있으며, 연합군 발표에 따르면 11/25에는 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났고(민간인 사상자 없음), 11/26에는 후티가 지잔 정유시설을 공격함(피해·사상자 언급 없음). 두 발표 모두 공항 영향 언급 없음 · 후티는 11/2 지잔 공항의 군 수송기를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
-    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · interceptions and emergency alerts have continued since early November; according to coalition statements, on 25 Nov a Houthi projectile fell on Jazan port, causing minor damage (no civilian casualties), and on 26 Nov the Houthis attacked the Jazan refinery (no mention of damage or casualties); neither statement mentions airport impact · the Houthis claimed an attack on a military transport aircraft at Jazan airport on 2 Nov (Houthi claim, not confirmed by Saudi Arabia)",
-    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى عمليات الاعتراض وإنذارات الطوارئ منذ أوائل نوفمبر؛ ووفق بيانات التحالف، سقط في 25 نوفمبر مقذوف أطلقه الحوثيون في ميناء جازان وأحدث أضرارًا طفيفة (دون إصابات بين المدنيين)، وفي 26 نوفمبر هاجم الحوثيون مصفاة جازان (دون ذكر أضرار أو إصابات)؛ ولم يذكر أيٌّ من البيانين أي تأثير على المطار · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر (ادعاء حوثي لم تؤكده السعودية)"
+    "ko": "노선 없음 · 항공 전문지(ch-aviation) 보도: 공항 10/15까지 폐쇄, 이후 운영 여부 확인되지 않음 · 11월 초부터 요격·비상 경보가 잇따르고 있으며, 연합군 발표에 따르면 11/25에는 후티 발사체가 지잔 항에 떨어져 경미한 피해가 났고(민간인 사상자 없음), 11/26에는 지잔 정유시설이 후티 공격을 받았고(연합군 발표), 같은 날 공중 발사체 공격으로 화재가 나 일부 운영이 일시 중단되고 근로자 1명이 숨지고 여러 명이 다침(사우디 에너지부 발표). 공항 영향 언급 없음 · 후티는 11/2 지잔 공항의 군 수송기를 공격했다고 주장(후티 측 주장, 사우디 확인 안 됨)",
+    "en": "No route · aviation trade press (ch-aviation) report: airport closed until 15 Oct; whether it has operated since is unconfirmed · interceptions and emergency alerts have continued since early November; according to coalition statements, on 25 Nov a Houthi projectile fell on Jazan port, causing minor damage (no civilian casualties), and on 26 Nov the Jazan refinery was attacked by the Houthis (coalition statement), and the same day an aerial projectile strike caused a fire and a temporary halt to some operations, killing 1 worker and injuring several (Saudi Ministry of Energy statement); no mention of airport impact · the Houthis claimed an attack on a military transport aircraft at Jazan airport on 2 Nov (Houthi claim, not confirmed by Saudi Arabia)",
+    "ar": "لا يوجد خط · تقرير مجلة متخصصة في الطيران (ch-aviation): المطار مغلق حتى 15 أكتوبر، ولم يتأكّد تشغيله بعد ذلك · تتوالى عمليات الاعتراض وإنذارات الطوارئ منذ أوائل نوفمبر؛ ووفق بيانات التحالف، سقط في 25 نوفمبر مقذوف أطلقه الحوثيون في ميناء جازان وأحدث أضرارًا طفيفة (دون إصابات بين المدنيين)، وفي 26 نوفمبر تعرّضت مصفاة جازان لهجوم حوثي (بيان التحالف)، وفي اليوم نفسه أسفر هجوم بمقذوف جوي عن حريق وتوقف مؤقت لبعض العمليات ووفاة عامل واحد وإصابة عدد من العمال (بيان وزارة الطاقة السعودية)؛ دون ذكر أي تأثير على المطار · ادّعى الحوثيون مهاجمة طائرة نقل عسكرية في مطار جازان في 2 نوفمبر (ادعاء حوثي لم تؤكده السعودية)"
    },
    "refs": [
     4,
@@ -878,7 +890,8 @@
     103,
     104,
     111,
-    112
+    112,
+    113
    ]
   },
   {
@@ -2730,18 +2743,34 @@
   {
    "n": 112,
    "name": {
-    "ko": "로이터 (Reuters, Jerusalem Post 게재, 11/26 18:30)",
-    "en": "Reuters (published by The Jerusalem Post, 26 Nov 18:30)",
-    "ar": "رويترز (نشرتها جيروزاليم بوست، 26 نوفمبر 18:30)"
+    "ko": "로이터 (Reuters, Devdiscourse 게재, 11/26 23:38 IST)",
+    "en": "Reuters (via Devdiscourse, 26 Nov 23:38 IST)",
+    "ar": "رويترز (عبر Devdiscourse، 26 نوفمبر 23:38 بتوقيت الهند)"
    },
    "date": "2026-11-26",
    "kind": "언론 보도",
    "what": {
-    "ko": "11/26(목) 게재: 사우디 주도 연합군은 후티가 사우디 남서부 지잔의 아람코 지잔 정유시설을 공격했다고 발표. 피해·사상자 언급 없음. 공항·항공편 영향 언급 없음",
-    "en": "Published Thu 26 Nov: the Saudi-led coalition said the Houthis had attacked Saudi Aramco's Jazan refinery in the southwestern city of Jazan. No mention of damage or casualties. No mention of airport or flight impact",
-    "ar": "نُشر الخميس 26 نوفمبر: أعلن التحالف بقيادة السعودية أن الحوثيين هاجموا مصفاة جازان التابعة لأرامكو السعودية في مدينة جازان جنوب غربي المملكة. لم تُذكر أضرار أو إصابات، ولم يُذكر أي تأثير على المطار أو الرحلات"
+    "ko": "11/26(목) 게재: 사우디 국영통신(SPA)이 전한 에너지부 관계자 성명에 따르면 적대적 공중 발사체가 지잔 정유시설을 타격해 화재가 났다가 진화됐고, 일부 시설 운영이 일시 중단됐으며, 네팔 국적 근로자 1명이 숨지고 여러 국적의 여러 명이 다침(부상자 수 미발표). 공항·항공편 언급 없음",
+    "en": "Published Thu 26 Nov: according to an Energy Ministry official's statement carried by the Saudi Press Agency (SPA), a hostile aerial projectile struck the Jazan refinery, causing a fire that was later brought under control; some operations were temporarily halted; a Nepalese worker was killed and several people of different nationalities were injured (number of injured not given). No mention of airport or flights",
+    "ar": "نُشر الخميس 26 نوفمبر: وفق بيان لمصدر مسؤول في وزارة الطاقة نقلته وكالة الأنباء السعودية (واس)، أصاب مقذوف جوي معادٍ مصفاة جازان وتسبب في حريق جرت السيطرة عليه لاحقًا، وتوقفت بعض العمليات مؤقتًا، ولقي عامل من الجنسية النيبالية حتفه وأصيب عدد من الأشخاص من جنسيات مختلفة (دون ذكر عدد المصابين). لم يُذكر المطار أو الرحلات"
    },
-   "url": "https://www.jpost.com/middle-east/article-916252"
+   "url": "https://www.devdiscourse.com/article/international/4012829-saudi-arabia-says-operations-at-refinery-in-jazan-halted-after-attack"
+  },
+  {
+   "n": 113,
+   "name": {
+    "ko": "디스이즈베이루트 (This Is Beirut, 11/26 20:26 리야드 시각)",
+    "en": "This Is Beirut (26 Nov 20:26 Riyadh time)",
+    "ar": "This Is Beirut (26 نوفمبر 20:26 بتوقيت الرياض)"
+   },
+   "date": "2026-11-26",
+   "kind": "언론 보도",
+   "what": {
+    "ko": "11/26(목) 게재: 사우디 에너지부는 지잔 정유시설이 공격을 받아 화재가 났으나 진압됐고 일부 운영이 일시 중단됐으며, 초기 정보로 네팔 국적 근로자 1명이 숨지고 여러 국적의 근로자 여러 명이 다쳤다고 발표. 피해 평가·안전 점검 진행 중. 공항·항공편 언급 없음",
+    "en": "Published Thu 26 Nov: the Saudi Ministry of Energy said the Jazan refinery was attacked, causing a fire that was dealt with and a temporary halt to some operations; preliminary information indicated one Nepali worker was killed and several workers of various nationalities were injured. Damage assessment and safety inspections under way. No mention of airport or flights",
+    "ar": "نُشر الخميس 26 نوفمبر: أعلنت وزارة الطاقة السعودية تعرّض مصفاة جازان لهجوم أسفر عن حريق جرى التعامل معه وتوقف مؤقت لبعض العمليات، وأفادت المعلومات الأولية بوفاة عامل من الجنسية النيبالية وإصابة عدد من العمال من جنسيات مختلفة. تقييم الأضرار وفحوص السلامة جارية. لم يُذكر المطار أو الرحلات"
+   },
+   "url": "https://thisisbeirut.com.lb/news/politics/saudi-ministry-of-energy-attack-on-jazan-refinery-has-left-1-worker-dead-others-injured"
   }
  ]
 }

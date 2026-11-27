@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T06:40:00+03:00",
+ "updated_at": "2026-11-27T07:50:00+03:00",
  "window_start": "2026-11-27",
  "pills": [
   {
@@ -9,9 +9,9 @@
     "ar": "<b>26 نوفمبر (الخميس) استهداف مصفاة جازان — وفاة شخص واحد</b>: أصاب مقذوف جوي مصفاة جازان وتسبب في حريق (جرت السيطرة عليه) وتوقف مؤقت لبعض العمليات، ووفاة عامل واحد وإصابة عدد من العمال (بيان وزارة الطاقة السعودية، والهجوم الحوثي وفق بيان التحالف، دون ذكر أي تأثير على المطار أو الرحلات)"
    },
    "refs": [
+    106,
     107,
-    108,
-    109
+    108
    ]
   },
   {
@@ -21,9 +21,9 @@
     "ar": "<b>25 نوفمبر (الأربعاء) إصابة ميناء جازان — أضرار طفيفة</b>: سقط مقذوف أطلقه الحوثيون في ميناء جازان وأحدث أضرارًا طفيفة دون إصابات بين المدنيين (بيان المتحدث باسم التحالف، والعمل جارٍ لتحديد نوع المقذوف، دون ذكر أي تأثير على المطار أو الرحلات)"
    },
    "refs": [
+    97,
     98,
-    99,
-    100
+    99
    ]
   },
   {
@@ -87,11 +87,11 @@
     83,
     85,
     86,
+    88,
     89,
     90,
-    91,
-    104,
-    105
+    103,
+    104
    ]
   },
   {
@@ -116,13 +116,13 @@
     58,
     61,
     77,
-    92,
+    91,
+    95,
     96,
-    97,
+    100,
     101,
     102,
-    103,
-    106
+    105
    ]
   },
   {
@@ -147,10 +147,10 @@
     76,
     77,
     78,
+    92,
     93,
     94,
-    95,
-    104
+    103
    ]
   },
   {
@@ -205,13 +205,13 @@
     44,
     57,
     61,
-    92,
+    91,
+    95,
     96,
-    97,
+    100,
     101,
     102,
-    103,
-    106
+    105
    ]
   },
   {
@@ -251,7 +251,7 @@
     56,
     58,
     61,
-    106
+    105
    ]
   },
   {
@@ -300,10 +300,10 @@
     76,
     77,
     78,
+    92,
     93,
     94,
-    95,
-    104
+    103
    ]
   },
   {
@@ -430,11 +430,11 @@
     83,
     85,
     86,
+    88,
     89,
     90,
-    91,
-    104,
-    105
+    103,
+    104
    ]
   },
   {
@@ -461,14 +461,14 @@
     "ar": "معلّق حاليًا (دون إعلان موعد للاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공지에 아브하 출도착편 일시 중단 명시(재개일 미발표). 남부 지역을 향한 요격·경보가 이어지고 있음(최근 11/24 남부 지역을 향한 드론 1기 요격, 연합군 발표, 피해 언급 없음).",
-    "en": "Qatar Airways’ notice states that flights to and from Abha are temporarily suspended (no resumption date announced). Interceptions and alerts concerning the Southern Region continue (most recently on 24 Nov a drone heading for the Southern Region was intercepted, according to the coalition; no damage mentioned).",
-    "ar": "ينصّ إشعار الخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (دون إعلان موعد للاستئناف). وتتواصل عمليات الاعتراض والإنذارات المتعلقة بالمنطقة الجنوبية (آخرها في 24 نوفمبر اعتراض طائرة مسيّرة متجهة إلى المنطقة الجنوبية وفق التحالف، دون ذكر أضرار)."
+    "ko": "카타르항공 공지에 아브하 출도착편 일시 중단 명시(재개일 미발표). 남부 지역을 향한 요격·경보가 이어지고 있음(최근 11/27 연합군이 남부 지역을 향한 드론 1기 요격을 발표, 피해 언급 없음).",
+    "en": "Qatar Airways’ notice states that flights to and from Abha are temporarily suspended (no resumption date announced). Interceptions and alerts concerning the Southern Region continue (most recently, on 27 Nov the coalition announced it had intercepted a drone heading for the Southern Region; no damage mentioned).",
+    "ar": "ينصّ إشعار الخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (دون إعلان موعد للاستئناف). وتتواصل عمليات الاعتراض والإنذارات المتعلقة بالمنطقة الجنوبية (آخرها إعلان التحالف في 27 نوفمبر اعتراض طائرة مسيّرة متجهة إلى المنطقة الجنوبية، دون ذكر أضرار)."
    },
    "refs": [
     61,
     84,
-    88
+    109
    ]
   }
  ],
@@ -877,12 +877,12 @@
     81,
     82,
     84,
+    97,
     98,
     99,
-    100,
+    106,
     107,
-    108,
-    109
+    108
    ]
   },
   {
@@ -1918,16 +1918,16 @@
   {
    "n": 61,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/27 06:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 06:40, 27 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 06:40 يوم 27 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/27 07:50경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 07:50, 27 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 07:50 يوم 27 نوفمبر)"
    },
    "date": "2026-11-27",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/27 06:40경 en 페이지에서 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed on the en page around 06:40 on 27 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها على صفحة en نحو الساعة 06:40 يوم 27 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/27 07:50경 en 페이지에서 재확인): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음.",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, reconfirmed on the en page around 07:50 on 27 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version.",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها على صفحة en نحو الساعة 07:50 يوم 27 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2349,22 +2349,6 @@
   },
   {
    "n": 88,
-   "date": "2026-11-24",
-   "kind": "언론 보도",
-   "url": "https://www.anews.com.tr/middle-east/2026/11/24/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia",
-   "name": {
-    "ko": "에이뉴스 (A News, 아나돌루통신 기사, 11/24 06:53)",
-    "en": "A News (Anadolu Agency report, 24 Nov 06:53)",
-    "ar": "إيه نيوز (تقرير وكالة الأناضول، 24 نوفمبر 06:53)"
-   },
-   "what": {
-    "ko": "11/24(화) 새벽: 연합군 대변인 투르키 알말리키가 X 성명에서 후티가 남부 지역을 향해 발사한 드론 1기를 요격·파괴했다고 발표. 위치·피해·사상자 언급 없음",
-    "en": "Early on 24 Nov (Tue): coalition spokesman Turki al-Maliki said in a statement on X that a drone launched by the Houthis towards the Southern Region was intercepted and destroyed. No location, damage or casualties mentioned",
-    "ar": "فجر 24 نوفمبر (الثلاثاء): أعلن المتحدث باسم التحالف تركي المالكي في بيان على منصة X اعتراض وتدمير طائرة مسيّرة أطلقها الحوثيون باتجاه المنطقة الجنوبية. دون ذكر الموقع أو أضرار أو إصابات"
-   }
-  },
-  {
-   "n": 89,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/24 18:08)",
     "en": "Arab News (24 Nov, 18:08)",
@@ -2380,7 +2364,7 @@
    "url": "https://www.arabnews.pk/saudi-arabia/coalition-says-tower-in-riyadhs-financial-district-subjected-to-terrorist-attack-3007921"
   },
   {
-   "n": 90,
+   "n": 89,
    "kind": "언론 보도",
    "date": "2026-11-24",
    "url": "https://www.arabnews.com/saudi-arabia/11-injured-after-houthi-attack-on-tower-in-riyadhs-financial-district-3013857",
@@ -2396,7 +2380,7 @@
    }
   },
   {
-   "n": 91,
+   "n": 90,
    "kind": "언론 보도",
    "date": "2026-11-24",
    "url": "https://gulfnews.com/world/gulf/saudi/saudi-civil-defence-says-11-injured-in-houthi-attack-on-financial-district-1.500759629",
@@ -2412,7 +2396,7 @@
    }
   },
   {
-   "n": 92,
+   "n": 91,
    "date": "2026-11-26",
    "kind": "항공편 추적",
    "url": "https://aviability.com/en/flight/qr1185-qatar-airways",
@@ -2428,7 +2412,7 @@
    }
   },
   {
-   "n": 93,
+   "n": 92,
    "name": {
     "ko": "미들이스트아이 (Middle East Eye, 11/25 03:06 GMT)",
     "en": "Middle East Eye (25 Nov, 03:06 GMT)",
@@ -2444,7 +2428,7 @@
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-downed-four-drones-over-kingdoms-eastern"
   },
   {
-   "n": 94,
+   "n": 93,
    "name": {
     "ko": "Gulf News (실시간 기사, 11/25 09:41 갱신, 시간대 미표시)",
     "en": "Gulf News (live report, updated 09:41, 25 Nov, time zone not shown)",
@@ -2460,7 +2444,7 @@
    "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-iran-war-funded-through-january-amid-saudi-yemen-escalation-1.500759977"
   },
   {
-   "n": 95,
+   "n": 94,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://theprint.in/world/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery/3108644/",
@@ -2476,7 +2460,7 @@
    }
   },
   {
-   "n": 96,
+   "n": 95,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://www.yahoo.com/news/world/articles/yemens-houthis-threaten-target-jeddah-024339735.html",
@@ -2492,7 +2476,7 @@
    }
   },
   {
-   "n": 97,
+   "n": 96,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike",
@@ -2508,7 +2492,7 @@
    }
   },
   {
-   "n": 98,
+   "n": 97,
    "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/25)",
     "en": "Anadolu Agency (25 Nov)",
@@ -2524,7 +2508,7 @@
    "url": "https://www.aa.com.tr/en/middle-east/houthi-projectile-hits-saudi-arabias-jazan-port-causes-minor-damage-coalition/4137807"
   },
   {
-   "n": 99,
+   "n": 98,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/25 16:56 UTC 게재)",
     "en": "Arab News (published 16:56 UTC, 25 Nov)",
@@ -2540,7 +2524,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/houthi-projectile-hits-saudi-arabias-jazan-port-coalition-says-3014031"
   },
   {
-   "n": 100,
+   "n": 99,
    "name": {
     "ko": "타임스오브이스라엘 (Times of Israel, AFP 기사, 11/25)",
     "en": "Times of Israel (AFP report, 25 Nov)",
@@ -2556,7 +2540,7 @@
    "url": "https://www.timesofisrael.com/liveblog_entry/saudi-led-coalition-says-houthi-projectile-hit-jazan-port-no-injuries-reported"
   },
   {
-   "n": 101,
+   "n": 100,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepts-houthi-drone-near-jeddah-islamic",
@@ -2572,7 +2556,7 @@
    }
   },
   {
-   "n": 102,
+   "n": 101,
    "date": "2026-11-25",
    "kind": "언론 보도",
    "url": "https://www.devdiscourse.com/article/international/4012247-saudi-led-coalition-says-it-intercepts-houthi-drone-near-jeddah-islamic-port",
@@ -2588,7 +2572,7 @@
    }
   },
   {
-   "n": 103,
+   "n": 102,
    "date": "2026-11-26",
    "kind": "언론 보도",
    "url": "https://sabq.org/en/article/coalition-intercepts-and-destroys-houthi-drone-near-jeddah-islamic-port",
@@ -2604,7 +2588,7 @@
    }
   },
   {
-   "n": 104,
+   "n": 103,
    "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/26)",
     "en": "Anadolu Agency (26 Nov)",
@@ -2620,7 +2604,7 @@
    }
   },
   {
-   "n": 105,
+   "n": 104,
    "name": {
     "ko": "알자지라 (Al Jazeera, 11/25 23:33 게재, 시간대 미표시)",
     "en": "Al Jazeera (published 25 Nov 23:33, time zone not stated)",
@@ -2636,7 +2620,7 @@
    }
   },
   {
-   "n": 106,
+   "n": 105,
    "name": {
     "ko": "아나돌루통신 (Anadolu Agency, 11/25)",
     "en": "Anadolu Agency (25 Nov)",
@@ -2652,7 +2636,7 @@
    }
   },
   {
-   "n": 107,
+   "n": 106,
    "name": {
     "ko": "아랍뉴스 (Arab News, 11/26 18:19)",
     "en": "Arab News (26 Nov 18:19)",
@@ -2668,7 +2652,7 @@
    "url": "https://www.arabnews.com/saudi-arabia/coalition-strikes-houthi-missile-site-after-attack-on-saudi-arabias-jazan-refinery-3014153"
   },
   {
-   "n": 108,
+   "n": 107,
    "name": {
     "ko": "로이터 (Reuters, Devdiscourse 게재, 11/26 23:38 IST)",
     "en": "Reuters (via Devdiscourse, 26 Nov 23:38 IST)",
@@ -2684,7 +2668,7 @@
    "url": "https://www.devdiscourse.com/article/international/4012829-saudi-arabia-says-operations-at-refinery-in-jazan-halted-after-attack"
   },
   {
-   "n": 109,
+   "n": 108,
    "name": {
     "ko": "디스이즈베이루트 (This Is Beirut, 11/26 20:26 리야드 시각)",
     "en": "This Is Beirut (26 Nov 20:26 Riyadh time)",
@@ -2698,6 +2682,22 @@
     "ar": "نُشر الخميس 26 نوفمبر: أعلنت وزارة الطاقة السعودية تعرّض مصفاة جازان لهجوم أسفر عن حريق جرى التعامل معه وتوقف مؤقت لبعض العمليات، وأفادت المعلومات الأولية بوفاة عامل من الجنسية النيبالية وإصابة عدد من العمال من جنسيات مختلفة. تقييم الأضرار وفحوص السلامة جارية. لم يُذكر المطار أو الرحلات"
    },
    "url": "https://thisisbeirut.com.lb/news/politics/saudi-ministry-of-energy-attack-on-jazan-refinery-has-left-1-worker-dead-others-injured"
+  },
+  {
+   "n": 109,
+   "date": "2026-11-27",
+   "kind": "언론 보도",
+   "url": "https://sabq.org/en/article/coalition-drone-launched-by-terrorist-houthi-militia-toward-southern-region",
+   "name": {
+    "ko": "사브크 (Sabq, 11/27 02:05 리야드 시각)",
+    "en": "Sabq (27 Nov 02:05 Riyadh time)",
+    "ar": "سبق (27 نوفمبر 02:05 بتوقيت الرياض)"
+   },
+   "what": {
+    "ko": "11/27 02:05(리야드 시각) 게재: 연합군 대변인 투르키 알말리키가 후티가 남부 지역을 향해 발사한 드론 1기를 요격·파괴했다고 발표. 도시·피해·사상자·공항 언급 없음",
+    "en": "Published 27 Nov 02:05 (Riyadh time): coalition spokesman Turki Al-Maliki announced that a drone launched by the Houthis toward the Southern Region was intercepted and destroyed. No city, damage, casualties or airport mentioned",
+    "ar": "نُشر في 27 نوفمبر الساعة 02:05 (بتوقيت الرياض): أعلن المتحدث باسم التحالف تركي المالكي اعتراض وتدمير طائرة مسيّرة أطلقها الحوثيون باتجاه المنطقة الجنوبية. لم تُذكر مدينة أو أضرار أو إصابات أو مطار"
+   }
   }
  ]
 }

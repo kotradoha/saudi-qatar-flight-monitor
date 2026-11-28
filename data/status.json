@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T03:50:00+03:00",
+ "updated_at": "2026-11-28T04:40:00+03:00",
  "window_start": "2026-11-28",
  "pills": [
   {
@@ -1904,16 +1904,16 @@
   {
    "n": 61,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/28 03:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 03:40, 28 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 03:40 يوم 28 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/28 04:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 04:40, 28 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 04:40 يوم 28 نوفمبر)"
    },
    "date": "2026-11-28",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/27~11/28 en 페이지에서 거듭 재확인, 최근 11/28 03:40경): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음. 11/27 17:40경·18:40경·19:40경 en 페이지 재확인 때는 옛 10/12 16:54 버전(아브하·담맘·리야드 일시 중단)이 표시됨(더 새 버전이 있어 옛 버전으로 판단).",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed on the en page on 27–28 Nov, most recently around 03:40 on 28 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version. When the en page was rechecked around 17:40, 18:40 and 19:40 on 27 Nov, the older 12 Oct 16:54 version (Abha, Dammam and Riyadh temporarily suspended) was displayed (judged to be the older version because a newer one exists).",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا على صفحة en يومي 27 و28 نوفمبر، وآخرها نحو الساعة 03:40 يوم 28 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ. وعند إعادة التحقق من صفحة en نحو الساعة 17:40 والساعة 18:40 والساعة 19:40 يوم 27 نوفمبر، ظهرت النسخة الأقدم بتاريخ 12 أكتوبر 16:54 (تعليق مؤقت لرحلات أبها والدمام والرياض) (اعتُبرت نسخة قديمة لوجود نسخة أحدث)."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/27~11/28 en 페이지에서 거듭 재확인, 최근 11/28 04:40경): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음. 11/27 17:40경·18:40경·19:40경 en 페이지 재확인 때는 옛 10/12 16:54 버전(아브하·담맘·리야드 일시 중단)이 표시됨(더 새 버전이 있어 옛 버전으로 판단).",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed on the en page on 27–28 Nov, most recently around 04:40 on 28 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version. When the en page was rechecked around 17:40, 18:40 and 19:40 on 27 Nov, the older 12 Oct 16:54 version (Abha, Dammam and Riyadh temporarily suspended) was displayed (judged to be the older version because a newer one exists).",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا على صفحة en يومي 27 و28 نوفمبر، وآخرها نحو الساعة 04:40 يوم 28 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ. وعند إعادة التحقق من صفحة en نحو الساعة 17:40 والساعة 18:40 والساعة 19:40 يوم 27 نوفمبر، ظهرت النسخة الأقدم بتاريخ 12 أكتوبر 16:54 (تعليق مؤقت لرحلات أبها والدمام والرياض) (اعتُبرت نسخة قديمة لوجود نسخة أحدث)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },

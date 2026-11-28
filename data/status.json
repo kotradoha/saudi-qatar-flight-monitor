@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-28T12:50:00+03:00",
+ "updated_at": "2026-11-28T13:38:00+03:00",
  "window_start": "2026-11-28",
  "pills": [
   {
@@ -78,8 +78,8 @@
     88,
     89,
     90,
-    109,
-    110
+    108,
+    109
    ]
   },
   {
@@ -421,8 +421,8 @@
     88,
     89,
     90,
-    109,
-    110
+    108,
+    109
    ]
   },
   {
@@ -449,14 +449,14 @@
     "ar": "معلّق حاليًا (دون إعلان موعد للاستئناف)"
    },
    "note": {
-    "ko": "카타르항공 공지에 아브하 출도착편 일시 중단 명시(재개일 미발표). 남부 지역을 향한 요격·경보가 이어지고 있음(최근 11/27 연합군이 남부 지역을 향한 드론 1기 요격을 발표, 피해 언급 없음).",
-    "en": "Qatar Airways’ notice states that flights to and from Abha are temporarily suspended (no resumption date announced). Interceptions and alerts concerning the Southern Region continue (most recently, on 27 Nov the coalition announced it had intercepted a drone heading for the Southern Region; no damage mentioned).",
-    "ar": "ينصّ إشعار الخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (دون إعلان موعد للاستئناف). وتتواصل عمليات الاعتراض والإنذارات المتعلقة بالمنطقة الجنوبية (آخرها إعلان التحالف في 27 نوفمبر اعتراض طائرة مسيّرة متجهة إلى المنطقة الجنوبية، دون ذكر أضرار)."
+    "ko": "카타르항공 공지에 아브하 출도착편 일시 중단 명시(재개일 미발표). 남부 지역을 향한 요격·경보가 이어지고 있음(최근 11/28 연합군이 남부 지역을 향한 탄도미사일 1발 요격을 발표, 피해 언급 없음).",
+    "en": "Qatar Airways’ notice states that flights to and from Abha are temporarily suspended (no resumption date announced). Interceptions and alerts concerning the Southern Region continue (most recently, on 28 Nov the coalition announced it had intercepted a ballistic missile targeting the Southern Region; no damage mentioned).",
+    "ar": "ينصّ إشعار الخطوط الجوية القطرية على تعليق الرحلات من أبها وإليها مؤقتًا (دون إعلان موعد للاستئناف). وتتواصل عمليات الاعتراض والإنذارات المتعلقة بالمنطقة الجنوبية (آخرها إعلان التحالف في 28 نوفمبر اعتراض صاروخ باليستي استهدف المنطقة الجنوبية، دون ذكر أضرار)."
    },
    "refs": [
     61,
     84,
-    108
+    110
    ]
   }
  ],
@@ -1906,16 +1906,16 @@
   {
    "n": 61,
    "name": {
-    "ko": "카타르항공 Travel Alerts (11/28 12:40경 확인)",
-    "en": "Qatar Airways Travel Alerts (checked around 12:40, 28 Nov)",
-    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 12:40 يوم 28 نوفمبر)"
+    "ko": "카타르항공 Travel Alerts (11/28 13:40경 확인)",
+    "en": "Qatar Airways Travel Alerts (checked around 13:40, 28 Nov)",
+    "ar": "تنبيهات السفر من الخطوط الجوية القطرية (تم التحقق نحو الساعة 13:40 يوم 28 نوفمبر)"
    },
    "date": "2026-11-28",
    "kind": "항공사 공지",
    "what": {
-    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/27~11/28 en 페이지에서 거듭 재확인, 최근 11/28 12:40경): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음. 11/27 17:40경·18:40경·19:40경 en 페이지 재확인 때는 옛 10/12 16:54 버전(아브하·담맘·리야드 일시 중단)이 표시됨(더 새 버전이 있어 옛 버전으로 판단).",
-    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed on the en page on 27–28 Nov, most recently around 12:40 on 28 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version. When the en page was rechecked around 17:40, 18:40 and 19:40 on 27 Nov, the older 12 Oct 16:54 version (Abha, Dammam and Riyadh temporarily suspended) was displayed (judged to be the older version because a newer one exists).",
-    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا على صفحة en يومي 27 و28 نوفمبر، وآخرها نحو الساعة 12:40 يوم 28 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ. وعند إعادة التحقق من صفحة en نحو الساعة 17:40 والساعة 18:40 والساعة 19:40 يوم 27 نوفمبر، ظهرت النسخة الأقدم بتاريخ 12 أكتوبر 16:54 (تعليق مؤقت لرحلات أبها والدمام والرياض) (اعتُبرت نسخة قديمة لوجود نسخة أحدث)."
+    "ko": "최신 버전(최종 갱신 ‘11/15 16:54(도하)’, 11/27~11/28 en 페이지에서 거듭 재확인, 최근 11/28 13:40경): 사우디 노선 가운데 아브하(AHB)·타이프(TIF) 출도착편만 ‘일시 중단 유지’라고 명시(재개일 미기재), 리야드·담맘 등 다른 도시 중단 언급 없음. 직전 11/11 16:54 버전은 11/13부터 리야드(RUH), 11/14부터 담맘(DMM) 매일 운항 재개와 아브하·타이프 일시 중단 유지를 명시. 11/13 이후 일부 페이지에는 더 오래된 10/12 16:54 버전(리야드·담맘·아브하 일시 중단)이 번갈아 표시됨(더 새 버전이 있어 옛 버전으로 판단). 제다·메디나·얀부·타북·카심·하일·알울라는 어느 버전에도 언급 없음. 11/27 17:40경·18:40경·19:40경 en 페이지 재확인 때는 옛 10/12 16:54 버전(아브하·담맘·리야드 일시 중단)이 표시됨(더 새 버전이 있어 옛 버전으로 판단).",
+    "en": "Latest version (last updated ‘15 Nov 16:54 (Doha)’, repeatedly reconfirmed on the en page on 27–28 Nov, most recently around 13:40 on 28 Nov): among Saudi routes, it states only that flights to and from Abha (AHB) and Taif (TIF) ‘remain temporarily suspended’ (no resumption date given); no suspension of Riyadh, Dammam or other cities is mentioned. The previous version of 11 Nov 16:54 stated that daily flights would resume to Riyadh (RUH) from 13 Nov and to Dammam (DMM) from 14 Nov, and that Abha and Taif would remain temporarily suspended. Since 13 Nov, some pages have alternately shown an older version of 12 Oct 16:54 (Riyadh, Dammam and Abha temporarily suspended), judged outdated because a newer version exists. Jeddah, Madinah, Yanbu, Tabuk, Qassim, Hail and AlUla are not mentioned in any version. When the en page was rechecked around 17:40, 18:40 and 19:40 on 27 Nov, the older 12 Oct 16:54 version (Abha, Dammam and Riyadh temporarily suspended) was displayed (judged to be the older version because a newer one exists).",
+    "ar": "أحدث نسخة (آخر تحديث «15 نوفمبر 16:54 (بتوقيت الدوحة)»، وأُعيد التحقق منها مرارًا على صفحة en يومي 27 و28 نوفمبر، وآخرها نحو الساعة 13:40 يوم 28 نوفمبر): من بين الخطوط السعودية، لا تنص إلا على «استمرار التعليق المؤقت» للرحلات من أبها (AHB) والطائف (TIF) وإليهما (دون تحديد موعد للاستئناف)، ولا تذكر تعليق رحلات الرياض أو الدمام أو مدن أخرى. وكانت النسخة السابقة (11 نوفمبر 16:54) تنص على استئناف الرحلات اليومية إلى الرياض (RUH) اعتبارًا من 13 نوفمبر وإلى الدمام (DMM) اعتبارًا من 14 نوفمبر، واستمرار التعليق المؤقت لرحلات أبها والطائف. ومنذ 13 نوفمبر تعرض بعض الصفحات بالتناوب نسخة أقدم (12 أكتوبر 16:54، مع تعليق مؤقت للرياض والدمام وأبها)، وقد اعتُبرت قديمة لوجود نسخة أحدث. ولا تُذكر جدة والمدينة المنورة وينبع وتبوك والقصيم وحائل والعُلا في أي من النسخ. وعند إعادة التحقق من صفحة en نحو الساعة 17:40 والساعة 18:40 والساعة 19:40 يوم 27 نوفمبر، ظهرت النسخة الأقدم بتاريخ 12 أكتوبر 16:54 (تعليق مؤقت لرحلات أبها والدمام والرياض) (اعتُبرت نسخة قديمة لوجود نسخة أحدث)."
    },
    "url": "https://www.qatarairways.com/en/travel-alerts.html"
   },
@@ -2657,22 +2657,6 @@
   },
   {
    "n": 108,
-   "date": "2026-11-27",
-   "kind": "언론 보도",
-   "url": "https://sabq.org/en/article/coalition-drone-launched-by-terrorist-houthi-militia-toward-southern-region",
-   "name": {
-    "ko": "사브크 (Sabq, 11/27 02:05 리야드 시각)",
-    "en": "Sabq (27 Nov 02:05 Riyadh time)",
-    "ar": "سبق (27 نوفمبر 02:05 بتوقيت الرياض)"
-   },
-   "what": {
-    "ko": "11/27 02:05(리야드 시각) 게재: 연합군 대변인 투르키 알말리키가 후티가 남부 지역을 향해 발사한 드론 1기를 요격·파괴했다고 발표. 도시·피해·사상자·공항 언급 없음",
-    "en": "Published 27 Nov 02:05 (Riyadh time): coalition spokesman Turki Al-Maliki announced that a drone launched by the Houthis toward the Southern Region was intercepted and destroyed. No city, damage, casualties or airport mentioned",
-    "ar": "نُشر في 27 نوفمبر الساعة 02:05 (بتوقيت الرياض): أعلن المتحدث باسم التحالف تركي المالكي اعتراض وتدمير طائرة مسيّرة أطلقها الحوثيون باتجاه المنطقة الجنوبية. لم تُذكر مدينة أو أضرار أو إصابات أو مطار"
-   }
-  },
-  {
-   "n": 109,
    "date": "2026-11-28",
    "kind": "언론 보도",
    "url": "https://english.aawsat.com/gulf/5346502-coalition-destroys-cruise-missile-fired-riyadh",
@@ -2688,7 +2672,7 @@
    }
   },
   {
-   "n": 110,
+   "n": 109,
    "date": "2026-11-28",
    "kind": "언론 보도",
    "url": "https://www.jpost.com/middle-east/article-916363",
@@ -2701,6 +2685,22 @@
     "ko": "11/28 게재(로이터): 연합군은 후티가 리야드를 향해 발사한 순항미사일을 요격했다고 발표. 앞서 사우디 민방위청이 알카르즈 지역·동부주에 위험 경보를 냈다가 해제. 피해·공항 영향 언급 없음",
     "en": "Published 28 Nov (Reuters): the coalition said a cruise missile fired by the Houthis toward Riyadh was intercepted. Saudi Civil Defense had earlier issued danger warnings for the Al Kharj area and the Eastern Province, later lifted. No damage or airport impact mentioned",
     "ar": "نُشر في 28 نوفمبر (رويترز): أعلن التحالف اعتراض صاروخ جوال أطلقه الحوثيون نحو الرياض. وكان الدفاع المدني السعودي قد أصدر في وقت سابق تحذيرات من الخطر في منطقة الخرج والمنطقة الشرقية ثم رفعها. دون ذكر أضرار أو تأثير على المطار"
+   }
+  },
+  {
+   "n": 110,
+   "date": "2026-11-28",
+   "kind": "언론 보도",
+   "url": "https://www.arabnews.com/saudi-arabia/air-defenses-intercept-houthi-ballistic-missile-targeting-saudi-arabias-southern-region-3014357",
+   "name": {
+    "ko": "아랍뉴스 (Arab News, 11/28 12:43 게재)",
+    "en": "Arab News (published 28 Nov 12:43)",
+    "ar": "عرب نيوز (نُشر في 28 نوفمبر الساعة 12:43)"
+   },
+   "what": {
+    "ko": "11/28(토) 12:43 게재·13:01 갱신(사이트 표시 시각): 연합군 대변인 투르키 알말리키 소장이 SNS에서 방공망이 토요일 사우디 남부 지역을 겨냥한 후티 탄도미사일 1발을 요격·파괴했다고 발표. 사우디 민방위청은 앞서 카미스무샤이트·지잔주에 위험 경보를 냈다가 곧 해제. 이번 요격에 따른 피해·사상자·공항 언급 없음",
+    "en": "Published 28 Nov (Sat) 12:43, updated 13:01 (site time): coalition spokesman Maj. Gen. Turki Al-Maliki said on social media that air defences on Saturday intercepted and destroyed a Houthi ballistic missile targeting Saudi Arabia’s Southern Region. Saudi Civil Defense had earlier issued danger alerts for Khamis Mushait and Jazan Province, lifting them shortly afterwards. No damage, casualties or airport mentioned for this interception",
+    "ar": "نُشر يوم السبت 28 نوفمبر الساعة 12:43 وحُدّث الساعة 13:01 (بتوقيت الموقع): أعلن المتحدث باسم التحالف اللواء تركي المالكي عبر وسائل التواصل الاجتماعي أن الدفاعات الجوية اعترضت ودمّرت يوم السبت صاروخًا باليستيًا حوثيًا استهدف المنطقة الجنوبية في السعودية. وكان الدفاع المدني السعودي قد أصدر في وقت سابق إنذارات بالخطر في محافظة خميس مشيط ومنطقة جازان ثم رفعها بعد قليل. ولم تُذكر أضرار أو إصابات أو مطار في ما يخص هذا الاعتراض"
    }
   }
  ]
